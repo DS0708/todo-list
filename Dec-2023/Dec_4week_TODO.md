@@ -4,7 +4,7 @@
 - [x] Part 1. Ch1 - 개요
 - [x] Part 1. Ch2 - VS Code
 - [x] Part 1. Ch3 - 무작정 시작하기
-- [ ] Part 1. Ch4 - 웹에서 시작하기
+- [x] Part 1. Ch4 - 웹에서 시작하기
 - [ ] Part 1. Ch5 - HTML 개요
 - [ ] Part 1. Ch6 - HTML 핵심정리
 - [ ] Part 1. Ch7 - CSS 개요
@@ -26,21 +26,20 @@
 ---
 ---
 
-## `MonDay December 18` - 0h 0m
+## `MonDay December 18` - 4h 41m
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
 - [x] Part 1. Ch1 - 개요
 - [x] Part 1. Ch2 - VS Code
 - [x] Part 1. Ch3 - 무작정 시작하기
-- [ ] Part 1. Ch4 - 웹에서 시작하기
+- [x] Part 1. Ch4 - 웹에서 시작하기
+
+## `TuesDay December 19` - 0h 0m
 - [ ] Part 1. Ch5 - HTML 개요
 - [ ] Part 1. Ch6 - HTML 핵심정리
 - [ ] Part 1. Ch7 - CSS 개요
 - [ ] Part 1. Ch8 - CSS 속성
 - [ ] Part 1. Ch9 - JS선행
-
-## `TuesDay December 19` - 0h 0m
-
 
 ## `WednesDay December 20` - 0h 0m
 
@@ -62,7 +61,7 @@
 |:---:|:---:|:---:|
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
-|`Dec_4week`|0h 0m||
+|`Dec_4week`|`4h 41m`||
 |Dec_5week|0h 0m||
 
 
