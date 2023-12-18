@@ -3,7 +3,7 @@
 ## `Fast campus FE` 
 
 ## `etc.`
-- [ ] TODO 디렉토리 만들기
+- [x] TODO 디렉토리 만들기
 - [ ] note3-2정리
 
 ---
@@ -12,7 +12,7 @@
 
 ## `MonDay December 18` - 0h 0m
 - [x] TODO 디렉토리 만들기
-- [ ] note3-2정리
+- [x] note3-2정리
 
 ## `TuesDay December 19` - 0h 0m
 
