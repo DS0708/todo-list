@@ -1,6 +1,15 @@
 # TO Do List - Dec_4week_TODO
 
 ## `Fast campus FE` 
+- [ ] Part 1. Ch1 - 개요
+- [ ] Part 1. Ch2 - VS Code
+- [ ] Part 1. Ch3 - 무작정 시작하기
+- [ ] Part 1. Ch4 - 웹에서 시작하기
+- [ ] Part 1. Ch5 - HTML 개요
+- [ ] Part 1. Ch6 - HTML 핵심정리
+- [ ] Part 1. Ch7 - CSS 개요
+- [ ] Part 1. Ch8 - CSS 속성
+- [ ] Part 1. Ch9 - JS선행
 
 ## `Spring`
 
@@ -11,7 +20,7 @@
 ## `etc.`
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
-- [ ] Timer 프로그램 만들기
+- [x] Timer 프로그램 만들기
 
 ---
 ---
@@ -20,7 +29,16 @@
 ## `MonDay December 18` - 0h 0m
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
-- [ ] Timer 프로그램 만들기
+- [x] Timer 프로그램 만들기
+- [ ] Part 1. Ch1 - 개요
+- [ ] Part 1. Ch2 - VS Code
+- [ ] Part 1. Ch3 - 무작정 시작하기
+- [ ] Part 1. Ch4 - 웹에서 시작하기
+- [ ] Part 1. Ch5 - HTML 개요
+- [ ] Part 1. Ch6 - HTML 핵심정리
+- [ ] Part 1. Ch7 - CSS 개요
+- [ ] Part 1. Ch8 - CSS 속성
+- [ ] Part 1. Ch9 - JS선행
 
 ## `TuesDay December 19` - 0h 0m
 
