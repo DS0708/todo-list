@@ -10,26 +10,26 @@
 ---
 ---
 
-## `MonDay December 18` 0h 0m
-- [ ] TODO 디렉토리 만들기
+## `MonDay December 18` - 0h 0m
+- [x] TODO 디렉토리 만들기
 - [ ] note3-2정리
 
-## `TuesDay December 19` 0h 0m
+## `TuesDay December 19` - 0h 0m
 
 
-## `WednesDay December 20` 0h 0m
+## `WednesDay December 20` - 0h 0m
 
 
-## `ThursDay December 21` 0h 0m
+## `ThursDay December 21` - 0h 0m
 
 
-## `FriDay December 22` 0h 0m
+## `FriDay December 22` - 0h 0m
 
 
-## `SaturDay December 23` 0h 0m
+## `SaturDay December 23` - 0h 0m
 
 
-## `SunDay December 24` 0h 0m
+## `SunDay December 24` - 0h 0m
 
 
 ## Progress
@@ -37,7 +37,8 @@
 |:---:|:---:|:---:|
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
-|Dec_4week|0h 0m|`F`|
+|`Dec_4week`|0h 0m||
+|Dec_5week|0h 0m||
 
 
 ## Standard Grade
