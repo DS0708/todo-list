@@ -20,7 +20,7 @@
 ## `etc.`
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
-- [x] Timer 프로그램 만들기
+- [ ] Timer 프로그램 만들기
 
 ---
 ---
@@ -29,9 +29,8 @@
 ## `MonDay December 18` - 0h 0m
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
-- [x] Timer 프로그램 만들기
 - [x] Part 1. Ch1 - 개요
-- [ ] Part 1. Ch2 - VS Code
+- [x] Part 1. Ch2 - VS Code
 - [ ] Part 1. Ch3 - 무작정 시작하기
 - [ ] Part 1. Ch4 - 웹에서 시작하기
 - [ ] Part 1. Ch5 - HTML 개요
