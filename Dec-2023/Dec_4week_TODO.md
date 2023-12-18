@@ -2,9 +2,16 @@
 
 ## `Fast campus FE` 
 
+## `Spring`
+
+## `Algorithm`
+
+## `Stock`
+
 ## `etc.`
 - [x] TODO 디렉토리 만들기
-- [ ] note3-2정리
+- [x] note3-2정리
+- [ ] Timer 프로그램 만들기
 
 ---
 ---
@@ -13,6 +20,7 @@
 ## `MonDay December 18` - 0h 0m
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
+- [ ] Timer 프로그램 만들기
 
 ## `TuesDay December 19` - 0h 0m
 

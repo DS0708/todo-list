@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Study Time Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        #timer {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        #startButton, #stopButton, #resetButton {
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-right: 10px;
+        }
+        #setTimeInput {
+            padding: 10px;
+            font-size: 16px;
+        }
+        #setTimeButton {
+            padding: 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Study Time Tracker</h1>
+    
+    <div id="timer">00:00:00</div>
+    
+    <button id="startButton" onclick="startTimer()">Start</button>
+    <button id="stopButton" onclick="stopTimer()">Stop</button>
+    <button id="resetButton" onclick="resetTimer()">Reset</button>
+
+    <br>
+
+    <label for="setTimeInput">Set Time (HH:MM:SS):</label>
+    <input type="text" id="setTimeInput" placeholder="00:00:00">
+    <button id="setTimeButton" onclick="setCustomTime()">Set Custom Time</button>
+
+    <script>
+        let timerInterval;
+        let seconds = 0;
+        let minutes = 0;
+        let hours = 0;
+
+        function startTimer() {
+            timerInterval = setInterval(updateTimer, 1000);
+        }
+
+        function stopTimer() {
+            clearInterval(timerInterval);
+        }
+
+        function resetTimer() {
+            clearInterval(timerInterval);
+            seconds = 0;
+            minutes = 0;
+            hours = 0;
+            updateTimer();
+        }
+
+        function setCustomTime() {
+            const setTimeInput = document.getElementById('setTimeInput');
+            const setTime = setTimeInput.value.split(':');
+            hours = parseInt(setTime[0]) || 0;
+            minutes = parseInt(setTime[1]) || 0;
+            seconds = parseInt(setTime[2]) || 0;
+            updateTimer();
+        }
+
+        function updateTimer() {
+            seconds++;
+            if (seconds === 60) {
+                seconds = 0;
+                minutes++;
+                if (minutes === 60) {
+                    minutes = 0;
+                    hours++;
+                }
+            }
+
+            const formattedTime = pad(hours) + ':' + pad(minutes) + ':' + pad(seconds);
+            document.getElementById('timer').innerHTML = formattedTime;
+        }
+
+        function pad(num) {
+            return num < 10 ? '0' + num : num;
+        }
+    </script>
+</body>
+</html>
