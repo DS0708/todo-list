@@ -12,10 +12,13 @@
 - [ ] Part 1. Ch9 - JS선행
 
 ## `Spring`
+- [ ] 어떻게 공부할까 `Spring`
 
 ## `Algorithm`
+- [ ] 어떻게 공부할까 `알고리즘`
 
 ## `Stock`
+
 
 ## `etc.`
 - [x] TODO 디렉토리 만들기
@@ -39,6 +42,7 @@
 - [x] Part 1. Ch6 - HTML 핵심정리
 - [x] Part 1. Ch7 - CSS 개요
 - [x] Part 1. Ch8 - CSS 속성 - 6
+- [x] 어떻게 공부할까
 
 ## `WednesDay December 20` - 0h 0m
 
