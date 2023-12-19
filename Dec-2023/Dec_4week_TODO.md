@@ -13,12 +13,9 @@
 
 ## `Spring`
 - [x] 어떻게 공부할까 `Spring`
-- [ ] `점프 투 스프링부트` 0장
-- [ ] `점프 투 스프링부트` 1장 - 01
-- [ ] `점프 투 스프링부트` 1장 - 02
-- [ ] `점프 투 스프링부트` 1장 - 03
-- [ ] `점프 투 스프링부트` 1장 - 04
-- [ ] `점프 투 스프링부트` 1장 - 05
+- [x] `점프 투 스프링부트` 0장
+- [x] `점프 투 스프링부트` 1장
+- [ ] `점프 투 스프링부트` 2장
 
 ## `Algorithm`
 - [ ] 어떻게 공부할까 `알고리즘`
@@ -43,16 +40,19 @@
 - [x] Part 1. Ch3 - 무작정 시작하기
 - [x] Part 1. Ch4 - 웹에서 시작하기
 
-## `TuesDay December 19` - 0h 0m
+## `TuesDay December 19` - 5h 46m
 - [x] Part 1. Ch5 - HTML 개요
 - [x] Part 1. Ch6 - HTML 핵심정리
 - [x] Part 1. Ch7 - CSS 개요
 - [x] Part 1. Ch8 - CSS 속성 - 6
 - [x] 어떻게 공부할까
 - [x] `점프 투 스프링부트` 0장
+- [x] `점프 투 스프링부트` 1장
 
 ## `WednesDay December 20` - 0h 0m
-
+- [ ] Part 1. Ch8 - CSS 속성
+- [ ] Part 1. Ch9 - JS선행
+- [ ] `점프 투 스프링부트` 2장
 
 ## `ThursDay December 21` - 0h 0m
 
@@ -71,7 +71,7 @@
 |:---:|:---:|:---:|
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
-|`Dec_4week`|`4h 41m`||
+|`Dec_4week`|`10h 27m`||
 |Dec_5week|0h 0m||
 
 
