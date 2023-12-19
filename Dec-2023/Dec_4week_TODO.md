@@ -35,7 +35,7 @@
 - [x] Part 1. Ch4 - 웹에서 시작하기
 
 ## `TuesDay December 19` - 0h 0m
-- [ ] Part 1. Ch5 - HTML 개요
+- [x] Part 1. Ch5 - HTML 개요
 - [ ] Part 1. Ch6 - HTML 핵심정리
 - [ ] Part 1. Ch7 - CSS 개요
 - [ ] Part 1. Ch8 - CSS 속성
