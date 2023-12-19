@@ -38,8 +38,7 @@
 - [x] Part 1. Ch5 - HTML 개요
 - [x] Part 1. Ch6 - HTML 핵심정리
 - [x] Part 1. Ch7 - CSS 개요
-- [ ] Part 1. Ch8 - CSS 속성
-- [ ] Part 1. Ch9 - JS선행
+- [x] Part 1. Ch8 - CSS 속성 - 6
 
 ## `WednesDay December 20` - 0h 0m
 
