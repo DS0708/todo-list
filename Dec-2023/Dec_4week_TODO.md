@@ -8,7 +8,7 @@
 - [x] Part 1. Ch5 - HTML 개요
 - [x] Part 1. Ch6 - HTML 핵심정리
 - [x] Part 1. Ch7 - CSS 개요
-- [ ] Part 1. Ch8 - CSS 속성
+- [x] Part 1. Ch8 - CSS 속성
 - [ ] Part 1. Ch9 - JS선행
 - [ ] 스타벅스 웹사이트 만들기
 
@@ -52,11 +52,12 @@
 
 ## `WednesDay December 20` - 0h 0m
 - [x] Part 1. Ch8 - CSS 속성 - ~14
-- [ ] Part 1. Ch8 - CSS 속성 - ~21
-- [ ] Part 1. Ch9 - JS선행
+- [x] Part 1. Ch8 - CSS 속성 - ~21
+- [x] Part 1. Ch8 - CSS 속성
 - [ ] `점프 투 스프링부트` 2장
 
 ## `ThursDay December 21` - 0h 0m
+- [ ] Part 1. Ch9 - JS선행
 
 
 ## `FriDay December 22` - 0h 0m
