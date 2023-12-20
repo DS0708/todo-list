@@ -28,6 +28,8 @@
 - [x] TODO 디렉토리 만들기
 - [x] note3-2정리
 - [ ] Timer 프로그램 만들기
+- [ ] 재학증명서 발급받기
+- [ ] IntelliJ 연장하기 `2023.1.3 까지`
 
 ---
 ---
@@ -50,14 +52,15 @@
 - [x] `점프 투 스프링부트` 0장
 - [x] `점프 투 스프링부트` 1장
 
-## `WednesDay December 20` - 0h 0m
+## `WednesDay December 20` - 6h 5m
 - [x] Part 1. Ch8 - CSS 속성 - ~14
 - [x] Part 1. Ch8 - CSS 속성 - ~21
 - [x] Part 1. Ch8 - CSS 속성
-- [ ] `점프 투 스프링부트` 2장
+- [x] `점프 투 스프링부트` 2장 - ~05
 
 ## `ThursDay December 21` - 0h 0m
 - [ ] Part 1. Ch9 - JS선행
+- [ ] `점프 투 스프링부트` 2장
 
 
 ## `FriDay December 22` - 0h 0m
@@ -74,7 +77,7 @@
 |:---:|:---:|:---:|
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
-|`Dec_4week`|`10h 27m`||
+|`Dec_4week`|`16h 32m`||
 |Dec_5week|0h 0m||
 
 
