@@ -50,6 +50,7 @@
 - [x] `점프 투 스프링부트` 1장
 
 ## `WednesDay December 20` - 0h 0m
+- [x] Part 1. Ch8 - CSS 속성 - ~14
 - [ ] Part 1. Ch8 - CSS 속성
 - [ ] Part 1. Ch9 - JS선행
 - [ ] `점프 투 스프링부트` 2장
