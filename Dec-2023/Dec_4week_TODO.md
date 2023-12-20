@@ -10,6 +10,7 @@
 - [x] Part 1. Ch7 - CSS 개요
 - [ ] Part 1. Ch8 - CSS 속성
 - [ ] Part 1. Ch9 - JS선행
+- [ ] 스타벅스 웹사이트 만들기
 
 ## `Spring`
 - [x] 어떻게 공부할까 `Spring`
@@ -51,7 +52,7 @@
 
 ## `WednesDay December 20` - 0h 0m
 - [x] Part 1. Ch8 - CSS 속성 - ~14
-- [ ] Part 1. Ch8 - CSS 속성
+- [ ] Part 1. Ch8 - CSS 속성 - ~21
 - [ ] Part 1. Ch9 - JS선행
 - [ ] `점프 투 스프링부트` 2장
 
