@@ -9,8 +9,8 @@
 - [x] Part 1. Ch6 - HTML 핵심정리
 - [x] Part 1. Ch7 - CSS 개요
 - [x] Part 1. Ch8 - CSS 속성
-- [ ] Part 1. Ch9 - JS선행
-- [ ] 스타벅스 웹사이트 만들기
+- [x] Part 1. Ch9 - JS선행
+- [ ] 스타벅스 예제
 
 ## `Spring`
 - [x] 어떻게 공부할까 `Spring`
@@ -58,15 +58,16 @@
 - [x] Part 1. Ch8 - CSS 속성
 - [x] `점프 투 스프링부트` 2장 - ~05
 
-## `ThursDay December 21` - 0h 0m
+## `ThursDay December 21` - 3h 55m
 - [x] 재학증명서 발급받기
 - [x] IntelliJ 연장하기 `2023.1.3 까지`
 - [x] `점프 투 스프링부트` 2장-05
-- [ ] Part 1. Ch9 - JS선행
+- [x] Part 1. Ch9 - JS선행
 
 
 ## `FriDay December 22` - 0h 0m
-
+- [ ] `점프 투 스프링부트` 2장
+- [ ] 스타벅스 예제
 
 ## `SaturDay December 23` - 0h 0m
 
@@ -79,7 +80,7 @@
 |:---:|:---:|:---:|
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
-|`Dec_4week`|`16h 32m`||
+|`Dec_4week`|`20h 27m`||
 |Dec_5week|0h 0m||
 
 
