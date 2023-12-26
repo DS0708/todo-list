@@ -65,12 +65,11 @@
 - [x] Part 1. Ch9 - JS선행
 
 
-## `FriDay December 22` - 0h 0m
-- [ ] `점프 투 스프링부트` 2장
-- [ ] 스타벅스 예제
+## `FriDay December 22` - 2h 53m
+- [x] 스타벅스 예제 - 08
 
-## `SaturDay December 23` - 0h 0m
-
+## `SaturDay December 23` - 0h 40m
+- [x] 스타벅스 예제 - 10
 
 ## `SunDay December 24` - 0h 0m
 
@@ -80,7 +79,7 @@
 |:---:|:---:|:---:|
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
-|`Dec_4week`|`20h 27m`||
+|`Dec_4week`|`24h 0m`|`C0`|
 |Dec_5week|0h 0m||
 
 
