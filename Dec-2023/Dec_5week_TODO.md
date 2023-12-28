@@ -15,7 +15,6 @@
 ## `etc.`
 - [x] Dec_5week init 
 - [x] 박물관 알바
-- [ ] Timer 프로그램 만들기
 
 ---
 ---
@@ -31,9 +30,9 @@
 ## `WednesDay December 27` - 6h 5m -> 0h 0m
 - [x] 박물관 알바
 
-
 ## `ThursDay December 28` - 3h 55m ->
-
+- [ ] 스타벅스 예제
+- [ ] `점프 투 스프링부트` 2장
 
 ## `FriDay December 29` - 2h 53m ->
 
