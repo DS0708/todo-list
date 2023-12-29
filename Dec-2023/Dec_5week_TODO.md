@@ -8,6 +8,8 @@
 
 ## `Algorithm`
 - [x] 어떻게 공부할까 `알고리즘`
+- [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 계획세우기
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 
 ## `Stock`
 
@@ -33,13 +35,15 @@
 ## `ThursDay December 28` - 3h 55m -> 0h 0m
 
 
-## `FriDay December 29` - 2h 53m ->
+## `FriDay December 29` - 2h 53m -> 6h 27m
 - [x] 스타벅스 예제 - 26
 - [x] `점프 투 스프링부트` 2-12
+- [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 계획세우기
 
 ## `SaturDay December 30` - 0h 40m ->
 - [ ] 스타벅스 예제 - 33
 - [ ] `점프 투 스프링부트` 2-16
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 
 ## `SunDay December 31` - 0h 0m -> 
 
@@ -50,7 +54,7 @@
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
 |Dec_4week|24h 0m|`C0`|
-|`Dec_5week`|`0h 5m`||
+|`Dec_5week`|`6h 32m`||
 
 
 ## Standard Grade
