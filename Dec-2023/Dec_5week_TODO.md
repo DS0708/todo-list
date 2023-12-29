@@ -30,15 +30,15 @@
 ## `WednesDay December 27` - 6h 5m -> 0h 0m
 - [x] 박물관 알바
 
-## `ThursDay December 28` - 3h 55m ->
-- [ ] 스타벅스 예제
-- [ ] `점프 투 스프링부트` 2장
+## `ThursDay December 28` - 3h 55m -> 0h 0m
+
 
 ## `FriDay December 29` - 2h 53m ->
-
+- [x] 스타벅스 예제 - 26
+- [ ] `점프 투 스프링부트` 2장
 
 ## `SaturDay December 30` - 0h 40m ->
-
+- [ ] 스타벅스 예제 - 33
 
 ## `SunDay December 31` - 0h 0m -> 
 
