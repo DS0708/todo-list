@@ -40,7 +40,7 @@
 - [x] `점프 투 스프링부트` 2-12
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 계획세우기
 
-## `SaturDay December 30` - 0h 40m ->
+## `SaturDay December 30` - 0h 40m -> 2h 27m
 - [x] 스타벅스 예제 - 33
 - [ ] `점프 투 스프링부트` 2-16
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
@@ -54,7 +54,7 @@
 |Dec_2week|47h 47m|`A0`|
 |Dec_3week|16h 47m|`D0`|
 |Dec_4week|24h 0m|`C0`|
-|`Dec_5week`|`6h 32m`||
+|`Dec_5week`|`8h 59m`|`F`|
 
 
 ## Standard Grade
