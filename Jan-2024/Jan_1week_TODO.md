@@ -1,13 +1,14 @@
 # TO Do List - Jan_1week_TODO
 
 ## `Fast campus FE` 
-
+- [ ] Part2 . JavaScript Essentials
 
 ## `Spring`
 - [ ] `점프 투 스프링부트` 2장
 
 ## `Algorithm`
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
 
 ## `Stock`
 
@@ -26,7 +27,10 @@
 
 
 ## `WednesDay January 03` - 
-
+- [ ] Part2 . JavaScript Essentials
+- [ ] `점프 투 스프링부트` 2장
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
 
 ## `ThursDay January 04` - 
 
