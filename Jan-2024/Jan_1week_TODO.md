@@ -27,8 +27,10 @@
 
 
 ## `WednesDay January 03` - 
-- [x] Part2 . JavaScript Essentials - 01 개요
-- [ ] Part2 . JavaScript Essentials - 02
+- [x] Part2 . JavaScript Essentials - 01 Node JS
+- [x] Part2 . JavaScript Essentials - 02 JS 시작하기
+- [ ] Part2 . JavaScript Essentials - 03 JS 함수
+- [ ] Part2 . JavaScript Essentials - 04 JS 클래스
 - [ ] `점프 투 스프링부트` 2장
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
