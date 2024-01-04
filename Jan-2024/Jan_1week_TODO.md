@@ -2,6 +2,7 @@
 
 ## `Fast campus FE` 
 - [ ] Part2 . JavaScript Essentials
+- [ ] Part2 . JavaScript Level Up
 
 ## `Spring`
 - [ ] `점프 투 스프링부트` 2장
@@ -26,16 +27,19 @@
 ## `TuesDay January 02` - 0h 0m
 
 
-## `WednesDay January 03` - 
+## `WednesDay January 03` - 1h 44m
 - [x] Part2 . JavaScript Essentials - 01 Node JS
 - [x] Part2 . JavaScript Essentials - 02 JS 시작하기
-- [ ] Part2 . JavaScript Essentials - 03 JS 함수
+
+
+## `ThursDay January 04` - 
+- [x] Part2 . JavaScript Essentials - 03 JS 함수
 - [ ] Part2 . JavaScript Essentials - 04 JS 클래스
 - [ ] `점프 투 스프링부트` 2장
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
-
-## `ThursDay January 04` - 
+- [ ] Part2 . JavaScript Level Up - 01 JS 데이터
+- [ ] Part2 . JavaScript Level Up - 02 JS 데이터 실습
 
 
 ## `FriDay January 05` - 
@@ -47,7 +51,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Jan_1week|0h 0m||
+|`Jan_1week`|`1h 44m`||
 |Jan_2week|0h 0m||
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
