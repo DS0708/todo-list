@@ -50,12 +50,12 @@
 - [x] Part2 . JavaScript Essentials - 02 JS 시작하기
 
 
-## `ThursDay January 04` - 
+## `ThursDay January 04` - 6h 13m
 - [x] Part2 . JavaScript Essentials - 03 JS 함수
 - [x] Part2 . JavaScript Essentials - 04 JS 클래스
 - [x] Part2 . JavaScript Level Up - 01 JS 데이터
 - [x] `점프 투 스프링부트` 2장
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
+- [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 
 
 ## `FriDay January 05` - 
@@ -68,11 +68,10 @@
 ## `SunDay January 06` - 
 
 
-
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jan_1week`|`1h 44m`||
+|`Jan_1week`|`7h 57m`||
 |Jan_2week|0h 0m||
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
