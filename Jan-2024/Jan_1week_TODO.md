@@ -29,10 +29,12 @@
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 8일차
 
-## `Stock`
+## `JAVA`
+- [x] 자바의 정석 - Chapter18 데이터 입출력
 
 
 ## `etc.`
+- [x] AWS 정리
 - [ ] 한국장학재단 중복 수혜 알아보기
 
 ---
@@ -58,20 +60,28 @@
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 
 
-## `FriDay January 05` - 
-- [ ] Part2 . JavaScript Level Up - 02 JS 데이터 실습
-- [ ] Ch 01. 리액트란 무엇이며 리액트를 배우는 이유
+## `FriDay January 05` - 5h 43m
+- [x] 자바의 정석 - Chapter18 데이터 입출력
+- [x] AWS 정리
+- [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차 - 1
+- [x] Part2 . JavaScript Level Up - 02 JS 데이터 실습
+
+
+## `SaturDay January 06` - 
+- [x] Ch 01. 리액트란 무엇이며 리액트를 배우는 이유
+- [ ] Ch 02. TicTacToe 앱 만들며 리액트 익히기
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발!
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
 
 
-## `SunDay January 06` - 
+## `SunDay January 07` - 
+
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jan_1week`|`7h 57m`||
+|`Jan_1week`|`13h 40m`||
 |Jan_2week|0h 0m||
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
