@@ -2,8 +2,8 @@
 
 ## `Fast campus FE` 
 - [x] Part2 . JavaScript Essentials
-- [ ] Part2 . JavaScript Level Up
-- [ ] Ch 01. 리액트란 무엇이며 리액트를 배우는 이유
+- [x] Part2 . JavaScript Level Up
+- [x] Ch 01. 리액트란 무엇이며 리액트를 배우는 이유
 - [ ] Ch 02. TicTacToe 앱 만들며 리액트 익히기
 - [ ] Ch 03. TicTacToe 앱 함수형 컴포넌트로 변경하기
 - [ ] Ch 04. TicTacToe 앱 시간 여행 추가하기
@@ -20,7 +20,7 @@
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스!
 
 ## `Algorithm`
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
+- [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 1일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 3일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 4일차
@@ -67,21 +67,21 @@
 - [x] Part2 . JavaScript Level Up - 02 JS 데이터 실습
 
 
-## `SaturDay January 06` - 
+## `SaturDay January 06` - 0h 52m
 - [x] Ch 01. 리액트란 무엇이며 리액트를 배우는 이유
-- [ ] Ch 02. TicTacToe 앱 만들며 리액트 익히기
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발!
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
 
 
 ## `SunDay January 07` - 
+- [ ] Ch 02. TicTacToe 앱 만들며 리액트 익히기
+- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발!
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
 
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jan_1week`|`13h 40m`||
+|`Jan_1week`|`14h 32m`||
 |Jan_2week|0h 0m||
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
