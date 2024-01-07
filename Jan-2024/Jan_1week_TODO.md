@@ -71,17 +71,17 @@
 - [x] Ch 01. 리액트란 무엇이며 리액트를 배우는 이유
 
 
-## `SunDay January 07` - 
-- [ ] Ch 02. TicTacToe 앱 만들며 리액트 익히기
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발!
+## `SunDay January 07` - 1h 55m
+- [x] Ch 02. TicTacToe 앱 만들며 리액트 익히기 - 13
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
+- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발!
 
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jan_1week`|`14h 32m`||
+|`Jan_1week`|`16h 27m`|`D+`|
 |Jan_2week|0h 0m||
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
