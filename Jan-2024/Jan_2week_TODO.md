@@ -47,7 +47,8 @@
 - [x] 수캉스
 
 
-## `ThursDay January 11` - 6h 13m
+## `ThursDay January 11` - 6h 13m -> 0h 0m
+- [x] 수캉스
 
 
 ## `FriDay January 12` - 5h 43m
