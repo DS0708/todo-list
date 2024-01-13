@@ -58,7 +58,7 @@
 - [x] 수캉스
 
 
-## `SaturDay January 13` - 0h 52m -> 
+## `SaturDay January 13` - 0h 52m -> 5h 31m
 - [x] Ch 02. TicTacToe 앱 만들며 리액트 익히기
 - [x] Ch 03. TicTacToe 앱 함수형 컴포넌트로 변경하기
 - [x] `자부담금 환급 가이드 실행`
@@ -66,18 +66,21 @@
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 01 내비게이션 바 추가하기
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 02 페이징 기능 추가하기
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 2일차
+- [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 3일차 - 투포인터
+
+
+## `SunDay January 14` - 1h 55m -> 
+- [ ] Ch 04. TicTacToe 앱 시간 여행 추가하기
+- [ ] `선택 수강` 버전관리
+- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! -
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 3일차
-
-
-## `SunDay January 14` - 1h 55m
-
-
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 4일차
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jan_1week|16h 27m|`C+`|
-|`Jan_2week`|0h 0m||
+|`Jan_2week`|`5h 31m`||
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
 
