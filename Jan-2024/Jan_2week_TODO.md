@@ -69,8 +69,8 @@
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 3일차 - 투포인터
 
 
-## `SunDay January 14` - 1h 55m -> 
-- [ ] Ch 04. TicTacToe 앱 시간 여행 추가하기
+## `SunDay January 14` - 1h 55m -> 2h 07m
+- [x] Ch 04. TicTacToe 앱 시간 여행 추가하기 - 06
 - [ ] `선택 수강` 버전관리
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! -
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 3일차
@@ -80,7 +80,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jan_1week|16h 27m|`C+`|
-|`Jan_2week`|`5h 31m`||
+|`Jan_2week`|`7h 38m`|`F`|
 |Jan_3week|0h 0m||
 |Jan_4week|0h 0m||
 
