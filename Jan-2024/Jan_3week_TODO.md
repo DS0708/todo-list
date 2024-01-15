@@ -1,7 +1,7 @@
 # TO Do List - Jan_3week_TODO
 
 ## `Fast campus FE` 
-- [ ] Ch 04. TicTacToe 앱 시간 여행 추가하기
+- [x] Ch 04. TicTacToe 앱 시간 여행 추가하기
 - [ ] Ch 05. 리액트 앱 성능 개선하기
 - [ ] Ch 06. 리덕스 를 이용한 간단한 앱 만들기
 - [ ] `선택 수강` 버전관리
@@ -34,7 +34,7 @@
 
 ## `MonDay January 08` - 0h 0m -> 0h 0m ->
 - [x] Jan_3week 계획 세우기
-- [ ] Ch 04. TicTacToe 앱 시간 여행 추가하기
+- [x] Ch 04. TicTacToe 앱 시간 여행 추가하기
 - [ ] Ch 05. 리액트 앱 성능 개선하기
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 03
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 04
