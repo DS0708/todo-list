@@ -32,22 +32,22 @@
 ---
 ---
 
-## `MonDay January 08` - 0h 0m -> 0h 0m -> 1h 42m
+## `MonDay January 15` - 0h 0m -> 0h 0m -> 1h 42m
 - [x] Jan_3week 계획 세우기
 - [x] Ch 04. TicTacToe 앱 시간 여행 추가하기
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 03
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 04
 
 
-## `TuesDay January 09` - 0h 0m -> 0h 0m ->
+## `TuesDay January 16` - 0h 0m -> 0h 0m ->
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 3일차
-- [ ] Ch 05. 리액트 앱 성능 개선하기
+- [x] Ch 05. 리액트 앱 성능 개선하기
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 05
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 06
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 4일차
 
 
-## `WednesDay January 10` - 1h 44m -> 0h 0m ->
+## `WednesDay January 17` - 1h 44m -> 0h 0m ->
 - [ ] Ch 06. 리덕스 를 이용한 간단한 앱 만들기
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 07
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 08
@@ -55,7 +55,7 @@
 
 
 
-## `ThursDay January 11` - 6h 13m -> 0h 0m ->
+## `ThursDay January 18` - 6h 13m -> 0h 0m ->
 - [ ] `선택 수강` 버전관리
 - [ ] `선택 수강` Markdown
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 09
@@ -64,18 +64,18 @@
 
 
 
-## `FriDay January 12` - 5h 43m -> 0h 0m ->
+## `FriDay January 19` - 5h 43m -> 0h 0m ->
 - [ ] `선택 수강` Disney Plus 앱 만들기 시작
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 11
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 12
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차
 
 
-## `SaturDay January 13` - 0h 52m -> 5h 31m ->
+## `SaturDay January 20` - 0h 52m -> 5h 31m ->
 - [ ] `선택 수강` 모달 및 이미지 및 라우팅 구현
 
 
-## `SunDay January 14` - 1h 55m -> 2h 07m ->
+## `SunDay January 21` - 1h 55m -> 2h 07m ->
 
 
 ## Progress
