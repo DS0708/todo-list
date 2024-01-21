@@ -72,7 +72,7 @@
 ## `SaturDay January 20` - 0h 52m -> 5h 31m -> 0h 0m
 
 
-## `SunDay January 21` - 1h 55m -> 2h 07m ->
+## `SunDay January 21` - 1h 55m -> 2h 07m -> 0h 0m
 - [ ] `선택 수강` Disney Plus 앱 만들기 시작
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 11
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 12
@@ -84,7 +84,7 @@
 |:---:|:---:|:---:|
 |Jan_1week|16h 27m|`C0`|
 |Jan_2week|7h 38m|`F`|
-|`Jan_3week`|`17h 06m`||
+|`Jan_3week`|`17h 06m`|`C0`|
 |Jan_4week|0h 0m||
 
 
