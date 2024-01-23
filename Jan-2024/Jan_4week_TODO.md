@@ -39,12 +39,13 @@
 
 
 
-## `TuesDay January 23` - 0h 0m -> 0h 0m -> 5h 46m -> 
-- [ ] `선택 수강` Disney Plus 앱 만들기 시작
+## `TuesDay January 23` - 0h 0m -> 0h 0m -> 5h 46m -> 0h 40m
+- [x] `선택 수강` Disney Plus 앱 만들기 시작 - 07
 
 
 
-## `WednesDay January 24` - 1h 44m -> 0h 0m -> 4h 20m
+## `WednesDay January 24` - 1h 44m -> 0h 0m -> 4h 20m -> 
+- [x] `선택 수강` Disney Plus 앱 만들기 시작
 - [ ] `선택 수강` 모달 및 이미지 및 라우팅 구현
 
 
@@ -70,7 +71,7 @@
 |Jan_1week|16h 27m|`C0`|
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
-|`Jan_4week`|`0h 0m`||
+|`Jan_4week`|`1h 9m`||
 
 
 ## Standard Grade
