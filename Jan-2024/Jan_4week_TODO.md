@@ -33,44 +33,34 @@
 ---
 ---
 
-## `MonDay January 15` - 0h 0m -> 0h 0m -> 1h 42m
-- [ ] Jan_4week 계획 세우기
+## `MonDay January 22` - 0h 0m -> 0h 0m -> 1h 42m -> 0h 29m
+- [x] Jan_4week 계획 세우기
+- [x] `선택 수강` Disney Plus 앱 만들기 시작 - 04
+
+
+
+## `TuesDay January 23` - 0h 0m -> 0h 0m -> 5h 46m -> 
 - [ ] `선택 수강` Disney Plus 앱 만들기 시작
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 11
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 12
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차
 
 
-## `TuesDay January 16` - 0h 0m -> 0h 0m -> 5h 46m
+
+## `WednesDay January 24` - 1h 44m -> 0h 0m -> 4h 20m
 - [ ] `선택 수강` 모달 및 이미지 및 라우팅 구현
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 13
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 8일차
 
 
-## `WednesDay January 17` - 1h 44m -> 0h 0m -> 4h 20m
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 01
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 02
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 9일차
-- [ ] 자바의 정석 - Chapter15.2 List
+
+## `ThursDay January 25` - 6h 13m -> 0h 0m -> 5h 18m
 
 
-## `ThursDay January 18` - 6h 13m -> 0h 0m -> 5h 18m
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 03
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 04
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 10일차
+
+## `FriDay January 26` - 5h 43m -> 0h 0m -> 0h 0m
 
 
-## `FriDay January 19` - 5h 43m -> 0h 0m -> 0h 0m
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 05
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 06
-- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 11일차
+
+## `SaturDay January 27` - 0h 52m -> 5h 31m -> 0h 0m
 
 
-## `SaturDay January 20` - 0h 52m -> 5h 31m -> 0h 0m
-
-
-## `SunDay January 21` - 1h 55m -> 2h 07m -> 0h 0m
+## `SunDay January 38` - 1h 55m -> 2h 07m -> 0h 0m
 
 
 
