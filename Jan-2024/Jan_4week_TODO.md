@@ -1,8 +1,8 @@
 # TO Do List - Jan_4week_TODO
 
 ## `Fast campus FE` 
-- [ ] `선택 수강` Disney Plus 앱 만들기 시작
-- [ ] `선택 수강` 모달 및 이미지 및 라우팅 구현
+- [x] `선택 수강` Disney Plus 앱 만들기 시작
+- [x] `선택 수강` 모달 및 이미지 및 라우팅 구현
 
 ## `Spring`
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 11
@@ -44,14 +44,15 @@
 
 
 
-## `WednesDay January 24` - 1h 44m -> 0h 0m -> 4h 20m -> 
+## `WednesDay January 24` - 1h 44m -> 0h 0m -> 4h 20m -> 7h 10m
 - [x] `선택 수강` Disney Plus 앱 만들기 시작
-- [ ] `선택 수강` 모달 및 이미지 및 라우팅 구현
-
+- [x] `선택 수강` 모달 및 이미지 및 라우팅 구현
 
 
 ## `ThursDay January 25` - 6h 13m -> 0h 0m -> 5h 18m
-
+- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 11
+- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 12
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차
 
 
 ## `FriDay January 26` - 5h 43m -> 0h 0m -> 0h 0m
@@ -71,7 +72,7 @@
 |Jan_1week|16h 27m|`C0`|
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
-|`Jan_4week`|`1h 9m`||
+|`Jan_4week`|`8h 19m`||
 
 
 ## Standard Grade
