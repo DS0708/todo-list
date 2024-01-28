@@ -54,7 +54,7 @@
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 3-12 마크다운 적용하기
 
 
-## `FriDay January 26` - 5h 43m -> 0h 0m -> 0h 0m ->
+## `FriDay January 26` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 8일차
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 13
@@ -64,10 +64,10 @@
 - [ ] 자바의 정석 - Chapter15.2 List
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 9일차
 
-## `SaturDay January 27` - 0h 52m -> 5h 31m -> 0h 0m
+## `SaturDay January 27` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m
 
 
-## `SunDay January 38` - 1h 55m -> 2h 07m -> 0h 0m
+## `SunDay January 38` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m
 
 
 
@@ -77,7 +77,7 @@
 |Jan_1week|16h 27m|`C0`|
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
-|`Jan_4week`|`10h 02m`||
+|`Jan_4week`|`12h 02m`|`C0`|
 
 
 ## Standard Grade
