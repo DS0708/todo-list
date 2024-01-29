@@ -38,7 +38,7 @@
 ---
 ---
 
-## `MonDay January 22` - 0h 0m -> 0h 0m -> 1h 42m -> 0h 29m -> 
+## `MonDay January 29` - 0h 0m -> 0h 0m -> 1h 42m -> 0h 29m -> 
 - [x] Jan_5week 계획 세우기
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차 - 깊이우선 탐색
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 3-13 검색 기능 추가하기
@@ -48,14 +48,14 @@
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차 - 너비우선 탐색
 
 
-## `TuesDay January 23` - 0h 0m -> 0h 0m -> 5h 46m -> 0h 40m -> 
+## `TuesDay January 30` - 0h 0m -> 0h 0m -> 5h 46m -> 0h 40m -> 
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 8일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 03
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 04
 - [ ] 자바의 정석 - Chapter15
 
 
-## `WednesDay January 24` - 1h 44m -> 0h 0m -> 4h 20m -> 7h 10m -> 
+## `WednesDay January 31` - 1h 44m -> 0h 0m -> 4h 20m -> 7h 10m -> 
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 9일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 05
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 06
@@ -63,7 +63,7 @@
 - [ ] 자바의 정석 - Chapter15
 
 
-## `ThursDay January 25` - 6h 13m -> 0h 0m -> 5h 18m -> 1h 43m ->
+## `ThursDay February 01` - 6h 13m -> 0h 0m -> 5h 18m -> 1h 43m ->
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 10일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 08
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 09
@@ -71,18 +71,18 @@
 - [ ] 자바의 정석 - Chapter15
 
 
-## `FriDay January 26` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
+## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 11일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 11
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 12
 - [ ] 자바의 정석 - Chapter15
 
 
-## `SaturDay January 27` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
+## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
 
 
 
-## `SunDay January 38` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
+## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
 
 
 
