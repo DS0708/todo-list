@@ -32,13 +32,14 @@
 
 ## `etc.`
 - [x] Jan_5week 계획 세우기
-
+- [x] 시간표 짜기
+- [ ] 수강 바구니
 
 ---
 ---
 ---
 
-## `MonDay January 29` - 0h 0m -> 0h 0m -> 1h 42m -> 0h 29m -> 
+## `MonDay January 29` - 0h 0m -> 0h 0m -> 1h 42m -> 0h 29m -> 4h 0m
 - [x] Jan_5week 계획 세우기
 - [x] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차 - 깊이우선 탐색
 - [x] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 3-13 검색 기능 추가하기
@@ -48,15 +49,23 @@
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차 - 너비우선 탐색
 
 
-## `TuesDay January 30` - 0h 0m -> 0h 0m -> 5h 46m -> 0h 40m -> 
+## `TuesDay January 30` - 0h 0m -> 0h 0m -> 5h 46m -> 0h 40m -> 0h 0m
+
+
+
+## `WednesDay January 31` - 1h 44m -> 0h 0m -> 4h 20m -> 7h 10m -> 
+- [x] 시간표 짜기
+- [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 7일차 - 너비우선 탐색
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 8일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 03
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 04
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 05
-- [ ] 자바의 정석 - Chapter15
+- [ ] 자바의 정석 - Chapter15.2 List
+- [ ] 자바의 정석 - Chapter15.3
 
 
-## `WednesDay January 31` - 1h 44m -> 0h 0m -> 4h 20m -> 7h 10m -> 
+## `ThursDay February 01` - 6h 13m -> 0h 0m -> 5h 18m -> 1h 43m ->
+- [ ] 수강 바구니
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 9일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 06
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 07
@@ -64,7 +73,7 @@
 - [ ] 자바의 정석 - Chapter15
 
 
-## `ThursDay February 01` - 6h 13m -> 0h 0m -> 5h 18m -> 1h 43m ->
+## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 10일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 09
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 10
@@ -72,15 +81,11 @@
 - [ ] 자바의 정석 - Chapter15
 
 
-## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
+## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
 - [ ] `Do it! 알고리즘 코딩테스트 '자바 편'` - 11일차
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 12
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] 자바의 정석 - Chapter15
-
-
-## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
-
 
 
 ## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
@@ -94,7 +99,7 @@
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
 |Jan_4week|12h 02m|`C0`|
-|`Jan_5week`|`0h 0m`||
+|`Jan_5week`|`4h 0m`||
 
 
 ## Standard Grade
