@@ -71,29 +71,31 @@
 - [x] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 05 SBB 배포하기
 
 
-## `ThursDay February 01` - 6h 13m -> 0h 0m -> 5h 18m -> 1h 43m ->
+## `ThursDay February 01` - 6h 13m -> 0h 0m -> 5h 18m -> 1h 43m -> 3h 25m
 - [x] 수강 바구니
 - [x] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 06 서버 스크립트 생성하기
 - [x] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 07 서버 환경으로 분리하기
 - [x] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 08 80번 포트로 웹 서비스 운영하기
 - [x] `Algorithm` - P027
-- [ ] `Algorithm` - P028
-- [ ] 자바의 정석 - Chapter15.3 Set
+- [x] `Algorithm` - P028
+
 
 
 ## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
+- [x] P28 Code Review
 - [ ] `Algorithm` - P029
 - [ ] `Algorithm` - P030
+- [ ] 자바의 정석 - Chapter15.3 Set
+- [ ] 자바의 정석 - Chapter15.4 
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 09
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 10
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 11
-- [ ] 자바의 정석 - Chapter15
+- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 12
 
 
 ## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
 - [ ] `Algorithm` - P031
 - [ ] `Algorithm` - P032
-- [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 12
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] 자바의 정석 - Chapter15
 
@@ -110,7 +112,7 @@
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
 |Jan_4week|12h 02m|`C0`|
-|`Jan_5week`|`7h 55m`||
+|`Jan_5week`|`11h 20m`||
 
 
 ## Standard Grade
