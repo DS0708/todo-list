@@ -24,14 +24,13 @@
 - [x] `Algorithm` - P025
 - [x] `Algorithm` - P026
 - [x] `Algorithm` - P027
-- [ ] `Algorithm` - P028
-- [ ] `Algorithm` - P029
+- [x] `Algorithm` - P028
+- [x] `Algorithm` - P029
 - [ ] `Algorithm` - P030
 - [ ] `Algorithm` - P031
 - [ ] `Algorithm` - P032
 - [ ] `Algorithm` - P033
 - [ ] `Algorithm` - P034
-
 
 
 
@@ -83,7 +82,7 @@
 
 ## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
 - [x] P28 Code Review
-- [ ] `Algorithm` - P029
+- [x] `Algorithm` - P029
 - [ ] `Algorithm` - P030
 - [ ] 자바의 정석 - Chapter15.3 Set
 - [ ] 자바의 정석 - Chapter15.4 
