@@ -84,7 +84,7 @@
 - [x] P28 Code Review
 - [x] `Algorithm` - P029
 - [x] `Algorithm` - P030
-- [ ] 자바의 정석 - Chapter15.3 Set
+- [x] 자바의 정석 - Chapter15.3 Set
 - [ ] 자바의 정석 - Chapter15.4 Map
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 09
 - [ ] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 10
