@@ -41,6 +41,7 @@
 
 ## `Stock`
 - [x] `파이썬 주식 자동매매 시스템` - 1장. 개발환경 구축
+- [ ] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초
 
 
 ## `etc.`
@@ -85,7 +86,7 @@
 
 
 
-## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m ->
+## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m -> 5h 0m
 - [x] P28 Code Review
 - [x] `Algorithm` - P029
 - [x] `Algorithm` - P030
@@ -101,7 +102,8 @@
 ## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
 - [ ] `Algorithm` - P031
 - [ ] `Algorithm` - P032
-- [ ] 자바의 정석 - Chapter15
+- [ ] 자바의 정석 - Chapter15.5 
+- [ ] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초
 
 
 ## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
@@ -116,7 +118,7 @@
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
 |Jan_4week|12h 02m|`C0`|
-|`Jan_5week`|`11h 20m`||
+|`Jan_5week`|`16h 20m`||
 
 
 ## Standard Grade
