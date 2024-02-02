@@ -17,6 +17,7 @@
 - [x] `점프 투 스프링부트` 4장 세상에 선보이는 SBB 서비스! - 4-12 PostgreSQL로 전환하기
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
+- [ ] `자바 웹 개발 워크북`
 
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
@@ -86,7 +87,7 @@
 
 
 
-## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m -> 5h 0m
+## `FriDay February 02` - 5h 43m -> 0h 0m -> 0h 0m -> 2h 0m -> 5h 8m
 - [x] P28 Code Review
 - [x] `Algorithm` - P029
 - [x] `Algorithm` - P030
@@ -118,7 +119,7 @@
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
 |Jan_4week|12h 02m|`C0`|
-|`Jan_5week`|`16h 20m`||
+|`Jan_5week`|`16h 28m`||
 
 
 ## Standard Grade
