@@ -98,7 +98,6 @@
 ## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
 - [ ] `Algorithm` - P031
 - [ ] `Algorithm` - P032
-- [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] 자바의 정석 - Chapter15
 
 
