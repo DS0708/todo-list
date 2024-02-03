@@ -103,11 +103,11 @@
 ## `SaturDay February 03` - 0h 52m -> 5h 31m -> 0h 0m -> 0h 0m ->
 - [ ] `Algorithm` - P031
 - [ ] `Algorithm` - P032
-- [ ] 자바의 정석 - Chapter15.5 
 - [ ] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초
 
 
 ## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
+- [ ] 자바의 정석 - Chapter15.5 
 - [ ] `Algorithm` - P033
 - [ ] `Algorithm` - P034
 
