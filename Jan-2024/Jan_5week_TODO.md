@@ -105,7 +105,7 @@
 ## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
 - [x] `Algorithm` - P031
 - [x] `Algorithm` - P032
-- [ ] 자바의 정석 - Chapter15.5 
+- [x] 자바의 정석 - Chapter15.5 
 - [ ] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초
 
 
