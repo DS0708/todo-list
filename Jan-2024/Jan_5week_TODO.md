@@ -31,8 +31,6 @@
 - [x] `Algorithm` - P030
 - [ ] `Algorithm` - P031
 - [ ] `Algorithm` - P032
-- [ ] `Algorithm` - P033
-- [ ] `Algorithm` - P034
 
 
 ## `JAVA`
@@ -48,7 +46,7 @@
 ## `etc.`
 - [x] Jan_5week 계획 세우기
 - [x] 시간표 짜기
-- [ ] 수강 바구니
+- [x] 수강 바구니
 
 ---
 ---
@@ -105,10 +103,8 @@
 
 
 ## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
-- [ ] `Algorithm` - P031
+- [x] `Algorithm` - P031
 - [ ] `Algorithm` - P032
-- [ ] `Algorithm` - P033
-- [ ] `Algorithm` - P034
 - [ ] 자바의 정석 - Chapter15.5 
 - [ ] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초
 
