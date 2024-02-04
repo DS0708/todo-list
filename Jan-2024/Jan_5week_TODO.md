@@ -102,11 +102,11 @@
 
 
 
-## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 
+## `SunDay February 04` - 1h 55m -> 2h 07m -> 0h 0m -> 0h 0m -> 4H 32m
 - [x] `Algorithm` - P031
 - [x] `Algorithm` - P032
 - [x] 자바의 정석 - Chapter15.5 
-- [ ] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초
+- [x] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초 - 2.10 Class
 
 
 ## Progress
@@ -116,7 +116,7 @@
 |Jan_2week|7h 38m|`F`|
 |Jan_3week|17h 06m|`C0`|
 |Jan_4week|12h 02m|`C0`|
-|`Jan_5week`|`16h 28m`||
+|`Jan_5week`|`21h 00m`|`C+`|
 
 
 ## Standard Grade
