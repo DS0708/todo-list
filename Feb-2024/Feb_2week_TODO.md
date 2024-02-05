@@ -2,7 +2,11 @@
 
 
 ## `Spring`
-- [ ] `자바 웹 개발 워크북`
+- [ ] `자바 웹 개발 워크북` - 1.1 자바 웹 개발 환경 만들기
+- [ ] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
+- [ ] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
+- [ ] `자바 웹 개발 워크북` - 1.4 HttpServlet
+- [ ] `자바 웹 개발 워크북` - 1.5 Model
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
 
@@ -42,14 +46,14 @@
 ---
 ---
 
-## `MonDay February 05` - h m 
+## `MonDay February 05` - 6h 34m 
 - [x] Feb_2week 계획 세우기
 - [x] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초 - 마무리
 - [x] 이것이 자바다 - Chapter15.6 LIFO와 FIFO컬렉션
 - [x] `Algorithm` - P033
 - [x] `Algorithm` - P034
 - [x] `React` timer-app 만들기 - start, stop, reset, add 기능 구현 완료
-- [ ] `자바 웹 개발 워크북`
+- [x] `자바 웹 개발 워크북` - 1.1 자바 웹 개발 환경 만들기
 
 
 ## `TuesDay February 06` - 
@@ -94,7 +98,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Feb_2week`|`0h 0m`||
+|`Feb_2week`|`6h 34m`||
 |Feb_3week|h m||
 |Feb_4week|h m||
 |Feb_5week|h m||
