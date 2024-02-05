@@ -47,7 +47,7 @@
 - [x] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초 - 마무리
 - [x] 이것이 자바다 - Chapter15.6 LIFO와 FIFO컬렉션
 - [x] `Algorithm` - P033
-- [ ] `Algorithm` - P034
+- [x] `Algorithm` - P034
 - [ ] `React` timer-app 만들기
 - [ ] `자바 웹 개발 워크북`
 
