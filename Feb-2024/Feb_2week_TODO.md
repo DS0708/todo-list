@@ -46,10 +46,10 @@
 - [x] Feb_2week 계획 세우기
 - [x] `파이썬 주식 자동매매 시스템` - 2장. 파이썬 기초 - 마무리
 - [x] 이것이 자바다 - Chapter15.6 LIFO와 FIFO컬렉션
-- [ ] `Algorithm` - P033
+- [x] `Algorithm` - P033
 - [ ] `Algorithm` - P034
-- [ ] `자바 웹 개발 워크북`
 - [ ] `React` timer-app 만들기
+- [ ] `자바 웹 개발 워크북`
 
 
 ## `TuesDay February 06` - 
