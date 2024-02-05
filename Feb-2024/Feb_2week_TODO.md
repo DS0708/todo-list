@@ -48,16 +48,19 @@
 - [x] 이것이 자바다 - Chapter15.6 LIFO와 FIFO컬렉션
 - [x] `Algorithm` - P033
 - [x] `Algorithm` - P034
-- [ ] `React` timer-app 만들기
+- [x] `React` timer-app 만들기 - start, stop, reset, add 기능 구현 완료
 - [ ] `자바 웹 개발 워크북`
 
 
 ## `TuesDay February 06` - 
 - [ ] `Algorithm` - P035
 - [ ] `Algorithm` - P036
-- [ ] `자바 웹 개발 워크북`
 - [ ] 이것이 자바다 - Chapter15.7 
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [ ] `React` timer-app 만들기 - github page 이용해 배포하기
+- [ ] `React` timer-app 만들기 - 총 시간 Setting 모달 만들기
+- [ ] `React` timer-app 만들기 - Componenet 분리하기
+- [ ] `자바 웹 개발 워크북`
 
 
 ## `WednesDay February 07` - 
