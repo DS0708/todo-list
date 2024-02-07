@@ -56,7 +56,7 @@
 - [x] `자바 웹 개발 워크북` - 1.1 자바 웹 개발 환경 만들기
 
 
-## `TuesDay February 06` - 
+## `TuesDay February 06` - 0h 34m
 - [x] `Algorithm` - P035
 - [ ] `Algorithm` - P036
 - [ ] 이것이 자바다 - Chapter15.7 
@@ -98,7 +98,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Feb_2week`|`6h 34m`||
+|`Feb_2week`|`7h 08m`||
 |Feb_3week|h m||
 |Feb_4week|h m||
 |Feb_5week|h m||
