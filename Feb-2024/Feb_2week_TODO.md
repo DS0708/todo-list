@@ -68,9 +68,8 @@
 - [x] `Algorithm` - P036
 
 
-## `FriDay February 09` - 
+## `FriDay February 09` - 0h 27m
 - [x] `React` timer-app 만들기 - git page로 배포
-- [ ] `React` timer-app 만들기
 
 
 ## `SaturDay February 10` - 
@@ -84,7 +83,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Feb_2week`|`8h 03m`||
+|`Feb_2week`|`8h 30m`|`F`|
 |Feb_3week|h m||
 |Feb_4week|h m||
 |Feb_5week|h m||
