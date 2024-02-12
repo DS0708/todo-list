@@ -38,17 +38,18 @@
 
 ## `etc.`
 - [x] Feb_3week 계획 세우기
-- [ ] `React` timer-app 만들기
+- [x] `React` timer-app 만들기 - 기능 구현 완료
+- [ ] `React` timer-app 만들기 - CI/CD
+- [ ] `React` timer-app 만들기 - 컴포넌트 분리
 - [ ] 4학년 수강신청 `2월 20일`
 
 ---
 ---
 ---
 
-## `MonDay February 12` - 6h 34m -> 
+## `MonDay February 12` - 6h 34m -> 1h 04m
 - [x] Feb_3week 계획 세우기
-- [ ] `React` timer-app 만들기
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [x] `React` timer-app 만들기 - 기능 구현 완료
 
 ## `TuesDay February 13` - 0h 34m ->
 - [ ] `Algorithm` - P036
@@ -95,7 +96,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
-|`Feb_3week`|`0h 0m`||
+|`Feb_3week`|`1h 04m`||
 |Feb_4week|h m||
 |Feb_5week|h m||
 
