@@ -37,7 +37,7 @@
 
 
 ## `etc.`
-- [ ] Feb_3week 계획 세우기
+- [x] Feb_3week 계획 세우기
 - [ ] `React` timer-app 만들기
 - [ ] 4학년 수강신청 `2월 20일`
 
