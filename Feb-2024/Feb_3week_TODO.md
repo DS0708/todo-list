@@ -11,7 +11,6 @@
 
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
-- [ ] `Algorithm` - P036
 - [ ] `Algorithm` - P037
 - [ ] `Algorithm` - P038
 - [ ] `Algorithm` - P039
@@ -21,6 +20,7 @@
 - [ ] `Algorithm` - P043
 - [ ] `Algorithm` - P044
 - [ ] `Algorithm` - P045
+- [ ] `Algorithm` - P046
 
 
 ## `JAVA`
@@ -52,8 +52,8 @@
 - [x] `React` timer-app 만들기 - 기능 구현 완료
 
 ## `TuesDay February 13` - 0h 34m ->
-- [ ] `Algorithm` - P036
-- [ ] `Algorithm` - P037
+- [x] `Algorithm` - P037
+- [ ] `Algorithm` - P038
 - [ ] 이것이 자바다 - Chapter15.7
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
@@ -61,30 +61,30 @@
 
 ## `WednesDay February 14` - 0h 30m ->
 - [ ] `Algorithm` - P038
-- [ ] `Algorithm` - P039
+- [ ] `Algorithm` - P040
 - [ ] 이것이 자바다 - Chapter15.8
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
 
 ## `ThursDay February 15` - 0h 25m ->
-- [ ] `Algorithm` - P040
 - [ ] `Algorithm` - P041
+- [ ] `Algorithm` - P042
 - [ ] 이것이 자바다 - Chapter15.9
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `자바 웹 개발 워크북` - 1.4 HttpServlet
 
 
 ## `FriDay February 16` - 0h 27m ->
-- [ ] `Algorithm` - P042
 - [ ] `Algorithm` - P043
+- [ ] `Algorithm` - P044
 - [ ] 이것이 자바다
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
 
 
 ## `SaturDay February 17` - 0h 0m ->
-- [ ] `Algorithm` - P044
 - [ ] `Algorithm` - P045
+- [ ] `Algorithm` - P046
 - [ ] 이것이 자바다
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
