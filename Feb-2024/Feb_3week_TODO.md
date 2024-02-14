@@ -57,8 +57,8 @@
 
 
 ## `WednesDay February 14` - 0h 30m ->
-- [ ] `Algorithm` - P039
-- [ ] `Algorithm` - P038
+- [x] `Algorithm` - P039
+- [x] `Algorithm` - P038
 - [ ] `Algorithm` - P040
 - [ ] 이것이 자바다 - Chapter15.7
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
