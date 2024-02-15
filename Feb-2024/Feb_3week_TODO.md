@@ -65,7 +65,7 @@
 
 ## `Thursday February 15` - 0h 25m ->
 - [x] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
-- [ ] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
+- [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
 - [ ] `자바 웹 개발 워크북` - 1.4 HttpServlet
 - [ ] `Algorithm` - P040
 - [ ] `Algorithm` - P041
