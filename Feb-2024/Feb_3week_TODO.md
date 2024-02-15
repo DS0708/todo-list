@@ -68,7 +68,7 @@
 - [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
 - [x] `자바 웹 개발 워크북` - 1.4 HttpServlet
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - mac 안됨
-- [ ] `Algorithm` - P040
+- [x] `Algorithm` - P040
 - [ ] `Algorithm` - P041
 - [ ] `Algorithm` - P042
 - [ ] 이것이 자바다 - Chapter15.7
