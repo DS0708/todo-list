@@ -66,13 +66,13 @@
 ## `Thursday February 15` - 0h 25m ->
 - [x] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
 - [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
-- [ ] `자바 웹 개발 워크북` - 1.4 HttpServlet
+- [x] `자바 웹 개발 워크북` - 1.4 HttpServlet
+- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `Algorithm` - P040
 - [ ] `Algorithm` - P041
 - [ ] `Algorithm` - P042
 - [ ] 이것이 자바다 - Chapter15.7
 - [ ] 이것이 자바다 - Chapter15.8
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Friday February 16` - 0h 27m ->
