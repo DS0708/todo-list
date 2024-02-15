@@ -63,21 +63,21 @@
 - [x] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기 - 비연결성
 
 
-## `Thursday February 15` - 0h 25m ->
+## `Thursday February 15` - 0h 25m -> 5h 21m
 - [x] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
 - [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
 - [x] `자바 웹 개발 워크북` - 1.4 HttpServlet
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - mac 안됨
 - [x] `Algorithm` - P040
-- [ ] `Algorithm` - P041
+- [x] `Algorithm` - P041
+
+
+## `Friday February 16` - 0h 27m -> 
 - [ ] `Algorithm` - P042
-- [ ] 이것이 자바다 - Chapter15.7
-- [ ] 이것이 자바다 - Chapter15.8
-
-
-## `Friday February 16` - 0h 27m ->
 - [ ] `Algorithm` - P043
 - [ ] `Algorithm` - P044
+- [ ] 이것이 자바다 - Chapter15.7
+- [ ] 이것이 자바다 - Chapter15.8
 - [ ] 이것이 자바다 - Chapter15.9
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - window로 진행하기
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
@@ -87,6 +87,7 @@
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
 - [ ] 이것이 자바다
+- [ ] `자바 웹 개발 워크북`
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 ## `Sunday February 18` - 0h 0m ->
@@ -97,7 +98,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
-|`Feb_3week`|`5h 0m`||
+|`Feb_3week`|`10h 21m`||
 |Feb_4week|h m||
 |Feb_5week|h m||
 
