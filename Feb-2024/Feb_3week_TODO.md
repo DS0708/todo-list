@@ -2,9 +2,9 @@
 
 
 ## `Spring`
-- [ ] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
-- [ ] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
-- [ ] `자바 웹 개발 워크북` - 1.4 HttpServlet
+- [x] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
+- [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
+- [x] `자바 웹 개발 워크북` - 1.4 HttpServlet
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
@@ -14,19 +14,19 @@
 - [x] `Algorithm` - P037
 - [x] `Algorithm` - P038
 - [x] `Algorithm` - P039
-- [ ] `Algorithm` - P040
-- [ ] `Algorithm` - P041
-- [ ] `Algorithm` - P042
-- [ ] `Algorithm` - P043
-- [ ] `Algorithm` - P044
+- [x] `Algorithm` - P040
+- [x] `Algorithm` - P041
+- [x] `Algorithm` - P042
+- [x] `Algorithm` - P043
+- [x] `Algorithm` - P044
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
 
 
 ## `JAVA`
-- [ ] 이것이 자바다 - Chapter15.7
-- [ ] 이것이 자바다 - Chapter15.8
-- [ ] 이것이 자바다 - Chapter15.9
+- [ ] 이것이 자바다 - Chapter02.1 변수 선언
+- [ ] 이것이 자바다 - Chapter02.2 정수 타입
+- [ ] 이것이 자바다 - Chapter02.3 문자 타입
 
 
 ## `Stock`
@@ -78,9 +78,9 @@
 - [x] `Algorithm` - P042
 - [x] `Algorithm` - P043
 - [x] `Algorithm` - P044
-- [ ] 이것이 자바다 - Chapter15.7
-- [ ] 이것이 자바다 - Chapter15.8
-- [ ] 이것이 자바다 - Chapter15.9
+- [x] 이것이 자바다 - Chapter02.1 변수 선언
+- [ ] 이것이 자바다 - Chapter02.2 정수 타입
+- [ ] 이것이 자바다 - Chapter02.3 문자 타입
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
 
 
