@@ -79,7 +79,7 @@
 - [x] `Algorithm` - P043
 - [x] `Algorithm` - P044
 - [x] 이것이 자바다 - Chapter02.1 변수 선언
-- [ ] 이것이 자바다 - Chapter02.2 정수 타입
+- [x] 이것이 자바다 - Chapter02.2 정수 타입
 - [ ] 이것이 자바다 - Chapter02.3 문자 타입
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
 
