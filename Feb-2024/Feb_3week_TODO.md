@@ -24,9 +24,11 @@
 
 
 ## `JAVA`
-- [ ] 이것이 자바다 - Chapter02.1 변수 선언
-- [ ] 이것이 자바다 - Chapter02.2 정수 타입
-- [ ] 이것이 자바다 - Chapter02.3 문자 타입
+- [x] 이것이 자바다 - Chapter02.1 변수 선언
+- [x] 이것이 자바다 - Chapter02.2 정수 타입
+- [x] 이것이 자바다 - Chapter02.3 문자 타입
+- [ ] 이것이 자바다 - Chapter02.4 실수 타입
+- [ ] 이것이 자바다 - Chapter02.5 논리 타입
 
 
 ## `Stock`
@@ -80,15 +82,15 @@
 - [x] `Algorithm` - P044
 - [x] 이것이 자바다 - Chapter02.1 변수 선언
 - [x] 이것이 자바다 - Chapter02.2 정수 타입
-- [ ] 이것이 자바다 - Chapter02.3 문자 타입
+- [x] 이것이 자바다 - Chapter02.3 문자 타입
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
 
 
 ## `Saturday February 17` - 0h 0m ->
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
-- [ ] 이것이 자바다
-- [ ] `자바 웹 개발 워크북`
+- [ ] 이것이 자바다 - Chapter02.4 실수 타입
+- [ ] 이것이 자바다 - Chapter02.5 논리 타입
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 ## `Sunday February 18` - 0h 0m ->
