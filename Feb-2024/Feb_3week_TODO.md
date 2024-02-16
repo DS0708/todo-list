@@ -76,7 +76,7 @@
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - window로 진행하기
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - login기능 완료
 - [x] `Algorithm` - P042
-- [ ] `Algorithm` - P043
+- [x] `Algorithm` - P043
 - [ ] `Algorithm` - P044
 - [ ] 이것이 자바다 - Chapter15.7
 - [ ] 이것이 자바다 - Chapter15.8
