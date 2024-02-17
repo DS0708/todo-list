@@ -41,6 +41,7 @@
 ## `etc.`
 - [x] Feb_3week 계획 세우기
 - [x] `React` timer-app 만들기 - 기능 구현 완료
+- [ ] `수강신청 앱` 만들기
 - [ ] `React` timer-app 만들기 - CI/CD
 - [ ] `React` timer-app 만들기 - 컴포넌트 분리
 - [ ] 4학년 수강신청 `2월 20일`
@@ -86,13 +87,13 @@
 
 
 ## `Saturday February 17` - 0h 0m ->
+- [ ] `수강신청 앱` 만들기
 - [ ] `자바 웹 개발 워크북` - 1.5 Model
 - [ ] `자바 웹 개발 워크북` - 2.1
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
 - [ ] 이것이 자바다 - Chapter02.5 논리 타입
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Sunday February 18` - 0h 0m ->
@@ -118,5 +119,3 @@
 |`C+`|18h|
 |`C0`|12h|
 |`F`|12h ~|
-
-
