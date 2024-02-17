@@ -74,7 +74,7 @@
 - [x] `Algorithm` - P041
 
 
-## `Friday February 16` - 0h 27m -> 
+## `Friday February 16` - 0h 27m -> 4h 22m
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - window로 진행하기
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - login기능 완료
 - [x] `Algorithm` - P042
@@ -83,25 +83,27 @@
 - [x] 이것이 자바다 - Chapter02.1 변수 선언
 - [x] 이것이 자바다 - Chapter02.2 정수 타입
 - [x] 이것이 자바다 - Chapter02.3 문자 타입
-- [ ] `자바 웹 개발 워크북` - 1.5 Model
 
 
 ## `Saturday February 17` - 0h 0m ->
+- [ ] `자바 웹 개발 워크북` - 1.5 Model
+- [ ] `자바 웹 개발 워크북` - 2.1
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
 - [ ] 이것이 자바다 - Chapter02.5 논리 타입
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
-## `Sunday February 18` - 0h 0m ->
 
+## `Sunday February 18` - 0h 0m ->
+- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
-|`Feb_3week`|`10h 21m`||
+|`Feb_3week`|`14h 43m`||
 |Feb_4week|h m||
 |Feb_5week|h m||
 
