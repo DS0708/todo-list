@@ -6,7 +6,7 @@
 - [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
 - [x] `자바 웹 개발 워크북` - 1.4 HttpServlet
 - [x] `자바 웹 개발 워크북` - 1.5 Model
-- [ ] `자바 웹 개발 워크북` - Chapter02 Setup
+- [x] `자바 웹 개발 워크북` - Chapter02 Setup
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
 
@@ -93,7 +93,7 @@
 
 ## `Sunday February 18` - 0h 0m ->
 - [x] `자바 웹 개발 워크북` - 1.5 Model
-- [ ] `자바 웹 개발 워크북` - Chapter02 Setup
+- [x] `자바 웹 개발 워크북` - Chapter02 Setup
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
