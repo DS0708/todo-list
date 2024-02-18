@@ -42,6 +42,7 @@
 ## `etc.`
 - [x] Feb_3week 계획 세우기
 - [x] `React` timer-app 만들기 - 기능 구현 완료
+- [x] IQ Test
 - [ ] `수강신청 앱` 만들기
 - [ ] `React` timer-app 만들기 - CI/CD
 - [ ] `React` timer-app 만들기 - 컴포넌트 분리
@@ -91,10 +92,11 @@
 - [x] `수강신청 앱` 만들기 - SetUp
 
 
-## `Sunday February 18` - 0h 0m ->
+## `Sunday February 18` - 0h 0m -> 3h 37m
 - [x] `자바 웹 개발 워크북` - 1.5 Model
 - [x] `자바 웹 개발 워크북` - Chapter02 Setup
 - [x] `Algorithm` - Euclidian Algorithm Proof
+- [x] IQ Test
 - [ ] `Algorithm` - P045
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
 - [ ] 이것이 자바다 - Chapter02.5 논리 타입
@@ -106,7 +108,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
-|`Feb_3week`|`16h 27m`||
+|`Feb_3week`|`20h 04m`||
 |Feb_4week|h m||
 |Feb_5week|h m||
 
