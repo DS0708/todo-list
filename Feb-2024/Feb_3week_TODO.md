@@ -5,7 +5,8 @@
 - [x] `자바 웹 개발 워크북` - 1.2 웹 기본 동작 방식 이해하기
 - [x] `자바 웹 개발 워크북` - 1.3 Web MVC 방식
 - [x] `자바 웹 개발 워크북` - 1.4 HttpServlet
-- [ ] `자바 웹 개발 워크북` - 1.5 Model
+- [x] `자바 웹 개발 워크북` - 1.5 Model
+- [ ] `자바 웹 개발 워크북` - Chapter02 Setup
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
 
@@ -86,17 +87,18 @@
 - [x] 이것이 자바다 - Chapter02.3 문자 타입
 
 
-## `Saturday February 17` - 0h 0m ->
-- [ ] `수강신청 앱` 만들기
-- [ ] `자바 웹 개발 워크북` - 1.5 Model
-- [ ] `자바 웹 개발 워크북` - 2.1
+## `Saturday February 17` - 0h 0m -> 1h 44m
+- [x] `수강신청 앱` 만들기 - SetUp
+
+
+## `Sunday February 18` - 0h 0m ->
+- [x] `자바 웹 개발 워크북` - 1.5 Model
+- [ ] `자바 웹 개발 워크북` - Chapter02 Setup
 - [ ] `Algorithm` - P045
 - [ ] `Algorithm` - P046
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
 - [ ] 이것이 자바다 - Chapter02.5 논리 타입
-
-
-## `Sunday February 18` - 0h 0m ->
+- [ ] `수강신청 앱` 만들기
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
@@ -104,7 +106,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
-|`Feb_3week`|`14h 43m`||
+|`Feb_3week`|`16h 27m`||
 |Feb_4week|h m||
 |Feb_5week|h m||
 
