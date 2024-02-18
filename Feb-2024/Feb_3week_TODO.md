@@ -20,8 +20,8 @@
 - [x] `Algorithm` - P042
 - [x] `Algorithm` - P043
 - [x] `Algorithm` - P044
+- [x] `Algorithm` - Euclidian Algorithm Proof
 - [ ] `Algorithm` - P045
-- [ ] `Algorithm` - P046
 
 
 ## `JAVA`
@@ -94,8 +94,8 @@
 ## `Sunday February 18` - 0h 0m ->
 - [x] `자바 웹 개발 워크북` - 1.5 Model
 - [x] `자바 웹 개발 워크북` - Chapter02 Setup
+- [x] `Algorithm` - Euclidian Algorithm Proof
 - [ ] `Algorithm` - P045
-- [ ] `Algorithm` - P046
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
 - [ ] 이것이 자바다 - Chapter02.5 논리 타입
 - [ ] `수강신청 앱` 만들기
