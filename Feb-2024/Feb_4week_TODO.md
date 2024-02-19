@@ -50,53 +50,53 @@
 ---
 ---
 
-## `MonDay February 19` - 6h 34m -> 1h 04m -> 
+## `MonDay February 19` - 6h 34m -> 1h 04m -> 1h 33m
 - [x] Feb_4week 계획 세우기
-- [ ] `수강신청 앱` 만들기
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
-- [ ] `Algorithm` - P045
-- [ ] `Algorithm` - P046
-- [ ] 이것이 자바다 - Chapter02.4 실수 타입
+- [x] `수강신청 앱` 만들기
 
 
 ## `Tuesday February 20` - 0h 34m -> 0h 50m -> 
 - [ ] 4학년 수강신청 `2월 20일`
+- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [ ] `Algorithm` - P045
+- [ ] `Algorithm` - P046
+- [ ] 이것이 자바다 - Chapter02.4 실수 타입
 - [ ] `자바 웹 개발 워크북` - 2.1
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
+
+
+## `Wednesday February 21` - 0h 30m -> 3h 06m -> 
 - [ ] `Algorithm` - P047
 - [ ] `Algorithm` - P048
 - [ ] 이것이 자바다 - Chapter02.5 논리 타입
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
-
-
-## `Wednesday February 21` - 0h 30m -> 3h 06m -> 
 - [ ] `자바 웹 개발 워크북` - 2.2
-- [ ] `Algorithm` - P049
-- [ ] `Algorithm` - P050
-- [ ] 이것이 자바다 - Chapter02.6 실수 타입
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 
 ## `Thursday February 22` - 0h 25m -> 5h 21m -> 
-- [ ] `자바 웹 개발 워크북` - 2.3
-- [ ] `Algorithm` - P051
-- [ ] `Algorithm` - P052
-- [ ] 이것이 자바다 - Chapter02.7 논리 타입
+- [ ] `Algorithm` - P049
+- [ ] `Algorithm` - P050
+- [ ] 이것이 자바다 - Chapter02.6 실수 타입
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [ ] `자바 웹 개발 워크북` - 2.3
 
 
 
 ## `Friday February 23` - 0h 27m -> 4h 22m ->
-- [ ] `자바 웹 개발 워크북` - 2.4
-- [ ] `Algorithm` - P053
-- [ ] `Algorithm` - P054
-- [ ] 이것이 자바다 - Chapter02.8 실수 타입
+- [ ] `Algorithm` - P051
+- [ ] `Algorithm` - P052
+- [ ] 이것이 자바다 - Chapter02.7 논리 타입
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [ ] `자바 웹 개발 워크북` - 2.4
 
 
 ## `Saturday February 24` - 0h 0m -> 1h 44m ->
 - [ ] `자바 웹 개발 워크북` - 2.5 
+- [ ] `Algorithm` - P053
+- [ ] `Algorithm` - P054
+- [ ] 이것이 자바다 - Chapter02.8 실수 타입
+- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 
