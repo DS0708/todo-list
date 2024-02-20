@@ -57,7 +57,7 @@
 
 ## `Tuesday February 20` - 0h 34m -> 0h 50m -> 
 - [x] 4학년 수강신청 `2월 20일`
-- [ ] `Algorithm` - P045
+- [x] `Algorithm` - P045 
 - [ ] `Algorithm` - P046
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] 이것이 자바다 - Chapter02.4 실수 타입
