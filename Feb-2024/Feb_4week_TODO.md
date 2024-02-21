@@ -73,7 +73,7 @@
 ## `Wednesday February 21` - 0h 30m -> 3h 06m -> 
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - 3.9 종목 얻어오기
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - 3.10 일봉 얻어오기
-- [ ] `Algorithm` - P047
+- [x] `Algorithm` - P047
 - [ ] `Algorithm` - P048
 - [ ] 이것이 자바다 - Chapter02.6 문자열 타입
 - [ ] 이것이 자바다 - Chapter02.7 자동 타입 변환
