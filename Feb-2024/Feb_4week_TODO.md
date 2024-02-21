@@ -71,6 +71,7 @@
 
 
 ## `Wednesday February 21` - 0h 30m -> 3h 06m -> 
+- [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - 3.9 종목 얻어오기
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `Algorithm` - P047
 - [ ] `Algorithm` - P048
