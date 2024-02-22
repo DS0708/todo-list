@@ -82,7 +82,7 @@
 ## `Thursday February 22` - 0h 25m -> 5h 21m -> 
 - [x] `Algorithm` - P049 (Hard)
 - [x] 이것이 자바다 - Chapter02.8 강제 타입 변환
-- [ ] 이것이 자바다 - Chapter02.9 연산식에서 자동 타입 변환
+- [x] 이것이 자바다 - Chapter02.9 연산식에서 자동 타입 변환
 - [ ] `자바 웹 개발 워크북` - 2.2 프로젝트 내 JDBC 구현
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
