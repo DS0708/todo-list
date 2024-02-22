@@ -79,12 +79,12 @@
 
 
 
-## `Thursday February 22` - 0h 25m -> 5h 21m -> 
+## `Thursday February 22` - 0h 25m -> 5h 21m -> 5h 44m
 - [x] `Algorithm` - P049 (Hard)
 - [x] 이것이 자바다 - Chapter02.8 강제 타입 변환
 - [x] 이것이 자바다 - Chapter02.9 연산식에서 자동 타입 변환
 - [x] `자바 웹 개발 워크북` - 2.2 프로젝트 내 JDBC 구현
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 - 3.12.1 주문 접수하기
 
 
 
@@ -116,7 +116,7 @@
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
 |Feb_3week|20h 04m|`C+`|
-|`Feb_4week`|`14h 58m`||
+|`Feb_4week`|`20h 42m`||
 |Feb_5week|h m||
 
 
