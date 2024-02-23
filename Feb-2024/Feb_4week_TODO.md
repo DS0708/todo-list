@@ -91,6 +91,7 @@
 ## `Friday February 23` - 0h 27m -> 4h 22m ->
 - [x] `Algorithm` - P050
 - [x] `Algorithm` - P051
+- [x] `Algorithm` - P052
 - [ ] 이것이 자바다 - Chapter02.10 문자열을 기본 타입으로 변환
 - [ ] 이것이 자바다 - Chapter02.11 변수 사용 범위
 - [ ] `자바 웹 개발 워크북` - 2.3
@@ -99,8 +100,8 @@
 
 ## `Saturday February 24` - 0h 0m -> 1h 44m ->
 - [ ] `자바 웹 개발 워크북` - 2.3
-- [ ] `Algorithm` - P052
 - [ ] `Algorithm` - P053
+- [ ] `Algorithm` - P054
 - [ ] 이것이 자바다 - Chapter02.12 콘솔로 변수값 출력
 - [ ] 이것이 자바다 - Chapter02.13 키보드 입력 데이터를 변수에 저장
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
@@ -108,7 +109,7 @@
 
 
 ## `Sunday February 25` - 0h 0m -> 3h 37m ->
-- [ ] `Algorithm` - P054
+
 
 
 ## Progress
