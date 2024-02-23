@@ -4,7 +4,7 @@
 ## `Spring`
 - [x] `자바 웹 개발 워크북` - 2.1 JDBC 프로그래밍 준비
 - [x] `자바 웹 개발 워크북` - 2.2 프로젝트 내 JDBC 구현
-- [ ] `자바 웹 개발 워크북` - 2.3
+- [ ] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
 
@@ -89,7 +89,7 @@
 
 
 
-## `Friday February 23` - 0h 27m -> 4h 22m ->
+## `Friday February 23` - 0h 27m -> 4h 22m -> 5h 31m
 - [x] `Algorithm` - P050
 - [x] `Algorithm` - P051
 - [x] `Algorithm` - P052
@@ -97,12 +97,11 @@
 - [x] 이것이 자바다 - Chapter02.11 변수 사용 범위
 - [x] 이것이 자바다 - Chapter02.12 콘솔로 변수값 출력
 - [x] 이것이 자바다 - Chapter02.13 키보드 입력 데이터를 변수에 저장
-- [ ] `자바 웹 개발 워크북` - 2.3
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
+- [x] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합 - 컨트롤러 작성하기 - 목록기능 구현 완료
 
 
-## `Saturday February 24` - 0h 0m -> 1h 44m ->
-- [ ] `자바 웹 개발 워크북` - 2.3
+## `Saturday February 24` - 0h 0m -> 1h 44m -> 
+- [ ] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합 
 - [ ] 이것이 자바다 - Chapter01
 - [ ] `Algorithm` - P053
 - [ ] `Algorithm` - P054
@@ -111,6 +110,7 @@
 
 
 ## `Sunday February 25` - 0h 0m -> 3h 37m ->
+- [ ] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합 
 
 
 
@@ -119,7 +119,7 @@
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
 |Feb_3week|20h 04m|`C+`|
-|`Feb_4week`|`20h 42m`||
+|`Feb_4week`|`26h 13m`||
 |Feb_5week|h m||
 
 
