@@ -89,12 +89,12 @@
 
 
 ## `Friday February 23` - 0h 27m -> 4h 22m ->
-- [ ] `Algorithm` - P050
-- [ ] `Algorithm` - P051
+- [x] `Algorithm` - P050
+- [x] `Algorithm` - P051
 - [ ] 이것이 자바다 - Chapter02.10 문자열을 기본 타입으로 변환
 - [ ] 이것이 자바다 - Chapter02.11 변수 사용 범위
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `자바 웹 개발 워크북` - 2.3
+- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Saturday February 24` - 0h 0m -> 1h 44m ->
