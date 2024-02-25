@@ -104,12 +104,11 @@
 
 
 
-## `Sunday February 25` - 0h 0m -> 3h 37m ->
+## `Sunday February 25` - 0h 0m -> 3h 37m -> 4h 06m
 - [x] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용 3.12.2 체결 확인하기
 - [x] `Algorithm` - P053
 - [x] `Algorithm` - P054
-- [ ] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합 
-- [ ] 이것이 자바다 - Chapter01
+- [x] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합 
 
 
 
@@ -118,7 +117,7 @@
 |:---:|:---:|:---:|
 |Feb_2week|8h 30m|`F`|
 |Feb_3week|20h 04m|`C+`|
-|`Feb_4week`|`26h 13m`||
+|`Feb_4week`|`30h 19m`|`B+`|
 |Feb_5week|h m||
 
 
