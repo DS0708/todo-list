@@ -4,7 +4,7 @@
 ## `Spring`
 - [x] `자바 웹 개발 워크북` - 2.1 JDBC 프로그래밍 준비
 - [x] `자바 웹 개발 워크북` - 2.2 프로젝트 내 JDBC 구현
-- [ ] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합
+- [x] `자바 웹 개발 워크북` - 2.3 웹 MVC와 JDBC의 결합
 - [ ] `점프 투 스프링부트` 3장 SBB 서비스 개발! - 14 추가 기능 구현해보기
 - [ ] `점프 투 스프링부트` AWS 라이트세일 교체
 
@@ -18,8 +18,8 @@
 - [x] `Algorithm` - P050
 - [x] `Algorithm` - P051
 - [x] `Algorithm` - P052
-- [ ] `Algorithm` - P053
-- [ ] `Algorithm` - P054
+- [x] `Algorithm` - P053
+- [x] `Algorithm` - P054
 
 
 ## `JAVA`
