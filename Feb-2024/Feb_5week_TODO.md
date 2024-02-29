@@ -40,19 +40,19 @@
 
 ## `Wednesday February 21` - 0h 30m -> 3h 06m -> 6h 42m
 - [x] Feb_5week 계획 세우기
-- [ ] 개강 전 휴식
+- [x] 개강 전 휴식
 
 
 ## `Thursday February 22` - 0h 25m -> 5h 21m -> 5h 44m
-
+- [x] 개강 전 휴식
 
 
 ## `Friday February 23` - 0h 27m -> 4h 22m -> 5h 31m
-
+- [x] 개강 전 휴식
 
 
 ## `Saturday February 24` - 0h 0m -> 1h 44m -> 0h 0m
-
+- [x] 개강 전 휴식
 
 
 ## `Sunday February 25` - 0h 0m -> 3h 37m -> 4h 06m
