@@ -56,7 +56,7 @@
 
 
 ## `Sunday February 25` - 0h 0m -> 3h 37m -> 4h 06m
-
+- [x] 개강 전 휴식
 
 
 
@@ -66,7 +66,7 @@
 |Feb_2week|8h 30m|`F`|
 |Feb_3week|20h 04m|`C+`|
 |`Feb_4week`|`30h 19m`|`B+`|
-|Feb_5week|h m||
+|Feb_5week|h m|`Rest`|
 
 
 ## Standard Grade
