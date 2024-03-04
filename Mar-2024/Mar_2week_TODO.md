@@ -62,7 +62,7 @@
 ## `Monday March 04` - 
 - [x] Making a plan - `1h 1m`
 - [x] `Algorithm` - P055 - `1h 46m`
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall` - `0h 33m`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `Modern Web Development` - Making a plan
 
