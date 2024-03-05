@@ -30,8 +30,8 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565`
-- [ ] `GP` 
+- [x] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565`
+- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
@@ -47,14 +47,14 @@
 - [ ] `BD` Online-lecture `1.3 1주차 Exercise`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture `1Lecture`
-- [ ] `SFAI` Online-lecture `2Lecture`
+- [ ] `SFAI` Online-lecture `Week1`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
 
 ## `etc.`
 - [x] Making a plan 
+- [x] react-timer-app - placehold 추가
 
 ---
 ---
@@ -71,13 +71,14 @@
 - [x] `파이썬 주식 자동매매 시스템` - 3.13 주문 정보 얻어오기 - `42m`
 - [x] `파이썬 주식 자동매매 시스템` - 3.14 잔고 얻어 오기 - `13m`
 - [x] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565` - `1h`
+- [x] react-timer-app - placehold 추가 - `12m`
+- [x] `SFAI` Online-lecture, Assignment, Exam `Week1` - `52m`
 - [ ] `Algorithm` - P056
 - [ ] `Algorithm` - P057
-- [ ] `SFAI` Online-lecture `1Lecture`
-- [ ] `SFAI` Online-lecture `2Lecture`
 
 
 ## `Wednesday March 06` - 
+- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
 - [ ] `BD` Online-lecture `1.1 강의 소개`
 - [ ] `BD` Online-lecture `1.2 빅데이터의 정의 및 운영전략`
 - [ ] `BD` Online-lecture `1.3 1주차 Exercise`
@@ -90,7 +91,6 @@
 ## `Thursday March 07` - 
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
-- [ ] `GP`
 - [ ] `Algorithm` - P060
 - [ ] `이것이 자바다`
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
