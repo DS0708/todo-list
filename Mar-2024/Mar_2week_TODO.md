@@ -30,16 +30,16 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in room B565 of the Engineering Building`
-- [ ] `GP` Face-to-face class `on Thursday at 4:00 PM in room B565 of the Engineering Building`
+- [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565`
+- [ ] `GP` 
 
 ## `Object-Oriented Software Development` - OOSD
-- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall`
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 402 of the New Millennium Hall`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새관402`
 
 ## `Open Source SW Project` - OSSP - 공C385
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in room 1214 of the New Engineering Building`
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in room 1214 of the New Engineering Building`
+- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture `1.1 강의 소개`
@@ -67,10 +67,10 @@
 
 ## `Tuesday March 05` - 
 - [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신 - `1h 11m`
-- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in room 1214 of the New Engineering Building` - `1h 30m`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` - `1h 30m`
 - [x] `파이썬 주식 자동매매 시스템` - 3.13 주문 정보 얻어오기 - `42m`
 - [x] `파이썬 주식 자동매매 시스템` - 3.14 잔고 얻어 오기 - `13m`
-- [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in room B565 of the Engineering Building`
+- [x] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565` - `1h`
 - [ ] `Algorithm` - P056
 - [ ] `Algorithm` - P057
 - [ ] `SFAI` Online-lecture `1Lecture`
@@ -88,16 +88,16 @@
 
 
 ## `Thursday March 07` - 
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in room 1214 of the New Engineering Building`
+- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
-- [ ] `GP` Face-to-face class `on Thursday at 4:00 PM in room B565 of the Engineering Building`
+- [ ] `GP`
 - [ ] `Algorithm` - P060
 - [ ] `이것이 자바다`
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Friday March 08` - 
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 402 of the New Millennium Hall`
+- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402`
 - [ ] `Algorithm` - P061
 - [ ] `Algorithm` - P062
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
