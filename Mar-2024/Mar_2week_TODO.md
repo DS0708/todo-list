@@ -5,7 +5,7 @@
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
-- [ ] `Algorithm` - P055
+- [x] `Algorithm` - P055
 - [ ] `Algorithm` - P056
 - [ ] `Algorithm` - P057
 - [ ] `Algorithm` - P058
@@ -18,7 +18,7 @@
 - [ ] `Modern Web Development` - Making a plan
 
 ## `Java`
-- [ ] `이것이 자바다` - Chapter01
+- [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신
 
 ## `Stock`
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
@@ -34,10 +34,10 @@
 - [ ] `GP` Face-to-face class `on Thursday at 4:00 PM in room B565 of the Engineering Building`
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall`
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 402 of the New Millennium Hall`
 
-## `Open Source SW Project` - OSSP
+## `Open Source SW Project` - OSSP - 공C385
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in room 1214 of the New Engineering Building`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in room 1214 of the New Engineering Building`
 
@@ -54,28 +54,26 @@
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
 
 ## `etc.`
-- [ ] Making a plan 
+- [x] Making a plan 
 
 ---
 ---
 
-## `Monday March 04` - 
+## `Monday March 04` - 3h 20m
 - [x] Making a plan - `1h 1m`
 - [x] `Algorithm` - P055 - `1h 46m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall` - `0h 33m`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Modern Web Development` - Making a plan
 
 
 ## `Tuesday March 05` - 
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in room 1214 of the New Engineering Building`
+- [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신 - `1h 11m`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in room 1214 of the New Engineering Building` - `1h 30m`
+- [ ] `Algorithm` - P056
+- [ ] `Algorithm` - P057
+- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `SFAI` Online-lecture `1Lecture`
 - [ ] `SFAI` Online-lecture `2Lecture`
 - [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in room B565 of the Engineering Building`
-- [ ] `Algorithm` - P056
-- [ ] `Algorithm` - P057
-- [ ] `이것이 자바다`
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Wednesday March 06` - 
@@ -106,7 +104,8 @@
 
 
 ## `Saturday March 09` - 
-- [ ] Rest of Study
+- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [ ] `Modern Web Development` - Making a plan
 
 
 ## `Sunday March 10` - 
