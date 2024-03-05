@@ -38,16 +38,14 @@
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새관402`
 
 ## `Open Source SW Project` - OSSP - 공C385
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture `1.1 강의 소개`
-- [ ] `BD` Online-lecture `1.2 빅데이터의 정의 및 운영전략`
-- [ ] `BD` Online-lecture `1.3 1주차 Exercise`
+- [ ] `BD` Online-lecture, Exercise `Week 1`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture `Week1`
+- [x] `SFAI` Online-lecture `Week1`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
@@ -65,7 +63,7 @@
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in room 402 of the New Millennium Hall` - `0h 33m`
 
 
-## `Tuesday March 05` - 
+## `Tuesday March 05` - 5h 40m
 - [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신 - `1h 11m`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` - `1h 30m`
 - [x] `파이썬 주식 자동매매 시스템` - 3.13 주문 정보 얻어오기 - `42m`
@@ -73,40 +71,38 @@
 - [x] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565` - `1h`
 - [x] react-timer-app - placehold 추가 - `12m`
 - [x] `SFAI` Online-lecture, Assignment, Exam `Week1` - `52m`
-- [ ] `Algorithm` - P056
-- [ ] `Algorithm` - P057
 
 
 ## `Wednesday March 06` - 
-- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
-- [ ] `BD` Online-lecture `1.1 강의 소개`
-- [ ] `BD` Online-lecture `1.2 빅데이터의 정의 및 운영전략`
-- [ ] `BD` Online-lecture `1.3 1주차 Exercise`
-- [ ] `Algorithm` - P058
-- [ ] `Algorithm` - P059
+- [ ] `Algorithm` - P056
+- [ ] `Algorithm` - P057
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Modern Web Development`
+- [ ] `Modern Web Development` - Making a plan
+- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
+- [ ] `BD` Online-lecture, Exercise `Week 1`
 
 
 ## `Thursday March 07` - 
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
-- [ ] `Algorithm` - P060
+- [ ] `Algorithm` - P058
+- [ ] `Algorithm` - P059
 - [ ] `이것이 자바다`
 - [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Friday March 08` - 
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402`
+- [ ] `Algorithm` - P060
 - [ ] `Algorithm` - P061
-- [ ] `Algorithm` - P062
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] `Modern Web Development`
 
 
 ## `Saturday March 09` - 
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Modern Web Development` - Making a plan
+- [ ] `Modern Web Development`
+- [ ] `Algorithm` - P062
 
 
 ## `Sunday March 10` - 
@@ -116,7 +112,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Mar_2week`|`h m`||
+|`Mar_2week`|`9h 0m`||
 |Mar_3week|h m||
 |Mar_4week|h m||
 |Mar_5week|h m||
