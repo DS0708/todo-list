@@ -68,12 +68,13 @@
 ## `Tuesday March 05` - 
 - [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신 - `1h 11m`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in room 1214 of the New Engineering Building` - `1h 30m`
+- [x] `파이썬 주식 자동매매 시스템` - 3.13 주문 정보 얻어오기 - `42m`
+- [x] `파이썬 주식 자동매매 시스템` - 3.14 잔고 얻어 오기 - `13m`
+- [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in room B565 of the Engineering Building`
 - [ ] `Algorithm` - P056
 - [ ] `Algorithm` - P057
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 - [ ] `SFAI` Online-lecture `1Lecture`
 - [ ] `SFAI` Online-lecture `2Lecture`
-- [ ] `GP` Face-to-face class `on Tuesday at 4:00 PM in room B565 of the Engineering Building`
 
 
 ## `Wednesday March 06` - 
