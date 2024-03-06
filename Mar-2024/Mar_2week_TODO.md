@@ -6,7 +6,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
 - [x] `Algorithm` - P055
-- [ ] `Algorithm` - P056
+- [x] `Algorithm` - P056
 - [ ] `Algorithm` - P057
 - [ ] `Algorithm` - P058
 - [ ] `Algorithm` - P059
@@ -18,7 +18,7 @@
 - [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신
 
 ## `DeepLearning`
-
+- [ ] `밑바닥부터 시작하는 딥러닝`
 
 ## `Stock`
 ## `React`
@@ -27,8 +27,8 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565`
-- [ ] `GP` Thinking about the topic
-- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
+- [x] `GP` Thinking about the topic
+- [x] `GP` Team meeting `on Wednesday at 5:00 PM`
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
@@ -39,7 +39,7 @@
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Exercise `Week 1`
+- [x] `BD` Online-lecture, Exercise `Week 1`
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture `Week1`
@@ -70,43 +70,44 @@
 - [x] `SFAI` Online-lecture, Assignment, Exam `Week1` - `52m`
 
 
-## `Wednesday March 06` - 
+## `Wednesday March 06` - 6h 21m
 - [x] `GP` Thinking about the topic - `1h 26m`
 - [x] `GP` Team meeting `on Wednesday at 5:00 PM` - `1h 40m`
 - [x] `Algorithm` - P056 - `2h 21m`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `BD` Online-lecture, Exercise `Week 1`
+- [x] `BD` Online-lecture, Exercise `Week 1` - `54m`
 
 
 ## `Thursday March 07` - 
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `Algorithm` - P057
-- [ ] `Algorithm` - P058
-- [ ] `Algorithm` - P059
 - [ ] `이것이 자바다`
 
 
 ## `Friday March 08` - 
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402`
-- [ ] `Algorithm` - P060
-- [ ] `Algorithm` - P061
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `Algorithm` - P058
+- [ ] `Algorithm` - P059
 
 
 ## `Saturday March 09` - 
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Algorithm` - P062
+- [ ] `Algorithm` - P060
+- [ ] `Algorithm` - P061
 
 
 ## `Sunday March 10` - 
-- [ ] Rest of Study
+- [ ] `Algorithm` - P062
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Mar_2week`|`9h 0m`||
+|`Mar_2week`|`15h 21m`||
 |Mar_3week|h m||
 |Mar_4week|h m||
 |Mar_5week|h m||
