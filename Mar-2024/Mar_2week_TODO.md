@@ -73,8 +73,7 @@
 ## `Wednesday March 06` - 
 - [x] `GP` Thinking about the topic - `1h 26m`
 - [x] `GP` Team meeting `on Wednesday at 5:00 PM` - `1h 40m`
-- [ ] `Algorithm` - P056
-- [ ] `Algorithm` - P057
+- [x] `Algorithm` - P056 - `2h 21m`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `BD` Online-lecture, Exercise `Week 1`
 
@@ -82,6 +81,7 @@
 ## `Thursday March 07` - 
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [ ] `Algorithm` - P057
 - [ ] `Algorithm` - P058
 - [ ] `Algorithm` - P059
 - [ ] `이것이 자바다`
