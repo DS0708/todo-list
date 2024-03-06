@@ -14,23 +14,20 @@
 - [ ] `Algorithm` - P061
 - [ ] `Algorithm` - P062
 
-## `React`
-- [ ] `Modern Web Development` - Making a plan
-
 ## `Java`
 - [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신
 
+## `DeepLearning`
+
+
 ## `Stock`
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
-- [ ] `파이썬 주식 자동매매 시스템` - 4장. 실전매매 전략
-- [ ] `파이썬 주식 자동매매 시스템` - 5장. 프로젝트
-
+## `React`
 ## `OPIc`
-
 ---
 
 ## `Graduation Project` - GP
 - [x] `GP` Face-to-face class `on Tuesday at 4:00 PM in 공B565`
+- [ ] `GP` Thinking about the topic
 - [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -74,11 +71,11 @@
 
 
 ## `Wednesday March 06` - 
+- [x] `GP` Thinking about the topic - `1h 26m`
+- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
 - [ ] `Algorithm` - P056
 - [ ] `Algorithm` - P057
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Modern Web Development` - Making a plan
-- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
 - [ ] `BD` Online-lecture, Exercise `Week 1`
 
 
@@ -88,7 +85,6 @@
 - [ ] `Algorithm` - P058
 - [ ] `Algorithm` - P059
 - [ ] `이것이 자바다`
-- [ ] `파이썬 주식 자동매매 시스템` - 3장. Kiwoom API 사용
 
 
 ## `Friday March 08` - 
@@ -96,12 +92,10 @@
 - [ ] `Algorithm` - P060
 - [ ] `Algorithm` - P061
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
-- [ ] `Modern Web Development`
 
 
 ## `Saturday March 09` - 
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Modern Web Development`
 - [ ] `Algorithm` - P062
 
 
