@@ -72,7 +72,7 @@
 
 ## `Wednesday March 06` - 
 - [x] `GP` Thinking about the topic - `1h 26m`
-- [ ] `GP` Team meeting `on Wednesday at 5:00 PM`
+- [x] `GP` Team meeting `on Wednesday at 5:00 PM` - `1h 40m`
 - [ ] `Algorithm` - P056
 - [ ] `Algorithm` - P057
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
