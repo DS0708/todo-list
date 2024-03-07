@@ -40,6 +40,7 @@
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture, Exercise `Week 1`
+> 퀴즈 : 3V설명, 필드의 정의, 데이터 형태들 차이점, 수요와 공급맞추기 어려운 이유
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture `Week1`
@@ -78,7 +79,7 @@
 
 
 ## `Thursday March 07` - 
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214` - `45m`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
 - [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
