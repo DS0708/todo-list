@@ -47,6 +47,8 @@
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [ ] `ICFJS` - Assignment1 `Thursday April 25`
+- [ ] `ICFJS` - Assignment1 `Thursday April 25`
 
 ## `etc.`
 - [x] Making a plan 
@@ -78,37 +80,34 @@
 - [x] `BD` Online-lecture, Exercise `Week 1` - `54m`
 
 
-## `Thursday March 07` - 
+## `Thursday March 07` - 3h 25m
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in  신공1214` - `45m`
-- [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
-- [ ] `밑바닥부터 시작하는 딥러닝`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Algorithm` - P057
-- [ ] `이것이 자바다`
+- [x] `ICFJS` - ZOOM `on Thursday at 11:00 AM` - `1h 40m`
 
 
 ## `Friday March 08` - 
+- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402`
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `Algorithm` - P057
 - [ ] `Algorithm` - P058
-- [ ] `Algorithm` - P059
 
 
 ## `Saturday March 09` - 
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
-- [ ] `Algorithm` - P061
 
 
 ## `Sunday March 10` - 
+- [ ] `Algorithm` - P061
 - [ ] `Algorithm` - P062
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Mar_2week`|`15h 21m`||
+|`Mar_2week`|`18h 46m`||
 |Mar_3week|h m||
 |Mar_4week|h m||
 |Mar_5week|h m||
