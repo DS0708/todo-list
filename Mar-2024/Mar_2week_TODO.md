@@ -87,6 +87,7 @@
 
 ## `Friday March 08` - 
 - [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402` - `1h 15m`
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - init - `48m`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `Algorithm` - P057
