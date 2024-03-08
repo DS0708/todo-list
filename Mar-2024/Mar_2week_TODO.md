@@ -86,11 +86,12 @@
 
 
 ## `Friday March 08` - 
+- [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402` - `1h 15m`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402`
 - [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `Algorithm` - P057
 - [ ] `Algorithm` - P058
+- [ ] `이것이 자바다`
 
 
 ## `Saturday March 09` - 
