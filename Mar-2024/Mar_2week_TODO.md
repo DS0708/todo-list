@@ -10,9 +10,6 @@
 - [ ] `Algorithm` - P057
 - [ ] `Algorithm` - P058
 - [ ] `Algorithm` - P059
-- [ ] `Algorithm` - P060
-- [ ] `Algorithm` - P061
-- [ ] `Algorithm` - P062
 
 ## `Java`
 - [x] `이것이 자바다` - 1.5 바이트코드 파일과 자바 가상 머신
@@ -85,31 +82,30 @@
 - [x] `ICFJS` - ZOOM `on Thursday at 11:00 AM` - `1h 40m`
 
 
-## `Friday March 08` - 
+## `Friday March 08` - 2h 03m
 - [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새402` - `1h 15m`
 - [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - init - `48m`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `밑바닥부터 시작하는 딥러닝`
-- [ ] `Algorithm` - P057
-- [ ] `Algorithm` - P058
-- [ ] `이것이 자바다`
 
 
 ## `Saturday March 09` - 
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Algorithm` - P059
-- [ ] `Algorithm` - P060
+- [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `Algorithm` - P057
+- [ ] `이것이 자바다`
 
 
 ## `Sunday March 10` - 
-- [ ] `Algorithm` - P061
-- [ ] `Algorithm` - P062
+- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `이것이 자바다`
+- [ ] `Algorithm` - P058
+- [ ] `Algorithm` - P059
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Mar_2week`|`18h 46m`||
+|`Mar_2week`|`20h 49m`||
 |Mar_3week|h m||
 |Mar_4week|h m||
 |Mar_5week|h m||
