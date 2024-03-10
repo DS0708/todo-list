@@ -29,11 +29,11 @@
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in room 새관402`
 
 ## `Open Source SW Project` - OSSP - 공C385
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture, Exercise `Week 1`
@@ -43,9 +43,9 @@
 - [x] `SFAI` Online-lecture `Week1`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
-- [ ] `ICFJS` - Assignment1 `Thursday April 25`
-- [ ] `ICFJS` - Assignment1 `Thursday April 25`
+- [x] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [x] `ICFJS` - Assignment1 `Thursday April 25`
+- [x] `ICFJS` - Assignment1 `Thursday April 25`
 
 ## `etc.`
 - [x] Making a plan 
@@ -91,18 +91,14 @@
 - [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - 프로젝트의 생성과 복사 - `1h 04m`
 
 
-## `Sunday March 10` - 
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `밑바닥부터 시작하는 딥러닝`
-- [ ] `이것이 자바다`
-- [ ] `Algorithm` - P058
-- [ ] `Algorithm` - P059
+## `Sunday March 10` - 0h
+
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Mar_2week`|`20h 49m`||
+|`Mar_2week`|`20h 49m`|`C+`|
 |Mar_3week|h m||
 |Mar_4week|h m||
 |Mar_5week|h m||
