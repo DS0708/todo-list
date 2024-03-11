@@ -36,6 +36,7 @@
 ## `Open Source SW Project` - OSSP
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [ ] `OSSP` Question Homework
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 2`
@@ -63,12 +64,13 @@
 - [x] Making a plan - `19m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬 `1h 18m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론 `1h 25`
-- [ ] `Algorithm` - P057
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` `1h 40m`
 - [ ] `GP` Professor meeting `on Monday at 3:30 PM`
 - [ ] `OPIc` 학원 상담
+- [ ] `Algorithm` - P057  
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
+- [ ] `OSSP` Question Homework
 
 
 ## `Tuesday March 12` - 5h 40m -> 
