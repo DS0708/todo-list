@@ -62,7 +62,7 @@
 - [x] react-timer-app - NaN 예외처리 - `21m`
 - [x] Making a plan - `19m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬 `1h 18m`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론 `1h 25`
 - [ ] `Algorithm` - P057
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `GP` Professor meeting `on Monday at 3:30 PM`
