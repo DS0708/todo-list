@@ -26,7 +26,8 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Professor meeting `on Monday at 3:30 PM`
+- [x] `GP` Professor meeting `on Monday at 3:30 PM`
+- [ ] `GP` Team Meeting `on Tuesday at 2:00 PM`
 - [ ] `GP` Submit a project application form `until March 15`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -36,7 +37,8 @@
 ## `Open Source SW Project` - OSSP
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework
+- [ ] `OSSP` Question Homework - 0305 
+- [ ] `OSSP` Question Homework - 0312
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 2`
@@ -59,7 +61,7 @@
 ---
 ---
 
-## `Monday March 11` - 3h 20m -> 
+## `Monday March 11` - 3h 20m -> 6h 49m
 - [x] react-timer-app - NaN 예외처리 - `21m`
 - [x] Making a plan - `19m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬 `1h 18m`
@@ -68,13 +70,14 @@
 - [x] `GP` Professor meeting `on Monday at 3:30 PM` `30m`
 - [x] `OPIc` 학원 상담  `10m`
 - [x] `Algorithm` - P057 - `28m`
-- [ ] `OSSP` Question Homework
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `이것이 자바다`
+- [x] `OSSP` Question Homework - 0305 `10m`
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - getSession `28m`
 
 
 ## `Tuesday March 12` - 5h 40m -> 
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [ ] `OSSP` Question Homework - 0312
+- [ ] `GP` Team Meeting `on Tuesday at 2:00 PM`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week2`
 - [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `Algorithm` - P058
