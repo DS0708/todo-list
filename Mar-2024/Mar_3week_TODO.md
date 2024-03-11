@@ -75,13 +75,13 @@
 
 
 ## `Tuesday March 12` - 5h 40m -> 
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - UTF-8처리필터 `58m`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0312
 - [ ] `GP` Team Meeting `on Tuesday at 2:00 PM`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week2`
 - [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `Algorithm` - P058
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
 
 
