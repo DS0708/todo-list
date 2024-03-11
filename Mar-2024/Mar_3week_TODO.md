@@ -65,12 +65,12 @@
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬 `1h 18m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론 `1h 25`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` `1h 40m`
-- [ ] `GP` Professor meeting `on Monday at 3:30 PM`
-- [ ] `OPIc` 학원 상담
-- [ ] `Algorithm` - P057  
+- [x] `GP` Professor meeting `on Monday at 3:30 PM` `30m`
+- [x] `OPIc` 학원 상담  `10m`
+- [x] `Algorithm` - P057 - `28m`
+- [ ] `OSSP` Question Homework
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
-- [ ] `OSSP` Question Homework
 
 
 ## `Tuesday March 12` - 5h 40m -> 
