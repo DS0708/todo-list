@@ -5,7 +5,7 @@
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
-- [ ] `Algorithm` - P057
+- [x] `Algorithm` - P057
 - [ ] `Algorithm` - P058
 - [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
@@ -16,10 +16,10 @@
 
 ## `DeepLearning`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론
 
 ## `OPIc`
-- [ ] `OPIc` 학원 상담
+- [x] `OPIc` 학원 상담
 
 ## `Stock`
 ## `React`
@@ -27,7 +27,9 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` Professor meeting `on Monday at 3:30 PM`
-- [ ] `GP` Team Meeting `on Tuesday at 2:00 PM`
+- [x] `GP` Team Meeting `on Tuesday at 2:00 PM`
+- [ ] `GP` Thinking about the topic specifically
+- [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
 - [ ] `GP` Submit a project application form `until March 15`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -35,9 +37,9 @@
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0305 
+- [x] `OSSP` Question Homework - 0305 
 - [ ] `OSSP` Question Homework - 0312
 - [ ] `OSSP` ML Homework
 
@@ -46,18 +48,19 @@
 > 퀴즈 : 
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week2`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week2`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+
 - [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
 - [ ] `ICFJS` - Assignment3 `until June 20`
 - [ ] `ICFJS` - Assignment4 `until June 20`
 
 ## `etc.`
-- [ ] Making a plan
-- [ ] react-timer-app - NaN 예외처리
+- [x] Making a plan
+- [x] react-timer-app - NaN 예외처리
 
 ---
 ---
@@ -75,22 +78,22 @@
 - [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - getSession `28m`
 
 
-## `Tuesday March 12` - 5h 40m -> 
-- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - UTF-8처리필터 `1h 22m`
+## `Tuesday March 12` - 5h 40m -> 6h 02m
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - UTF-8처리필터 `1h 30m`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` `1h 50m`
 - [x] `GP` Team Meeting `on Tuesday at 2:00 PM` `2h 30m`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week2`
-- [ ] `밑바닥부터 시작하는 딥러닝`
-- [ ] `Algorithm` - P058
-- [ ] `이것이 자바다`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week2` `12m`
 
 
 ## `Wednesday March 13` - 6h 21m ->
-- [ ] `BD` Online-lecture, Quiz `Week 2`
+- [ ] `Algorithm` - P058
 - [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `BD` Online-lecture, Quiz `Week 2`
+- [ ] `GP` Thinking about the topic specifically
+- [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
+- [ ] `이것이 자바다`
 - [ ] `Algorithm` - P059
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `이것이 자바다`
 
 
 ## `Thursday March 14` - 3h 25m ->
@@ -121,7 +124,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
-|`Mar_3week`|`h m`||
+|`Mar_3week`|`12h 51m`||
 |Mar_4week|h m||
 |Mar_5week|h m||
 
