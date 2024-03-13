@@ -90,17 +90,17 @@
 - [x] `Algorithm` - P058  `1h 19m`
 - [x] `GP` Thinking about the topic specifically  `1h 1m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 -3.1 퍼셉트론에서 신경망으로 `51m`
-- [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
+- [x] `GP` Team Meeting `on Wednesday at 5:00 PM` `1h 10m`
 - [ ] `이것이 자바다`
 - [ ] `BD` Online-lecture, Quiz `Week 2`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `Algorithm` - P059
 
 
 ## `Thursday March 14` - 3h 25m ->
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
