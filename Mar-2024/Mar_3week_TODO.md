@@ -17,6 +17,7 @@
 ## `DeepLearning`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 ## `OPIc`
 - [x] `OPIc` 학원 상담
@@ -88,7 +89,7 @@
 ## `Wednesday March 13` - 6h 21m -> 
 - [x] `Algorithm` - P058  `1h 19m`
 - [x] `GP` Thinking about the topic specifically  `1h 1m`
-- [ ] `밑바닥부터 시작하는 딥러닝`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 -3.1 퍼셉트론에서 신경망으로 `51m`
 - [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
 - [ ] `이것이 자바다`
 - [ ] `BD` Online-lecture, Quiz `Week 2`
@@ -99,7 +100,7 @@
 ## `Thursday March 14` - 3h 25m ->
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
-- [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `Algorithm` - P060
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
@@ -107,7 +108,7 @@
 
 ## `Friday March 15` - 2h 03m ->
 - [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
-- [ ] `밑바닥부터 시작하는 딥러닝`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `Algorithm` - P061
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
