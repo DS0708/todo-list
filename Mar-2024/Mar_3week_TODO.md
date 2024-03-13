@@ -67,42 +67,41 @@
 ---
 
 ## `Monday March 11` - 3h 20m -> 6h 49m
-- [x] react-timer-app - NaN 예외처리 - `21m`
+- [x] react-timer-app - NaN 예외처리 -> `21m`
 - [x] Making a plan - `19m`
-- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬 `1h 18m`
-- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론 `1h 25`
-- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` `1h 40m`
-- [x] `GP` Professor meeting `on Monday at 3:30 PM` `30m`
-- [x] `OPIc` 학원 상담  `10m`
-- [x] `Algorithm` - P057 - `28m`
-- [x] `OSSP` Question Homework - 0305 `10m`
-- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - getSession `28m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 01. 헬로 파이썬 -> `1h 18m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 02. 퍼셉트론 -> `1h 25`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
+- [x] `GP` Professor meeting `on Monday at 3:30 PM` -> `30m`
+- [x] `OPIc` 학원 상담  -> `10m`
+- [x] `Algorithm` - P057 -> `28m`
+- [x] `OSSP` Question Homework - 0305 -> `10m`
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - getSession -> `28m`
 
 
-## `Tuesday March 12` - 5h 40m -> 6h 02m
-- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - UTF-8처리필터 `1h 30m`
-- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` `1h 50m`
-- [x] `GP` Team Meeting `on Tuesday at 2:00 PM` `2h 30m`
-- [x] `SFAI` Online-lecture, Quiz, Assignment `Week2` `12m`
+## `Tuesday March 12` - 5h 40m -> 6h 2m
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 - UTF-8처리필터 -> `1h 30m`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
+- [x] `GP` Team Meeting `on Tuesday at 2:00 PM` -> `2h 30m`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week2` -> `12m`
 
 
-## `Wednesday March 13` - 6h 21m -> 
-- [x] `Algorithm` - P058  `1h 19m`
-- [x] `GP` Thinking about the topic specifically  `1h 1m`
-- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 -3.1 퍼셉트론에서 신경망으로 `51m`
-- [x] `GP` Team Meeting `on Wednesday at 5:00 PM` `1h 10m`
-- [x] `BD` Online-lecture, Quiz `Week 2` `51m`
-- [ ] `이것이 자바다`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+## `Wednesday March 13` - 6h 21m -> 6h 3m
+- [x] `Algorithm` - P058  -> `1h 19m`
+- [x] `GP` Thinking about the topic specifically  ->`1h 1m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 -3.1 퍼셉트론에서 신경망으로 ->`51m`
+- [x] `GP` Team Meeting `on Wednesday at 5:00 PM` -> `1h 10m`
+- [x] `BD` Online-lecture, Quiz `Week 2`-> `51m`
+- [x] `이것이 자바다` - 5.3 참조 타입 변수의 ==, != 연산 -> `51m` 
 
 
 ## `Thursday March 14` - 3h 25m ->
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
 
 
@@ -125,7 +124,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
-|`Mar_3week`|`12h 51m`||
+|`Mar_3week`|`18h 54m`||
 |Mar_4week|h m||
 |Mar_5week|h m||
 
