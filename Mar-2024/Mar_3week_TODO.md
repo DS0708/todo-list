@@ -39,9 +39,9 @@
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0305 
-- [ ] `OSSP` Question Homework - 0312
+- [x] `OSSP` Question Homework - 0312
 - [ ] `OSSP` ML Homework
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -96,11 +96,12 @@
 
 
 ## `Thursday March 14` - 3h 25m ->
+- [x] `OSSP` Question Homework - 0312 -> `10m`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [ ] `Algorithm` - P059
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
-- [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
 - [ ] `이것이 자바다`
 
