@@ -85,15 +85,15 @@
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week2` `12m`
 
 
-## `Wednesday March 13` - 6h 21m ->
-- [ ] `Algorithm` - P058
-- [ ] `밑바닥부터 시작하는 딥러닝`
-- [ ] `BD` Online-lecture, Quiz `Week 2`
+## `Wednesday March 13` - 6h 21m -> 
+- [x] `Algorithm` - P058  `1h 19m`
 - [ ] `GP` Thinking about the topic specifically
+- [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
 - [ ] `이것이 자바다`
-- [ ] `Algorithm` - P059
+- [ ] `BD` Online-lecture, Quiz `Week 2`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [ ] `Algorithm` - P059
 
 
 ## `Thursday March 14` - 3h 25m ->
