@@ -91,8 +91,8 @@
 - [x] `GP` Thinking about the topic specifically  `1h 1m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 -3.1 퍼셉트론에서 신경망으로 `51m`
 - [x] `GP` Team Meeting `on Wednesday at 5:00 PM` `1h 10m`
+- [x] `BD` Online-lecture, Quiz `Week 2` `51m`
 - [ ] `이것이 자바다`
-- [ ] `BD` Online-lecture, Quiz `Week 2`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
