@@ -87,7 +87,7 @@
 
 ## `Wednesday March 13` - 6h 21m -> 
 - [x] `Algorithm` - P058  `1h 19m`
-- [ ] `GP` Thinking about the topic specifically
+- [x] `GP` Thinking about the topic specifically  `1h 1m`
 - [ ] `밑바닥부터 시작하는 딥러닝`
 - [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
 - [ ] `이것이 자바다`
