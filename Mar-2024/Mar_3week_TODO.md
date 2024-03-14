@@ -95,23 +95,20 @@
 - [x] `이것이 자바다` - 5.3 참조 타입 변수의 ==, != 연산 -> `51m` 
 
 
-## `Thursday March 14` - 3h 25m ->
+## `Thursday March 14` - 3h 25m -> 2h 55m
 - [x] `OSSP` Question Homework - 0312 -> `10m`
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `65m`
 - [x] `ICFJS` - ZOOM `on Thursday at 11:00 AM` -> `1h 40m`
-- [ ] `Algorithm` - P059
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
-- [ ] `Algorithm` - P060
-- [ ] `이것이 자바다`
 
 
 ## `Friday March 15` - 2h 03m ->
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
+- [ ] `Algorithm` - P059
+- [ ] `Algorithm` - P060
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
-- [ ] `Algorithm` - P061
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
 - [ ] `이것이 자바다`
+- [ ] `Algorithm` - P061
 
 
 ## `Saturday March 16` - 1h 02 ->
@@ -125,7 +122,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
-|`Mar_3week`|`18h 54m`||
+|`Mar_3week`|`21h 49m`||
 |Mar_4week|h m||
 |Mar_5week|h m||
 
