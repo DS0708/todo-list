@@ -62,6 +62,7 @@
 ## `etc.`
 - [x] Making a plan
 - [x] react-timer-app - NaN 예외처리
+- [ ] 진로탐색
 
 ---
 ---
@@ -101,17 +102,18 @@
 - [x] `ICFJS` - ZOOM `on Thursday at 11:00 AM` -> `1h 40m`
 
 
-## `Friday March 15` - 2h 03m ->
+## `Friday March 15` - 2h 03m -> 2h 48m
+- [x] 진로탐색 -> `1h 18m`
+- [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402` -> `1h 30m`
+
+
+## `Saturday March 16` - 1h 02 ->
 - [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
 - [ ] `이것이 자바다`
 - [ ] `Algorithm` - P061
-
-
-## `Saturday March 16` - 1h 02 ->
 
 
 ## `Sunday March 17` - 0h ->
@@ -122,7 +124,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
-|`Mar_3week`|`21h 49m`||
+|`Mar_3week`|`24h 37m`||
 |Mar_4week|h m||
 |Mar_5week|h m||
 
