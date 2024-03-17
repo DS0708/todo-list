@@ -107,16 +107,11 @@
 - [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402` -> `1h 30m`
 
 
-## `Saturday March 16` - 1h 02 ->
-- [ ] `Algorithm` - P059
-- [ ] `Algorithm` - P060
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
-- [ ] `이것이 자바다`
-- [ ] `Algorithm` - P061
+## `Saturday March 16` - 1h 02 -> 0h
 
 
-## `Sunday March 17` - 0h ->
+## `Sunday March 17` - 0h -> 1h
+- [x] 진로탐색 -> `1h`
 
 
 
@@ -124,7 +119,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
-|`Mar_3week`|`24h 37m`||
+|`Mar_3week`|`25h 37m`|`B`|
 |Mar_4week|h m||
 |Mar_5week|h m||
 
@@ -133,9 +128,9 @@
 | Grade | Hour |
 |:---:|:---:|
 |`A+`|40h|
-|`A0`|35h|
+|`A`|35h|
 |`B+`|30h|
-|`B0`|24h|
+|`B`|24h|
 |`C+`|18h|
-|`C0`|12h|
+|`C`|12h|
 |`F`|12h ~|
