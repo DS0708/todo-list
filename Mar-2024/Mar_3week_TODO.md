@@ -29,13 +29,13 @@
 ## `Graduation Project` - GP
 - [x] `GP` Professor meeting `on Monday at 3:30 PM`
 - [x] `GP` Team Meeting `on Tuesday at 2:00 PM`
-- [ ] `GP` Thinking about the topic specifically
-- [ ] `GP` Team Meeting `on Wednesday at 5:00 PM`
-- [ ] `GP` Submit a project application form `until March 15`
+- [x] `GP` Thinking about the topic specifically
+- [x] `GP` Team Meeting `on Wednesday at 5:00 PM`
+- [x] `GP` Submit a project application form `until March 15`
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -45,14 +45,14 @@
 - [ ] `OSSP` ML Homework
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz `Week 2`
+- [x] `BD` Online-lecture, Quiz `Week 2`
 > 퀴즈 : 
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week2`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
+- [x] `ICFJS` - ZOOM `on Thursday at 11:00 AM`
 
 - [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
@@ -62,7 +62,7 @@
 ## `etc.`
 - [x] Making a plan
 - [x] react-timer-app - NaN 예외처리
-- [ ] 진로탐색
+- [x] 진로탐색
 
 ---
 ---
