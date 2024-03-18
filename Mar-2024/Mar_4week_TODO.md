@@ -31,14 +31,15 @@
 - [ ] `GP` Submit the research topic form `until March 23`
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [ ] `OOSD` Domain Setting `until Friday`
+- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0317
+- [ ] `OSSP` ML Homework `March 23`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` ML Homework
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 3`
@@ -55,40 +56,42 @@
 - [ ] `ICFJS` - Assignment4 `until June 20`
 
 ## `etc.`
-- [ ] Making a plan
-- [ ] 폭력예방통합 교육 강의 완료
-- [ ] 취업준비
+- [x] Making a plan
+- [x] 폭력예방통합 교육 강의 완료
+- [ ] Employment preparation
 
 ---
 ---
 
-## `Monday March 18` - 3h 20m -> 6h 49m -> 
+## `Monday March 18` - 3h 20m -> 6h 49m -> 3h 16m
 - [x] Making a plan -> `21m`
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] 폭력예방통합 교육 강의 완료
-- [ ] `Algorithm` - P058
-- [ ] 취업준비
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 50m`
+- [x] 폭력예방통합 교육 강의 완료
+- [x] `Algorithm` - P058 -> `1h 05m`
+- [ ] Employment preparation
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
 ## `Tuesday March 19` - 5h 40m -> 6h 2m -> 
 - [ ] `Algorithm` - P059
-- [ ] 취업준비
+- [ ] Employment preparation
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0317
+- [ ] `OSSP` ML Homework `March 23`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Wednesday March 20` - 6h 21m -> 6h 3m -> 
 - [ ] `Algorithm` - P060
-- [ ] 취업준비
+- [ ] Employment preparation
 - [ ] `GP` Thinking about the research topic
+- [ ] `OOSD` Domain Setting `until Friday`
 - [ ] `이것이 자바다`
 
 
 ## `Thursday March 21` - 3h 25m -> 2h 55m ->
 - [ ] `Algorithm` - P061
-- [ ] 취업준비
+- [ ] Employment preparation
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `GP` Professor meeting `on Thursday at `
 - [ ] `GP` Submit the research topic form `until March 23`
@@ -97,14 +100,14 @@
 
 ## `Friday March 22` - 2h 03m -> 2h 48m ->
 - [ ] `Algorithm` - P062
-- [ ] 취업준비
-- [ ] `OOSD` Face-to-face class `on Friday at 1:00 PM in 새관402`
+- [ ] Employment preparation
+- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Saturday March 23` - 1h 02 -> 0h ->
 - [ ] `Algorithm` - P063
-- [ ] 취업준비
+- [ ] Employment preparation
 - [ ] `BD` Online-lecture, Quiz `Week 3`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
 - [ ] `ICFJS` Online-lecture `Week3`
@@ -112,7 +115,7 @@
 
 ## `Sunday March 24` - 0h -> 1h ->
 - [ ] `Algorithm` - P064
-- [ ] 취업준비
+- [ ] Employment preparation
 - [ ] `이것이 자바다`
 
 
@@ -121,7 +124,7 @@
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
-|`Mar_4week`|`h m`||
+|`Mar_4week`|`3h 16m`||
 |Mar_5week|h m||
 
 
