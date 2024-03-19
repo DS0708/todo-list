@@ -73,9 +73,9 @@
 
 
 ## `Tuesday March 19` - 5h 40m -> 6h 2m -> 
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [ ] `Algorithm` - P059
 - [ ] Employment preparation
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0317
 - [ ] `OSSP` ML Homework `March 23`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
