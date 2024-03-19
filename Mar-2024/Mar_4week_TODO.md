@@ -72,9 +72,9 @@
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
-## `Tuesday March 19` - 5h 40m -> 6h 2m -> 
+## `Tuesday March 19` - 5h 40m -> 6h 2m -> 2h 26m
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
-- [ ] `Algorithm` - P059
+- [ ] `Algorithm` - P059 -> `36m`
 - [ ] Employment preparation
 - [ ] `OSSP` Question Homework - 0317
 - [ ] `OSSP` ML Homework `March 23`
@@ -124,7 +124,7 @@
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
-|`Mar_4week`|`3h 16m`||
+|`Mar_4week`|`5h 42m`||
 |Mar_5week|h m||
 
 
