@@ -81,7 +81,7 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
-## `Wednesday March 20` - 6h 21m -> 6h 3m -> 
+## `Wednesday March 20` - 6h 21m -> 6h 3m -> 0h
 - [ ] `Algorithm` - P060
 - [ ] Employment preparation
 - [ ] `GP` Thinking about the research topic
