@@ -1,13 +1,13 @@
 # TO Do List - Mar_4week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
-- [ ] `Algorithm` - P058
 - [ ] `Algorithm` - P059
 - [ ] `Algorithm` - P060
 - [ ] `Algorithm` - P061
 - [ ] `Algorithm` - P062
 - [ ] `Algorithm` - P063
 - [ ] `Algorithm` - P064
+- [ ] `Algorithm` - P065
 
 ## `Spring`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
@@ -26,8 +26,7 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Thinking about the research topic
-- [ ] `GP` Professor meeting `on Thursday at `
+- [ ] `GP` Professor meeting `on Friday at `
 - [ ] `GP` Submit the research topic form `until March 23`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -36,10 +35,11 @@
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [ ] `OSSP` Practice `March 21`
 - [ ] `OSSP` Question Homework - 0317
 - [ ] `OSSP` ML Homework `March 23`
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 3`
@@ -67,14 +67,14 @@
 - [x] Making a plan -> `21m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 50m`
 - [x] 폭력예방통합 교육 강의 완료
-- [x] `Algorithm` - P058 -> `1h 05m`
+- [x] `Algorithm` - P059 -> `1h 05m`
 - [ ] Employment preparation
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
 ## `Tuesday March 19` - 5h 40m -> 6h 2m -> 2h 26m
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
-- [ ] `Algorithm` - P059 -> `36m`
+- [ ] `Algorithm` - P060 -> `36m`
 - [ ] Employment preparation
 - [ ] `OSSP` Question Homework - 0317
 - [ ] `OSSP` ML Homework `March 23`
@@ -82,7 +82,7 @@
 
 
 ## `Wednesday March 20` - 6h 21m -> 6h 3m -> 0h
-- [ ] `Algorithm` - P060
+- [ ] `Algorithm` - P061
 - [ ] Employment preparation
 - [ ] `GP` Thinking about the research topic
 - [ ] `OOSD` Domain Setting `until Friday`
@@ -90,11 +90,15 @@
 
 
 ## `Thursday March 21` - 3h 25m -> 2h 55m ->
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 20m`
+- [x] `Algorithm` - P060 -> `1h 17m`
+- [ ] `OSSP` Practice `March 21`
+- [ ] `OSSP` Question Homework - 0317
 - [ ] `Algorithm` - P061
+- [ ] `OSSP` ML Homework `March 23`
+- [ ] `Algorithm` - P062
+- [ ] `OOSD` Domain Setting `until Friday`
 - [ ] Employment preparation
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `GP` Professor meeting `on Thursday at `
-- [ ] `GP` Submit the research topic form `until March 23`
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
