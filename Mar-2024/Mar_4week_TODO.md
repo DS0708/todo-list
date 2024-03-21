@@ -1,8 +1,8 @@
 # TO Do List - Mar_4week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
-- [ ] `Algorithm` - P059
-- [ ] `Algorithm` - P060
+- [x] `Algorithm` - P059
+- [x] `Algorithm` - P060
 - [ ] `Algorithm` - P061
 - [ ] `Algorithm` - P062
 - [ ] `Algorithm` - P063
@@ -31,15 +31,16 @@
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Domain Setting `until Friday`
+- [x] `OOSD` Domain Setting `until Friday`
+- [ ] `OOSD` Team Meeting
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Practice `March 21`
-- [ ] `OSSP` Question Homework - 0319
-- [ ] `OSSP` ML Homework `March 23`
+- [x] `OSSP` Practice `March 21`
+- [x] `OSSP` Question Homework - 0319
+- [x] `OSSP` ML Homework `March 23`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 3`
@@ -89,28 +90,33 @@
 - [ ] `이것이 자바다`
 
 
-## `Thursday March 21` - 3h 25m -> 2h 55m ->
+## `Thursday March 21` - 3h 25m -> 2h 55m -> 4h 26m
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 20m`
 - [x] `Algorithm` - P060 -> `1h 17m`
 - [x] `OSSP` Question Homework - 0319 -> `8m`
 - [x] `OSSP` ML Homework `March 23` -> `23m`
 - [x] `OSSP` Practice `March 21` -> `35m`
+- [x] `OOSD` Domain Setting `until Friday` -> `43`
 - [ ] `Algorithm` - P061
-- [ ] `OOSD` Domain Setting `until Friday`
 - [ ] `Algorithm` - P062
 - [ ] Employment preparation
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
 ## `Friday March 22` - 2h 03m -> 2h 48m ->
-- [ ] `Algorithm` - P062
-- [ ] Employment preparation
+- [ ] `GP` Professor meeting `on Friday at 10 AM`
+- [ ] `GP` Submit the research topic form `until March 23`
+- [ ] `OOSD` Team Meeting
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `Algorithm` - P061
+- [ ] `Algorithm` - P062
+- [ ] `Algorithm` - P063
+- [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Saturday March 23` - 1h 02 -> 0h ->
-- [ ] `Algorithm` - P063
+- [ ] `Algorithm` - P064
 - [ ] Employment preparation
 - [ ] `BD` Online-lecture, Quiz `Week 3`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
@@ -118,7 +124,7 @@
 
 
 ## `Sunday March 24` - 0h -> 1h ->
-- [ ] `Algorithm` - P064
+- [ ] `Algorithm` - P065
 - [ ] Employment preparation
 - [ ] `이것이 자바다`
 
@@ -128,7 +134,7 @@
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
-|`Mar_4week`|`5h 42m`||
+|`Mar_4week`|`10h 08m`||
 |Mar_5week|h m||
 
 
