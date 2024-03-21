@@ -38,7 +38,7 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Practice `March 21`
-- [ ] `OSSP` Question Homework - 0317
+- [ ] `OSSP` Question Homework - 0319
 - [ ] `OSSP` ML Homework `March 23`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -92,12 +92,12 @@
 ## `Thursday March 21` - 3h 25m -> 2h 55m ->
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 20m`
 - [x] `Algorithm` - P060 -> `1h 17m`
-- [ ] `OSSP` Practice `March 21`
-- [ ] `OSSP` Question Homework - 0317
+- [x] `OSSP` Question Homework - 0319 -> `8m`
+- [x] `OSSP` ML Homework `March 23` -> `23m`
+- [x] `OSSP` Practice `March 21` -> `35m`
 - [ ] `Algorithm` - P061
-- [ ] `OSSP` ML Homework `March 23`
-- [ ] `Algorithm` - P062
 - [ ] `OOSD` Domain Setting `until Friday`
+- [ ] `Algorithm` - P062
 - [ ] Employment preparation
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
