@@ -3,8 +3,8 @@
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
 - [x] `Algorithm` - P059
 - [x] `Algorithm` - P060
-- [ ] `Algorithm` - P061
-- [ ] `Algorithm` - P062
+- [x] `Algorithm` - P061
+- [x] `Algorithm` - P062
 - [ ] `Algorithm` - P063
 - [ ] `Algorithm` - P064
 - [ ] `Algorithm` - P065
@@ -118,7 +118,7 @@
 ## `Saturday March 23` - 1h 02 -> 0h ->
 - [x] `Algorithm` - P061 -> `44m`
 - [x] `Algorithm` - P062 -> `18m`
-- [ ] `Algorithm` - P063
+- [x] `Algorithm` - P063 -> `30m`
 - [ ] `Algorithm` - P064
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
