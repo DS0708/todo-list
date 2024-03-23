@@ -119,7 +119,7 @@
 - [x] `Algorithm` - P061 -> `44m`
 - [x] `Algorithm` - P062 -> `18m`
 - [x] `Algorithm` - P063 -> `30m`
-- [ ] `Algorithm` - P064
+- [x] `Algorithm` - P064 -> `37m`
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
