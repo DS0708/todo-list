@@ -120,8 +120,9 @@
 - [x] `Algorithm` - P062 -> `18m`
 - [x] `Algorithm` - P063 -> `30m`
 - [x] `Algorithm` - P064 -> `37m`
-- [ ] Employment preparation
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [x] Employment preparation -> `1h 13m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 3.2.2 계단 함수의 그래프 -> `41m`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 3
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 - [ ] `이것이 자바다`
 
