@@ -117,7 +117,7 @@
 
 ## `Saturday March 23` - 1h 02 -> 0h ->
 - [x] `Algorithm` - P061 -> `44m`
-- [ ] `Algorithm` - P062
+- [x] `Algorithm` - P062 -> `18m`
 - [ ] `Algorithm` - P063
 - [ ] `Algorithm` - P064
 - [ ] Employment preparation
