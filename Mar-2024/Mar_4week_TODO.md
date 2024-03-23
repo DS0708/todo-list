@@ -116,7 +116,7 @@
 
 
 ## `Saturday March 23` - 1h 02 -> 0h ->
-- [ ] `Algorithm` - P061
+- [x] `Algorithm` - P061 -> `44m`
 - [ ] `Algorithm` - P062
 - [ ] `Algorithm` - P063
 - [ ] `Algorithm` - P064
