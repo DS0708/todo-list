@@ -26,14 +26,14 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Professor meeting `on Friday at `
-- [ ] `GP` Submit the research topic form `until March 23`
+- [x] `GP` Professor meeting `on Friday at `
+- [x] `GP` Submit the research topic form `until March 23`
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [x] `OOSD` Domain Setting `until Friday`
-- [ ] `OOSD` Team Meeting
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Team Meeting
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -103,11 +103,11 @@
 - [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
 
 
-## `Friday March 22` - 2h 03m -> 2h 48m ->
-- [ ] `GP` Professor meeting `on Friday at 10 AM`
-- [ ] `GP` Submit the research topic form `until March 23`
-- [ ] `OOSD` Team Meeting
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+## `Friday March 22` - 2h 03m -> 2h 48m -> 3h 30m
+- [x] `GP` Professor meeting `on Friday at 10 AM` -> `30m`
+- [x] `GP` Submit the research topic form `until March 23` -> `20m`
+- [x] `OOSD` Team Meeting -> `1h`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 40m
 - [ ] `Algorithm` - P061
 - [ ] `Algorithm` - P062
 - [ ] `Algorithm` - P063
@@ -116,14 +116,20 @@
 
 
 ## `Saturday March 23` - 1h 02 -> 0h ->
+- [ ] `Algorithm` - P061
+- [ ] `Algorithm` - P062
+- [ ] `Algorithm` - P063
 - [ ] `Algorithm` - P064
 - [ ] Employment preparation
-- [ ] `BD` Online-lecture, Quiz `Week 3`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
-- [ ] `ICFJS` Online-lecture `Week3`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [ ] `이것이 자바다`
 
 
 ## `Sunday March 24` - 0h -> 1h ->
+- [ ] `BD` Online-lecture, Quiz `Week 3`
+- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
+- [ ] `ICFJS` Online-lecture `Week3`
 - [ ] `Algorithm` - P065
 - [ ] Employment preparation
 - [ ] `이것이 자바다`
@@ -134,7 +140,7 @@
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
-|`Mar_4week`|`10h 08m`||
+|`Mar_4week`|`13h 38m`||
 |Mar_5week|h m||
 
 
