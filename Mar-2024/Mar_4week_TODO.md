@@ -1,16 +1,16 @@
 # TO Do List - Mar_4week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
-- [x] `Algorithm` - P059
-- [x] `Algorithm` - P060
-- [x] `Algorithm` - P061
-- [x] `Algorithm` - P062
-- [ ] `Algorithm` - P063
-- [ ] `Algorithm` - P064
+- [x] `Algorithm` - P059 -> `1h 05m`
+- [x] `Algorithm` - P060 -> `1h 53m`
+- [x] `Algorithm` - P061 -> `44m`
+- [x] `Algorithm` - P062 -> `18m`
+- [x] `Algorithm` - P063 -> `30m`
+- [x] `Algorithm` - P064 -> `37m`
 - [ ] `Algorithm` - P065
 
 ## `Spring`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 -> `1h 2m`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 ## `DeepLearning`
@@ -116,24 +116,26 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
-## `Saturday March 23` - 1h 02 -> 0h ->
+## `Saturday March 23` - 1h 02 -> 0h -> 5h 31m
 - [x] `Algorithm` - P061 -> `44m`
 - [x] `Algorithm` - P062 -> `18m`
 - [x] `Algorithm` - P063 -> `30m`
 - [x] `Algorithm` - P064 -> `37m`
 - [x] Employment preparation -> `1h 13m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 3.2 활성화 함수 -> `1h 7m`
-- [ ] `자바 웹 개발 워크북` - 3.1 세션과 필터
+- [x] `자바 웹 개발 워크북` - 3.1 세션과 필터 -> `1h 2m`
 - [ ] `이것이 자바다`
 
 
 ## `Sunday March 24` - 0h -> 1h ->
-- [ ] `BD` Online-lecture, Quiz `Week 3`
+- [x] `BD` Online-lecture, Quiz `Week 3` -> `54m`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
 - [ ] `ICFJS` Online-lecture `Week3`
 - [ ] `Algorithm` - P065
 - [ ] Employment preparation
 - [ ] `이것이 자바다`
+- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [ ] `밑바닥부터 시작하는 딥러닝`
 
 
 ## Progress
@@ -141,7 +143,7 @@
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
-|`Mar_4week`|`13h 38m`||
+|`Mar_4week`|`19h 9m`||
 |Mar_5week|h m||
 
 
