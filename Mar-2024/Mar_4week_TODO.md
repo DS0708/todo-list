@@ -129,7 +129,7 @@
 
 ## `Sunday March 24` - 0h -> 1h ->
 - [x] `BD` Online-lecture, Quiz `Week 3` -> `54m`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week3` -> `7m`
 - [ ] `ICFJS` Online-lecture `Week3`
 - [ ] `Algorithm` - P065
 - [ ] Employment preparation
