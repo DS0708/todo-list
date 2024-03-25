@@ -44,10 +44,10 @@
 - [x] `OSSP` ML Homework `March 23`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz `Week 3`
+- [x] `BD` Online-lecture, Quiz `Week 3`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week3`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week3`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` Online-lecture `Week3`
@@ -60,7 +60,7 @@
 ## `etc.`
 - [x] Making a plan
 - [x] 폭력예방통합 교육 강의 완료
-- [ ] Employment preparation
+- [x] Employment preparation
 
 ---
 ---
@@ -127,7 +127,7 @@
 - [ ] `이것이 자바다`
 
 
-## `Sunday March 24` - 0h -> 1h ->
+## `Sunday March 24` - 0h -> 1h -> 1h 1m
 - [x] `BD` Online-lecture, Quiz `Week 3` -> `54m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week3` -> `7m`
 - [ ] `ICFJS` Online-lecture `Week3`
@@ -143,7 +143,7 @@
 |:---:|:---:|:---:|
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
-|`Mar_4week`|`19h 9m`||
+|`Mar_4week`|`20h 10m`|`C+`|
 |Mar_5week|h m||
 
 
