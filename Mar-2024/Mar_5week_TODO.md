@@ -65,7 +65,7 @@
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
 - [x] Making a plan -> `10m`
 - [x] `OOSD` Ready for Team Meeting -> `1h 21m`
-- [ ] `ICFJS` Online-lecture `Week3` -> `31m + `
+- [x] `ICFJS` Online-lecture `Week3` -> `1h 1m`
 - [ ] Employment preparation
 - [ ] `Algorithm` - P065
 - [ ] `이것이 자바다`
