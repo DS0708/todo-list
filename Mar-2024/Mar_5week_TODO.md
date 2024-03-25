@@ -61,13 +61,13 @@
 ---
 ---
 
-## `Monday March 25` - 3h 20m -> 6h 49m -> 3h 16m -> 
+## `Monday March 25` - 3h 20m -> 6h 49m -> 3h 16m -> 5h 53m
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
 - [x] Making a plan -> `10m`
 - [x] `OOSD` Ready for Team Meeting -> `1h 21m`
 - [x] `ICFJS` Online-lecture `Week3` -> `1h 1m`
+- [x] `Algorithm` - P065 - BFS 이용해 그래프 찾기 까지-> `1h 41m`
 - [ ] Employment preparation
-- [ ] `Algorithm` - P065
 - [ ] `이것이 자바다`
 
 
@@ -76,6 +76,7 @@
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0326
 - [ ] `OOSD` Team Meeting `on Tuesday at 1:00 PM`
+- [ ] `Algorithm` - P065
 - [ ] `Algorithm` - P066
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
@@ -121,7 +122,7 @@
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
 |Mar_4week|20h 10m|`C+`|
-|`Mar_5week`|`h m`||
+|`Mar_5week`|`5h 53m`||
 
 
 ## Standard Grade
