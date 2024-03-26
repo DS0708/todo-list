@@ -72,11 +72,11 @@
 
 
 ## `Tuesday March 26` - 5h 40m -> 6h 2m -> 2h 26m -> 
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
+- [x] `OSSP` Question Homework - 0326 -> `10m`
+- [ ] `Algorithm` - P065 -> `50m + `
 - [ ] Employment preparation
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0326
 - [ ] `OOSD` Team Meeting `on Tuesday at 1:00 PM`
-- [ ] `Algorithm` - P065
 - [ ] `Algorithm` - P066
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
