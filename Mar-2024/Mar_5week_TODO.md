@@ -14,7 +14,7 @@
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 ## `DeepLearning`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망-  3.3 다차원 배열의 계산 -> `33m`
 
 ## `Java`
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
@@ -85,15 +85,15 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
-## `Wednesday March 27` - 6h 21m -> 6h 3m -> 0h -> 
+## `Wednesday March 27` - 6h 21m -> 6h 3m -> 0h -> 6h 16m
 - [x] `Algorithm` - P065 -> `1h 03m`
 - [x] `Algorithm` - P066 -> `36m`
 - [x] `Algorithm` - 문제 카테고리별 분류 -> `15m`
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
 - [x] `이것이 자바다` - 19.1 네트워크 기초 -> `46m`
-- [x] `OOSD` Ready for presentation -> `2h 26m`
+- [x] `OOSD` Ready for presentation -> `2h 35m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망-  3.3 다차원 배열의 계산 -> `33m`
 - [ ] Employment preparation
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `Algorithm` - P067
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
@@ -136,7 +136,7 @@
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
 |Mar_4week|20h 10m|`C+`|
-|`Mar_5week`|`10h 30m`||
+|`Mar_5week`|`16h 46m`||
 
 
 ## Standard Grade
