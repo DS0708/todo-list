@@ -91,7 +91,7 @@
 - [x] `Algorithm` - 문제 카테고리별 분류 -> `15m`
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
 - [x] `이것이 자바다` - 19.1 네트워크 기초 -> `46m`
-- [ ] `OOSD` Ready for presentation
+- [x] `OOSD` Ready for presentation -> `2h 26m`
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `Algorithm` - P067
