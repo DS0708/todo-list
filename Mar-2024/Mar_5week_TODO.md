@@ -2,7 +2,8 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
 - [x] `Algorithm` - P065 -> `3h 41m`
-- [ ] `Algorithm` - P066
+- [x] `Algorithm` - P065 -> `1h 03m`
+- [x] `Algorithm` - P066 -> `36m`
 - [ ] `Algorithm` - P067
 - [ ] `Algorithm` - P068
 - [ ] `Algorithm` - P069
@@ -49,6 +50,7 @@
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` Online-lecture `Week3`
 - [ ] `ICFJS` Face-to-face  `Week4`
+- [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
 
 - [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
@@ -84,7 +86,8 @@
 
 ## `Wednesday March 27` - 6h 21m -> 6h 3m -> 0h -> 
 - [x] `Algorithm` - P065 -> `1h 03m`
-- [ ] `Algorithm` - P066
+- [x] `Algorithm` - P066 -> `36m`
+- [x] `Algorithm` - 문제 카테고리별 분류 -> `15m`
 - [ ] `이것이 자바다`
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
@@ -116,6 +119,7 @@
 - [ ] `BD` Online-lecture, Quiz `Week 4`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
 
 
 ## `Sunday March 31` - 0h -> 1h -> 1h 1m -> 
