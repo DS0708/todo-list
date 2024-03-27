@@ -17,7 +17,8 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 ## `Java`
-- [ ] `이것이 자바다`
+- [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
+- [x] `이것이 자바다` - 19.1 네트워크 기초 -> `46m`
 
 
 ## `OPIc`
@@ -89,10 +90,10 @@
 - [x] `Algorithm` - P066 -> `36m`
 - [x] `Algorithm` - 문제 카테고리별 분류 -> `15m`
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
-- [ ] `이것이 자바다`
+- [x] `이것이 자바다` - 19.1 네트워크 기초 -> `46m`
+- [ ] `OOSD` Ready for presentation
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
-- [ ] `OOSD` Ready for presentation
 - [ ] `Algorithm` - P067
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
