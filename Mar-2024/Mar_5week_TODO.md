@@ -88,6 +88,7 @@
 - [x] `Algorithm` - P065 -> `1h 03m`
 - [x] `Algorithm` - P066 -> `36m`
 - [x] `Algorithm` - 문제 카테고리별 분류 -> `15m`
+- [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
 - [ ] `이것이 자바다`
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
