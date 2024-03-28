@@ -27,20 +27,20 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Team meeting `on Thursday at 3:00 PM`
-- [ ] `GP` Submit the research topic form `until March 23`
+- [x] `GP` Team meeting `on Thursday at 3:00 PM`
+- [x] `GP` Submit the research topic form `until March 23`
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [x] `OOSD` Ready for Team Meeting `until Friday`
 - [x] `OOSD` Team Meeting `on Tuesday at 1:00 PM`
-- [ ] `OOSD` Ready for presentation
+- [x] `OOSD` Ready for presentation
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0326
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 4`
@@ -50,7 +50,7 @@
 
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` Online-lecture `Week3`
-- [ ] `ICFJS` Face-to-face  `Week4`
+- [x] `ICFJS` Face-to-face  `Week4`
 - [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
 
 - [ ] `ICFJS` - Assignment1 `until April 25`
@@ -97,23 +97,24 @@
 - [ ] `Algorithm` - P067
 
 
-## `Thursday March 28` - 3h 25m -> 2h 55m -> 4h 26m ->
+## `Thursday March 28` - 3h 25m -> 2h 55m -> 4h 26m -> 5h 35m
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 33m`
 - [x] `ICFJS` Face-to-face  `Week4` - > `1h 40m`
 - [x] `GP` Team meeting `on Thursday at 3:00 PM` -> `1h 30m`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - > `21m + `
-- [ ] `GP` Submit the research topic form `until March 23`
-- [ ] Employment preparation
+- [x] `GP` Submit the research topic form `until March 23`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 읽기 - > `52m`
 - [ ] `Algorithm` - P067
 - [ ] `Algorithm` - P068
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
 ## `Friday March 29` - 2h 03m -> 2h 48m -> 3h 30m -> 
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 정리
+- [ ] `Algorithm` - P067
+- [ ] `Algorithm` - P068
 - [ ] Employment preparation
 - [ ] `Algorithm` - P069
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
 ## `Saturday March 30` - 1h 02 -> 0h -> 5h 31m ->
@@ -137,7 +138,7 @@
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
 |Mar_4week|20h 10m|`C+`|
-|`Mar_5week`|`16h 46m`||
+|`Mar_5week`|`22h 21m`||
 
 
 ## Standard Grade
