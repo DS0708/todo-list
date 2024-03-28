@@ -99,13 +99,13 @@
 
 ## `Thursday March 28` - 3h 25m -> 2h 55m -> 4h 26m ->
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 33m`
-- [ ] `ICFJS` Face-to-face  `Week4`
-- [ ] `GP` Team meeting `on Thursday at 3:00 PM`
+- [x] `ICFJS` Face-to-face  `Week4` - > `1h 40m`
+- [x] `GP` Team meeting `on Thursday at 3:00 PM` -> `1h 30m`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - > `21m + `
 - [ ] `GP` Submit the research topic form `until March 23`
 - [ ] Employment preparation
 - [ ] `Algorithm` - P067
 - [ ] `Algorithm` - P068
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
