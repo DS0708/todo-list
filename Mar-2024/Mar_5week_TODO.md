@@ -92,20 +92,21 @@
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
 - [x] `이것이 자바다` - 19.1 네트워크 기초 -> `46m`
 - [x] `OOSD` Ready for presentation -> `2h 35m`
-- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망-  3.3 다차원 배열의 계산 -> `33m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 -  3.3 다차원 배열의 계산 -> `33m`
 - [ ] Employment preparation
 - [ ] `Algorithm` - P067
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
 ## `Thursday March 28` - 3h 25m -> 2h 55m -> 4h 26m ->
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 33m`
 - [ ] `ICFJS` Face-to-face  `Week4`
 - [ ] `GP` Team meeting `on Thursday at 3:00 PM`
 - [ ] `GP` Submit the research topic form `until March 23`
 - [ ] Employment preparation
+- [ ] `Algorithm` - P067
 - [ ] `Algorithm` - P068
-- [ ] `이것이 자바다`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
 ## `Friday March 29` - 2h 03m -> 2h 48m -> 3h 30m -> 
