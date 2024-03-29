@@ -4,8 +4,8 @@
 - [x] `Algorithm` - P065 -> `3h 41m`
 - [x] `Algorithm` - P065 -> `1h 03m`
 - [x] `Algorithm` - P066 -> `36m`
-- [ ] `Algorithm` - P067
-- [ ] `Algorithm` - P068
+- [x] `Algorithm` - P067 -> `26m`
+- [x] `Algorithm` - P068 -> `31m`
 - [ ] `Algorithm` - P069
 - [ ] `Algorithm` - P070
 - [ ] `Algorithm` - P071
@@ -15,6 +15,8 @@
 
 ## `DeepLearning`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망-  3.3 다차원 배열의 계산 -> `33m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 읽기 - > `52m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 3층 신경망 구현하기 -> `1h 30m`
 
 ## `Java`
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
@@ -108,20 +110,20 @@
 
 
 ## `Friday March 29` - 2h 03m -> 2h 48m -> 3h 30m -> 
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 정리
-- [ ] `Algorithm` - P067
-- [ ] `Algorithm` - P068
-- [ ] Employment preparation
-- [ ] `Algorithm` - P069
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 3층 신경망 구현하기 -> `1h 30m`
+- [x] `Algorithm` - P067 -> `26m`
+- [x] `Algorithm` - P068 -> `31m`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
+- [x] `Algorithm` - P069 -> `42m`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [ ] Employment preparation
 
 
 ## `Saturday March 30` - 1h 02 -> 0h -> 5h 31m ->
 - [ ] Employment preparation
 - [ ] `Algorithm` - P070
 - [ ] `BD` Online-lecture, Quiz `Week 4`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4`
+- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4` 
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
 
