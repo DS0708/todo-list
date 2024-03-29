@@ -109,13 +109,13 @@
 - [ ] `Algorithm` - P068
 
 
-## `Friday March 29` - 2h 03m -> 2h 48m -> 3h 30m -> 
+## `Friday March 29` - 2h 03m -> 2h 48m -> 3h 30m -> 6h 0m
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 3층 신경망 구현하기 -> `1h 30m`
 - [x] `Algorithm` - P067 -> `26m`
 - [x] `Algorithm` - P068 -> `31m`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
 - [x] `Algorithm` - P069 -> `42m`
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키를 사용하는 경우 -> `1h 6m`
 - [ ] Employment preparation
 
 
@@ -140,7 +140,7 @@
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
 |Mar_4week|20h 10m|`C+`|
-|`Mar_5week`|`22h 21m`||
+|`Mar_5week`|`28h 21m`||
 
 
 ## Standard Grade
