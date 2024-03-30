@@ -32,6 +32,7 @@
 - [x] `GP` Team meeting `on Thursday at 3:00 PM`
 - [x] `GP` Submit the research topic form `until March 23`
 - [ ] `GP` 계획서 작성
+
 - [ ] `GP` Zoom 회의 `on Monday at 9:00 PM`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -50,13 +51,14 @@
 - [x] `BD` Online-lecture, Quiz `Week 4`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week4`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` Online-lecture `Week3`
 - [x] `ICFJS` Face-to-face  `Week4`
-- [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
+- [x] `ICFJS` 비교과 수료 프로그램 계획 세우기
 
+- [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기 - 추후 공지예정
 - [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
 - [ ] `ICFJS` - Assignment3 `until June 20`
@@ -123,9 +125,9 @@
 
 ## `Saturday March 30` - 1h 02 -> 0h -> 5h 31m ->
 - [x] `BD` Online-lecture, Quiz `Week 4` -> `1h`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4` 
-- [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
-- [ ] `GP` 계획서 작성
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week4` -> `6m`
+- [x] `ICFJS` 비교과 수료 프로그램 계획 세우기 - 추후 공지예정 ->`10m`
+- [x] `GP` 계획서 작성 -> `23m`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] `Algorithm` - P070
 - [ ] Employment preparation
