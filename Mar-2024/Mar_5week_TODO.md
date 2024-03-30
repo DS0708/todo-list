@@ -6,7 +6,7 @@
 - [x] `Algorithm` - P066 -> `36m`
 - [x] `Algorithm` - P067 -> `26m`
 - [x] `Algorithm` - P068 -> `31m`
-- [ ] `Algorithm` - P069
+- [x] `Algorithm` - P069 -> `42m`
 - [ ] `Algorithm` - P070
 - [ ] `Algorithm` - P071
 
@@ -31,13 +31,15 @@
 ## `Graduation Project` - GP
 - [x] `GP` Team meeting `on Thursday at 3:00 PM`
 - [x] `GP` Submit the research topic form `until March 23`
+- [ ] `GP` 계획서 작성
+- [ ] `GP` Zoom 회의 `on Monday at 9:00 PM`
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [x] `OOSD` Ready for Team Meeting `until Friday`
 - [x] `OOSD` Team Meeting `on Tuesday at 1:00 PM`
 - [x] `OOSD` Ready for presentation
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -45,7 +47,7 @@
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz `Week 4`
+- [x] `BD` Online-lecture, Quiz `Week 4`
 
 ## `Startup Finance And Investment` - SFAI
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4`
@@ -120,12 +122,13 @@
 
 
 ## `Saturday March 30` - 1h 02 -> 0h -> 5h 31m ->
-- [ ] Employment preparation
-- [ ] `Algorithm` - P070
-- [ ] `BD` Online-lecture, Quiz `Week 4`
+- [x] `BD` Online-lecture, Quiz `Week 4` -> `1h`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week4` 
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기
+- [ ] `GP` 계획서 작성
+- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [ ] `Algorithm` - P070
+- [ ] Employment preparation
 
 
 ## `Sunday March 31` - 0h -> 1h -> 1h 1m -> 
