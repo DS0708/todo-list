@@ -1,28 +1,29 @@
 # TO Do List - Mar_5week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'`
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `9h 38m`
 - [x] `Algorithm` - P065 -> `3h 41m`
 - [x] `Algorithm` - P065 -> `1h 03m`
 - [x] `Algorithm` - P066 -> `36m`
 - [x] `Algorithm` - P067 -> `26m`
 - [x] `Algorithm` - P068 -> `31m`
 - [x] `Algorithm` - P069 -> `42m`
-- [ ] `Algorithm` - P070
-- [ ] `Algorithm` - P071
+- [x] `Algorithm` - P070 -> `1h 25m`
+- [x] `Algorithm` - P071 -> `1h 14m`
 
-## `Spring`
+## `Spring` -> `2h 6m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키를 사용하는 경우 -> `1h 6m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)- 쿠키의 생성/전송 -> `1h`
 
-## `DeepLearning`
+## `DeepLearning` -> `2h 55m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망-  3.3 다차원 배열의 계산 -> `33m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 읽기 - > `52m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.4 3층 신경망 구현하기 -> `1h 30m`
 
-## `Java`
+## `Java` -> `1h 14m`
 - [x] `이것이 자바다` - 5.4 null과 NullPointerException -> `28m`
 - [x] `이것이 자바다` - 19.1 네트워크 기초 -> `46m`
 
+> `개인공부 : 15h 53m`
 
 ## `OPIc`
 ## `Stock`
@@ -32,7 +33,7 @@
 ## `Graduation Project` - GP
 - [x] `GP` Team meeting `on Thursday at 3:00 PM`
 - [x] `GP` Submit the research topic form `until March 23`
-- [ ] `GP` 계획서 작성
+- [x] `GP` 계획서 작성
 
 - [ ] `GP` Zoom 회의 `on Monday at 9:00 PM`
 
@@ -134,10 +135,10 @@
 - [ ] Employment preparation
 
 
-## `Sunday March 31` - 0h -> 1h -> 1h 1m -> 
+## `Sunday March 31` - 0h -> 1h -> 1h 1m -> 3h 39m
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)- 쿠키의 생성/전송 -> `1h`
-- [ ] `Algorithm` - P070 -> ``
-- [ ] `Algorithm` - P071
+- [x] `Algorithm` - P070 -> `1h 25m`
+- [x] `Algorithm` - P071 -> `1h 14m`
 - [ ] Employment preparation
 
 
@@ -148,7 +149,7 @@
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
 |Mar_4week|20h 10m|`C+`|
-|`Mar_5week`|`30h 0m`||
+|`Mar_5week`|`33h 39m`|`B+`|
 
 
 ## Standard Grade
