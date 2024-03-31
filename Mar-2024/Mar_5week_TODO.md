@@ -11,7 +11,8 @@
 - [ ] `Algorithm` - P071
 
 ## `Spring`
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키를 사용하는 경우 -> `1h 6m`
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)- 쿠키의 생성/전송 -> `1h`
 
 ## `DeepLearning`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망-  3.3 다차원 배열의 계산 -> `33m`
@@ -119,11 +120,11 @@
 - [x] `Algorithm` - P068 -> `31m`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
 - [x] `Algorithm` - P069 -> `42m`
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키를 사용하는 경우 -> `1h 6m`
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키를 사용하는 경우 -> `1h 6m`
 - [ ] Employment preparation
 
 
-## `Saturday March 30` - 1h 02 -> 0h -> 5h 31m ->
+## `Saturday March 30` - 1h 02 -> 0h -> 5h 31m -> 1h 39m
 - [x] `BD` Online-lecture, Quiz `Week 4` -> `1h`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week4` -> `6m`
 - [x] `ICFJS` 비교과 수료 프로그램 계획 세우기 - 추후 공지예정 ->`10m`
@@ -134,8 +135,10 @@
 
 
 ## `Sunday March 31` - 0h -> 1h -> 1h 1m -> 
-- [ ] Employment preparation
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)- 쿠키의 생성/전송 -> `1h`
+- [ ] `Algorithm` - P070 -> ``
 - [ ] `Algorithm` - P071
+- [ ] Employment preparation
 
 
 
@@ -145,7 +148,7 @@
 |Mar_2week|20h 49m|`C+`|
 |Mar_3week|25h 37m|`B`|
 |Mar_4week|20h 10m|`C+`|
-|`Mar_5week`|`28h 21m`||
+|`Mar_5week`|`30h 0m`||
 
 
 ## Standard Grade
