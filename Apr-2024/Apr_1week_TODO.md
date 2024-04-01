@@ -1,7 +1,7 @@
 # TO Do List - Apr_1week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `0h 0m`
-- [ ] `Algorithm` - P072
+- [x] `Algorithm` - P072 -> `26m`
 - [ ] `Algorithm` - P073
 - [ ] `Algorithm` - P074
 - [ ] `Algorithm` - P075
@@ -44,6 +44,7 @@
 
 ## `Open Source SW Project` - OSSP
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [ ] `OSSP` 주제 선정 제출 `April 02`
 - [ ] `OSSP` Question Homework - 0402
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
@@ -73,8 +74,8 @@
 - [x] Making a plan -> `37m`
 - [x] `GP` 제안서 작성, 연구지도#3 - 회의준비 -> `21m`
 - [x] Employment preparation -> `30m`
-- [ ] `Algorithm` - P072
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 22m`
+- [x] `Algorithm` - P072 -> `26m`
 - [ ] `OPIc` 수업 `in 강남 on Monday at 07:00 PM`
 - [ ] `GP` Discord 회의 `on Monday at 10:00 PM`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
@@ -85,6 +86,7 @@
 - [ ] Employment preparation
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0402
+- [ ] `OSSP` 주제 선정 제출 `April 02`
 - [ ] `이것이 자바다`
 
 
