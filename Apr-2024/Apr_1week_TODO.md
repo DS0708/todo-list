@@ -29,7 +29,7 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` 제안서 작성
+- [x] `GP` 제안서 작성, 연구지도#3 - 회의준비
 - [ ] `GP` Discord 회의 `on Monday at 10:00 PM`
 - [ ] `GP` 연구지도 확인서 #3 `until April 6`
 
@@ -70,10 +70,10 @@
 ---
 
 ## `Monday April 01` - 
-- [x] Making a plan -> 
-- [ ] `GP` 제안서 작성
+- [x] Making a plan -> `37m`
+- [x] `GP` 제안서 작성, 연구지도#3 - 회의준비 -> `21m`
+- [x] Employment preparation -> `30m`
 - [ ] `Algorithm` - P072
-- [ ] Employment preparation
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OPIc` 수업 `in 강남 on Monday at 07:00 PM`
 - [ ] `GP` Discord 회의 `on Monday at 10:00 PM`
