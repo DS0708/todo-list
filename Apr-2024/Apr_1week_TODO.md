@@ -30,7 +30,7 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` 제안서 작성, 연구지도#3 - 회의준비
-- [ ] `GP` Discord 회의 `on Monday at 10:00 PM`
+- [x] `GP` Discord 회의 `on Monday at 10:00 PM`
 - [ ] `GP` 연구지도 확인서 #3 `until April 6`
 
 - [ ] `GP` PPT 제작 `until April 9`
@@ -39,13 +39,13 @@
 - [ ] `GP` 제안서 및 PPT제출 `until April 12`
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` 주제 선정 제출 `April 02`
-- [ ] `OSSP` Question Homework - 0402
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Question Homework - 0402
+- [x] `OSSP` 주제 선정 제출 `April 02`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -82,9 +82,9 @@
 
 
 ## `Tuesday April 02` - 
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0402
-- [ ] `OSSP` 주제 선정 제출 `April 02`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 40m`
+- [x] `OSSP` Question Homework - 0402
+- [x] `OSSP` 주제 선정 제출 `April 02`
 - [ ] `Algorithm` - P073
 - [ ] Employment preparation
 - [ ] `이것이 자바다`
