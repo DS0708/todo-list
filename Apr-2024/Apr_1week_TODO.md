@@ -15,7 +15,7 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 ## `Java` -> `0h 0m`
-- [ ] `이것이 자바다`
+- [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
 
 ## `OPIc` ->
 - [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
@@ -86,8 +86,9 @@
 - [x] `OSSP` Question Homework - 0402
 - [x] `OSSP` 주제 선정 제출 `April 02`
 - [x] `Algorithm` - P073 -> `43m`
+- [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
+- [ ] `이것이 자바다` - 
 - [ ] Employment preparation
-- [ ] `이것이 자바다`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
