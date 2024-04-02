@@ -2,7 +2,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `0h 0m`
 - [x] `Algorithm` - P072 -> `26m`
-- [ ] `Algorithm` - P073
+- [x] `Algorithm` - P073 -> `43m`
 - [ ] `Algorithm` - P074
 - [ ] `Algorithm` - P075
 - [ ] `Algorithm` - P076
@@ -82,10 +82,10 @@
 
 
 ## `Tuesday April 02` - 
-- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 40m`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 45m`
 - [x] `OSSP` Question Homework - 0402
 - [x] `OSSP` 주제 선정 제출 `April 02`
-- [ ] `Algorithm` - P073
+- [x] `Algorithm` - P073 -> `43m`
 - [ ] Employment preparation
 - [ ] `이것이 자바다`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
