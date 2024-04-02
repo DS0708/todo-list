@@ -16,11 +16,13 @@
 
 ## `Java` -> `0h 0m`
 - [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
+- [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 서버 -> `1h 4m`
+- [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 클라이언트 -> `24m`
 
 ## `OPIc` ->
 - [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
-- [ ] `OPIc` 수업 `in 강남 on Wednesday at 07:00 PM`
-- [ ] `OPIc` 수업 `in 강남 on Friday at 07:00 PM`
+- [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
+- [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
 
 > `개인공부 : 0h 0m`
 
@@ -87,7 +89,9 @@
 - [x] `OSSP` 주제 선정 제출 `April 02`
 - [x] `Algorithm` - P073 -> `43m`
 - [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
-- [ ] `이것이 자바다` - 
+- [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 서버 -> `1h 4m`
+- [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 클라이언트 -> `24m`
+- [ ] `이것이 자바다` - 19.3 TCP 네트워킹 - 입출력 스트림으로 데이터 주고 받기 -> ``
 - [ ] Employment preparation
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
@@ -95,7 +99,7 @@
 ## `Wednesday April 03` - 
 - [ ] `Algorithm` - P074
 - [ ] Employment preparation
-- [ ] `OPIc` 수업 `in 강남 on Wednesday at 07:00 PM`
+- [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
@@ -110,7 +114,7 @@
 - [ ] `Algorithm` - P076
 - [ ] Employment preparation
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OPIc` 수업 `in 강남 on Friday at 07:00 PM`
+- [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
 - [ ] `이것이 자바다`
 
 
