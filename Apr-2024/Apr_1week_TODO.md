@@ -12,16 +12,19 @@
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 ## `DeepLearning` -> `0h 0m`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.5 출력층 설계하기 -> `53m`
 
 ## `Java` -> `0h 0m`
 - [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 서버 -> `1h 4m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 클라이언트 -> `24m`
+- [x] `이것이 자바다` - 19.3 TCP 네트워킹 - 입출력 스트림으로 데이터 주고 받기 -> `40m`
 
 ## `OPIc` ->
 - [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
+- [ ] `OPIc` 단어 외우기, 수
 - [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
+- [ ] `OPIc` 단어 외우기, 금
 - [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
 
 > `개인공부 : 0h 0m`
@@ -67,6 +70,7 @@
 
 ## `etc.`
 - [x] Making a plan
+- [x] AWS VPC 삭제 -> `30m`
 - [ ] Employment preparation
 
 ---
@@ -83,7 +87,7 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
-## `Tuesday April 02` - 
+## `Tuesday April 02` - 6h 14m
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 45m`
 - [x] `OSSP` Question Homework - 0402
 - [x] `OSSP` 주제 선정 제출 `April 02`
@@ -91,14 +95,16 @@
 - [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 서버 -> `1h 4m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 클라이언트 -> `24m`
-- [ ] `이것이 자바다` - 19.3 TCP 네트워킹 - 입출력 스트림으로 데이터 주고 받기 -> ``
+- [x] AWS VPC 삭제 -> `30m`
+- [x] `이것이 자바다` - 19.3 TCP 네트워킹 - 입출력 스트림으로 데이터 주고 받기 -> `40m`
+- [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.5 출력층 설계하기 -> `53m`
 - [ ] Employment preparation
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Wednesday April 03` - 
 - [ ] `Algorithm` - P074
 - [ ] Employment preparation
+- [ ] `OPIc` 단어 외우기, 수
 - [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
@@ -133,7 +139,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Apr_1week`|`5h 46m`||
+|`Apr_1week`|`12h 0m`||
 |Apr_2week|h m||
 |Apr_3week|h m||
 |Apr_4week|h m||
