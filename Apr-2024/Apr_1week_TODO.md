@@ -18,7 +18,7 @@
 - [ ] `이것이 자바다`
 
 ## `OPIc` ->
-- [ ] `OPIc` 수업 `in 강남 on Monday at 07:00 PM`
+- [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
 - [ ] `OPIc` 수업 `in 강남 on Wednesday at 07:00 PM`
 - [ ] `OPIc` 수업 `in 강남 on Friday at 07:00 PM`
 
@@ -70,24 +70,25 @@
 ---
 ---
 
-## `Monday April 01` - 
+## `Monday April 01` - 5h 46m
 - [x] Making a plan -> `37m`
 - [x] `GP` 제안서 작성, 연구지도#3 - 회의준비 -> `21m`
 - [x] Employment preparation -> `30m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 22m`
 - [x] `Algorithm` - P072 -> `26m`
-- [ ] `OPIc` 수업 `in 강남 on Monday at 07:00 PM`
-- [ ] `GP` Discord 회의 `on Monday at 10:00 PM`
+- [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
+- [x] `GP` Discord 회의 `on Monday at 10:00 PM` -> `1h`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Tuesday April 02` - 
-- [ ] `Algorithm` - P073
-- [ ] Employment preparation
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0402
 - [ ] `OSSP` 주제 선정 제출 `April 02`
+- [ ] `Algorithm` - P073
+- [ ] Employment preparation
 - [ ] `이것이 자바다`
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Wednesday April 03` - 
@@ -127,7 +128,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Apr_1week|h m||
+|`Apr_1week`|`5h 46m`||
 |Apr_2week|h m||
 |Apr_3week|h m||
 |Apr_4week|h m||
