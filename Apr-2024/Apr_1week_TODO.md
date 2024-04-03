@@ -3,7 +3,7 @@
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `0h 0m`
 - [x] `Algorithm` - P072 -> `26m`
 - [x] `Algorithm` - P073 -> `43m`
-- [ ] `Algorithm` - P074
+- [x] `Algorithm` - P074 -> `1h 05m`
 - [ ] `Algorithm` - P075
 - [ ] `Algorithm` - P076
 
@@ -22,9 +22,10 @@
 
 ## `OPIc` ->
 - [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
-- [ ] `OPIc` 단어 외우기, 수
-- [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
+- [x] `OPIc` 단어 외우기, 수 -> `11m`
+- [x] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM` -> `2h 20m
 - [ ] `OPIc` 단어 외우기, 금
+- [ ] `OPIc` 스크립트 작성, 금
 - [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
 
 > `개인공부 : 0h 0m`
@@ -102,18 +103,19 @@
 - [ ] Employment preparation
 
 
-## `Wednesday April 03` - 
+## `Wednesday April 03` - 3h 52m
 - [x] `OSSP` 주제 선정 -> `16m`
 - [x] `OPIc` 단어 외우기, 수 -> `11m`
-- [ ] `Algorithm` - P074 -> `13m + `
+- [x] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM` -> `2h 20m
+- [x] `Algorithm` - P074 -> `1h 05m`
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
-- [ ] Employment preparation
-- [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
+- [ ] Employment preparation`
 
 
 ## `Thursday April 04` - 
 - [ ] `Algorithm` - P075
 - [ ] Employment preparation
+- [ ] `OPIc` 스크립트 작성, 금
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
@@ -141,7 +143,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Apr_1week`|`12h 0m`||
+|`Apr_1week`|`15h 52m`||
 |Apr_2week|h m||
 |Apr_3week|h m||
 |Apr_4week|h m||
