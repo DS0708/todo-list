@@ -51,6 +51,7 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0402
 - [x] `OSSP` 주제 선정 제출 `April 02`
+- [ ] `OSSP` 주제 선정
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -102,11 +103,12 @@
 
 
 ## `Wednesday April 03` - 
-- [ ] `Algorithm` - P074
+- [x] `OSSP` 주제 선정 -> `16m`
+- [ ] `Algorithm` - P074 -> `13m + `
+- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] Employment preparation
 - [ ] `OPIc` 단어 외우기, 수
 - [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 
 
 ## `Thursday April 04` - 
