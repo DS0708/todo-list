@@ -104,10 +104,10 @@
 
 ## `Wednesday April 03` - 
 - [x] `OSSP` 주제 선정 -> `16m`
+- [x] `OPIc` 단어 외우기, 수 -> `11m`
 - [ ] `Algorithm` - P074 -> `13m + `
 - [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
 - [ ] Employment preparation
-- [ ] `OPIc` 단어 외우기, 수
 - [ ] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM`
 
 
