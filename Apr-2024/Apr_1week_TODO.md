@@ -10,6 +10,7 @@
 
 ## `Spring` -> `0h 0m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) -> `22m`
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키의 값을 이용한 사용자 조회 - `52m`
 
 ## `DeepLearning` -> `0h 0m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.5 출력층 설계하기 -> `53m`
@@ -37,7 +38,9 @@
 ## `Graduation Project` - GP
 - [x] `GP` 제안서 작성, 연구지도#3 - 회의준비
 - [x] `GP` Discord 회의 `on Monday at 10:00 PM`
-- [ ] `GP` 연구지도 확인서 #3 `until April 6`
+- [x] `GP` 연구지도 확인서 #3 `until April 6`
+- [ ] `GP` 제안서 마무리
+- [ ] `GP` PPT 만들기
 
 - [ ] `GP` PPT 제작 `until April 9`
 - [ ] `GP` Face-to-face class `April 9`
@@ -46,7 +49,7 @@
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -122,13 +125,15 @@
 
 
 ## `Friday April 05` - 
-- [ ] `OPIc` 스크립트 작성, 금
-- [ ] `OSSP` 주제 선정해보기
+- [x] `OPIc` 스크립트 작성, 금 `1h 11m`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `50m`
+- [x] `OSSP` 주제 선정해보기 `55m`
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키의 값을 이용한 사용자 조회 - `52m`
+- [ ] `OPIc` 단어 외우기, 금
+- [ ] `Algorithm` - P075
 - [ ] `Algorithm` - P076
 - [ ] Employment preparation
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
-- [ ] `이것이 자바다`
 
 
 ## `Saturday April 06` - 
@@ -136,6 +141,8 @@
 
 
 ## `Sunday April 07` - 
+- [ ] `GP` 제안서 마무리
+- [ ] `GP` PPT 만들기
 - [ ] `BD` Online-lecture, Quiz `Week 5`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week5`
 - [ ] `ICFJS` Online-lecture  `Week5`
@@ -146,7 +153,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Apr_1week`|`15h 52m`||
+|`Apr_1week`|`17h 52m`||
 |Apr_2week|h m||
 |Apr_3week|h m||
 |Apr_4week|h m||
