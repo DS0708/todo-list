@@ -9,7 +9,7 @@
 
 
 ## `Spring` -> `0h 0m`
-- [ ] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie)
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) -> `22m`
 
 ## `DeepLearning` -> `0h 0m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.5 출력층 설계하기 -> `53m`
@@ -52,8 +52,8 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0402
 - [x] `OSSP` 주제 선정 제출 `April 02`
-- [ ] `OSSP` 주제 선정
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` 주제 선정 -> `16m`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 5`
@@ -112,15 +112,18 @@
 - [ ] Employment preparation`
 
 
-## `Thursday April 04` - 
+## `Thursday April 04` - 2h 0m
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 10m`
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) -> `22m`
+- [ ] `OSSP` 주제 선정해보기 -> `28m + `
 - [ ] `Algorithm` - P075
-- [ ] Employment preparation
 - [ ] `OPIc` 스크립트 작성, 금
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [ ] Employment preparation
 
 
 ## `Friday April 05` - 
+- [ ] `OPIc` 스크립트 작성, 금
+- [ ] `OSSP` 주제 선정해보기
 - [ ] `Algorithm` - P076
 - [ ] Employment preparation
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
