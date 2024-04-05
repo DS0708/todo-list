@@ -25,9 +25,9 @@
 - [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
 - [x] `OPIc` 단어 외우기, 수 -> `11m`
 - [x] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM` -> `2h 20m
-- [ ] `OPIc` 단어 외우기, 금
-- [ ] `OPIc` 스크립트 작성, 금
-- [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
+- [x] `OPIc` 스크립트 작성, 금 `1h 11m`
+- [x] `OPIc` 단어 외우기, 금
+- [x] `OPIc` 수업 `in 강남 on Friday at 06:00 PM` -> `2h 20m`
 
 > `개인공부 : 0h 0m`
 
@@ -124,16 +124,16 @@
 - [ ] Employment preparation
 
 
-## `Friday April 05` - 
+## `Friday April 05` - 6h 08m
 - [x] `OPIc` 스크립트 작성, 금 `1h 11m`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `50m`
 - [x] `OSSP` 주제 선정해보기 `55m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키의 값을 이용한 사용자 조회 - `52m`
-- [ ] `OPIc` 단어 외우기, 금
+- [x] `OPIc` 단어 외우기, 금
+- [x] `OPIc` 수업 `in 강남 on Friday at 06:00 PM` -> `2h 20m`
 - [ ] `Algorithm` - P075
 - [ ] `Algorithm` - P076
 - [ ] Employment preparation
-- [ ] `OPIc` 수업 `in 강남 on Friday at 06:00 PM`
 
 
 ## `Saturday April 06` - 
@@ -153,7 +153,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Apr_1week`|`17h 52m`||
+|`Apr_1week`|`24h 0m`||
 |Apr_2week|h m||
 |Apr_3week|h m||
 |Apr_4week|h m||
