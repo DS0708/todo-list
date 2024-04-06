@@ -1,6 +1,6 @@
 # TO Do List - Apr_1week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `0h 0m`
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `2h 14m`
 - [x] `Algorithm` - P072 -> `26m`
 - [x] `Algorithm` - P073 -> `43m`
 - [x] `Algorithm` - P074 -> `1h 05m`
@@ -8,28 +8,28 @@
 - [ ] `Algorithm` - P076
 
 
-## `Spring` -> `0h 0m`
+## `Spring` -> `1h 14m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) -> `22m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키의 값을 이용한 사용자 조회 - `52m`
 
-## `DeepLearning` -> `0h 0m`
+## `DeepLearning` -> `0h 53m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.5 출력층 설계하기 -> `53m`
 
-## `Java` -> `0h 0m`
+## `Java` -> `2h 23m`
 - [x] `이것이 자바다` - 19.2 IP 주소 얻기 -> `15m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 서버 -> `1h 4m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - TCP 클라이언트 -> `24m`
 - [x] `이것이 자바다` - 19.3 TCP 네트워킹 - 입출력 스트림으로 데이터 주고 받기 -> `40m`
 
-## `OPIc` ->
+## `OPIc` -> `7h 32m`
 - [x] `OPIc` 수업 `in 강남 on Monday at 07:00 PM` -> `1h 30m`
 - [x] `OPIc` 단어 외우기, 수 -> `11m`
-- [x] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM` -> `2h 20m
+- [x] `OPIc` 수업 `in 강남 on Wednesday at 06:00 PM` -> `2h 20m`
 - [x] `OPIc` 스크립트 작성, 금 `1h 11m`
 - [x] `OPIc` 단어 외우기, 금
 - [x] `OPIc` 수업 `in 강남 on Friday at 06:00 PM` -> `2h 20m`
 
-> `개인공부 : 0h 0m`
+> `개인공부 : 14h 16m`
 
 ## `Stock`
 ## `React`
@@ -40,9 +40,8 @@
 - [x] `GP` Discord 회의 `on Monday at 10:00 PM`
 - [x] `GP` 연구지도 확인서 #3 `until April 6`
 - [ ] `GP` 제안서 마무리
-- [ ] `GP` PPT 만들기
-
 - [ ] `GP` PPT 제작 `until April 9`
+
 - [ ] `GP` Face-to-face class `April 9`
 - [ ] `GP` Face-to-face class `April 11`
 - [ ] `GP` 제안서 및 PPT제출 `until April 12`
@@ -136,13 +135,13 @@
 - [ ] Employment preparation
 
 
-## `Saturday April 06` - 
+## `Saturday April 06` - 0h 0m
 
 
 
 ## `Sunday April 07` - 
 - [ ] `GP` 제안서 마무리
-- [ ] `GP` PPT 만들기
+- [ ] `GP` PPT 제작 `until April 9`
 - [ ] `BD` Online-lecture, Quiz `Week 5`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week5`
 - [ ] `ICFJS` Online-lecture  `Week5`
