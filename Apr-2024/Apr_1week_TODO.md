@@ -40,8 +40,7 @@
 - [x] `GP` 제안서 작성, 연구지도#3 - 회의준비
 - [x] `GP` Discord 회의 `on Monday at 10:00 PM`
 - [x] `GP` 연구지도 확인서 #3 `until April 6`
-- [ ] `GP` 제안서 마무리
-- [ ] `GP` PPT 제작 `until April 9`
+- [x] `GP` 제안서 마무리, PPT 제작 `until April 9
 
 - [ ] `GP` Face-to-face class `April 9`
 - [ ] `GP` Face-to-face class `April 11`
@@ -59,7 +58,7 @@
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz `Week 5`
+- [x] `BD` Online-lecture, Quiz `Week 5`
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week5`
@@ -140,13 +139,12 @@
 
 
 
-## `Sunday April 07` - 
+## `Sunday April 07` - 3h 31m
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - LoginCheckFilter -> `47m`
 - [x] `OSSP` CNN 주제 선정 -> `38m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week5` -> `8m`
 - [x] `BD` Online-lecture, Quiz `Week 5` -> `41m`
-- [ ] `GP` 제안서 마무리
-- [ ] `GP` PPT 제작 `until April 9`
+- [x] `GP` 제안서 마무리, PPT 제작 `until April 9` -> `1h 17m`
 - [ ] `ICFJS` Online-lecture  `Week5`
 - [ ] `ICFJS` - Assignment1 `until April 25`
 
@@ -155,7 +153,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Apr_1week`|`24h 0m`||
+|`Apr_1week`|`27h 31m`|`B`|
 |Apr_2week|h m||
 |Apr_3week|h m||
 |Apr_4week|h m||
