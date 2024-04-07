@@ -8,9 +8,10 @@
 - [ ] `Algorithm` - P076
 
 
-## `Spring` -> `1h 14m`
+## `Spring` -> `2h 01m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) -> `22m`
 - [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - 쿠키의 값을 이용한 사용자 조회 - `52m`
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - LoginCheckFilter -> `47m`
 
 ## `DeepLearning` -> `0h 53m`
 - [x] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망 - 3.5 출력층 설계하기 -> `53m`
@@ -29,7 +30,7 @@
 - [x] `OPIc` 단어 외우기, 금
 - [x] `OPIc` 수업 `in 강남 on Friday at 06:00 PM` -> `2h 20m`
 
-> `개인공부 : 14h 16m`
+> `개인공부 : 15h 03m`
 
 ## `Stock`
 ## `React`
@@ -61,7 +62,7 @@
 - [ ] `BD` Online-lecture, Quiz `Week 5`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week5`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week5`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` Online-lecture  `Week5`
@@ -140,10 +141,12 @@
 
 
 ## `Sunday April 07` - 
+- [x] `자바 웹 개발 워크북` - 3.2 사용자 정의 쿠키(Cookie) - LoginCheckFilter -> `47m`
+- [x] `OSSP` CNN 주제 선정 -> `38m`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week5` -> `8m`
+- [x] `BD` Online-lecture, Quiz `Week 5` -> `41m`
 - [ ] `GP` 제안서 마무리
 - [ ] `GP` PPT 제작 `until April 9`
-- [ ] `BD` Online-lecture, Quiz `Week 5`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week5`
 - [ ] `ICFJS` Online-lecture  `Week5`
 - [ ] `ICFJS` - Assignment1 `until April 25`
 
