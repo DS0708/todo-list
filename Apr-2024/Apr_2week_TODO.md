@@ -17,9 +17,9 @@
 - [ ] `이것이 자바다` - 19.4
 
 ## `OPIc` -> ` h  m`
-- [ ] `OPIc` 단어 외우기 `월`
-- [ ] `OPIc` 스크립트 작성 `월`
-- [ ] `OPIc` 수업 `in 강남 on Monday at 06:00 PM`
+- [x] `OPIc` 단어 외우기 `월` -> `10m`
+- [x] `OPIc` 스크립트 작성 `월`
+- [x] `OPIc` 수업 `in 강남 on Monday at 06:00 PM` -> `2h 20m`
 
 
 
@@ -67,20 +67,21 @@
 ---
 ---
 
-## `Monday April 08` - 5h 46m -> 
+## `Monday April 08` - 5h 46m -> 6h 42m
 - [x] Making a plan -> `21m`
 - [x] `OOSD` 중간고사 시험공부 - PP `56m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 45m`
 - [x] `ICFJS` Online-lecture  `Week5` -> `1h 10m`
+- [x] `OPIc` 단어 외우기 `월` -> `10m`
+- [x] `OPIc` 스크립트 작성 `월`
+- [x] `OPIc` 수업 `in 강남 on Monday at 06:00 PM` -> `2h 20m`
 - [ ] `OOSD` 1, 4 Use case Diagram
-- [ ] `OPIc` 단어 외우기 `월`
-- [ ] `OPIc` 스크립트 작성 `월`
-- [ ] `OPIc` 수업 `in 강남 on Monday at 06:00 PM`
 
 
 ## `Tuesday April 09` - 6h 14m -> 
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0409
+- [ ] `OOSD` 1, 4 Use case Diagram
 - [ ] `OOSD` Team meeting `on Tuesday at 1:00 PM`
 - [ ] `GP` Face-to-face class `April 9`
 - [ ] `Algorithm` - P075
@@ -121,7 +122,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`h m`||
+|`Apr_2week`|`6h 42m`||
 |Apr_3week|h m||
 |Apr_4week|h m||
 
