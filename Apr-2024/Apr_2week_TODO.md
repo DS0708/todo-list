@@ -71,7 +71,7 @@
 - [x] Making a plan -> `21m`
 - [x] `OOSD` 중간고사 시험공부 - PP `56m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 45m`
-- [ ] `ICFJS` Online-lecture  `Week5` -> `48m`
+- [x] `ICFJS` Online-lecture  `Week5` -> `1h 10m`
 - [ ] `OOSD` 1, 4 Use case Diagram
 - [ ] `OPIc` 단어 외우기 `월`
 - [ ] `OPIc` 스크립트 작성 `월`
