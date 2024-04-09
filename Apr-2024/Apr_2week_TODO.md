@@ -38,6 +38,7 @@
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OOSD` 1, 4 Use case Diagram
 - [ ] `OOSD` Team meeting `on Tuesday at 1:00 PM`
+- [ ] `OOSD` Essential Use Case 1, 4 번
 - [ ] `OOSD` 중간고사 시험공부 
 
 ## `Open Source SW Project` - OSSP
@@ -79,11 +80,12 @@
 
 
 ## `Tuesday April 09` - 6h 14m -> 
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0409
-- [ ] `OOSD` 1, 4 Use case Diagram
-- [ ] `OOSD` Team meeting `on Tuesday at 1:00 PM`
-- [ ] `GP` Face-to-face class `April 9`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 40m`
+- [x] `OOSD` 1, 4 Use case Diagram
+- [x] `OSSP` Question Homework - 0409
+- [x] `OOSD` Team meeting `on Tuesday at 1:00 PM` -> `2h 45m`
+- [x] `GP` Face-to-face class `April 9` -> `2h`
+- [ ] `OOSD` Essential Use Case, Test Case
 - [ ] `Algorithm` - P075
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
