@@ -30,20 +30,21 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Face-to-face class `April 9`
-- [ ] `GP` 제안서 제출 `until April 14`
+- [x] `GP` Face-to-face class `April 9`
+- [x] `GP` 제안서 제출 `until April 14`
+- [ ] `GP` Face-to-face class `April 11`
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` 1, 4 Use case Diagram
+- [x] `OOSD` Team meeting `on Tuesday at 1:00 PM`
+- [x] `OOSD` Essential Use Case 1, 4 번
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OOSD` 1, 4 Use case Diagram
-- [ ] `OOSD` Team meeting `on Tuesday at 1:00 PM`
-- [ ] `OOSD` Essential Use Case 1, 4 번
 - [ ] `OOSD` 중간고사 시험공부 
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0409
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Question Homework - 0409
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -53,7 +54,7 @@
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` Online-lecture  `Week5`
+- [x] `ICFJS` Online-lecture  `Week5`
 - [ ] `ICFJS` Online-lecture  `Week6`
 - [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
@@ -79,18 +80,19 @@
 - [ ] `OOSD` 1, 4 Use case Diagram
 
 
-## `Tuesday April 09` - 6h 14m -> 
+## `Tuesday April 09` - 6h 14m -> 7h 08m
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 40m`
 - [x] `OOSD` 1, 4 Use case Diagram
 - [x] `OSSP` Question Homework - 0409
 - [x] `OOSD` Team meeting `on Tuesday at 1:00 PM` -> `2h 45m`
 - [x] `GP` Face-to-face class `April 9` -> `2h`
 - [x] `OOSD` Essential Use Case, Test Case -> `13m`
-- [ ] `Algorithm` - P075
+- [ ] `Algorithm` - P075 -> `30m + `
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
 ## `Wednesday April 10` - 3h 52m -> 
+- [ ] `Algorithm` - P075
 - [ ] `Algorithm` - P076
 - [ ] `자바 웹 개발 워크북` - 3.3 리스너
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
@@ -124,7 +126,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`6h 42m`||
+|`Apr_2week`|`13h 50m`||
 |Apr_3week|h m||
 |Apr_4week|h m||
 
