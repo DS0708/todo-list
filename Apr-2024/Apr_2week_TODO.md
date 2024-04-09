@@ -85,7 +85,7 @@
 - [x] `OSSP` Question Homework - 0409
 - [x] `OOSD` Team meeting `on Tuesday at 1:00 PM` -> `2h 45m`
 - [x] `GP` Face-to-face class `April 9` -> `2h`
-- [ ] `OOSD` Essential Use Case, Test Case
+- [x] `OOSD` Essential Use Case, Test Case -> `13m`
 - [ ] `Algorithm` - P075
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
