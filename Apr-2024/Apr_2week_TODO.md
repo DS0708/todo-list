@@ -32,30 +32,31 @@
 ## `Graduation Project` - GP
 - [x] `GP` Face-to-face class `April 9`
 - [x] `GP` 제안서 제출 `until April 14`
-- [ ] `GP` Face-to-face class `April 11`
+- [x] `GP` Face-to-face class `April 11`
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [x] `OOSD` 1, 4 Use case Diagram
 - [x] `OOSD` Team meeting `on Tuesday at 1:00 PM`
 - [x] `OOSD` Essential Use Case 1, 4 번
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OOSD` 중간고사 시험공부 
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` 중간고사 시험공부 - PP `56m`
+- [ ] `OOSD` 중간고사 시험공부
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0409
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz `Week 6`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` Online-lecture  `Week5`
-- [ ] `ICFJS` Online-lecture  `Week6`
+- [x] `ICFJS` Online-lecture  `Week6`
 - [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
 
@@ -64,7 +65,8 @@
 - [ ] `ICFJS` - Assignment4 `until June 20`
 
 ## `etc.`
-- [ ] Making a plan
+- [x] Making a plan
+- [ ] 시험공부 계획 세우기
 
 ---
 ---
@@ -106,20 +108,24 @@
 
 
 ## `Friday April 12` - 6h 08m -> 
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `Algorithm` - P078
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
+- [x] `ICFJS` Online-lecture  `Week6`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
+- [x] `ICFJS` - Assignment1 `until April 25` -> `53m`
+- [ ] 시험공부 계획 세우기
 - [ ] `OOSD` 중간고사 시험공부
+- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
+- [ ] `Algorithm` - P078
 
 
 ## `Saturday April 13` - 0h 0m ->
 - [ ] `BD` Online-lecture, Quiz `Week 6`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
-- [ ] `ICFJS` Online-lecture  `Week6`
+- [ ] `OOSD` 중간고사 시험공부
 
 
 ## `Sunday April 14` - 3h 31m ->
-- [ ] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
+- [ ] `OOSD` 중간고사 시험공부
 
 
 
