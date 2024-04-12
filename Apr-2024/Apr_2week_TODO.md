@@ -2,16 +2,9 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [ ] `Algorithm` - P075
-- [ ] `Algorithm` - P076
-- [ ] `Algorithm` - P077
-- [ ] `Algorithm` - P078
-
 
 ## `Spring` -> `h m`
 - [ ] `자바 웹 개발 워크북` - 3.3 리스너
-
-## `DeepLearning` -> `h m`
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 ## `Java` -> ` h  m`
 - [ ] `이것이 자바다` - 19.4
@@ -22,9 +15,9 @@
 - [x] `OPIc` 수업 `in 강남 on Monday at 06:00 PM` -> `2h 20m`
 
 
-
 > `개인공부` : `15h 03m` -> `h m`
 
+## `DeepLearning`
 ## `Stock`
 ## `React`
 ---
@@ -40,8 +33,6 @@
 - [x] `OOSD` Team meeting `on Tuesday at 1:00 PM`
 - [x] `OOSD` Essential Use Case 1, 4 번
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [x] `OOSD` 중간고사 시험공부 - PP `56m`
-- [ ] `OOSD` 중간고사 시험공부
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -57,7 +48,7 @@
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` Online-lecture  `Week5`
 - [x] `ICFJS` Online-lecture  `Week6`
-- [ ] `ICFJS` - Assignment1 `until April 25`
+- [x] `ICFJS` - Assignment1 `until April 25`
 - [ ] `ICFJS` - Assignment2 `until April 25`
 
 - [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기 - 추후 공지예정
@@ -66,7 +57,40 @@
 
 ## `etc.`
 - [x] Making a plan
-- [ ] 시험공부 계획 세우기
+- [x] 시험공부 계획 세우기
+
+## `객체지향 중간`
+- [ ] `OOAD` Software Development - 1 -> `0h 56m`
+- [ ] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1
+- [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
+- [ ] `OOAD` Chapter 3. Case Studies - 2
+- [ ] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3
+- [ ] `OOAD` Chapter 5. Evolutionary Requirements - 3
+- [ ] `OOAD` Chapter 6. Use Cases - 4
+- [ ] `OOAD` Chapter 7. Other Requirements - 4
+- [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
+- [ ] `OOAD` Chapter 9. Domain Models - 5
+- [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
+- [ ] `OOAD` Chapter 11. Operation Contracts - 6
+
+## `오픈소스 중간`
+- [ ] `OSSP` Chapter3 신경망 - 1
+- [ ] `OSSP` Chapter4 신경망 학습 - 1
+- [ ] `OSSP` Chapter5 오차역전파법 - 2
+- [ ] `OSSP` Chapter6 학습 관련 기술들 - 3
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 4
+- [ ] `OSSP` Chapter8 딥러닝 - 5
+- [ ] `OSSP` 강의자료 정독
+
+
+## `빅데이터 중간`
+- [ ] `Bic Data` 1주차
+- [ ] `Bic Data` 2주차
+- [ ] `Bic Data` 3주차
+- [ ] `Bic Data` 4주차
+- [ ] `Bic Data` 5주차
+- [ ] `Bic Data` 6주차
+- [ ] `Bic Data` 7주차
 
 ---
 ---
@@ -112,21 +136,24 @@
 - [x] `ICFJS` Online-lecture  `Week6`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
 - [x] `ICFJS` - Assignment1 `until April 25` -> `53m`
-- [ ] 시험공부 계획 세우기
-- [ ] `OOSD` 중간고사 시험공부
-- [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
-- [ ] `Algorithm` - P078
+- [x] 시험공부 계획 세우기 -> `22m`
+- [ ] `BD` Online-lecture, Quiz `Week 6`
 
 
 ## `Saturday April 13` - 0h 0m ->
-- [ ] `BD` Online-lecture, Quiz `Week 6`
-- [ ] `OOSD` 중간고사 시험공부
+- [ ] `OOAD` Software Development - 1
+- [ ] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1
+- [ ] `OSSP` Chapter3 신경망 - 1
+- [ ] `OSSP` Chapter4 신경망 학습 - 1
+- [ ] `Bic Data` 1주차
 
 
 ## `Sunday April 14` - 3h 31m ->
+- [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
+- [ ] `OOAD` Chapter 3. Case Studies - 2
+- [ ] `OSSP` Chapter5 오차역전파법 - 2
 - [ ] `ICFJS` - Assignment2 `until April 25`
-- [ ] `OOSD` 중간고사 시험공부
-
+- [ ] `Bic Data` 2주차
 
 
 ## Progress
