@@ -40,7 +40,8 @@
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz `Week 6`
+- [x] `BD` Online-lecture  `Week 6`
+- [ ] `BD` Quiz 올라오면 하기`Week 6`
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
@@ -131,13 +132,13 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
-## `Friday April 12` - 6h 08m -> 
+## `Friday April 12` - 6h 08m -> 3h 43m
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
 - [x] `ICFJS` Online-lecture  `Week6`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
 - [x] `ICFJS` - Assignment1 `until April 25` -> `53m`
 - [x] 시험공부 계획 세우기 -> `22m`
-- [ ] `BD` Online-lecture, Quiz `Week 6`
+- [x] `BD` Online-lecture `Week 6` -> `43m`
 
 
 ## `Saturday April 13` - 0h 0m ->
@@ -154,13 +155,14 @@
 - [ ] `OSSP` Chapter5 오차역전파법 - 2
 - [ ] `ICFJS` - Assignment2 `until April 25`
 - [ ] `Bic Data` 2주차
+- [ ] `BD` Quiz 올라오면 하기 `Week 6`
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`15h 50m`||
+|`Apr_2week`|`19h 33m`||
 |Apr_3week|h m||
 |Apr_4week|h m||
 
