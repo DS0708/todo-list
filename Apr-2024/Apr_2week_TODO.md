@@ -98,9 +98,9 @@
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
 
-## `Thursday April 11` - 2h 0m -> 
+## `Thursday April 11` - 2h 0m -> 2h
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h`
-- [ ] `GP` Face-to-face class `April 11`
+- [x] `GP` Face-to-face class `April 11` -> `1h`
 - [ ] `Algorithm` - P077
 - [ ] `밑바닥부터 시작하는 딥러닝` - Chapter 03. 신경망
 
@@ -127,7 +127,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`13h 50m`||
+|`Apr_2week`|`15h 50m`||
 |Apr_3week|h m||
 |Apr_4week|h m||
 
