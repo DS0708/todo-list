@@ -62,7 +62,7 @@
 
 ## `객체지향 중간`
 - [x] `OOAD` Software Development - 1 -> `3h 3m`
-- [ ] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1
+- [x] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1 -> `25m`
 - [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
 - [ ] `OOAD` Chapter 3. Case Studies - 2
 - [ ] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3
@@ -75,7 +75,7 @@
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
 
 ## `오픈소스 중간`
-- [ ] `OSSP` Chapter3 신경망 - 1
+- [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [ ] `OSSP` Chapter4 신경망 학습 - 1
 - [ ] `OSSP` Chapter5 오차역전파법 - 2
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 3
@@ -143,8 +143,8 @@
 
 ## `Saturday April 13` - 0h 0m ->
 - [x] `OOAD` Software Development - 1 -> `2h 7m`
-- [ ] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1
-- [ ] `OSSP` Chapter3 신경망 - 1
+- [x] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1 -> `25m`
+- [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [ ] `OSSP` Chapter4 신경망 학습 - 1
 - [ ] `Bic Data` 1주차
 
