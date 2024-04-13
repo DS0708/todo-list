@@ -141,19 +141,21 @@
 - [x] `BD` Online-lecture `Week 6` -> `43m`
 
 
-## `Saturday April 13` - 0h 0m ->
+## `Saturday April 13` - 0h 0m -> 5h 07m
 - [x] `OOAD` Software Development - 1 -> `2h 7m`
 - [x] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1 -> `25m`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
-- [ ] `OSSP` Chapter4 신경망 학습 - 1
+- [ ] `OSSP` Chapter4 신경망 학습 - 1 -> `36m`
 - [ ] `Bic Data` 1주차
 
 
 ## `Sunday April 14` - 3h 31m ->
 - [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
 - [ ] `OOAD` Chapter 3. Case Studies - 2
+- [ ] `OSSP` Chapter4 신경망 학습 - 1
 - [ ] `OSSP` Chapter5 오차역전파법 - 2
 - [ ] `ICFJS` - Assignment2 `until April 25`
+- [ ] `Bic Data` 1주차
 - [ ] `Bic Data` 2주차
 - [ ] `BD` Quiz 올라오면 하기 `Week 6`
 
@@ -162,7 +164,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`19h 33m`||
+|`Apr_2week`|`24h 40m`||
 |Apr_3week|h m||
 |Apr_4week|h m||
 
