@@ -61,7 +61,7 @@
 - [x] 시험공부 계획 세우기
 
 ## `객체지향 중간`
-- [ ] `OOAD` Software Development - 1 -> `0h 56m`
+- [x] `OOAD` Software Development - 1 -> `3h 3m`
 - [ ] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1
 - [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
 - [ ] `OOAD` Chapter 3. Case Studies - 2
@@ -142,7 +142,7 @@
 
 
 ## `Saturday April 13` - 0h 0m ->
-- [ ] `OOAD` Software Development - 1
+- [x] `OOAD` Software Development - 1 -> `2h 7m`
 - [ ] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1
 - [ ] `OSSP` Chapter3 신경망 - 1
 - [ ] `OSSP` Chapter4 신경망 학습 - 1
