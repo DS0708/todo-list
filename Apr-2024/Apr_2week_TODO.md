@@ -141,11 +141,11 @@
 - [x] `BD` Online-lecture `Week 6` -> `43m`
 
 
-## `Saturday April 13` - 0h 0m -> 5h 07m
+## `Saturday April 13` - 0h 0m -> 6h 16m
 - [x] `OOAD` Software Development - 1 -> `2h 7m`
 - [x] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1 -> `25m`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
-- [ ] `OSSP` Chapter4 신경망 학습 - 1 -> `36m`
+- [ ] `OSSP` Chapter4 신경망 학습 - 1  - 4.2.3 미니배치 학습 -> `1h 45m`
 - [ ] `Bic Data` 1주차
 
 
@@ -164,7 +164,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`24h 40m`||
+|`Apr_2week`|`25h 49m`||
 |Apr_3week|h m||
 |Apr_4week|h m||
 
