@@ -41,7 +41,6 @@
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture  `Week 6`
-- [ ] `BD` Quiz 올라오면 하기`Week 6`
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 6`
@@ -76,11 +75,11 @@
 
 ## `오픈소스 중간`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
-- [ ] `OSSP` Chapter4 신경망 학습 - 1
-- [ ] `OSSP` Chapter5 오차역전파법 - 2
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 3
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 4
-- [ ] `OSSP` Chapter8 딥러닝 - 5
+- [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
+- [ ] `OSSP` Chapter5 오차역전파법 - 3
+- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [ ] `OSSP` Chapter8 딥러닝 - 6
 - [ ] `OSSP` 강의자료 정독
 
 
@@ -149,22 +148,20 @@
 - [ ] `Bic Data` 1주차
 
 
-## `Sunday April 14` - 3h 31m ->
-- [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
+## `Sunday April 14` - 3h 31m -> 5h 24m
+- [x] `OSSP` Chapter4 신경망 학습 - 2 -> `4h 32m`
+- [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `52m`
 - [ ] `OOAD` Chapter 3. Case Studies - 2
-- [ ] `OSSP` Chapter4 신경망 학습 - 1
-- [ ] `OSSP` Chapter5 오차역전파법 - 2
 - [ ] `ICFJS` - Assignment2 `until April 25`
 - [ ] `Bic Data` 1주차
 - [ ] `Bic Data` 2주차
-- [ ] `BD` Quiz 올라오면 하기 `Week 6`
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
-|`Apr_2week`|`25h 49m`||
+|`Apr_2week`|`31h 13m`|`B+`|
 |Apr_3week|h m||
 |Apr_4week|h m||
 
