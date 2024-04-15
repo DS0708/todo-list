@@ -57,7 +57,7 @@
 - [x] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `1h 52m`
 - [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
 - [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
-- [ ] `OOAD` Chapter 5. Evolutionary Requirements - 3
+- [x] `OOAD` Chapter 5. Evolutionary Requirements - 3 -> `28m`
 - [ ] `OOAD` Chapter 6. Use Cases - 4
 - [ ] `OOAD` Chapter 7. Other Requirements - 4
 - [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
@@ -92,7 +92,7 @@
 - [x] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `1h`
 - [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
 - [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
-- [ ] `OOAD` Chapter 5. Evolutionary Requirements - 3
+- [x] `OOAD` Chapter 5. Evolutionary Requirements - 3 -> `28m`
 - [ ] `OSSP` Chapter5 오차역전파법 - 3
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OPIc` 수업 `월`
