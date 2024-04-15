@@ -10,7 +10,7 @@
 - [ ] `이것이 자바다` - 19.4
 
 ## `OPIc` -> ` h  m`
-- [ ] `OPIc` 수업 `월`
+- [x] `OPIc` 수업 `월`
 - [ ] `OPIc` 수업 `수`
 - [ ] `OPIc` 수업 `금`
 
@@ -95,9 +95,9 @@
 - [x] `OOAD` Chapter 5. Evolutionary Requirements - 3 -> `28m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 50m`
+- [x] `OPIc` 수업 `월` -> `2h 20m`
 - [x] `OSSP` Chapter5 오차역전파법 - 5.2 - 3 -> `1h`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
-- [ ] `OPIc` 수업 `월`
+- [ ] `OSSP` Chapter5 오차역전파법 - 3 -> `1h 06m +`
 
 
 ## `Tuesday April 16` - 6h 14m -> 7h 08m
