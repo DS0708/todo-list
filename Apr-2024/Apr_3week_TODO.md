@@ -38,7 +38,7 @@
 - [ ] `BD` Online-lecture  `Week 7`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM`
@@ -93,8 +93,9 @@
 - [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
 - [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
 - [x] `OOAD` Chapter 5. Evolutionary Requirements - 3 -> `28m`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 50m`
 - [x] `OSSP` Chapter5 오차역전파법 - 5.2 - 3 -> `1h`
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
 - [ ] `OPIc` 수업 `월`
 
@@ -130,7 +131,6 @@
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
 - [ ] `BD` Online-lecture  `Week 7`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
 - [ ] `ICFJS` - Assignment2 `until April 25`
 
 
