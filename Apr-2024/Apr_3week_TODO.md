@@ -93,8 +93,9 @@
 - [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
 - [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
 - [x] `OOAD` Chapter 5. Evolutionary Requirements - 3 -> `28m`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3
+- [x] `OSSP` Chapter5 오차역전파법 - 5.2 - 3 -> `1h`
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
 - [ ] `OPIc` 수업 `월`
 
 
