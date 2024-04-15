@@ -54,9 +54,9 @@
 ## `객체지향 중간`
 - [x] `OOAD` Software Development - 1 -> `3h 3m`
 - [x] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1 -> `25m`
-- [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
-- [ ] `OOAD` Chapter 3. Case Studies - 2
-- [ ] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3
+- [x] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `1h 52m`
+- [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
+- [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
 - [ ] `OOAD` Chapter 5. Evolutionary Requirements - 3
 - [ ] `OOAD` Chapter 6. Use Cases - 4
 - [ ] `OOAD` Chapter 7. Other Requirements - 4
@@ -89,9 +89,9 @@
 
 ## `Monday April 15` - 5h 46m -> 6h 42m -> 
 - [x] Making a plan -> `13m`
-- [ ] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2
-- [ ] `OOAD` Chapter 3. Case Studies - 2
-- [ ] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3
+- [x] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `1h`
+- [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
+- [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
 - [ ] `OOAD` Chapter 5. Evolutionary Requirements - 3
 - [ ] `OSSP` Chapter5 오차역전파법 - 3
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
