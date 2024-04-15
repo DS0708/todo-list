@@ -87,7 +87,7 @@
 ---
 ---
 
-## `Monday April 15` - 5h 46m -> 6h 42m -> 
+## `Monday April 15` - 5h 46m -> 6h 42m -> 9h 21m
 - [x] Making a plan -> `13m`
 - [x] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `1h`
 - [x] `OOAD` Chapter 3. Case Studies - 2 -> `13m`
@@ -96,16 +96,16 @@
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 50m`
 - [x] `OPIc` 수업 `월` -> `2h 20m`
-- [x] `OSSP` Chapter5 오차역전파법 - 5.2 - 3 -> `1h`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3 -> `1h 06m +`
+- [x] `OSSP` Chapter5 오차역전파법 - 5.5 -> `2h 43m`
 
 
 ## `Tuesday April 16` - 6h 14m -> 7h 08m
 - [ ] `OOAD` Chapter 6. Use Cases - 4
 - [ ] `OOAD` Chapter 7. Other Requirements - 4
+- [ ] `OSSP` Chapter5 오차역전파법 - 3
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
-- [ ] `OSSP` Question Homework - 0416
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [ ] `OSSP` Question Homework - 0416
 - [ ] `GP` Face-to-face class `April 16`
 
 
@@ -143,7 +143,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`h m`||
+|`Apr_3week`|`9h 21m`||
 |Apr_4week|h m||
 
 
