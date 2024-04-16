@@ -23,16 +23,16 @@
 ---
 
 ## `Graduation Project` - GP
-- [ ] `GP` Face-to-face class `April 16`
-- [ ] `GP` 교수지도 확인서 #4
+- [x] `GP` Face-to-face class `April 16`
+- [x] `GP` 교수지도 확인서 #4
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0416
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Question Homework - 0416
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -69,7 +69,7 @@
 ## `오픈소스 중간`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3
+- [ ] `OSSP` Chapter5 오차역전파법 - 3 -> `5h 49m`
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 - [ ] `OSSP` 강의자료 정독
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
@@ -100,20 +100,19 @@
 - [x] `OSSP` Chapter5 오차역전파법 - 5.5 -> `2h 43m`
 
 
-## `Tuesday April 16` - 6h 14m -> 7h 08m -> 
+## `Tuesday April 16` - 6h 14m -> 7h 08m -> 7h 06m
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [x] `OSSP` Question Homework - 0416
 - [x] `ICFJS` - Assignment2 `until April 25`
 - [x] `GP` 교수지도 확인서 #4 -> `1h`
 - [x] `GP` Face-to-face class `April 16` -> `1h 10m`
-- [x] `OSSP` Chapter5 오차역전파법 5.6.1 - 3 - >  `1h 21`
-- [x] `OSSP` Chapter5 오차역전파법 5.6.2 - 3 -> `1h`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
-- [ ] `OOAD` Chapter 6. Use Cases - 4
-- [ ] `OOAD` Chapter 7. Other Requirements - 4
+- [x] `OSSP` Chapter5 오차역전파법 5.6 - 3 -> `3h 06m`
 
 
 ## `Wednesday April 17` - 3h 52m -> 0h 0m
+- [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
+- [ ] `OOAD` Chapter 6. Use Cases - 4
+- [ ] `OOAD` Chapter 7. Other Requirements - 4
 - [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
 - [ ] `OOAD` Chapter 9. Domain Models - 5
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
