@@ -24,6 +24,7 @@
 
 ## `Graduation Project` - GP
 - [ ] `GP` Face-to-face class `April 16`
+- [ ] `GP` 교수지도 확인서 #4
 
 ## `Object-Oriented Software Development` - OOSD
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
@@ -99,14 +100,16 @@
 - [x] `OSSP` Chapter5 오차역전파법 - 5.5 -> `2h 43m`
 
 
-## `Tuesday April 16` - 6h 14m -> 7h 08m
-- [ ] `OOAD` Chapter 6. Use Cases - 4
-- [ ] `OOAD` Chapter 7. Other Requirements - 4
+## `Tuesday April 16` - 6h 14m -> 7h 08m -> 
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
+- [x] `OSSP` Question Homework - 0416
+- [ ] `GP` 교수지도 확인서 #4
+- [ ] `GP` Face-to-face class `April 16`
+- [x] `OSSP` Chapter5 오차역전파법 5.6.1 - 3 - >  `1h 21`
 - [ ] `OSSP` Chapter5 오차역전파법 - 3
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0416
-- [ ] `GP` Face-to-face class `April 16`
+- [ ] `OOAD` Chapter 6. Use Cases - 4
+- [ ] `OOAD` Chapter 7. Other Requirements - 4
 
 
 ## `Wednesday April 17` - 3h 52m -> 0h 0m
