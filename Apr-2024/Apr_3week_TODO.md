@@ -71,9 +71,9 @@
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
 - [ ] `OSSP` Chapter5 오차역전파법 - 3
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [ ] `OSSP` 강의자료 정독
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
 - [ ] `OSSP` Chapter8 딥러닝 - 6
-- [ ] `OSSP` 강의자료 정독
 
 
 ## `빅데이터 중간`
@@ -104,11 +104,11 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [x] `OSSP` Question Homework - 0416
 - [x] `ICFJS` - Assignment2 `until April 25`
-- [x] `GP` 교수지도 확인서 #4
-- [ ] `GP` Face-to-face class `April 16`
+- [x] `GP` 교수지도 확인서 #4 -> `1h`
+- [x] `GP` Face-to-face class `April 16` -> `1h 10m`
 - [x] `OSSP` Chapter5 오차역전파법 5.6.1 - 3 - >  `1h 21`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [x] `OSSP` Chapter5 오차역전파법 5.6.2 - 3 -> `1h`
+- [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
 - [ ] `OOAD` Chapter 6. Use Cases - 4
 - [ ] `OOAD` Chapter 7. Other Requirements - 4
 
@@ -116,14 +116,14 @@
 ## `Wednesday April 17` - 3h 52m -> 0h 0m
 - [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
 - [ ] `OOAD` Chapter 9. Domain Models - 5
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 - [ ] `OPIc` 수업 `수`
 
 
 ## `Thursday April 18` - 2h 0m -> 2h
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
-- [ ] `OSSP` Chapter8 딥러닝 - 6
+- [ ] `OSSP` 강의자료 정독
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM`
 
