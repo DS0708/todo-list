@@ -69,7 +69,7 @@
 ## `오픈소스 중간`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
-- [ ] `OSSP` Chapter5 오차역전파법 - 3 -> `5h 49m`
+- [x] `OSSP` Chapter5 오차역전파법 - 3 -> `6h 49m`
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 - [ ] `OSSP` 강의자료 정독
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
@@ -109,8 +109,8 @@
 - [x] `OSSP` Chapter5 오차역전파법 5.6 - 3 -> `3h 06m`
 
 
-## `Wednesday April 17` - 3h 52m -> 0h 0m
-- [ ] `OSSP` Chapter5 오차역전파법 - 3 ->
+## `Wednesday April 17` - 3h 52m -> 0h 0m -> 
+- [x] `OSSP` Chapter5 오차역전파법 - 3 -> `1h`
 - [ ] `OOAD` Chapter 6. Use Cases - 4
 - [ ] `OOAD` Chapter 7. Other Requirements - 4
 - [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
@@ -145,7 +145,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`9h 21m`||
+|`Apr_3week`|`16h 27m`||
 |Apr_4week|h m||
 
 
