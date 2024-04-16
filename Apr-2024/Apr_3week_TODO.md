@@ -42,8 +42,8 @@
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
 
 ## `Intensive Course For Job Search` - ICFJS
+- [x] `ICFJS` - Assignment2 `until April 25`
 - [ ] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM`
-- [ ] `ICFJS` - Assignment2 `until April 25`
 
 - [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기 - 추후 공지예정
 - [ ] `ICFJS` - Assignment3 `until June 20`
@@ -103,7 +103,8 @@
 ## `Tuesday April 16` - 6h 14m -> 7h 08m -> 
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [x] `OSSP` Question Homework - 0416
-- [ ] `GP` 교수지도 확인서 #4
+- [x] `ICFJS` - Assignment2 `until April 25`
+- [x] `GP` 교수지도 확인서 #4
 - [ ] `GP` Face-to-face class `April 16`
 - [x] `OSSP` Chapter5 오차역전파법 5.6.1 - 3 - >  `1h 21`
 - [ ] `OSSP` Chapter5 오차역전파법 - 3
@@ -134,7 +135,6 @@
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
 - [ ] `BD` Online-lecture  `Week 7`
-- [ ] `ICFJS` - Assignment2 `until April 25`
 
 
 ## `Sunday April 21` - 3h 31m -> 5h 24m
