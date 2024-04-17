@@ -60,7 +60,7 @@
 - [x] `OOAD` Chapter 4. Inception is Not the Requirements Phase - 3 -> `28m`
 - [x] `OOAD` Chapter 5. Evolutionary Requirements - 3 -> `28m`
 - [x] `OOAD` Chapter 6. Use Cases - 4 -> `1h 08m`
-- [ ] `OOAD` Chapter 7. Other Requirements - 4
+- [x] `OOAD` Chapter 7. Other Requirements - 4 -> `28m`
 - [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
 - [ ] `OOAD` Chapter 9. Domain Models - 5
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
@@ -112,7 +112,7 @@
 ## `Wednesday April 17` - 3h 52m -> 0h 0m -> 
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `1h`
 - [x] `OOAD` Chapter 6. Use Cases - 4 -> `1h 08m`
-- [ ] `OOAD` Chapter 7. Other Requirements - 4
+- [x] `OOAD` Chapter 7. Other Requirements - 4 -> `28m`
 - [ ] `OOAD` Chapter 8. Iteration 1 Basics - 5
 - [ ] `OOAD` Chapter 9. Domain Models - 5
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
