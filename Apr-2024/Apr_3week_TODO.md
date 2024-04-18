@@ -62,7 +62,7 @@
 - [x] `OOAD` Chapter 6. Use Cases - 4 -> `1h 08m`
 - [x] `OOAD` Chapter 7. Other Requirements - 4 -> `28m`
 - [x] `OOAD` Chapter 8. Iteration 1 Basics - 5 -> `47m`
-- [ ] `OOAD` Chapter 9. Domain Models - 5
+- [ ] `OOAD` Chapter 9. Domain Models - 5 -> `44m`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
 
@@ -109,16 +109,17 @@
 - [x] `OSSP` Chapter5 오차역전파법 5.6 - 3 -> `3h 06m`
 
 
-## `Wednesday April 17` - 3h 52m -> 0h 0m -> 
+## `Wednesday April 17` - 3h 52m -> 0h 0m -> 6h 26m
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `1h`
 - [x] `OOAD` Chapter 6. Use Cases - 4 -> `1h 08m`
 - [x] `OOAD` Chapter 7. Other Requirements - 4 -> `28m`
 - [x] `OOAD` Chapter 8. Iteration 1 Basics - 5 -> `47m`
-- [ ] `OPIc` 수업 `수`
+- [x] `OPIc` 수업 `수` -> `2h 20m`
 - [ ] `OOAD` Chapter 9. Domain Models - 5 -> `44m`
 
 
-## `Thursday April 18` - 2h 0m -> 2h
+## `Thursday April 18` - 2h 0m -> 2h -> 
+- [ ] `OOAD` Chapter 9. Domain Models - 5
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
@@ -145,7 +146,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`16h 27m`||
+|`Apr_3week`|`22h 53m`||
 |Apr_4week|h m||
 
 
