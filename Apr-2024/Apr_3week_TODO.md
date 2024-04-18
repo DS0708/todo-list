@@ -71,7 +71,7 @@
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `6h 49m`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `3h 03m`
 - [ ] `OSSP` 강의자료 정독
 
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
@@ -120,18 +120,18 @@
 - [ ] `OOAD` Chapter 9. Domain Models - 5 -> `44m`
 
 
-## `Thursday April 18` - 2h 0m -> 2h -> 
+## `Thursday April 18` - 2h 0m -> 2h -> 6h 17m
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `30m`
 - [x] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM` -> `1h 14m`
 - [x] `OOAD` Chapter 9. Domain Models - 5 -> `1h 30m`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `1h 52m`
+- [x] `OSSP` Chapter6 학습 관련 기술들 - 6.1 ~ 6.2 - 4 -> `3h 03m`
 
 
 ## `Friday April 19` - 6h 08m -> 3h 43m
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [ ] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4
 - [ ] `OPIc` 수업 `금`
 
 
@@ -157,7 +157,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`22h 53m`||
+|`Apr_3week`|`29h 10m`||
 |Apr_4week|h m||
 
 
