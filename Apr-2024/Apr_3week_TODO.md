@@ -119,12 +119,12 @@
 
 
 ## `Thursday April 18` - 2h 0m -> 2h -> 
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `30m`
+- [x] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM` -> `1h 14m`
 - [ ] `OOAD` Chapter 9. Domain Models - 5
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM`
 
 
 ## `Friday April 19` - 6h 08m -> 3h 43m
