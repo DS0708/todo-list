@@ -62,7 +62,7 @@
 - [x] `OOAD` Chapter 6. Use Cases - 4 -> `1h 08m`
 - [x] `OOAD` Chapter 7. Other Requirements - 4 -> `28m`
 - [x] `OOAD` Chapter 8. Iteration 1 Basics - 5 -> `47m`
-- [ ] `OOAD` Chapter 9. Domain Models - 5 -> `44m`
+- [x] `OOAD` Chapter 9. Domain Models - 5 -> `2h 14m`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
 
@@ -121,15 +121,15 @@
 ## `Thursday April 18` - 2h 0m -> 2h -> 
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `30m`
 - [x] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM` -> `1h 14m`
-- [ ] `OOAD` Chapter 9. Domain Models - 5
-- [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
-- [ ] `OOAD` Chapter 11. Operation Contracts - 6
+- [x] `OOAD` Chapter 9. Domain Models - 5 -> `1h 30m`
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 
 
 ## `Friday April 19` - 6h 08m -> 3h 43m
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
+- [ ] `OOAD` Chapter 11. Operation Contracts - 6
 - [ ] `OPIc` 수업 `금`
 
 
