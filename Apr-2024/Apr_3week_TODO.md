@@ -65,6 +65,7 @@
 - [x] `OOAD` Chapter 9. Domain Models - 5 -> `2h 14m`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
+- [ ] `OOAD` 강의자료 정독
 
 ## `오픈소스 중간`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
@@ -72,6 +73,7 @@
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `6h 49m`
 - [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 - [ ] `OSSP` 강의자료 정독
+
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
 - [ ] `OSSP` Chapter8 딥러닝 - 6
 
@@ -122,22 +124,31 @@
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `30m`
 - [x] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM` -> `1h 14m`
 - [x] `OOAD` Chapter 9. Domain Models - 5 -> `1h 30m`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
+- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `1h 52m`
 
 
 ## `Friday April 19` - 6h 08m -> 3h 43m
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
+- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4
 - [ ] `OPIc` 수업 `금`
 
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
+- [ ] `OOAD` 강의자료 정독
 - [ ] `BD` Online-lecture  `Week 7`
+- [ ] `Bic Data` 1주차
+- [ ] `Bic Data` 2주차
+- [ ] `Bic Data` 3주차
+- [ ] `Bic Data` 4주차
 
 
 ## `Sunday April 21` - 3h 31m -> 5h 24m
+- [ ] `Bic Data` 5주차
+- [ ] `Bic Data` 6주차
+- [ ] `Bic Data` 7주차
+- [ ] `OSSP` 강의자료 정독
 
 
 
