@@ -11,7 +11,7 @@
 
 ## `OPIc` -> ` h  m`
 - [x] `OPIc` 수업 `월`
-- [ ] `OPIc` 수업 `수`
+- [x] `OPIc` 수업 `수`
 - [ ] `OPIc` 수업 `금`
 
 
@@ -36,14 +36,14 @@
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture  `Week 7`
+- [x] `BD` Online-lecture, Quiz  `Week 7`
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 7`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` - Assignment2 `until April 25`
-- [ ] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM`
+- [x] `ICFJS` Zoom-lecture  `Week7 at 11:00 AM`
 
 - [ ] `ICFJS` 비교과 수료 프로그램 계획 세우기 - 추후 공지예정
 - [ ] `ICFJS` - Assignment3 `until June 20`
@@ -127,17 +127,17 @@
 - [x] `OSSP` Chapter6 학습 관련 기술들 - 6.1 ~ 6.2 - 4 -> `3h 03m`
 
 
-## `Friday April 19` - 6h 08m -> 3h 43m
+## `Friday April 19` - 6h 08m -> 3h 43m -> 
+- [x] `BD` Online-lecture, Quiz  `Week 7` -> `55m`
+- [ ] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4 -> `53m`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
-- [ ] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4
 - [ ] `OPIc` 수업 `금`
 
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
 - [ ] `OOAD` 강의자료 정독
-- [ ] `BD` Online-lecture  `Week 7`
 - [ ] `Bic Data` 1주차
 - [ ] `Bic Data` 2주차
 - [ ] `Bic Data` 3주차
