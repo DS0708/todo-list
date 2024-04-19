@@ -129,8 +129,8 @@
 
 ## `Friday April 19` - 6h 08m -> 3h 43m -> 
 - [x] `BD` Online-lecture, Quiz  `Week 7` -> `55m`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4 -> `53m`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `40m`
+- [ ] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4 -> `1h 33m`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
 - [ ] `OPIc` 수업 `금`
