@@ -12,7 +12,7 @@
 ## `OPIc` -> ` h  m`
 - [x] `OPIc` 수업 `월`
 - [x] `OPIc` 수업 `수`
-- [ ] `OPIc` 수업 `금`
+- [x] `OPIc` 수업 `금` -> `1h 20m`
 
 
 > `개인공부` : 시험기간
@@ -28,12 +28,12 @@
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0416
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture, Quiz  `Week 7`
@@ -63,8 +63,8 @@
 - [x] `OOAD` Chapter 7. Other Requirements - 4 -> `28m`
 - [x] `OOAD` Chapter 8. Iteration 1 Basics - 5 -> `47m`
 - [x] `OOAD` Chapter 9. Domain Models - 5 -> `2h 14m`
-- [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
-- [ ] `OOAD` Chapter 11. Operation Contracts - 6
+- [x] `OOAD` Chapter 10. System Sequence Diagram - 6 -> `1h 29m`
+- [x] `OOAD` Chapter 11. Operation Contracts - 6 -> `40m`
 - [ ] `OOAD` 강의자료 정독
 
 ## `오픈소스 중간`
@@ -127,13 +127,13 @@
 - [x] `OSSP` Chapter6 학습 관련 기술들 - 6.1 ~ 6.2 - 4 -> `3h 03m`
 
 
-## `Friday April 19` - 6h 08m -> 3h 43m -> 
+## `Friday April 19` - 6h 08m -> 3h 43m -> 8h 29m
 - [x] `BD` Online-lecture, Quiz  `Week 7` -> `55m`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `40m`
 - [x] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4 -> `3h 25m`
-- [ ] `OPIc` 수업 `금`
-- [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
-- [ ] `OOAD` Chapter 11. Operation Contracts - 6
+- [x] `OPIc` 수업 `금` -> `1h 20m`
+- [x] `OOAD` Chapter 10. System Sequence Diagram - 6 -> `1h 29m`
+- [x] `OOAD` Chapter 11. Operation Contracts - 6 -> `40m`
 
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
@@ -157,7 +157,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`29h 10m`||
+|`Apr_3week`|`37h 39m`||
 |Apr_4week|h m||
 
 
