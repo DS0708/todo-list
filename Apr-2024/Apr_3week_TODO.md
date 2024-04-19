@@ -71,7 +71,7 @@
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `6h 49m`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `3h 03m`
+- [x] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `6h 28m`
 - [ ] `OSSP` 강의자료 정독
 
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
@@ -130,10 +130,10 @@
 ## `Friday April 19` - 6h 08m -> 3h 43m -> 
 - [x] `BD` Online-lecture, Quiz  `Week 7` -> `55m`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `40m`
-- [ ] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4 -> `1h 33m`
+- [x] `OSSP` Chapter6 학습 관련 기술들 6.3 ~ 6.6 - 4 -> `3h 25m`
+- [ ] `OPIc` 수업 `금`
 - [ ] `OOAD` Chapter 10. System Sequence Diagram - 6
 - [ ] `OOAD` Chapter 11. Operation Contracts - 6
-- [ ] `OPIc` 수업 `금`
 
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
