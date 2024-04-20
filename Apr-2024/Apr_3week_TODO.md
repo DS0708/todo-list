@@ -72,7 +72,8 @@
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `6h 49m`
 - [x] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `6h 28m`
-- [ ] `OSSP` 강의자료 정독
+- [x] `OOAD` 강의자료 정독 -> `2h 12m`
+- [ ] `OOAD` OOPT에 적용하기
 
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
 - [ ] `OSSP` Chapter8 딥러닝 - 6
@@ -137,11 +138,12 @@
 
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
-- [ ] `OOAD` 강의자료 정독
+- [x] `OOAD` 강의자료 정독 -> `2h 12m`
 - [ ] `Bic Data` 1주차
 - [ ] `Bic Data` 2주차
 - [ ] `Bic Data` 3주차
 - [ ] `Bic Data` 4주차
+- [ ] `OOAD` OOPT에 적용하기
 
 
 ## `Sunday April 21` - 3h 31m -> 5h 24m
