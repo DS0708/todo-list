@@ -139,7 +139,7 @@
 
 ## `Saturday April 20` - 0h 0m -> 6h 16m
 - [x] `OOAD` 강의자료 정독 -> `2h 12m`
-- [ ] `Bic Data` 1주차
+- [x] `Bic Data` 1주차 -> `34m`
 - [ ] `Bic Data` 2주차
 - [ ] `Bic Data` 3주차
 - [ ] `Bic Data` 4주차
