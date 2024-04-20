@@ -83,7 +83,7 @@
 - [x] `Bic Data` 1주차 -> `34m`
 - [x] `Bic Data` 2주차 -> `33m`
 - [x] `Bic Data` 3주차 -> `53m`
-- [ ] `Bic Data` 4주차
+- [x] `Bic Data` 4주차 -> `39m`
 - [ ] `Bic Data` 5주차
 - [ ] `Bic Data` 6주차
 - [ ] `Bic Data` 7주차
@@ -142,7 +142,7 @@
 - [x] `Bic Data` 1주차 -> `34m`
 - [x] `Bic Data` 2주차 -> `33m`
 - [x] `Bic Data` 3주차 -> `53m`
-- [ ] `Bic Data` 4주차
+- [x] `Bic Data` 4주차 -> `39m`
 - [ ] `OOAD` OOPT에 적용하기
 
 
