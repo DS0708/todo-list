@@ -82,7 +82,7 @@
 ## `빅데이터 중간`
 - [x] `Bic Data` 1주차 -> `34m`
 - [x] `Bic Data` 2주차 -> `33m`
-- [ ] `Bic Data` 3주차
+- [x] `Bic Data` 3주차 -> `53m`
 - [ ] `Bic Data` 4주차
 - [ ] `Bic Data` 5주차
 - [ ] `Bic Data` 6주차
@@ -137,11 +137,11 @@
 - [x] `OOAD` Chapter 11. Operation Contracts - 6 -> `40m`
 
 
-## `Saturday April 20` - 0h 0m -> 6h 16m
+## `Saturday April 20` - 0h 0m -> 6h 16m -> 
 - [x] `OOAD` 강의자료 정독 -> `2h 12m`
 - [x] `Bic Data` 1주차 -> `34m`
 - [x] `Bic Data` 2주차 -> `33m`
-- [ ] `Bic Data` 3주차
+- [x] `Bic Data` 3주차 -> `53m`
 - [ ] `Bic Data` 4주차
 - [ ] `OOAD` OOPT에 적용하기
 
