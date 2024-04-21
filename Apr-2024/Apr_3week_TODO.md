@@ -86,7 +86,7 @@
 - [x] `Bic Data` 3주차 -> `53m`
 - [x] `Bic Data` 4주차 -> `39m`
 - [x] `Bic Data` 5주차 -> `1h 03`
-- [ ] `Bic Data` 6주차
+- [x] `Bic Data` 6주차 -> `1h 08m`
 - [ ] `Bic Data` 7주차
 
 ---
@@ -149,8 +149,8 @@
 
 ## `Sunday April 21` - 3h 31m -> 5h 24m -> 
 - [x] `Bic Data` 5주차 -> `1h 03`
-- [ ] `Bic Data` 6주차
-- [ ] `Bic Data` 7주차
+- [x] `Bic Data` 6주차 -> `1h 08m`
+- [ ] `Bic Data` 7주차 -> `45m`
 - [ ] `OSSP` 강의자료 정독
 
 
