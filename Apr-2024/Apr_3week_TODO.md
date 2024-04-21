@@ -52,7 +52,7 @@
 ## `etc.`
 - [x] Making a plan
 
-## `객체지향 중간`
+## `객체지향 중간` -> `16h`
 - [x] `OOAD` Software Development - 1 -> `3h 3m`
 - [x] `OOAD` Chapter 1. Object-Oriented Analysis and Design - 1 -> `25m`
 - [x] `OOAD` Chapter 2. Iterative, Evolutionary, and Agile - 2 -> `1h 52m`
@@ -65,15 +65,16 @@
 - [x] `OOAD` Chapter 9. Domain Models - 5 -> `2h 14m`
 - [x] `OOAD` Chapter 10. System Sequence Diagram - 6 -> `1h 29m`
 - [x] `OOAD` Chapter 11. Operation Contracts - 6 -> `40m`
-- [ ] `OOAD` 강의자료 정독
+- [x] `OOAD` 강의자료 정독 -> `2h 12m`
+- [x] `OOAD` OOPT에 적용하기 -> `30m`
 
-## `오픈소스 중간`
+## `오픈소스 중간` -> `21h 33m`
 - [x] `OSSP` Chapter3 신경망 - 1 -> `1h 59m`
 - [x] `OSSP` Chapter4 신경망 학습 - 2 -> `6h 17m`
 - [x] `OSSP` Chapter5 오차역전파법 - 3 -> `6h 49m`
 - [x] `OSSP` Chapter6 학습 관련 기술들 - 4 -> `6h 28m`
-- [x] `OOAD` 강의자료 정독 -> `2h 12m`
-- [ ] `OOAD` OOPT에 적용하기
+- [ ] `OSSP` 강의자료 정독
+
 
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
 - [ ] `OSSP` Chapter8 딥러닝 - 6
@@ -84,7 +85,7 @@
 - [x] `Bic Data` 2주차 -> `33m`
 - [x] `Bic Data` 3주차 -> `53m`
 - [x] `Bic Data` 4주차 -> `39m`
-- [ ] `Bic Data` 5주차
+- [x] `Bic Data` 5주차 -> `1h 03`
 - [ ] `Bic Data` 6주차
 - [ ] `Bic Data` 7주차
 
@@ -137,17 +138,17 @@
 - [x] `OOAD` Chapter 11. Operation Contracts - 6 -> `40m`
 
 
-## `Saturday April 20` - 0h 0m -> 6h 16m -> 
+## `Saturday April 20` - 0h 0m -> 6h 16m -> 5h 21m
 - [x] `OOAD` 강의자료 정독 -> `2h 12m`
 - [x] `Bic Data` 1주차 -> `34m`
 - [x] `Bic Data` 2주차 -> `33m`
 - [x] `Bic Data` 3주차 -> `53m`
 - [x] `Bic Data` 4주차 -> `39m`
-- [ ] `OOAD` OOPT에 적용하기
+- [x] `OOAD` OOPT에 적용하기 -> `30m`
 
 
-## `Sunday April 21` - 3h 31m -> 5h 24m
-- [ ] `Bic Data` 5주차
+## `Sunday April 21` - 3h 31m -> 5h 24m -> 
+- [x] `Bic Data` 5주차 -> `1h 03`
 - [ ] `Bic Data` 6주차
 - [ ] `Bic Data` 7주차
 - [ ] `OSSP` 강의자료 정독
@@ -159,7 +160,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`37h 39m`||
+|`Apr_3week`|`43h 0m`|`A+`|
 |Apr_4week|h m||
 
 
