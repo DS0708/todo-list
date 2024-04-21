@@ -80,14 +80,14 @@
 - [ ] `OSSP` Chapter8 딥러닝 - 6
 
 
-## `빅데이터 중간`
+## `빅데이터 중간` -> `6h 23m`
 - [x] `Bic Data` 1주차 -> `34m`
 - [x] `Bic Data` 2주차 -> `33m`
 - [x] `Bic Data` 3주차 -> `53m`
 - [x] `Bic Data` 4주차 -> `39m`
-- [x] `Bic Data` 5주차 -> `1h 03`
+- [x] `Bic Data` 5주차 -> `1h 03m`
 - [x] `Bic Data` 6주차 -> `1h 08m`
-- [ ] `Bic Data` 7주차
+- [x] `Bic Data` 7주차 -> `1h 33m`
 
 ---
 ---
@@ -147,10 +147,10 @@
 - [x] `OOAD` OOPT에 적용하기 -> `30m`
 
 
-## `Sunday April 21` - 3h 31m -> 5h 24m -> 
+## `Sunday April 21` - 3h 31m -> 5h 24m -> 3h 44m
 - [x] `Bic Data` 5주차 -> `1h 03`
 - [x] `Bic Data` 6주차 -> `1h 08m`
-- [ ] `Bic Data` 7주차 -> `45m`
+- [x] `Bic Data` 7주차 -> `1h 33m`
 - [ ] `OSSP` 강의자료 정독
 
 
@@ -160,7 +160,7 @@
 |:---:|:---:|:---:|
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
-|`Apr_3week`|`43h 0m`|`A+`|
+|`Apr_3week`|`46h 44m`|`A+`|
 |Apr_4week|h m||
 
 
