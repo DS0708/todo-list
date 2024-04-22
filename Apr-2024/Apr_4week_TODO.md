@@ -30,7 +30,7 @@
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OOSD` 중간고사 `01:00 PM`
+- [x] `OOSD` 중간고사 `01:00 PM` -> `48`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -64,6 +64,7 @@
 - [ ] `OSSP` 강의자료 정독 - 5주차
 - [ ] `OSSP` 강의자료 정독 - 6주차
 - [ ] `OSSP` 강의자료 정독 - 7주차
+- [ ] `OSSP` 내가 공부한 거 읽기
 
 
 ---
@@ -74,11 +75,12 @@
 - [x] `OSSP` 강의자료 정독 - 1주차 -> `14m`
 - [x] `OSSP` 강의자료 정독 - 2주차 -> `1h 52m`
 - [x] `OSSP` 강의자료 정독 - 3주차 -> `57m`
+- [x] `OOSD` 중간고사 `01:00 PM` -> `48`
 - [ ] `OSSP` 강의자료 정독 - 4주차
 - [ ] `OSSP` 강의자료 정독 - 5주차
 - [ ] `OSSP` 강의자료 정독 - 6주차
 - [ ] `OSSP` 강의자료 정독 - 7주차
-- [ ] `OOSD` 중간고사 `01:00 PM`
+- [ ] `OSSP` 내가 공부한 거 읽기
 - [ ] `OPIc` 수업 `월`
 
 
