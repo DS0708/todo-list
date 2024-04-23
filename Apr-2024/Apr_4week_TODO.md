@@ -36,11 +36,12 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Question Homework - 0416
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` 중간고사 `09:00 AM`
-- [ ] `OSSP` 
+- [x] `OSSP` 중간고사 `09:00 AM` -> `1h 20m`
+- [ ] `OSSP` 주제 보고서 발표
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture, Quiz  `Week 7`
+- [x] `BD` 마지막 정리 -> `31m`
 - [ ] `BD` 중간고사 `07:00 PM`
 
 ## `Startup Finance And Investment` - SFAI
@@ -58,7 +59,7 @@
 - [ ] 여름방학 계획 세우기
 
 
-## `오픈소스 중간` -> `21h 33m + `
+## `오픈소스 중간` -> `21h 33m + 9h 6m = 30h 39m`
 - [x] `OSSP` 강의자료 정독 - 1주차 -> `14m`
 - [x] `OSSP` 강의자료 정독 - 2주차 -> `1h 52m`
 - [x] `OSSP` 강의자료 정독 - 3주차 -> `57m`
@@ -67,6 +68,7 @@
 - [x] `OSSP` 강의자료 정독 - 6주차 -> `29m`
 - [x] `OSSP` 강의자료 정독 - 7주차 -> `2h`
 - [x] `OSSP` 내가 공부한 거 읽기 -> `39m`
+- [x] `OSSP` 실습자료 읽기 -> `13m`
 
 
 ---
@@ -89,20 +91,21 @@
 ## `Tuesday April 23` - 6h 14m -> 7h 08m -> 7h 06m
 - [x] `OSSP` 강의자료 정독 - 7주차 -> `2h`
 - [x] `OSSP` 내가 공부한 거 읽기 -> `9m`
-- [ ] `OSSP` 실습자료 정독 -> ``
-- [ ] `OSSP` 중간고사 `09:00 AM`
+- [x] `OSSP` 실습자료 읽기 -> `13m`
+- [x] `OSSP` 중간고사 `09:00 AM` -> `1h 20m`
+- [x] `BD` 마지막 정리 -> `31m`
 - [ ] `BD` 중간고사 `07:00 PM`
-- [ ] `GP` 교수지도 확인서 #5 작성
 
 
 ## `Wednesday April 24` - 3h 52m -> 0h 0m -> 6h 26m
+- [ ] `GP` 교수지도 확인서 #5 작성
 - [ ] `OPIc` 수업 `수`
 - [ ] `ICFJS` Online-lecture `Week 8`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 8`
 
 
 ## `Thursday April 25` - 2h 0m -> 2h -> 6h 17m
-
+- [ ] `OSSP` 주제 보고서 발표
 
 
 ## `Friday April 26` - 6h 08m -> 3h 43m -> 8h 29m
