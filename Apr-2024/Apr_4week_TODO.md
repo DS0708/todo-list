@@ -88,13 +88,13 @@
 - [ ] `OSSP` 내가 공부한 거 읽기 -> `30m`
 
 
-## `Tuesday April 23` - 6h 14m -> 7h 08m -> 7h 06m
+## `Tuesday April 23` - 6h 14m -> 7h 08m -> 7h 06m -> 5h 13m
 - [x] `OSSP` 강의자료 정독 - 7주차 -> `2h`
 - [x] `OSSP` 내가 공부한 거 읽기 -> `9m`
 - [x] `OSSP` 실습자료 읽기 -> `13m`
 - [x] `OSSP` 중간고사 `09:00 AM` -> `1h 20m`
 - [x] `BD` 마지막 정리 -> `31m`
-- [ ] `BD` 중간고사 `07:00 PM`
+- [x] `BD` 중간고사 `07:00 PM` -> `1h`
 
 
 ## `Wednesday April 24` - 3h 52m -> 0h 0m -> 6h 26m
@@ -127,7 +127,7 @@
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
 |Apr_3week|46h 44m|`A+`|
-|`Apr_4week`|`9h 31m`||
+|`Apr_4week`|`14h 44m`||
 
 
 ## Standard Grade
