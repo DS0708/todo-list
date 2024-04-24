@@ -37,7 +37,7 @@
 - [x] `OSSP` Question Homework - 0416
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [x] `OSSP` 중간고사 `09:00 AM` -> `1h 20m`
-- [ ] `OSSP` 주제 보고서 발표
+- [ ] `OSSP` 팀플 `오후 2시`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture, Quiz  `Week 7`
@@ -97,19 +97,20 @@
 - [x] `BD` 중간고사 `07:00 PM` -> `1h`
 
 
-## `Wednesday April 24` - 3h 52m -> 0h 0m -> 6h 26m
-- [ ] `GP` 교수지도 확인서 #5 작성
-- [ ] `OPIc` 수업 `수`
+## `Wednesday April 24` - 3h 52m -> 0h 0m -> 6h 26m -> 2h 40m
+- [ ] `GP` 교수지도 확인서 #5 작성 -> `20m`
+- [x] `OPIc` 수업 `수` -> `2h 20m`
+
+
+
+## `Thursday April 25` - 2h 0m -> 2h -> 6h 17m
+- [ ] `GP` 교수지도 확인서 #5 작성 ->
 - [ ] `ICFJS` Online-lecture `Week 8`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 8`
 
 
-## `Thursday April 25` - 2h 0m -> 2h -> 6h 17m
-- [ ] `OSSP` 주제 보고서 발표
-
-
 ## `Friday April 26` - 6h 08m -> 3h 43m -> 8h 29m
-
+- [ ] `OSSP` 팀플 `오후 2시`
 
 
 ## `Saturday April 27` - 0h 0m -> 6h 16m -> 5h 21m
@@ -127,7 +128,7 @@
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
 |Apr_3week|46h 44m|`A+`|
-|`Apr_4week`|`14h 44m`||
+|`Apr_4week`|`17h 24m`||
 
 
 ## Standard Grade
