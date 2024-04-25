@@ -104,7 +104,7 @@
 
 
 ## `Thursday April 25` - 2h 0m -> 2h -> 6h 17m
-- [ ] `GP` 교수지도 확인서 #5 작성 ->
+- [x] `GP` 교수지도 확인서 #5 작성 -> `32m`
 - [ ] `ICFJS` Online-lecture `Week 8`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 8`
 
