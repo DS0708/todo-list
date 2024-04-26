@@ -103,14 +103,15 @@
 
 
 
-## `Thursday April 25` - 2h 0m -> 2h -> 6h 17m
+## `Thursday April 25` - 2h 0m -> 2h -> 6h 17m -> 32m
 - [x] `GP` 교수지도 확인서 #5 작성 -> `32m`
-- [ ] `ICFJS` Online-lecture `Week 8`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 8`
 
 
 ## `Friday April 26` - 6h 08m -> 3h 43m -> 8h 29m
-- [ ] `OSSP` 팀플 `오후 2시`
+- [x] `OSSP` 팀플 `오후 2시` -> `1h 44m`
+- [ ] `OSSP` 제안서 작성
+- [ ] `ICFJS` Online-lecture `Week 8`
+- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 8`
 
 
 ## `Saturday April 27` - 0h 0m -> 6h 16m -> 5h 21m
@@ -128,7 +129,7 @@
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
 |Apr_3week|46h 44m|`A+`|
-|`Apr_4week`|`17h 24m`||
+|`Apr_4week`|`17h 56m`||
 
 
 ## Standard Grade
