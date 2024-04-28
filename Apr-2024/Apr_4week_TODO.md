@@ -117,7 +117,7 @@
 - [x] `OSSP` 제안서 작성 -> `2h`
 
 
-## `Sunday April 28` - 3h 31m -> 5h 24m -> 3h 44m -> 
+## `Sunday April 28` - 3h 31m -> 5h 24m -> 3h 44m -> 0h
 
 
 
@@ -128,7 +128,7 @@
 |Apr_1week|27h 31m|`B`|
 |Apr_2week|31h 13m|`B+`|
 |Apr_3week|46h 44m|`A+`|
-|`Apr_4week`|`22h 53m`||
+|`Apr_4week`|`22h 53m`|`C+`|
 
 
 ## Standard Grade
