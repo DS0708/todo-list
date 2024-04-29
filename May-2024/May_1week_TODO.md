@@ -64,8 +64,9 @@
 
 ## `Monday April 29` - h m
 - [x] Making a plan -> `15m`
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `Algorithm` - P075
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
+- [ ] `Algorithm` - P075 -> `15m + `
+- [ ] `OPIc` 수업 `월`
 - [ ] `자바 웹 개발 워크북` - 3.3 리스너
 
 
