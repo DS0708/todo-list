@@ -16,8 +16,8 @@
 
 - [ ] `OSSP` Chapter8 딥러닝 - 6
 
-## `OPIc` -> ` h  m`
-- [ ] `OPIc` 수업 `월`
+## `OPIc` -> `2h 20m`
+- [x] `OPIc` 수업 `월` -> `2h 20m`
 
 <br><br>
 
@@ -65,9 +65,8 @@
 ## `Monday April 29` - h m
 - [x] Making a plan -> `15m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
-- [ ] `Algorithm` - P075 -> `15m + `
-- [ ] `OPIc` 수업 `월`
-- [ ] `자바 웹 개발 워크북` - 3.3 리스너
+- [x] `OPIc` 수업 `월` -> `2h 20m`
+- [ ] `Algorithm` - P075 -> `40m + `
 
 
 ## `Tuesday April 30` - h m
