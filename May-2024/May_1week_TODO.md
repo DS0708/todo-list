@@ -1,7 +1,7 @@
 # TO Do List - May_1week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - P075
+- [x] `Algorithm` - P075 -> `2h 5m`
 - [ ] `Algorithm` - P076
 - [ ] `Algorithm` - P077
 - [ ] `Algorithm` - P078
@@ -62,11 +62,11 @@
 ---
 ---
 
-## `Monday April 29` - h m
+## `Monday April 29` - 6h 20m
 - [x] Making a plan -> `15m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
 - [x] `OPIc` 수업 `월` -> `2h 20m`
-- [ ] `Algorithm` - P075 -> `40m + `
+- [x] `Algorithm` - P075 -> `2h 5m`
 
 
 ## `Tuesday April 30` - h m
@@ -110,7 +110,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`May_1week`|` h m`||
+|`May_1week`|`6h 20m`||
 |May_2week|h m||
 |May_3week|h m||
 |May_4week|h m||
