@@ -8,7 +8,7 @@
 - [ ] `Algorithm` - P079
 
 ## `Spring` -> `h m`
-- [ ] `자바 웹 개발 워크북` - 3.3 리스너
+- [x] `자바 웹 개발 워크북` - 3.3 리스너 -> `1h 4m`
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링
 
 ## `DeepLearning`
@@ -31,7 +31,8 @@
 
 
 ## `Graduation Project` - GP
-- [ ] `GP` Team meating `5 PM`
+- [x] `GP` Team meating `5 PM`
+- [ ] `GP` Functional Requirement 작성
 
 ## `Object-Oriented Software Development` - OOSD
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
@@ -69,12 +70,12 @@
 - [x] `Algorithm` - P075 -> `2h 5m`
 
 
-## `Tuesday April 30` - h m
+## `Tuesday April 30` - 5h 15m
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 9`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `2h`
 - [x] `Algorithm` - P076 -> `21m`
-- [ ] `GP` Team meating `5 PM`
-- [ ] `자바 웹 개발 워크북` - 3.3 리스너
+- [x] `GP` Team meating `5 PM` -> `1h 50m`
+- [x] `자바 웹 개발 워크북` - 3.3 리스너 -> `1h 4m`
 
 
 ## `Wednesday May 01` - h m
@@ -110,7 +111,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`May_1week`|`6h 20m`||
+|`May_1week`|`11h 35m`||
 |May_2week|h m||
 |May_3week|h m||
 |May_4week|h m||
