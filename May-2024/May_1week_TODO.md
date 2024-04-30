@@ -2,7 +2,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P075 -> `2h 5m`
-- [ ] `Algorithm` - P076
+- [x] `Algorithm` - P076 -> `21m`
 - [ ] `Algorithm` - P077
 - [ ] `Algorithm` - P078
 - [ ] `Algorithm` - P079
@@ -31,7 +31,7 @@
 
 
 ## `Graduation Project` - GP
-
+- [ ] `GP` Team meating `5 PM`
 
 ## `Object-Oriented Software Development` - OOSD
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
@@ -46,7 +46,7 @@
 - [ ] `BD` Online-lecture, Quiz  `Week 9`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 9`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 9`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` Face-to-face `Week 9 ~ Week 11`
@@ -56,7 +56,7 @@
 - [ ] `ICFJS` - Assignment4 `until June 20`
 
 ## `etc.`
-- [ ] Making a plan
+- [x] Making a plan
 - [ ] 여름방학 계획 세우기
 
 ---
@@ -70,9 +70,10 @@
 
 
 ## `Tuesday April 30` - h m
-- [ ] `Algorithm` - P076
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0430
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 9`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `2h`
+- [x] `Algorithm` - P076 -> `21m`
+- [ ] `GP` Team meating `5 PM`
 - [ ] `자바 웹 개발 워크북` - 3.3 리스너
 
 
@@ -97,7 +98,6 @@
 
 ## `Saturday May 04` - h m
 - [ ] `BD` Online-lecture, Quiz  `Week 9`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 9`
 - [ ] `ICFJS` 비교과 프로그램 일정 잡기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
 
