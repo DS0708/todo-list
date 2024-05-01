@@ -3,7 +3,7 @@
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P075 -> `2h 5m`
 - [x] `Algorithm` - P076 -> `21m`
-- [ ] `Algorithm` - P077
+- [x] `Algorithm` - P077 -> `11m`
 - [ ] `Algorithm` - P078
 - [ ] `Algorithm` - P079
 
@@ -78,10 +78,10 @@
 - [x] `자바 웹 개발 워크북` - 3.3 리스너 -> `1h 4m`
 
 
-## `Wednesday May 01` - h m
-- [ ] 여름방학 계획 세우기
-- [ ] `Algorithm` - P077
+## `Wednesday May 01` - 11m -> 
+- [x] `Algorithm` - P077 -> `11m`
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [ ] 여름방학 계획 세우기
 
 
 ## `Thursday May 02` - h m
@@ -111,7 +111,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`May_1week`|`11h 35m`||
+|`May_1week`|`11h 46m`||
 |May_2week|h m||
 |May_3week|h m||
 |May_4week|h m||
