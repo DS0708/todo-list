@@ -4,7 +4,7 @@
 - [x] `Algorithm` - P075 -> `2h 5m`
 - [x] `Algorithm` - P076 -> `21m`
 - [x] `Algorithm` - P077 -> `11m`
-- [ ] `Algorithm` - P078
+- [x] `Algorithm` - P078 -> `12m`
 - [ ] `Algorithm` - P079
 
 ## `Spring` -> `h m`
@@ -32,7 +32,7 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` Team meating `5 PM`
-- [ ] `GP` Functional Requirement 작성
+- [x] `GP` Functional Requirement 작성
 
 ## `Object-Oriented Software Development` - OOSD
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
@@ -84,14 +84,13 @@
 - [ ] 여름방학 계획 세우기
 
 
-## `Thursday May 02` - h m
+## `Thursday May 02` - 5h 8m
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 40m`
-- [ ] `GP` Functional Requirement 작성 -> ``
-- [ ] `ICFJS` Face-to-face `Week 9 ~ Week 11`
-- [ ] `ICFJS` 비교과 프로그램 일정 잡기
-- [ ] `Algorithm` - P078
-- [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [x] `GP` Functional Requirement 작성
+- [x] `ICFJS` 비교과 프로그램 일정 잡기
+- [x] `ICFJS` Face-to-face `Week 9 ~ Week 11` -> `1h 30m`
+- [x] `Algorithm` - P078 -> `12m`
+- [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 스프링의 시작 -> `1h 46m`
 - [ ] 여름방학 계획 세우기
 
 
@@ -103,10 +102,11 @@
 
 ## `Saturday May 04` - h m
 - [ ] `BD` Online-lecture, Quiz  `Week 9`
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.1~7.4
 
 
 ## `Sunday May 05` - h m
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.5~7.8
 
 
 
@@ -114,7 +114,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`May_1week`|`11h 46m`||
+|`May_1week`|`16h 54m`||
 |May_2week|h m||
 |May_3week|h m||
 |May_4week|h m||
