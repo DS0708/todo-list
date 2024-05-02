@@ -85,10 +85,14 @@
 
 
 ## `Thursday May 02` - h m
-- [ ] `Algorithm` - P078
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 40m`
+- [ ] `GP` Functional Requirement 작성 -> ``
 - [ ] `ICFJS` Face-to-face `Week 9 ~ Week 11`
+- [ ] `ICFJS` 비교과 프로그램 일정 잡기
+- [ ] `Algorithm` - P078
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [ ] 여름방학 계획 세우기
 
 
 ## `Friday May 03` - h m
@@ -99,7 +103,6 @@
 
 ## `Saturday May 04` - h m
 - [ ] `BD` Online-lecture, Quiz  `Week 9`
-- [ ] `ICFJS` 비교과 프로그램 일정 잡기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
 
 
