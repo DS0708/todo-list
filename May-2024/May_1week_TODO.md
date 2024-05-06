@@ -1,13 +1,13 @@
 # TO Do List - May_1week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `2h 49m`
 - [x] `Algorithm` - P075 -> `2h 5m`
 - [x] `Algorithm` - P076 -> `21m`
 - [x] `Algorithm` - P077 -> `11m`
 - [x] `Algorithm` - P078 -> `12m`
 - [ ] `Algorithm` - P079
 
-## `Spring` -> `h m`
+## `Spring` -> `4h`
 - [x] `자바 웹 개발 워크북` - 3.3 리스너 -> `1h 4m`
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 스프링의 시작 -> `1h 46m`
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - ApplicationContext와 빈(Bean) -> `1h 09m`
@@ -22,7 +22,7 @@
 
 <br><br>
 
-> `개인공부` : ` h m`
+> `개인공부` : ` 9h 19m`
 
 <br><br>
 
@@ -103,12 +103,12 @@
 - [ ] 여름방학 계획 세우기
 
 
-## `Saturday May 04` - h m
+## `Saturday May 04` - 0h
 - [ ] `BD` Online-lecture, Quiz  `Week 9`
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.1~7.4
 
 
-## `Sunday May 05` - h m
+## `Sunday May 05` - 0h
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.5~7.8
 
 
