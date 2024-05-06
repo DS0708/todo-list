@@ -94,12 +94,12 @@
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 스프링의 시작 -> `1h 46m`
 
 
-## `Friday May 03` - h m
+## `Friday May 03` - 3h 8m
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - ApplicationContext와 빈(Bean) -> `1h 09m`
-- [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합
-- [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 40m`
+- [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합 -> `19m`
 - [ ] `Algorithm` - P079
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비
 - [ ] 여름방학 계획 세우기
 
 
@@ -117,7 +117,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`May_1week`|`16h 54m`||
+|`May_1week`|`20h 2m`|`C+`|
 |May_2week|h m||
 |May_3week|h m||
 |May_4week|h m||
