@@ -1,7 +1,7 @@
 # TO Do List - May_2week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - P079
+- [x] `Algorithm` - P079 -> `18m`
 - [ ] `Algorithm` - P080
 - [ ] `Algorithm` - P081
 - [ ] `Algorithm` - P082
@@ -68,10 +68,10 @@
 
 ## `Tuesday May 07` - 5h 15m -> 
 - [x] Making a plan -> `18m`
+- [x] `Algorithm` - P079 -> `18m`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Question Homework - 0507
 - [ ] `BD` Online-lecture, Quiz  `Week 9`
-- [ ] `Algorithm` - P079
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.1~7.2
 
