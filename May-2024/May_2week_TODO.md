@@ -6,6 +6,7 @@
 - [ ] `Algorithm` - P081
 - [ ] `Algorithm` - P082
 - [ ] `Algorithm` - P083
+- [ ] `Algorithm` - P084
 
 ## `Spring` -> `h m`
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합 -> `35m` 
@@ -16,7 +17,7 @@
 ## `DeepLearning`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.1 전체 구조 -> `25m`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.2 합성곱 계층 -> `1h`
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층
+- [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층 -> `13m`
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
@@ -50,7 +51,7 @@
 <!-- - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -->
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz  `Week 9`
+- [x] `BD` Online-lecture, Quiz  `Week 9`
 - [ ] `BD` Online-lecture, Quiz  `Week 10`
 
 ## `Startup Finance And Investment` - SFAI
@@ -83,12 +84,13 @@
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합 -> `35m` 
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.1 전체 구조 -> `25m`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.2 합성곱 계층 -> `1h`
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층
-- [ ] `BD` Online-lecture, Quiz  `Week 9` 
+- [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층 -> `13m`
+- [x] `BD` Online-lecture, Quiz  `Week 9` -> `43m`
+- [ ] `Algorithm` - P080
 
 
 ## `Wednesday May 08` - 11m -> 
-- [ ] `Algorithm` - P080
+- [ ] `Algorithm` - P081
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
@@ -101,9 +103,9 @@
 
 
 ## `Friday May 10` - 3h 8m -> 
+- [ ] `Algorithm` - P082
 - [ ] 취업상담 `0510 11:00 AM`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `Algorithm` - P081
 - [ ] `자바 웹 개발 워크북` - 4.2
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
@@ -112,12 +114,11 @@
 
 ## `Saturday May 11` - 0h 0m -> 
 - [ ] `BD` Online-lecture, Quiz  `Week 10`
-- [ ] `Algorithm` - P082
+- [ ] `Algorithm` - P083
 
 
 ## `Sunday May 12` - 0h 0m -> 
-- [ ] `Algorithm` - P083
-
+- [ ] `Algorithm` - P084
 
 
 
