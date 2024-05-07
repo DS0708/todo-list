@@ -14,9 +14,16 @@
 
 
 ## `DeepLearning`
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5
+- [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.1 전체 구조 -> `25m`
+- [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.2 합성곱 계층 -> `1h`
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.8 정리
 
-- [ ] `OSSP` Chapter8 딥러닝 - 6
+- [ ] `OSSP` Chapter8 딥러닝
 
 <br><br>
 
@@ -67,7 +74,6 @@
 ## `Monday May 06` - 6h 20m -> 0h 0m
 
 
-
 ## `Tuesday May 07` - 5h 15m -> 
 - [x] Making a plan -> `18m`
 - [x] `Algorithm` - P079 -> `18m`
@@ -75,14 +81,17 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [x] `OSSP` Question Homework - 0507 -> `3m`
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합 -> `35m` 
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.1~7.2
-- [ ] `BD` Online-lecture, Quiz  `Week 9`
+- [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.1 전체 구조 -> `25m`
+- [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.2 합성곱 계층 -> `1h`
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층
+- [ ] `BD` Online-lecture, Quiz  `Week 9` 
 
 
 ## `Wednesday May 08` - 11m -> 
 - [ ] `Algorithm` - P080
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.3~7.5
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
 
 
 ## `Thursday May 09` - 5h 8m -> 
@@ -96,7 +105,9 @@
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `Algorithm` - P081
 - [ ] `자바 웹 개발 워크북` - 4.2
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.6~7.8
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.8 정리
 
 
 ## `Saturday May 11` - 0h 0m -> 
