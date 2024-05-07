@@ -2,7 +2,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P079 -> `18m`
-- [ ] `Algorithm` - P080
+- [x] `Algorithm` - P080 -> `35m`
 - [ ] `Algorithm` - P081
 - [ ] `Algorithm` - P082
 - [ ] `Algorithm` - P083
@@ -75,7 +75,7 @@
 ## `Monday May 06` - 6h 20m -> 0h 0m
 
 
-## `Tuesday May 07` - 5h 15m -> 
+## `Tuesday May 07` - 5h 15m -> 6h
 - [x] Making a plan -> `18m`
 - [x] `Algorithm` - P079 -> `18m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 10`
@@ -86,7 +86,7 @@
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.2 합성곱 계층 -> `1h`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층 -> `13m`
 - [x] `BD` Online-lecture, Quiz  `Week 9` -> `43m`
-- [ ] `Algorithm` - P080
+- [x] `Algorithm` - P080 -> `35m`
 
 
 ## `Wednesday May 08` - 11m -> 
@@ -126,7 +126,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
-|`May_2week`|`h m`||
+|`May_2week`|`6h 0m`||
 |May_3week|h m||
 |May_4week|h m||
 |May_5week|h m||
