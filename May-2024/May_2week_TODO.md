@@ -50,6 +50,7 @@
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 10`
 
 ## `Intensive Course For Job Search` - ICFJS
+- [ ] 취업상담 `0510 11:00 AM`
 <!-- - [ ] `ICFJS` Face-to-face `Week 11`
 - [ ] `ICFJS` - Assignment3 `until June 20`
 - [ ] `ICFJS` - Assignment4 `until June 20` -->
@@ -57,6 +58,7 @@
 ## `etc.`
 - [x] Making a plan
 - [ ] 예비군
+- [ ] 예비군 확인서
 - [ ] 여름방학 계획 세우기
 
 ---
@@ -69,15 +71,15 @@
 ## `Tuesday May 07` - 5h 15m -> 
 - [x] Making a plan -> `18m`
 - [x] `Algorithm` - P079 -> `18m`
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Question Homework - 0507
-- [ ] `BD` Online-lecture, Quiz  `Week 9`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 10`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
+- [x] `OSSP` Question Homework - 0507 -> `3m`
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.1~7.2
+- [ ] `BD` Online-lecture, Quiz  `Week 9`
 
 
 ## `Wednesday May 08` - 11m -> 
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 10`
 - [ ] `Algorithm` - P080
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 5 -> 7.3~7.5
@@ -85,10 +87,12 @@
 
 ## `Thursday May 09` - 5h 8m -> 
 - [ ] 예비군
+- [ ] 예비군 확인서
 - [ ] 여름방학 계획 세우기
 
 
 ## `Friday May 10` - 3h 8m -> 
+- [ ] 취업상담 `0510 11:00 AM`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `Algorithm` - P081
 - [ ] `자바 웹 개발 워크북` - 4.2
