@@ -3,7 +3,7 @@
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P079 -> `18m`
 - [x] `Algorithm` - P080 -> `35m`
-- [ ] `Algorithm` - P081
+- [x] `Algorithm` - P081 -> `1h 40m`
 - [ ] `Algorithm` - P082
 - [ ] `Algorithm` - P083
 - [ ] `Algorithm` - P084
@@ -90,7 +90,7 @@
 
 
 ## `Wednesday May 08` - 11m -> 
-- [ ] `Algorithm` - P081
+- [x] `Algorithm` - P081 -> `1h 40m`
 - [ ] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
