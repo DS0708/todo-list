@@ -99,17 +99,15 @@
 
 ## `Thursday May 09` - 5h 8m -> 0h
 - [x] 예비군
-- [ ] 예비군 확인서
-- [ ] 여름방학 계획 세우기
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 
 
 ## `Friday May 10` - 3h 8m -> 
+- [x] 취업상담 `0510 11:00 AM` -> `35m`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 50m`
+- [x] `GP` Team Meeting `Friday 15:00` -> `1h 50m`
 - [ ] `Algorithm` - P082
-- [ ] 취업상담 `0510 11:00 AM`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `GP` Team Meeting `Friday 15:00`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 
 
 ## `Saturday May 11` - 0h 0m -> 
@@ -123,6 +121,8 @@
 
 ## `Sunday May 12` - 0h 0m -> 
 - [ ] `Algorithm` - P084
+- [ ] 예비군 확인서
+- [ ] 여름방학 계획 세우기
 
 
 
