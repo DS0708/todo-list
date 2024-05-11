@@ -113,20 +113,19 @@
 - [ ] `BD` Online-lecture, Quiz  `Week 10`
 - [ ] `OSSP` 과제
 - [ ] `GP` 발표 자료 작성
+- [ ] 예비군 확인서
+- [ ] 여름방학 계획 세우기
 - [ ] `Algorithm` - P083
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
-- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
 
 
 ## `Sunday May 12` - 0h 0m -> 
 - [ ] `Algorithm` - P084
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
+- [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.8 정리
-- [ ] 예비군 확인서
-- [ ] 여름방학 계획 세우기
 
 
 
