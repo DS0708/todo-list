@@ -109,16 +109,16 @@
 - [x] `Algorithm` - P082 -> `33m`
 
 
-## `Saturday May 11` - 0h 0m -> 
-- [ ] `BD` Online-lecture, Quiz  `Week 10`
+## `Saturday May 11` - 0h 0m -> 36m
+- [x] `BD` Online-lecture, Quiz  `Week 10` -> `36m`
+
+
+## `Sunday May 12` - 0h 0m -> 
 - [ ] `OSSP` 과제
 - [ ] `GP` 발표 자료 작성
 - [ ] 예비군 확인서
 - [ ] 여름방학 계획 세우기
 - [ ] `Algorithm` - P083
-
-
-## `Sunday May 12` - 0h 0m -> 
 - [ ] `Algorithm` - P084
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
@@ -133,7 +133,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
-|`May_2week`|`15h 53m`||
+|`May_2week`|`16h 29m`||
 |May_3week|h m||
 |May_4week|h m||
 |May_5week|h m||
