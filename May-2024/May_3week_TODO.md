@@ -64,8 +64,8 @@
 <!-- - [ ] `ICFJS` - Assignment3 `until June 20` -->
 
 ## `etc.`
-- [ ] Making a plan
-- [ ] 예비군 확인서
+- [x] Making a plan
+- [x] 예비군 확인서
 - [ ] 여름방학 계획 세우기
 
 ---
@@ -74,7 +74,7 @@
 ## `Monday May 13` - 6h 20m -> 0h 0m -> 
 - [x] `GP` 발표자료 -> `1h 05m`
 - [x] Making a plan -> `16m`
-- [ ] 예비군 확인서
+- [x] 예비군 확인서 -> `13m`
 - [ ] 여름방학 계획 세우기
 - [ ] `ICFJS` - Assignment4 `until June 20`
 - [ ] `OSSP` 과제
