@@ -41,6 +41,7 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` Team Meeting `Friday 15:00`
+- [ ] `GP` 컴포넌트 세분화
 - [ ] `GP` 발표 자료 작성
 
 ## `Object-Oriented Software Development` - OOSD
@@ -54,7 +55,7 @@
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Online-lecture, Quiz  `Week 9`
-- [ ] `BD` Online-lecture, Quiz  `Week 10`
+- [x] `BD` Online-lecture, Quiz  `Week 10`
 
 ## `Startup Finance And Investment` - SFAI
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 10`
@@ -114,8 +115,9 @@
 
 
 ## `Sunday May 12` - 0h 0m -> 
-- [ ] `OSSP` 과제
+- [x] `GP` 컴포넌트 세분화 -> `1h 34m`
 - [ ] `GP` 발표 자료 작성
+- [ ] `OSSP` 과제
 - [ ] 예비군 확인서
 - [ ] 여름방학 계획 세우기
 - [ ] `Algorithm` - P083
