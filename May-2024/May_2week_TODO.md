@@ -1,6 +1,6 @@
 # TO Do List - May_2week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `3h 6m`
 - [x] `Algorithm` - P079 -> `18m`
 - [x] `Algorithm` - P080 -> `35m`
 - [x] `Algorithm` - P081 -> `1h 40m`
@@ -8,14 +8,14 @@
 - [ ] `Algorithm` - P083
 - [ ] `Algorithm` - P084
 
-## `Spring` -> `h m`
+## `Spring` -> `3h 24m`
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 인터페이스를 이용한 느슨한 결합 -> `35m` 
 - [x] `자바 웹 개발 워크북` - 4.1 의존성 주입과 스프링 - 웹 프로젝트를 위한 스프링 준비 -> `1h 28m`
 - [x] `자바 웹 개발 워크북` - 4.2 MyBatis와 스프링 연동 -> `1h 21m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
-## `DeepLearning`
+## `DeepLearning` -> `1h 14m`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.1 전체 구조 -> `25m`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.2 합성곱 계층 -> `1h`
 - [x] `OSSP` Chapter7 합성곱 신경망(CNN) - 7.3 풀링 계층 -> `13m`
@@ -29,7 +29,7 @@
 
 <br><br>
 
-> `개인공부` : ` 9h 19m` -> `h m`
+> `개인공부` : ` 9h 19m` -> `7h 44m`
 
 <br><br>
 
@@ -41,8 +41,8 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` Team Meeting `Friday 15:00`
-- [ ] `GP` 컴포넌트 세분화
-- [ ] `GP` 발표 자료 작성
+- [x] `GP` 컴포넌트 세분화
+- [x] `GP` 발표 자료 작성
 
 ## `Object-Oriented Software Development` - OOSD
 <!-- - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -->
@@ -114,9 +114,9 @@
 - [x] `BD` Online-lecture, Quiz  `Week 10` -> `36m`
 
 
-## `Sunday May 12` - 0h 0m -> 
+## `Sunday May 12` - 0h 0m -> 1h 42m
 - [x] `GP` 컴포넌트 세분화 -> `1h 34m`
-- [ ] `GP` 발표 자료 작성
+- [ ] `GP` 발표 자료 작성 -> `8m + `
 - [ ] `OSSP` 과제
 - [ ] 예비군 확인서
 - [ ] 여름방학 계획 세우기
@@ -135,7 +135,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
-|`May_2week`|`16h 29m`||
+|`May_2week`|`18h 11m`|`C+`|
 |May_3week|h m||
 |May_4week|h m||
 |May_5week|h m||
