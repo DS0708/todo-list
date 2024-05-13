@@ -46,7 +46,7 @@
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` 과제
+- [x] `OSSP` 과제
 - [ ] `OSSP` 중간 발표 제출 `0519까지`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
@@ -80,7 +80,7 @@
 - [x] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기 -> `39m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN, 7.8 정리 -> `13m`
-- [ ] `OSSP` 과제
+- [x] `OSSP` 과제 -> `55m`
 - [ ] `OOSD` Online Lecture
 - [ ] 여름방학 계획 세우기
 
