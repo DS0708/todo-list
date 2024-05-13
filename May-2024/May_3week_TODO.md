@@ -60,7 +60,7 @@
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` Face-to-face `Week 11`
-- [ ] `ICFJS` - Assignment4 `until June 20`
+- [x] `ICFJS` - Assignment4 `until June 20`
 <!-- - [ ] `ICFJS` - Assignment3 `until June 20` -->
 
 ## `etc.`
@@ -75,16 +75,16 @@
 - [x] `GP` 발표자료 -> `1h 05m`
 - [x] Making a plan -> `16m`
 - [x] 예비군 확인서 -> `13m`
-- [ ] 여름방학 계획 세우기
-- [ ] `ICFJS` - Assignment4 `until June 20`
-- [ ] `OSSP` 과제
-- [ ] `OOSD` Online Lecture
+- [x] `ICFJS` - Assignment4 `until June 20` -> 7m 
 - [ ] `Algorithm` - P083
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.8 정리
+- [ ] `OSSP` 과제
+- [ ] `OOSD` Online Lecture
+- [ ] 여름방학 계획 세우기
 
 
 ## `Tuesday May 14` - 5h 15m -> 6h -> 
