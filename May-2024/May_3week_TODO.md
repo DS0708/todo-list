@@ -16,8 +16,8 @@
 
 ## `DeepLearning` -> `h m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기 -> `47m`
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
+- [x] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기 -> `39m`
+- [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.8 정리
 - [ ] `OSSP` Team Project 중간 발표 준비
@@ -75,11 +75,11 @@
 - [x] `GP` 발표자료 -> `1h 05m`
 - [x] Making a plan -> `16m`
 - [x] 예비군 확인서 -> `13m`
-- [x] `ICFJS` - Assignment4 `until June 20` -> 7m 
+- [x] `ICFJS` - Assignment4 `until June 20` -> `7m` 
 - [x] `Algorithm` - P083 -> `33m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기 -> `47m`
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
+- [x] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기 -> `39m`
+- [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.8 정리
 - [ ] `OSSP` 과제
