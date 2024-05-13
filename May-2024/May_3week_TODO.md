@@ -81,7 +81,7 @@
 - [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN, 7.8 정리 -> `13m`
 - [x] `OSSP` 과제 -> `55m`
-- [ ] `OOSD` Online Lecture
+- [x] `OOSD` Online Lecture -> `22m`
 - [ ] 여름방학 계획 세우기
 
 
