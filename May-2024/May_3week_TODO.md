@@ -1,8 +1,9 @@
 # TO Do List - May_3week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - P083
-- [ ] `Algorithm` - P084
+- [x] `Algorithm` - P083 -> `33m`
+- [x] `Algorithm` - DP 개념 -> `32m`
+- [x] `Algorithm` - P084 -> `7m`
 - [ ] `Algorithm` - P085
 - [ ] `Algorithm` - P086
 - [ ] `Algorithm` - P087
@@ -42,7 +43,7 @@
 
 ## `Object-Oriented Software Development` - OOSD
 <!-- - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -->
-- [ ] `OOSD` Online Lecture
+- [x] `OOSD` Online Lecture
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
@@ -70,7 +71,7 @@
 ---
 ---
 
-## `Monday May 13` - 6h 20m -> 0h 0m -> 
+## `Monday May 13` - 6h 20m -> 0h 0m -> 5h 45m
 - [x] `GP` 발표자료 -> `1h 05m`
 - [x] Making a plan -> `16m`
 - [x] 예비군 확인서 -> `13m`
@@ -82,13 +83,15 @@
 - [x] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN, 7.8 정리 -> `13m`
 - [x] `OSSP` 과제 -> `55m`
 - [x] `OOSD` Online Lecture -> `22m`
-- [ ] 여름방학 계획 세우기
+- [ ] 여름방학 계획 세우기 -> `18m`
 
 
 ## `Tuesday May 14` - 5h 15m -> 6h -> 
+- [x] `Algorithm` - DP 개념 -> `32m`
+- [x] `Algorithm` - P084 -> `7m`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `GP` 대면수업 `화요일`
-- [ ] `Algorithm` - P084
+- [ ] 여름방학 계획 세우기
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `OSSP` Team Project 중간 발표 준비
 
@@ -128,7 +131,7 @@
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
-|`May_3week`|`h m`||
+|`May_3week`|`5h 45m`||
 |May_4week|h m||
 |May_5week|h m||
 
