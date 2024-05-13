@@ -18,8 +18,7 @@
 - [x] Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기 -> `47m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기 -> `39m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.8 정리
+- [x] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN, 7.8 정리 -> `13m`
 - [ ] `OSSP` Team Project 중간 발표 준비
 
 
@@ -80,8 +79,7 @@
 - [x] Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기 -> `47m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기 -> `39m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN
-- [ ] Chapter7 합성곱 신경망(CNN) - 7.8 정리
+- [x] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN, 7.8 정리 -> `13m`
 - [ ] `OSSP` 과제
 - [ ] `OOSD` Online Lecture
 - [ ] 여름방학 계획 세우기
