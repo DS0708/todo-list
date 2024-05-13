@@ -59,7 +59,7 @@
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 11`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` Face-to-face `Week 11`
+<!-- - [ ] `ICFJS` Face-to-face `Week 11` -->
 - [x] `ICFJS` - Assignment4 `until June 20`
 <!-- - [ ] `ICFJS` - Assignment3 `until June 20` -->
 
@@ -76,7 +76,7 @@
 - [x] Making a plan -> `16m`
 - [x] 예비군 확인서 -> `13m`
 - [x] `ICFJS` - Assignment4 `until June 20` -> 7m 
-- [ ] `Algorithm` - P083
+- [x] `Algorithm` - P083 -> `33m`
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.4 합성곱/풀링 계층 구현하기
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기
 - [ ] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기
@@ -103,7 +103,6 @@
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `ICFJS` Face-to-face `Week 11`
 - [ ] `GP` 대면수업 `목요일`
 - [ ] `Algorithm` - P086
 - [ ] `자바 웹 개발 워크북` - 4.4
