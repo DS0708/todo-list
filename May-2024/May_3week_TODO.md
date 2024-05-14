@@ -44,6 +44,7 @@
 ## `Object-Oriented Software Development` - OOSD
 <!-- - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -->
 - [x] `OOSD` Online Lecture
+- [ ] `OOSD` Team meeting
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
@@ -56,7 +57,7 @@
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 11`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 11`
 
 ## `Intensive Course For Job Search` - ICFJS
 <!-- - [ ] `ICFJS` Face-to-face `Week 11` -->
@@ -89,11 +90,12 @@
 ## `Tuesday May 14` - 5h 15m -> 6h -> 
 - [x] `Algorithm` - DP 개념 -> `32m`
 - [x] `Algorithm` - P084 -> `7m`
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 11` -> `8m`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 20m`
+- [ ] `OOSD` Team meeting
 - [ ] `GP` 대면수업 `화요일`
-- [ ] 여름방학 계획 세우기
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `OSSP` Team Project 중간 발표 준비
+- [ ] 여름방학 계획 세우기 -> `30m`
 
 
 ## `Wednesday May 15` - 11m -> 5h 5m -> 
