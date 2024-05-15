@@ -44,11 +44,13 @@
 ## `Object-Oriented Software Development` - OOSD
 <!-- - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -->
 - [x] `OOSD` Online Lecture
-- [ ] `OOSD` Team meeting
+- [x] `OOSD` Team meeting
+- [ ] `OOSD` Diagram 그리기
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` 과제
+- [ ] `OSSP` Team Meeting
 - [ ] `OSSP` 중간 발표 제출 `0519까지`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
@@ -87,21 +89,22 @@
 - [ ] 여름방학 계획 세우기 -> `18m`
 
 
-## `Tuesday May 14` - 5h 15m -> 6h -> 
+## `Tuesday May 14` - 5h 15m -> 6h -> 6h 7m
 - [x] `Algorithm` - DP 개념 -> `32m`
 - [x] `Algorithm` - P084 -> `7m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 11` -> `8m`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 20m`
-- [ ] `OOSD` Team meeting
-- [ ] `GP` 대면수업 `화요일`
-- [ ] `OSSP` Team Project 중간 발표 준비
-- [ ] 여름방학 계획 세우기 -> `30m`
+- [x] `OOSD` Team meeting -> `1h 10m`
+- [x] 여름방학 계획 세우기 -> `1h`
+- [x] `GP` 대면수업 `화요일` -> 
 
 
 ## `Wednesday May 15` - 11m -> 5h 5m -> 
+- [ ] `OSSP` Team Project 중간 발표 준비
+- [ ] `OSSP` Team Meeting
+- [ ] `OOSD` Diagram 그리기
 - [ ] `Algorithm` - P085
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
-- [ ] `OSSP` Team Project 중간 발표 준비
 
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
@@ -133,7 +136,7 @@
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
-|`May_3week`|`5h 45m`||
+|`May_3week`|`11h 52m`||
 |May_4week|h m||
 |May_5week|h m||
 
