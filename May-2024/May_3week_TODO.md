@@ -5,6 +5,7 @@
 - [x] `Algorithm` - DP 개념 -> `32m`
 - [x] `Algorithm` - P084 -> `7m`
 - [x] `Algorithm` - P085 -> `1h`
+- [x] `Algorithm` Class 문제 -> `1h 28m`
 - [ ] `Algorithm` - P086
 - [ ] `Algorithm` - P087
 - [ ] `Algorithm` - P088
@@ -101,15 +102,16 @@
 - [x] `GP` 대면수업 `화요일` -> 
 
 
-## `Wednesday May 15` - 11m -> 5h 5m -> 3h 52m
+## `Wednesday May 15` - 11m -> 5h 5m ->
 - [x] `OSSP` Team Project 중간 발표 준비 -> `1h 34m`
 - [x] `OSSP` Team Meeting -> `1h 18m`
 - [x] `Algorithm` - P085 -> `1h`
+- [x] `Algorithm` Class 문제 -> `1h 28m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
-- [ ] `OOSD` Diagram 그리기
 
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
+- [ ] `OOSD` Diagram 그리기
 - [ ] `OSSP` 데이터 분석 및 전처리 작성
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `GP` 대면수업 `목요일`
