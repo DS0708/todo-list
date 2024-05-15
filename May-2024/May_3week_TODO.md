@@ -12,6 +12,7 @@
 - [ ] `Algorithm` - P089
 
 ## `Spring` -> `h m`
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - DispatcherServlet과 Front Controller -> `22m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `자바 웹 개발 워크북` - 4.4
 
@@ -102,12 +103,12 @@
 - [x] `GP` 대면수업 `화요일` -> 
 
 
-## `Wednesday May 15` - 11m -> 5h 5m ->
+## `Wednesday May 15` - 11m -> 5h 5m -> 5h 42m
 - [x] `OSSP` Team Project 중간 발표 준비 -> `1h 34m`
 - [x] `OSSP` Team Meeting -> `1h 18m`
 - [x] `Algorithm` - P085 -> `1h`
 - [x] `Algorithm` Class 문제 -> `1h 28m`
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - DispatcherServlet과 Front Controller -> `22m`
 
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
@@ -143,7 +144,7 @@
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
-|`May_3week`|`11h 52m`||
+|`May_3week`|`17h 34m`||
 |May_4week|h m||
 |May_5week|h m||
 
