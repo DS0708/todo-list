@@ -4,7 +4,7 @@
 - [x] `Algorithm` - P083 -> `33m`
 - [x] `Algorithm` - DP 개념 -> `32m`
 - [x] `Algorithm` - P084 -> `7m`
-- [ ] `Algorithm` - P085
+- [x] `Algorithm` - P085 -> `1h`
 - [ ] `Algorithm` - P086
 - [ ] `Algorithm` - P087
 - [ ] `Algorithm` - P088
@@ -69,7 +69,9 @@
 ## `etc.`
 - [x] Making a plan
 - [x] 예비군 확인서
-- [ ] 여름방학 계획 세우기
+- [x] 여름방학 계획 세우기
+- [ ] 동아리 지원서 작성
+- [ ] 여름방학 현장실습 지원서 작성
 
 ---
 ---
@@ -99,19 +101,22 @@
 - [x] `GP` 대면수업 `화요일` -> 
 
 
-## `Wednesday May 15` - 11m -> 5h 5m -> 
+## `Wednesday May 15` - 11m -> 5h 5m -> 3h 52m
 - [x] `OSSP` Team Project 중간 발표 준비 -> `1h 34m`
-- [ ] `OSSP` Team Meeting
-- [ ] `OOSD` Diagram 그리기
-- [ ] `Algorithm` - P085
+- [x] `OSSP` Team Meeting -> `1h 18m`
+- [x] `Algorithm` - P085 -> `1h`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [ ] `OOSD` Diagram 그리기
 
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
+- [ ] `OSSP` 데이터 분석 및 전처리 작성
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `GP` 대면수업 `목요일`
 - [ ] `Algorithm` - P086
 - [ ] `자바 웹 개발 워크북` - 4.4
+- [ ] 동아리 지원서 작성
+- [ ] 여름방학 현장실습 지원서 작성
 
 
 ## `Friday May 17` - 3h 8m -> 4h 48m -> 
