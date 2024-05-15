@@ -100,7 +100,7 @@
 
 
 ## `Wednesday May 15` - 11m -> 5h 5m -> 
-- [ ] `OSSP` Team Project 중간 발표 준비
+- [x] `OSSP` Team Project 중간 발표 준비 -> `1h 34m`
 - [ ] `OSSP` Team Meeting
 - [ ] `OOSD` Diagram 그리기
 - [ ] `Algorithm` - P085
