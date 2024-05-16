@@ -113,22 +113,25 @@
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - DispatcherServlet과 Front Controller -> `22m`
 
 
-## `Thursday May 16` - 5h 8m -> 0h -> 
+## `Thursday May 16` - 5h 8m -> 0h -> 5h 34m
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 02`
 - [x] `OSSP` 데이터 분석 및 전처리 작성 -> `8m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 Web MVC 특징 -> `1h 06m`
 - [x] `Algorithm` - P086 -> `24m`
 - [x] `GP` 대면수업 `목요일` -> `30m`
 - [x] `OOSD` Diagram 그리기 -> `1h 24m`
-- [ ] 동아리 지원서 작성
-- [ ] 여름방학 현장실습 지원서 작성
+- [x] `OSSP` 잡일 -> `20m`
+- [ ] 여름방학 현장실습 지원서 작성 -> `40m`
+- [ ] 동아리 지원서 작성 `일요일까지`
 
 
 ## `Friday May 17` - 3h 8m -> 4h 48m -> 
 - [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `OOSD` Face-to-face class `on Friday at 01:00 PM in 새관402`
 - [ ] `Algorithm` - P087
-- [ ] `자바 웹 개발 워크북` - 4.4
+- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [ ] 여름방학 현장실습 지원서 작성
+- [ ] 동아리 지원서 작성 `일요일까지`
 
 
 ## `Saturday May 18` - 0h 0m -> 36m -> 
@@ -147,7 +150,7 @@
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
-|`May_3week`|`17h 34m`||
+|`May_3week`|`23h 8m`||
 |May_4week|h m||
 |May_5week|h m||
 
