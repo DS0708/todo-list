@@ -13,7 +13,7 @@
 
 ## `Spring` -> `h m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - DispatcherServlet과 Front Controller -> `22m`
-- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 실습02 - 스프링 MVC 컨트롤러 -> `45m`
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 Web MVC 특징 -> `1h 06m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `자바 웹 개발 워크북` - 4.4
 
@@ -114,10 +114,10 @@
 
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
-- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 실습02 - 스프링 MVC 컨트롤러 -> `45m`
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 02`
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 Web MVC 특징 -> `1h 06m`
 - [ ] `OOSD` Diagram 그리기 -> `13m`
-- [ ] `OSSP` 데이터 분석 및 전처리 작성
+- [ ] `OSSP` 데이터 분석 및 전처리 작성 -> `8m`
 - [ ] `GP` 대면수업 `목요일`
 - [ ] `Algorithm` - P086
 - [ ] 동아리 지원서 작성
