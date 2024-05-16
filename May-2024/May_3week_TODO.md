@@ -6,7 +6,7 @@
 - [x] `Algorithm` - P084 -> `7m`
 - [x] `Algorithm` - P085 -> `1h`
 - [x] `Algorithm` Class 문제 -> `1h 28m`
-- [ ] `Algorithm` - P086
+- [x] `Algorithm` - P086 -> `24m`
 - [ ] `Algorithm` - P087
 - [ ] `Algorithm` - P088
 - [ ] `Algorithm` - P089
@@ -115,16 +115,17 @@
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 02`
+- [x] `OSSP` 데이터 분석 및 전처리 작성 -> `8m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 Web MVC 특징 -> `1h 06m`
+- [x] `Algorithm` - P086 -> `24m`
 - [ ] `OOSD` Diagram 그리기 -> `13m`
-- [ ] `OSSP` 데이터 분석 및 전처리 작성 -> `8m`
 - [ ] `GP` 대면수업 `목요일`
-- [ ] `Algorithm` - P086
 - [ ] 동아리 지원서 작성
 - [ ] 여름방학 현장실습 지원서 작성
 
 
 ## `Friday May 17` - 3h 8m -> 4h 48m -> 
+- [ ] `OSSP` 데이터 분석 및 전처리 작성
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `Algorithm` - P087
 - [ ] `자바 웹 개발 워크북` - 4.4
