@@ -40,7 +40,7 @@
 
 ## `Graduation Project` - GP
 - [x] `GP` 발표자료
-- [ ] `GP` 대면수업 `화요일`
+- [x] `GP` 대면수업 `화요일`
 - [ ] `GP` 대면수업 `목요일`
 <!-- - [x] `GP` Team Meeting `Friday 15:00` -->
 
@@ -53,10 +53,11 @@
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` 과제
-- [ ] `OSSP` Team Meeting
+- [x] `OSSP` Team Meeting
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [ ] `OSSP` 데이터 분석 및 전처리 작성
 - [ ] `OSSP` 중간 발표 제출 `0519까지`
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
@@ -114,9 +115,9 @@
 
 ## `Thursday May 16` - 5h 8m -> 0h -> 
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 실습02 - 스프링 MVC 컨트롤러 -> `45m`
-- [ ] `OOSD` Diagram 그리기
+- [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -> `1h 02`
+- [ ] `OOSD` Diagram 그리기 -> `13m`
 - [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `GP` 대면수업 `목요일`
 - [ ] `Algorithm` - P086
 - [ ] 동아리 지원서 작성
