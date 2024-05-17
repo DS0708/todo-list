@@ -126,26 +126,28 @@
 - [ ] 동아리 지원서 작성 `일요일까지`
 
 
-## `Friday May 17` - 3h 8m -> 4h 48m -> 
+## `Friday May 17` - 3h 8m -> 4h 48m -> 5h 44m
 - [x] 여름방학 현장실습 지원서 작성 -> `1h 35m`
 - [x] `OOSD` Face-to-face class `on Friday at 01:00 PM in 새관402` -> `1h 50m`
 - [x] `Algorithm` - P087 -> `24m`
-- [ ] 동아리 지원서 작성 `일요일까지`
-- [ ] `OSSP` 데이터 분석 및 전처리 작성 -> `11m`
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [x] 동아리 지원서 작성 2page `일요일까지` -> `1h 02m`
+- [x] `OSSP` 데이터 분석 및 전처리 작성 -> `53m`
 
 
 ## `Saturday May 18` - 0h 0m -> 36m -> 
-- [ ] `OSSP` Team Meeting `토욜`
+- [ ] `OSSP` 데이터 분석 및 전처리 작성
+- [ ] `OSSP` Team Meeting `토욜 2시`
+- [ ] 동아리 지원서 작성 2page `일요일까지`
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
 - [ ] `Algorithm` - P088
 - [ ] `OOSD` ppt 만들기 `5월 19일 까지`
+- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
 ## `Sunday May 19` - 0h 0m -> 1h 42m -> 
 - [ ] `Algorithm` - P089
 - [ ] `OSSP` 중간 발표 제출 `0519까지`
-
+- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
 ## Progress
@@ -153,7 +155,7 @@
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
-|`May_3week`|`23h 8m`||
+|`May_3week`|`28h 52m`||
 |May_4week|h m||
 |May_5week|h m||
 
