@@ -7,7 +7,7 @@
 - [x] `Algorithm` - P085 -> `1h`
 - [x] `Algorithm` Class 문제 -> `1h 28m`
 - [x] `Algorithm` - P086 -> `24m`
-- [ ] `Algorithm` - P087
+- [x] `Algorithm` - P087 -> `24m`
 - [ ] `Algorithm` - P088
 - [ ] `Algorithm` - P089
 
@@ -48,8 +48,9 @@
 <!-- - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -->
 - [x] `OOSD` Online Lecture
 - [x] `OOSD` Team meeting
-- [ ] `OOSD` Diagram 그리기
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Diagram 그리기
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `OOSD` ppt 만들기 `5월 19일 까지`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` 과제
@@ -57,7 +58,7 @@
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] `OSSP` 중간 발표 제출 `0519까지`
+- [ ] `OSSP` Team Meeting `토욜`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
@@ -74,7 +75,7 @@
 - [x] Making a plan
 - [x] 예비군 확인서
 - [x] 여름방학 계획 세우기
-- [ ] 동아리 지원서 작성
+- [x] 동아리 지원서 작성
 - [ ] 여름방학 현장실습 지원서 작성
 
 ---
@@ -127,16 +128,18 @@
 
 ## `Friday May 17` - 3h 8m -> 4h 48m -> 
 - [x] 여름방학 현장실습 지원서 작성 -> `1h 35m`
+- [x] `OOSD` Face-to-face class `on Friday at 01:00 PM in 새관402` -> `1h 50m`
+- [x] `Algorithm` - P087 -> `24m`
 - [ ] 동아리 지원서 작성 `일요일까지`
-- [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] `OOSD` Face-to-face class `on Friday at 01:00 PM in 새관402`
-- [ ] `Algorithm` - P087
+- [ ] `OSSP` 데이터 분석 및 전처리 작성 -> `11m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
 ## `Saturday May 18` - 0h 0m -> 36m -> 
+- [ ] `OSSP` Team Meeting `토욜`
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
 - [ ] `Algorithm` - P088
+- [ ] `OOSD` ppt 만들기 `5월 19일 까지`
 
 
 ## `Sunday May 19` - 0h 0m -> 1h 42m -> 
