@@ -135,16 +135,15 @@
 
 
 ## `Saturday May 18` - 0h 0m -> 36m -> 
+- [x] `OSSP` Team Meeting `토욜 2시` -> `1h`
 - [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] `OSSP` Team Meeting `토욜 2시`
 - [ ] 동아리 지원서 작성 2page `일요일까지`
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
-- [ ] `Algorithm` - P088
-- [ ] `OOSD` ppt 만들기 `5월 19일 까지`
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
 ## `Sunday May 19` - 0h 0m -> 1h 42m -> 
+- [ ] `OOSD` ppt 만들기 `5월 19일 까지`
+- [ ] `Algorithm` - P088
 - [ ] `Algorithm` - P089
 - [ ] `OSSP` 중간 발표 제출 `0519까지`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
