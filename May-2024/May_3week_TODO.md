@@ -23,7 +23,7 @@
 - [x] Chapter7 합성곱 신경망(CNN) - 7.5 CNN 구현하기 -> `39m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.6 CNN 시각화하기 -> `17m`
 - [x] Chapter7 합성곱 신경망(CNN) - 7.7 대표적인 CNN, 7.8 정리 -> `13m`
-- [ ] `OSSP` Team Project 중간 발표 준비
+- [x] `OSSP` Team Project 중간 발표 준비
 
 
 <br><br>
@@ -41,7 +41,7 @@
 ## `Graduation Project` - GP
 - [x] `GP` 발표자료
 - [x] `GP` 대면수업 `화요일`
-- [ ] `GP` 대면수업 `목요일`
+- [x] `GP` 대면수업 `목요일`
 <!-- - [x] `GP` Team Meeting `Friday 15:00` -->
 
 ## `Object-Oriented Software Development` - OOSD
@@ -57,8 +57,10 @@
 - [x] `OSSP` Team Meeting
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [x] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] `OSSP` Team Meeting `토욜`
+- [x] `OSSP` 데이터 분석 및 전처리 작성
+- [x] `OSSP` Team Meeting `토욜`
+
+- [ ] `OSSP` 발표 준비
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
@@ -76,7 +78,7 @@
 - [x] 예비군 확인서
 - [x] 여름방학 계획 세우기
 - [x] 동아리 지원서 작성
-- [ ] 여름방학 현장실습 지원서 작성
+- [x] 여름방학 현장실습 지원서 작성
 
 ---
 ---
@@ -134,18 +136,17 @@
 - [x] `OSSP` 데이터 분석 및 전처리 작성 -> `53m`
 
 
-## `Saturday May 18` - 0h 0m -> 36m -> 
+## `Saturday May 18` - 0h 0m -> 36m -> 7h 11m
 - [x] `OSSP` Team Meeting `토욜 2시` -> `1h`
-- [ ] `OSSP` 데이터 분석 및 전처리 작성
-- [ ] 동아리 지원서 작성 2page `일요일까지`
-- [ ] `BD` Online-lecture, Quiz  `Week 11`
+- [x] `OSSP` 데이터 분석 및 전처리 작성 -> `6h 11m`
 
 
 ## `Sunday May 19` - 0h 0m -> 1h 42m -> 
+- [ ] 동아리 지원서 작성 2page `일요일까지`
 - [ ] `OOSD` ppt 만들기 `5월 19일 까지`
+- [ ] `BD` Online-lecture, Quiz  `Week 11`
 - [ ] `Algorithm` - P088
 - [ ] `Algorithm` - P089
-- [ ] `OSSP` 중간 발표 제출 `0519까지`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
@@ -154,7 +155,7 @@
 |:---:|:---:|:---:|
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
-|`May_3week`|`28h 52m`||
+|`May_3week`|`36h 3m`||
 |May_4week|h m||
 |May_5week|h m||
 
