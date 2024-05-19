@@ -125,7 +125,6 @@
 - [x] `OOSD` Diagram 그리기 -> `1h 24m`
 - [x] `OSSP` 잡일 -> `20m`
 - [ ] 여름방학 현장실습 지원서 작성 -> `40m`
-- [ ] 동아리 지원서 작성 `일요일까지`
 
 
 ## `Friday May 17` - 3h 8m -> 4h 48m -> 5h 44m
@@ -142,7 +141,6 @@
 
 
 ## `Sunday May 19` - 0h 0m -> 1h 42m -> 
-- [ ] 동아리 지원서 작성 2page `일요일까지`
 - [ ] `OOSD` ppt 만들기 `5월 19일 까지`
 - [ ] `BD` Online-lecture, Quiz  `Week 11`
 - [ ] `Algorithm` - P088
