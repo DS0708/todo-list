@@ -67,7 +67,7 @@
 - [x] Making a plan -> `10m`
 - [x] `Algorithm` - P088 -> `22m`
 - [x] 여름방학 현장실습 지원 - 주식회사더캐리 -> 5월 26일 -> `45m`
-- [ ] `BD` Online-lecture, Quiz  `Week 11` -> `20m + `
+- [x] `BD` Online-lecture, Quiz  `Week 11` -> `27m`
 - [ ] `OSSP` 발표 준비
 
 
