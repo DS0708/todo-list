@@ -1,7 +1,7 @@
 # TO Do List - May_4week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - P088
+- [x] `Algorithm` - P088 -> `22m`
 - [ ] `Algorithm` - P089
 - [ ] `Algorithm` - P090
 - [ ] `Algorithm` - P091
@@ -57,7 +57,6 @@
 ## `etc.`
 - [x] Making a plan
 - [ ] 여름방학 현장실습 지원 - 주식회사더캐리 -> 5월 26일
-- [ ] 여름방학 현장실습 지원 - 모바일 앱개발 협동조합 -> 5월 31일
 
 ---
 ---
@@ -66,8 +65,9 @@
 - [x] `OOSD` ppt 만들기 `5월 19일 까지` -> `2h 16m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `30m`
 - [x] Making a plan -> `10m`
-- [ ] `BD` Online-lecture, Quiz  `Week 11`
-- [ ] `Algorithm` - P088
+- [x] `Algorithm` - P088 -> `22m`
+- [x] 여름방학 현장실습 지원 - 주식회사더캐리 -> 5월 26일 -> `45m`
+- [ ] `BD` Online-lecture, Quiz  `Week 11` -> `20m + `
 - [ ] `OSSP` 발표 준비
 
 
