@@ -73,8 +73,8 @@
 
 ## `Tuesday May 14` - 5h 15m -> 6h 0m -> 6h 7m
 - [x] `OSSP` 발표 준비 -> `27m`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 45m`
 - [ ] `Algorithm` - P089
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
