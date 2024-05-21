@@ -61,21 +61,22 @@
 ---
 ---
 
-## `Monday May 13` - 6h 20m -> 0h 0m -> 5h 45m -> 
+## `Monday May 13` - 6h 20m -> 0h 0m -> 5h 45m -> 6h 01m
 - [x] `OOSD` ppt 만들기 `5월 19일 까지` -> `2h 16m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `30m`
 - [x] Making a plan -> `10m`
 - [x] `Algorithm` - P088 -> `22m`
 - [x] 여름방학 현장실습 지원 - 주식회사더캐리 -> 5월 26일 -> `45m`
 - [x] `BD` Online-lecture, Quiz  `Week 11` -> `27m`
-- [ ] `OSSP` 발표 준비
+- [x] `OSSP` 발표 준비 -> `1h 30m`
 
 
 ## `Tuesday May 14` - 5h 15m -> 6h 0m -> 6h 7m
-- [ ] `Algorithm` - P089
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [x] `OSSP` 발표 준비 -> `27m`
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [ ] `Algorithm` - P089
+- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
 
 ## `Wednesday May 15` - 0h 11m -> 5h 5m -> 5h 42m
