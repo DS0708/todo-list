@@ -2,6 +2,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P088 -> `22m`
+- [x] `Algorithm` Class 2 -> `13m`
 - [ ] `Algorithm` - P089
 - [ ] `Algorithm` - P090
 - [ ] `Algorithm` - P091
@@ -75,6 +76,7 @@
 - [x] `OSSP` 발표 준비 -> `27m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 45m`
+- [x] `Algorithm` Class 2 -> `13m`
 - [ ] `Algorithm` - P089
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
