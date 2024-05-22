@@ -72,7 +72,7 @@
 - [x] `OSSP` 발표 준비 -> `1h 30m`
 
 
-## `Tuesday May 14` - 5h 15m -> 6h 0m -> 6h 7m
+## `Tuesday May 14` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m
 - [x] `OSSP` 발표 준비 -> `27m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 45m`
@@ -82,6 +82,7 @@
 
 
 ## `Wednesday May 15` - 0h 11m -> 5h 5m -> 5h 42m
+- [x] `GP` Team meeting -> `35m`
 - [ ] `Algorithm` - P090
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 
@@ -113,7 +114,7 @@
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
-|`May_4week`|`h m`||
+|`May_4week`|`8h 26m`||
 |May_5week|h m||
 
 
