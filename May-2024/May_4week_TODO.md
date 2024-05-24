@@ -90,9 +90,9 @@
 ## `Thursday May 16` - 5h 8m -> 0h 0m -> 5h 34m -> 0h 0m
 
 
-## `Friday May 17` - 3h 8m -> 4h 48m -> 5h 44m -> 
+## `Friday May 17` - 3h 8m -> 4h 48m -> 5h 44m -> 2h 46m
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 30m`
-- [ ] `OSSP` 논문 녹화 -> `30m + `
+- [x] `OSSP` 논문 녹화 -> `1h 16m`
 
 
 ## `Saturday May 18` - 0h 0m -> 36m -> 7h 11m
@@ -110,7 +110,7 @@
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
-|`May_4week`|`9h 1m`||
+|`May_4week`|`11h 47m`||
 |May_5week|h m||
 
 
