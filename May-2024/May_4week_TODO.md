@@ -95,13 +95,12 @@
 - [x] `OSSP` 논문 녹화 -> `1h 16m`
 
 
-## `Saturday May 18` - 0h 0m -> 36m -> 7h 11m
-- [ ] `BD` Online-lecture, Quiz  `Week 12`
-- [ ] `ICFJS` Online Lecture `Week 12`
+## `Saturday May 18` - 0h 0m -> 36m -> 7h 11m -> 0h 0m
+- [x] `ICFJS` Online Lecture `Week 12`
 
 
 ## `Sunday May 19` - 0h 0m -> 1h 42m -> 0h 0m
-
+- [ ] `BD` Online-lecture, Quiz  `Week 12`
 
 
 ## Progress
