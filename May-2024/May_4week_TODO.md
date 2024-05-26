@@ -37,27 +37,28 @@
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` ppt 만들기 `5월 19일 까지`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OSSP` 발표 준비
+- [x] `OSSP` 발표 준비
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Online-lecture, Quiz  `Week 11`
+- [x] `BD` Online-lecture, Quiz  `Week 11`
 - [ ] `BD` Online-lecture, Quiz  `Week 12`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 12`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` Online Lecture `Week 12`
+- [x] `ICFJS` Online Lecture `Week 12`
 <!-- - [ ] `ICFJS` - Assignment3 `until June 20` -->
 
 ## `etc.`
 - [x] Making a plan
-- [ ] 여름방학 현장실습 지원 - 주식회사더캐리 -> 5월 26일
+- [x] 여름방학 현장실습 지원 - 주식회사더캐리 -> 5월 26일
+- [x] Kernel360 지원서 작성
 
 ---
 ---
@@ -99,7 +100,8 @@
 - [x] `ICFJS` Online Lecture `Week 12`
 
 
-## `Sunday May 19` - 0h 0m -> 1h 42m -> 0h 0m
+## `Sunday May 19` - 0h 0m -> 1h 42m -> 0h 0m - 5h 0m
+- [x] Kernel360 지원서 작성 -> `5h`
 - [ ] `BD` Online-lecture, Quiz  `Week 12`
 
 
@@ -109,7 +111,7 @@
 |May_1week|20h 2m|`C+`|
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
-|`May_4week`|`11h 47m`||
+|`May_4week`|`16h 47m`|`C`|
 |May_5week|h m||
 
 
