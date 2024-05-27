@@ -1,7 +1,8 @@
 # TO Do List - May_5week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - P089
+- [x] `Algorithm` - P089 -> `45m`
+- [x] `Algorithm` - P2798 -> `34m`
 - [ ] `Algorithm` - P090
 - [ ] `Algorithm` - P091
 - [ ] `Algorithm` - P092
@@ -59,7 +60,8 @@
 
 ## `Monday May 27` - 6h 20m -> 0h 0m -> 5h 45m -> 6h 01m -> 
 - [x] Making a plan - > `11m`
-- [ ] `Algorithm` - P089
+- [x] `Algorithm` - P089 -> `45m`
+- [x] `Algorithm` - P2798 -> `34m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] Naver Connect 지원서 작성
 - [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
