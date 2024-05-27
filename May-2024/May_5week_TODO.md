@@ -9,6 +9,7 @@
 - [ ] `Algorithm` - P093
 
 ## `Spring` -> `h m`
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `35m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `자바 웹 개발 워크북` - 4.4
 
@@ -51,26 +52,29 @@
 - [ ] `ICFJS` - Assignment3 `until June 20` -->
 
 ## `etc.`
-- [ ] Making a plan
+- [x] Making a plan
 - [ ] Naver Connect 지원서 작성
 - [ ] 엘리스 지원서 작성
+- [ ] 독서
 
 ---
 ---
 
-## `Monday May 27` - 6h 20m -> 0h 0m -> 5h 45m -> 6h 01m -> 
+## `Monday May 27` - 6h 20m -> 0h 0m -> 5h 45m -> 6h 01m -> 4h
 - [x] Making a plan - > `11m`
 - [x] `Algorithm` - P089 -> `45m`
 - [x] `Algorithm` - P2798 -> `34m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `90m`
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
-- [ ] Naver Connect 지원서 작성
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `35m`
+- [x] 독서 -> `25m`
+
 
 ## `Tuesday May 28` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m -> 
 - [ ] `Algorithm` - P090
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 13`
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [ ] Naver Connect 지원서 작성
 
 
 ## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 
@@ -106,7 +110,7 @@
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
 |May_4week|16h 47m|`C`|
-|`May_5week`|`h m`||
+|`May_5week`|`4h 0m`||
 
 
 ## Standard Grade
