@@ -62,9 +62,9 @@
 - [x] Making a plan - > `11m`
 - [x] `Algorithm` - P089 -> `45m`
 - [x] `Algorithm` - P2798 -> `34m`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `90m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] Naver Connect 지원서 작성
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 
 ## `Tuesday May 28` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m -> 
 - [ ] `Algorithm` - P090
