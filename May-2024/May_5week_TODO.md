@@ -7,10 +7,14 @@
 - [ ] `Algorithm` - P091
 - [ ] `Algorithm` - P092
 - [ ] `Algorithm` - P093
+- [ ] `Algorithm` - P094
+- [ ] `Algorithm` - P095
+- [ ] `Algorithm` - P096
+- [ ] `Algorithm` - P097
 
 ## `Spring` -> `h m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `35m`
-- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m `
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m`
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `자바 웹 개발 워크북` - 4.4
 
@@ -44,11 +48,12 @@
 - [x] `GP` Team Meeting `Friday 15:00` -->
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `OOSD` CI/CD 환경 확인
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -85,25 +90,30 @@
 - [x] Naver Connect 지원서 작성
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 55m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m `
-- [ ] `Algorithm` - P090
+- [x] `Algorithm` - P090 -> `1h 8m`
+- [ ] `Algorithm` - P091
 - [ ] `OS` - Ch1 오리엔테이션
+- [ ] `OOSD` CI/CD 환경 확인
 
 
 ## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 
-- [ ] `Algorithm` - P091
+- [ ] `Algorithm` - P092
+- [ ] `Algorithm` - P093
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `OS` - Ch2 프로세스와 스레드
 
 
 ## `Thursday May 30` - 5h 8m -> 0h 0m -> 5h 34m -> 0h 0m -> 
-- [ ] `Algorithm` - P092
+- [ ] `Algorithm` - P094
+- [ ] `Algorithm` - P095
 - [ ] `자바 웹 개발 워크북` - 4.4
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `OS` - Ch3 CPU 스케줄링
 
 
 ## `Friday May 31` - 3h 8m -> 4h 48m -> 5h 44m -> 2h 46m -> 
-- [ ] `Algorithm` - P093
+- [ ] `Algorithm` - P096
+- [ ] `Algorithm` - P097
 - [ ] `자바 웹 개발 워크북` - 4.4
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OS` - Ch4 동기화와 교착상태
