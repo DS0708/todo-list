@@ -10,6 +10,7 @@
 
 ## `Spring` -> `h m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `35m`
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m `
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `자바 웹 개발 워크북` - 4.4
 
@@ -83,7 +84,7 @@
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 13`
 - [x] Naver Connect 지원서 작성
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 55m`
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `43m + `
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m `
 - [ ] `Algorithm` - P090
 - [ ] `OS` - Ch1 오리엔테이션
 
