@@ -3,8 +3,8 @@
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P089 -> `45m`
 - [x] `Algorithm` - P2798 -> `34m`
-- [ ] `Algorithm` - P090
-- [ ] `Algorithm` - P091
+- [x] `Algorithm` - P090 -> `1h 8m`
+- [x] `Algorithm` - P091 -> `23m`
 - [ ] `Algorithm` - P092
 - [ ] `Algorithm` - P093
 - [ ] `Algorithm` - P094
@@ -85,15 +85,14 @@
 - [x] 독서 -> `25m`
 
 
-## `Tuesday May 28` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m -> 
+## `Tuesday May 28` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m -> 6h 21m
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 13`
 - [x] Naver Connect 지원서 작성
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 55m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m `
 - [x] `Algorithm` - P090 -> `1h 8m`
-- [ ] `Algorithm` - P091
-- [ ] `OS` - Ch1 오리엔테이션
-- [ ] `OOSD` CI/CD 환경 확인
+- [x] `Algorithm` - P091 -> `23m`
+- [x] `OS` - Ch1 오리엔테이션 -> `1h 39m`
 
 
 ## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 
@@ -101,6 +100,7 @@
 - [ ] `Algorithm` - P093
 - [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `OS` - Ch2 프로세스와 스레드
+- [ ] `OOSD` CI/CD 환경 확인
 
 
 ## `Thursday May 30` - 5h 8m -> 0h 0m -> 5h 34m -> 0h 0m -> 
