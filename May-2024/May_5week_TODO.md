@@ -5,7 +5,7 @@
 - [x] `Algorithm` - P2798 -> `34m`
 - [x] `Algorithm` - P090 -> `1h 8m`
 - [x] `Algorithm` - P091 -> `23m`
-- [ ] `Algorithm` - P092
+- [x] `Algorithm` - P092 -> `44m`
 - [ ] `Algorithm` - P093
 - [ ] `Algorithm` - P094
 - [ ] `Algorithm` - P095
@@ -16,10 +16,11 @@
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `35m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 MVC의 예외 처리 -> `1h`
-- [ ] `자바 웹 개발 워크북` - 4.4
+- [x] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기 - 프로젝트의 폴더/패키지 구조 -> `1h 15m`
+- [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
 
 ## `기술면접` - `FastCampus 강의수강` ->  `h m`
-- [ ] `OS` - Ch1 오리엔테이션
+- [x] `OS` - Ch1 오리엔테이션 -> `1h 39m`
 - [ ] `OS` - Ch2 프로세스와 스레드
 - [ ] `OS` - Ch3 CPU 스케줄링
 - [ ] `OS` - Ch4 동기화와 교착상태
@@ -98,16 +99,17 @@
 
 ## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 MVC의 예외 처리 -> `1h`
-- [ ] `Algorithm` - P092
+- [x] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기 - 프로젝트의 폴더/패키지 구조 -> `1h 15m`
+- [x] 독서 -> `12m`
+- [x] `Algorithm` - P092 -> `44m`
 - [ ] `Algorithm` - P093
 - [ ] `OS` - Ch2 프로세스와 스레드
-- [ ] `OOSD` CI/CD 환경 확인
 
 
 ## `Thursday May 30` - 5h 8m -> 0h 0m -> 5h 34m -> 0h 0m -> 
 - [ ] `Algorithm` - P094
 - [ ] `Algorithm` - P095
-- [ ] `자바 웹 개발 워크북` - 4.4
+- [ ] `OOSD` CI/CD 환경 확인
 - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
 - [ ] `OS` - Ch3 CPU 스케줄링
 
