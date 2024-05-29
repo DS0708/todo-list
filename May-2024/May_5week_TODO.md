@@ -15,7 +15,7 @@
 ## `Spring` -> `h m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `35m`
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 -> `1h 16m`
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 MVC의 예외 처리 -> `1h`
 - [ ] `자바 웹 개발 워크북` - 4.4
 
 ## `기술면접` - `FastCampus 강의수강` ->  `h m`
@@ -85,7 +85,7 @@
 - [x] 독서 -> `25m`
 
 
-## `Tuesday May 28` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m -> 6h 21m
+## `Tuesday May 28` - 5h 15m -> 6h 0m -> 6h 7m -> 2h 25m -> 6h 31m
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 13`
 - [x] Naver Connect 지원서 작성
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 55m`
@@ -93,12 +93,13 @@
 - [x] `Algorithm` - P090 -> `1h 8m`
 - [x] `Algorithm` - P091 -> `23m`
 - [x] `OS` - Ch1 오리엔테이션 -> `1h 39m`
+- [x] 독서 -> `10m`
 
 
 ## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 
+- [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 MVC의 예외 처리 -> `1h`
 - [ ] `Algorithm` - P092
 - [ ] `Algorithm` - P093
-- [ ] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초
 - [ ] `OS` - Ch2 프로세스와 스레드
 - [ ] `OOSD` CI/CD 환경 확인
 
@@ -135,7 +136,7 @@
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
 |May_4week|16h 47m|`C`|
-|`May_5week`|`4h 0m`||
+|`May_5week`|`10h 31m`||
 
 
 ## Standard Grade
