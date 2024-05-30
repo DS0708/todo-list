@@ -6,7 +6,7 @@
 - [x] `Algorithm` - P090 -> `1h 8m`
 - [x] `Algorithm` - P091 -> `23m`
 - [x] `Algorithm` - P092 -> `44m`
-- [ ] `Algorithm` - P093
+- [ ] `Algorithm` - P093 -> `1h 29m + `
 - [ ] `Algorithm` - P094
 - [ ] `Algorithm` - P095
 - [ ] `Algorithm` - P096
@@ -97,32 +97,32 @@
 - [x] 독서 -> `10m`
 
 
-## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 
+## `Wednesday May 29` - 0h 11m -> 5h 5m -> 5h 42m -> 0h 35m -> 4h 40m
 - [x] `자바 웹 개발 워크북` - 4.3 스프링 Web MVC 기초 - 스프링 MVC의 예외 처리 -> `1h`
 - [x] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기 - 프로젝트의 폴더/패키지 구조 -> `1h 15m`
 - [x] 독서 -> `12m`
 - [x] `Algorithm` - P092 -> `44m`
-- [ ] `Algorithm` - P093
-- [ ] `OS` - Ch2 프로세스와 스레드
+- [ ] `Algorithm` - P093 -> `1h 29m`
 
 
-## `Thursday May 30` - 5h 8m -> 0h 0m -> 5h 34m -> 0h 0m -> 
-- [ ] `Algorithm` - P094
-- [ ] `Algorithm` - P095
-- [ ] `OOSD` CI/CD 환경 확인
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `OS` - Ch3 CPU 스케줄링
+## `Thursday May 30` - 5h 8m -> 0h 0m -> 5h 34m -> 0h 0m -> 1h 30m
+- [x] 졸프 회의 -> `1h 30m`
 
 
 ## `Friday May 31` - 3h 8m -> 4h 48m -> 5h 44m -> 2h 46m -> 
-- [ ] `Algorithm` - P096
-- [ ] `Algorithm` - P097
-- [ ] `자바 웹 개발 워크북` - 4.4
+- [ ] `OOSD` CI/CD 환경 확인
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OS` - Ch4 동기화와 교착상태
+- [ ] `Algorithm` - P093
+- [ ] `Algorithm` - P094
+- [ ] `Algorithm` - P095
+- [ ] `OS` - Ch2 프로세스와 스레드
+- [ ] `OS` - Ch3 CPU 스케줄링
 
 
 ## `Saturday June 01` - 0h 0m -> 36m -> 7h 11m -> 0h 0m -> 
+- [ ] `OS` - Ch4 동기화와 교착상태
+- [ ] `Algorithm` - P096
+- [ ] `Algorithm` - P097
 - [ ] `BD` Online-lecture, Quiz  `Week 12`
 
 
@@ -138,7 +138,7 @@
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
 |May_4week|16h 47m|`C`|
-|`May_5week`|`10h 31m`||
+|`May_5week`|`16h 41m`||
 
 
 ## Standard Grade
