@@ -111,7 +111,7 @@
 
 ## `Friday May 31` - 3h 8m -> 4h 48m -> 5h 44m -> 2h 46m -> 
 - [x] `OOSD` CI/CD 환경 확인 -> `1h 06`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
 - [ ] `Algorithm` - P093
 - [ ] `Algorithm` - P094
 - [ ] `Algorithm` - P095
