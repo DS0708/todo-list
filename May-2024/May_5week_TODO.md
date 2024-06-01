@@ -109,7 +109,7 @@
 - [x] 졸프 회의 -> `1h 30m`
 
 
-## `Friday May 31` - 3h 8m -> 4h 48m -> 5h 44m -> 2h 46m -> 
+## `Friday May 31` - 3h 8m -> 4h 48m -> 5h 44m -> 2h 46m -> 2h 51m
 - [x] `OOSD` CI/CD 환경 확인 -> `1h 06`
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 45m`
 - [ ] `Algorithm` - P093
@@ -119,14 +119,14 @@
 - [ ] `OS` - Ch3 CPU 스케줄링
 
 
-## `Saturday June 01` - 0h 0m -> 36m -> 7h 11m -> 0h 0m -> 
+## `Saturday June 01` - 0h 0m -> 36m -> 7h 11m -> 0h 0m -> 0h 0m
+
+
+## `Sunday June 02` - 0h 0m -> 1h 42m -> 0h 0m - 5h 0m -> 
 - [ ] `OS` - Ch4 동기화와 교착상태
 - [ ] `Algorithm` - P096
 - [ ] `Algorithm` - P097
 - [ ] `BD` Online-lecture, Quiz  `Week 12`
-
-
-## `Sunday June 02` - 0h 0m -> 1h 42m -> 0h 0m - 5h 0m -> 
 - [ ] `BD` Online-lecture, Quiz  `Week 13`
 
 
@@ -138,7 +138,7 @@
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
 |May_4week|16h 47m|`C`|
-|`May_5week`|`16h 41m`||
+|`May_5week`|`19h 32m`||
 
 
 ## Standard Grade
