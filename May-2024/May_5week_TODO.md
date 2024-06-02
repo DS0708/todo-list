@@ -123,6 +123,7 @@
 
 
 ## `Sunday June 02` - 0h 0m -> 1h 42m -> 0h 0m - 5h 0m -> 
+- [x] `OOSD` 구현 -> `2h 45m`
 - [ ] `OS` - Ch4 동기화와 교착상태
 - [ ] `Algorithm` - P096
 - [ ] `Algorithm` - P097
