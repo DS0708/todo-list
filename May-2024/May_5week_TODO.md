@@ -122,8 +122,8 @@
 ## `Saturday June 01` - 0h 0m -> 36m -> 7h 11m -> 0h 0m -> 0h 0m
 
 
-## `Sunday June 02` - 0h 0m -> 1h 42m -> 0h 0m - 5h 0m -> 
-- [x] `OOSD` 구현 -> `2h 45m`
+## `Sunday June 02` - 0h 0m -> 1h 42m -> 0h 0m - 5h 0m -> 4h 30m
+- [x] `OOSD` 구현 -> `4h 30m`
 - [ ] `OS` - Ch4 동기화와 교착상태
 - [ ] `Algorithm` - P096
 - [ ] `Algorithm` - P097
@@ -139,7 +139,7 @@
 |May_2week|18h 11m|`C+`|
 |May_3week|36h 3m|`A`|
 |May_4week|16h 47m|`C`|
-|`May_5week`|`19h 32m`||
+|`May_5week`|`24h 02m`|`B`|
 
 
 ## Standard Grade
