@@ -83,7 +83,7 @@
 ## `Tuesday Jun 04` - 
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 14`
-- [ ] `GP` 데이터 탐색
+- [x] `GP` 데이터 탐색 -> `1h 21m`
 - [ ] `GP` Team Meeting 
 - [ ] `OOSD` 결제 기능 구현하기
 - [ ] 카카오테크 지원서 작성
