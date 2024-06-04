@@ -74,23 +74,24 @@
 ---
 
 
-## `Monday Jun 03` - 
+## `Monday Jun 03` - 2h 31m
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
 - [x] Making a plan -> `14m`
-- [ ] 엘리스 지원서 작성
+- [x] 엘리스 지원서 작성 -> `37m`
+
+
+## `Tuesday Jun 04` - 
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 14`
+- [ ] `GP` 데이터 탐색
+- [ ] `GP` Team Meeting 
+- [ ] `OOSD` 결제 기능 구현하기
 - [ ] 카카오테크 지원서 작성
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
 - [ ] `Algorithm` - P093
 - [ ] `Algorithm` - P094
-
-
-## `Tuesday Jun 04` - 
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 14`
-- [ ] `OOSD` 결제 기능 구현하기
-- [ ] `GP` 데이터 탐색
-- [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
 - [ ] `Algorithm` - P095
+- [ ] `OS` - Ch2 프로세스와 스레드
 
 
 ## `Wednesday June 05` - 
@@ -98,23 +99,27 @@
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
 - [ ] `Algorithm` - P096
 - [ ] `Algorithm` - P097
+- [ ] `OS` - Ch3 CPU 스케줄링
 
 
 ## `Thursday June 06` - 
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
 - [ ] `Algorithm` - P098
 - [ ] `Algorithm` - P099
+- [ ] `OS` - Ch4 동기화와 교착상태
 
 
 ## `Friday June 07` - 
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
 - [ ] `Algorithm` - P100
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `OS` - Ch5 가상 메모리 관리
 
 
 ## `Saturday June 08` - 
 - [ ] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
+- [ ] `OS` - Ch6 파일 시스템
 
 
 ## `Sunday June 09` - 
@@ -127,7 +132,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jun_1week`|`0h 0m`|``|
+|`Jun_1week`|`2h 31m`|``|
 |Jun_2week|||
 |Jun_3week|||
 |Jun_4week|||
