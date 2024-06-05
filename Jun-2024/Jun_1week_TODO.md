@@ -23,6 +23,14 @@
 - [ ] `네트워크`
 - [ ] `시스템 프로그래밍`
 
+## `etc.`
+- [x] Making a plan -> `14m`
+- [x] 엘리스 지원서 작성 -> `37m`
+- [x] 엘리스 기출 문제 풀어보기 -> `1h 2m`
+- [ ] 임대차 거래 신고
+- [ ] 독서
+- [ ] 카카오테크 지원서 작성
+
 <br><br>
 
 > `개인공부` : `0h 0m`
@@ -63,13 +71,6 @@
 - [ ] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
 
-## `etc.`
-- [x] Making a plan
-- [ ] 엘리스 지원서 작성
-- [ ] 카카오테크 지원서 작성
-- [ ] 임대차 거래 신고
-- [ ] 독서
-
 ---
 ---
 
@@ -80,37 +81,37 @@
 - [x] 엘리스 지원서 작성 -> `37m`
 
 
-## `Tuesday Jun 04` - 
+## `Tuesday Jun 04` - 6h 11m
 - [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214` -> `1h 50m`
 - [x] `SFAI` Online-lecture, Quiz, Assignment `Week 14`
 - [x] `GP` 데이터 탐색 -> `1h 21m`
-- [ ] `GP` Team Meeting 
-- [ ] `OOSD` 결제 기능 구현하기
-- [ ] 카카오테크 지원서 작성
-- [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
-- [ ] `Algorithm` - P093
-- [ ] `Algorithm` - P094
-- [ ] `Algorithm` - P095
-- [ ] `OS` - Ch2 프로세스와 스레드
+- [x] `GP` Team Meeting -> `3h`
 
 
-## `Wednesday June 05` - 
-- [ ] 임대차 거래 신고
-- [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
-- [ ] `Algorithm` - P096
-- [ ] `Algorithm` - P097
-- [ ] `OS` - Ch3 CPU 스케줄링
+## `Wednesday June 05` - 8h 31m
+- [x] 엘리스 기출 문제 풀어보기 -> `1h 1m`
+- [x] 독서 -> `1h`
+- [x] `OOSD` 결제 기능 구현하기 -> `6h 30m`
 
 
 ## `Thursday June 06` - 
-- [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
+- [ ] `GP` AI 모델 구현
+- [ ] 임대차 거래 신고
+- [ ] 카카오테크 지원서 작성
+- [ ] `Algorithm` - P093
+- [ ] `Algorithm` - P094
+- [ ] `Algorithm` - P095
+- [ ] `Algorithm` - P096
+- [ ] `Algorithm` - P097
 - [ ] `Algorithm` - P098
-- [ ] `Algorithm` - P099
+- [ ] `OS` - Ch2 프로세스와 스레드
+- [ ] `OS` - Ch3 CPU 스케줄링
 - [ ] `OS` - Ch4 동기화와 교착상태
 
 
 ## `Friday June 07` - 
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
+- [ ] `Algorithm` - P099
 - [ ] `Algorithm` - P100
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OS` - Ch5 가상 메모리 관리
@@ -123,8 +124,8 @@
 
 
 ## `Sunday June 09` - 
-- [ ] `BD` Online-lecture, Quiz  `Week 12`
-- [ ] `BD` Online-lecture, Quiz  `Week 13`
+- [ ] `BD` Online-lecture  `Week 12`
+- [ ] `BD` Online-lecture  `Week 13`
 - [ ] `BD` Online-lecture, Quiz  `Week 14`
 
 
@@ -132,7 +133,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jun_1week`|`2h 31m`|``|
+|`Jun_1week`|`17h 13m`|``|
 |Jun_2week|||
 |Jun_3week|||
 |Jun_4week|||
