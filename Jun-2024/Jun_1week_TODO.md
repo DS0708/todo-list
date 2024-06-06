@@ -95,10 +95,10 @@
 
 
 ## `Thursday June 06` - 
+- [x] `Algorithm` - P093 -> `42m`
 - [ ] `GP` AI 모델 구현
 - [ ] 임대차 거래 신고
 - [ ] 카카오테크 지원서 작성
-- [ ] `Algorithm` - P093
 - [ ] `Algorithm` - P094
 - [ ] `Algorithm` - P095
 - [ ] `Algorithm` - P096
