@@ -105,7 +105,7 @@
 
 ## `Friday June 07` - 
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `2h`
-- [ ] `Algorithm` - P094 -> `34m + `
+- [x] `Algorithm` - P094 -> `48m`
 - [ ] `GP` AI 모델 구현
 - [ ] 임대차 거래 신고
 - [ ] 카카오테크 지원서 작성
