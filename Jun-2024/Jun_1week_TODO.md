@@ -2,7 +2,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - P093 -> `42m`
-- [ ] `Algorithm` - P094
+- [x] `Algorithm` - P094 -> `48m`
 - [ ] `Algorithm` - P095
 - [ ] `Algorithm` - P096
 - [ ] `Algorithm` - P097
@@ -103,10 +103,10 @@
 - [x] `OOSD` -> `18m`
 
 
-## `Friday June 07` - 
+## `Friday June 07` - 5h 8m
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `2h`
 - [x] `Algorithm` - P094 -> `48m`
-- [ ] `GP` AI 모델 구현
+- [x] `GP` AI 모델 구현 -> `2h 20m`
 - [ ] 임대차 거래 신고
 - [ ] 카카오테크 지원서 작성
 
@@ -138,7 +138,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jun_1week`|`18h 13m`|``|
+|`Jun_1week`|`23h 21m`|``|
 |Jun_2week|||
 |Jun_3week|||
 |Jun_4week|||
