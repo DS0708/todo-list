@@ -94,8 +94,9 @@
 - [x] `OOSD` 결제 기능 구현하기 -> `6h 30m`
 
 
-## `Thursday June 06` - 
+## `Thursday June 06` - 1h
 - [x] `Algorithm` - P093 -> `42m`
+- [x] `OOSD` -> `18m`
 - [ ] `GP` AI 모델 구현
 - [ ] 임대차 거래 신고
 - [ ] 카카오테크 지원서 작성
