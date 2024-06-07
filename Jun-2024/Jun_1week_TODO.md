@@ -1,7 +1,7 @@
 # TO Do List - Jun_1week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - P093
+- [x] `Algorithm` - P093 -> `42m`
 - [ ] `Algorithm` - P094
 - [ ] `Algorithm` - P095
 - [ ] `Algorithm` - P096
@@ -30,6 +30,7 @@
 - [ ] 임대차 거래 신고
 - [ ] 독서
 - [ ] 카카오테크 지원서 작성
+- [ ] 엘리스 코테 `6월 11일 화요일`
 
 <br><br>
 
@@ -47,13 +48,15 @@
 ## `Graduation Project` - GP
 <!-- - [x] `GP` 대면수업 `화요일`
 - [x] `GP` 대면수업 `목요일` -->
-- [ ] `GP` 데이터 탐색
-- [ ] `GP` Team Meeting 
+- [x] `GP` 데이터 탐색
+- [x] `GP` Team Meeting 
+- [ ] `GP` AI 모델 구현
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` 결제 기능 구현하기
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` 결제 기능 구현하기
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [ ] `OOSD` PPT 작성
 
 ## `Open Source SW Project` - OSSP
 - [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
@@ -65,7 +68,8 @@
 - [ ] `BD` Online-lecture, Quiz  `Week 14`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` Online-lecture, Quiz, Assignment `Week 14`
+- [x] `SFAI` Online-lecture, Quiz, Assignment `Week 14`
+- [ ] `SFAI` 기말고사 `6월 13일 목요일`
 
 ## `Intensive Course For Job Search` - ICFJS
 - [ ] `ICFJS` Online Lecture `Week 14`
@@ -97,44 +101,44 @@
 ## `Thursday June 06` - 1h
 - [x] `Algorithm` - P093 -> `42m`
 - [x] `OOSD` -> `18m`
-- [ ] `GP` AI 모델 구현
-- [ ] 임대차 거래 신고
-- [ ] 카카오테크 지원서 작성
-- [ ] `Algorithm` - P094
-- [ ] `Algorithm` - P095
-- [ ] `Algorithm` - P096
-- [ ] `Algorithm` - P097
-- [ ] `Algorithm` - P098
-- [ ] `OS` - Ch2 프로세스와 스레드
-- [ ] `OS` - Ch3 CPU 스케줄링
-- [ ] `OS` - Ch4 동기화와 교착상태
 
 
 ## `Friday June 07` - 
-- [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기
-- [ ] `Algorithm` - P099
-- [ ] `Algorithm` - P100
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OS` - Ch5 가상 메모리 관리
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `2h`
+- [ ] `Algorithm` - P094 -> `34m + `
+- [ ] `GP` AI 모델 구현
+- [ ] 임대차 거래 신고
+- [ ] 카카오테크 지원서 작성
 
 
 ## `Saturday June 08` - 
+- [ ] `OOSD` PPT 작성
+- [ ] `BD` Online-lecture, Quiz  `Week 14`
 - [ ] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
+- [ ] `OS` - Ch2 프로세스와 스레드
+- [ ] `OS` - Ch3 CPU 스케줄링
+- [ ] `OS` - Ch4 동기화와 교착상태
+- [ ] `OS` - Ch5 가상 메모리 관리
 - [ ] `OS` - Ch6 파일 시스템
 
 
 ## `Sunday June 09` - 
 - [ ] `BD` Online-lecture  `Week 12`
 - [ ] `BD` Online-lecture  `Week 13`
-- [ ] `BD` Online-lecture, Quiz  `Week 14`
+- [ ] `Algorithm` - P095
+- [ ] `Algorithm` - P096
+- [ ] `Algorithm` - P097
+- [ ] `Algorithm` - P098
+- [ ] `Algorithm` - P099
+- [ ] `Algorithm` - P100
 
 
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jun_1week`|`17h 13m`|``|
+|`Jun_1week`|`18h 13m`|``|
 |Jun_2week|||
 |Jun_3week|||
 |Jun_4week|||
