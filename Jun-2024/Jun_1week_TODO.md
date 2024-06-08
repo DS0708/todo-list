@@ -112,7 +112,7 @@
 
 
 ## `Saturday June 08` - 
-- [ ] `OOSD` PPT 작성
+- [x] `OOSD` PPT 작성 -> `3h`
 - [ ] `BD` Online-lecture, Quiz  `Week 14`
 - [ ] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
