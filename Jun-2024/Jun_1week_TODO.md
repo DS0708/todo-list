@@ -110,7 +110,7 @@
 - [ ] 임대차 거래 신고
 
 
-## `Saturday June 08` - 
+## `Saturday June 08` - 3h 0m
 - [x] `OOSD` PPT 작성 -> `3h`
 - [x] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
@@ -121,9 +121,9 @@
 - [ ] `OS` - Ch6 파일 시스템
 
 
-## `Sunday June 09` - 
+## `Sunday June 09` - 2h 47m
 - [x] `BD` Online-lecture, Quiz  `Week 14` -> `20m`
-- [ ] 카카오테크 지원서 작성
+- [x] 카카오테크 지원서 작성 -> `2h 27m`
 - [ ] `BD` Online-lecture  `Week 12`
 - [ ] `BD` Online-lecture  `Week 13`
 - [ ] `Algorithm` - P095
@@ -138,7 +138,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jun_1week`|`23h 21m`|``|
+|`Jun_1week`|`29h 08m`|`B`|
 |Jun_2week|||
 |Jun_3week|||
 |Jun_4week|||
