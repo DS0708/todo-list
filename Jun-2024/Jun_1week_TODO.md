@@ -72,7 +72,7 @@
 - [ ] `SFAI` 기말고사 `6월 13일 목요일`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` Online Lecture `Week 14`
+- [x] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
 
 ---
@@ -108,13 +108,11 @@
 - [x] `Algorithm` - P094 -> `48m`
 - [x] `GP` AI 모델 구현 -> `2h 20m`
 - [ ] 임대차 거래 신고
-- [ ] 카카오테크 지원서 작성
 
 
 ## `Saturday June 08` - 
 - [x] `OOSD` PPT 작성 -> `3h`
-- [ ] `BD` Online-lecture, Quiz  `Week 14`
-- [ ] `ICFJS` Online Lecture `Week 14`
+- [x] `ICFJS` Online Lecture `Week 14`
 - [ ] `ICFJS` - Assignment3 `until June 20`
 - [ ] `OS` - Ch2 프로세스와 스레드
 - [ ] `OS` - Ch3 CPU 스케줄링
@@ -124,6 +122,8 @@
 
 
 ## `Sunday June 09` - 
+- [x] `BD` Online-lecture, Quiz  `Week 14` -> `20m`
+- [ ] 카카오테크 지원서 작성
 - [ ] `BD` Online-lecture  `Week 12`
 - [ ] `BD` Online-lecture  `Week 13`
 - [ ] `Algorithm` - P095
