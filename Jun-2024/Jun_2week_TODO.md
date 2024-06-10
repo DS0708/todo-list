@@ -84,10 +84,11 @@
 
 ## `Monday Jun 10` - 2h 31m -> 
 - [x] Making a plan -> `33m`
-- [ ] `Algorithm` - 1~25 복습
-- [ ] `OS` - Ch2 프로세스와 스레드
+- [x] `Algorithm` - 1~3 복습 -> `36m`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
+- [ ] `Algorithm` - 4~25 복습
+- [ ] `OS` - Ch2 프로세스와 스레드 -> `30m`
 - [ ] 우리에프아이에스 아카데미 지원하기
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 
 
 ## `Tuesday Jun 11` - 6h 11m -> 
