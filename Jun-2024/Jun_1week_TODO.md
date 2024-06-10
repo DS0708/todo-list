@@ -1,6 +1,6 @@
 # TO Do List - Jun_1week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `1h 10m`
 - [x] `Algorithm` - P093 -> `42m`
 - [x] `Algorithm` - P094 -> `48m`
 - [ ] `Algorithm` - P095
@@ -23,18 +23,18 @@
 - [ ] `네트워크`
 - [ ] `시스템 프로그래밍`
 
-## `etc.`
+## `etc.` -> `5h 20m`
 - [x] Making a plan -> `14m`
 - [x] 엘리스 지원서 작성 -> `37m`
 - [x] 엘리스 기출 문제 풀어보기 -> `1h 2m`
+- [x] 카카오테크 지원서 작성 -> `3h 27m`
 - [ ] 임대차 거래 신고
 - [ ] 독서
-- [ ] 카카오테크 지원서 작성
 - [ ] 엘리스 코테 `6월 11일 화요일`
 
 <br><br>
 
-> `개인공부` : `0h 0m`
+> `개인공부` : `6h 30m`
 
 <br><br>
 
@@ -50,16 +50,16 @@
 - [x] `GP` 대면수업 `목요일` -->
 - [x] `GP` 데이터 탐색
 - [x] `GP` Team Meeting 
-- [ ] `GP` AI 모델 구현
+- [x] `GP` AI 모델 구현
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [x] `OOSD` 결제 기능 구현하기
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OOSD` PPT 작성
+- [x] `OOSD` PPT 작성
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
+- [x] `OSSP` Face-to-face class `on Tuesday at 9:00 AM in 신공1214`
 <!-- - [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214` -->
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -123,7 +123,7 @@
 
 ## `Sunday June 09` - 2h 47m
 - [x] `BD` Online-lecture, Quiz  `Week 14` -> `20m`
-- [x] 카카오테크 지원서 작성 -> `2h 27m`
+- [x] 카카오테크 지원서 작성 -> `3h 27m`
 - [ ] `BD` Online-lecture  `Week 12`
 - [ ] `BD` Online-lecture  `Week 13`
 - [ ] `Algorithm` - P095
@@ -138,7 +138,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jun_1week`|`29h 08m`|`B`|
+|`Jun_1week`|`30h 08m`|`B+`|
 |Jun_2week|||
 |Jun_3week|||
 |Jun_4week|||
