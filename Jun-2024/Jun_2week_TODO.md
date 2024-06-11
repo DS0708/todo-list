@@ -91,9 +91,9 @@
 - [x] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214` -> `15m`
 - [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
 - [x] `OS` - Ch3 CPU 스케줄링 -> `20m`
-- [ ] `GP` 교수님 Meeting `화요일 오후 3시`
+- [x] `GP` 교수님 Meeting `화요일 오후 3시` -> `2h 30m`
+- [x] 우리에프아이에스 아카데미 지원하기 -> `1h 26m`
 - [ ] `Algorithm` - 12~25 복습 -> `20m`
-- [ ] 우리에프아이에스 아카데미 지원하기
 
 
 ## `Wednesday June 12` - 8h 31m -> 
