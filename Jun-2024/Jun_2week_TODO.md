@@ -1,9 +1,7 @@
 # TO Do List - Jun_2week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `1h 10m`
-- [ ] `Algorithm` - 1~25 복습
-- [ ] `Algorithm` - P095
-- [ ] `Algorithm` - P096
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
+- [x] `Algorithm` - 1~11 복습 -> `3h 46m`
 - [ ] `Algorithm` - 26~50 복습
 - [ ] `Algorithm` - 51~75 복습
 - [ ] `Algorithm` - 76~96 복습
@@ -13,7 +11,7 @@
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기 -->
 
 ## `기술면접` - `FastCampus 강의수강` ->  `h m`
-- [ ] `OS` - Ch2 프로세스와 스레드
+- [x] `OS` - Ch2 프로세스와 스레드 -> `45m`
 - [ ] `OS` - Ch3 CPU 스케줄링
 - [ ] `OS` - Ch4 동기화와 교착상태
 - [ ] `OS` - Ch5 가상 메모리 관리
@@ -82,22 +80,20 @@
 ---
 
 
-## `Monday Jun 10` - 2h 31m -> 
+## `Monday Jun 10` - 2h 31m -> 6h 44m
 - [x] Making a plan -> `33m`
-- [x] `Algorithm` - 1~5 복습 -> `1h 3m`
+- [x] `Algorithm` - 1~11 복습 -> `3h 46m`
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402` -> `1h 40m`
 - [x] `OS` - Ch2 프로세스와 스레드 -> `45m`
-- [ ] `Algorithm` - 6~25 복습
-- [ ] 우리에프아이에스 아카데미 지원하기
 
 
 ## `Tuesday Jun 11` - 6h 11m -> 
-- [ ] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214`
-- [ ] 엘리스 코테 `6월 11일 화요일`
+- [x] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214` -> `15m`
+- [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
+- [x] `OS` - Ch3 CPU 스케줄링 -> `20m`
 - [ ] `GP` 교수님 Meeting `화요일 오후 3시`
-- [ ] `Algorithm` - P095
-- [ ] `Algorithm` - P096
-- [ ] `OS` - Ch3 CPU 스케줄링
+- [ ] `Algorithm` - 12~25 복습 -> `20m`
+- [ ] 우리에프아이에스 아카데미 지원하기
 
 
 ## `Wednesday June 12` - 8h 31m -> 
@@ -143,7 +139,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
-|`Jun_2week`|`h m`||
+|`Jun_2week`|`6h 44m`||
 |Jun_3week|||
 |Jun_4week|||
 
