@@ -2,6 +2,8 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - 1~11 복습 -> `3h 46m`
+- [x] `Algorithm` - 정렬 복습 -> `20m`
+- [x] `Algorithm` - 12~21 복습 -> `4h 6m`
 - [ ] `Algorithm` - 26~50 복습
 - [ ] `Algorithm` - 51~75 복습
 - [ ] `Algorithm` - 76~96 복습
@@ -12,8 +14,8 @@
 
 ## `기술면접` - `FastCampus 강의수강` ->  `h m`
 - [x] `OS` - Ch2 프로세스와 스레드 -> `45m`
-- [ ] `OS` - Ch3 CPU 스케줄링
-- [ ] `OS` - Ch4 동기화와 교착상태
+- [x] `OS` - Ch3 CPU 스케줄링 -> `20m`
+- [x] `OS` - Ch4 동기화와 교착상태 -> `40m`
 - [ ] `OS` - Ch5 가상 메모리 관리
 - [ ] `OS` - Ch6 파일 시스템
 
@@ -22,12 +24,12 @@
 
 ## `etc.` -> `h m`
 - [x] Making a plan -> `33m`
-- [ ] `임대차 거래 신고`
+- [x] 우리에프아이에스 아카데미 지원하기 -> `1h 26m`
+- [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
+- [x] `임대차 거래 신고`
 - [ ] 한화 시스템 지원하기
 - [ ] KT AIvle 지원하기
-- [ ] 우리에프아이에스 아카데미 지원하기
 - [ ] 독서
-- [ ] 엘리스 코테 `6월 11일 화요일`
 
 <br><br>
 
@@ -44,10 +46,13 @@
 
 ## `Graduation Project` - GP
 <!-- - [x] `GP` 대면수업 `화요일` -->
-- [ ] `GP` 교수님 Meeting `화요일 오후 3시`
+- [x] `GP` 교수님 Meeting `화요일 오후 3시`
+- [x] `GP` AI 컴포넌트 만들기
+- [ ] `GP` PPT 만들고 내가 맡은 부분 하기
+- [ ] `GP` 최종 발표 `6월 18일 오후 4시`
 
 ## `Object-Oriented Software Development` - OOSD
-- [ ] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
+- [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [ ] `OOSD` 기말고사 준비 `토`
 - [ ] `OOSD` 기말고사 준비 `일`
@@ -55,8 +60,8 @@
 - [ ] `OOSD` 기말고사 `6월 17일 월요일 오후 1시`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214`
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
+- [x] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214`
+- [ ] `OSSP` 최종 발표 `6월 20일 오전 9시 ~ 오후 1시`
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [ ] `BD` Study  `Week 9`
@@ -67,13 +72,13 @@
 - [ ] `BD` Online-lecture  `Week 14`
 - [ ] `BD` Online-lecture, Quiz  `Week 15`
 
-- [ ] `BD` 기말고사 `6월 18일 화요일`
+- [ ] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분`
 
 ## `Startup Finance And Investment` - SFAI
-- [ ] `SFAI` 기말고사 `6월 13일 목요일 오후 1시`
+- [x] `SFAI` 기말고사 `6월 13일 목요일 오후 1시`
 
 ## `Intensive Course For Job Search` - ICFJS
-- [ ] `ICFJS` Zoom `Week 15 목요일 오후 11시`
+- [x] `ICFJS` Zoom `Week 15 목요일 오후 11시`
 - [ ] `ICFJS` - Assignment3 `until June 20`
 
 ---
@@ -87,29 +92,29 @@
 - [x] `OS` - Ch2 프로세스와 스레드 -> `45m`
 
 
-## `Tuesday Jun 11` - 6h 11m -> 
+## `Tuesday Jun 11` - 6h 11m -> 5h 31m
 - [x] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214` -> `15m`
 - [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
 - [x] `OS` - Ch3 CPU 스케줄링 -> `20m`
 - [x] `GP` 교수님 Meeting `화요일 오후 3시` -> `2h 30m`
 - [x] 우리에프아이에스 아카데미 지원하기 -> `1h 26m`
-- [ ] `Algorithm` - 12~25 복습 -> `20m`
+- [x] `Algorithm` - 정렬 복습 -> `20m`
 
 
-## `Wednesday June 12` - 8h 31m -> 
-- [ ] `Algorithm` - 26~50 복습
-- [ ] `OS` - Ch4 동기화와 교착상태
-- [ ] 한화 시스템 지원하기
+## `Wednesday June 12` - 8h 31m -> 4h 46m
+- [x] `Algorithm` - 12~21 복습 -> `4h 6m`
+- [x] `OS` - Ch4 동기화와 교착상태 -> `40m`
 
 
 ## `Thursday June 13` - 1h -> 
-- [ ] `OSSP` Face-to-face class `on Thursday at 9:00 AM in 신공1214`
-- [ ] `ICFJS` Zoom `Week 15 목요일 오후 11시`
-- [ ] `임대차 거래 신고`
-- [ ] `ICFJS` - Assignment3 `until June 20`
-- [ ] `SFAI` 기말고사 `6월 13일 목요일 오후 1시`
-- [ ] `Algorithm` - 51~75 복습
+- [x] `ICFJS` Zoom `Week 15 목요일 오후 11시` -> `55m`
+- [x] `임대차 거래 신고`
+- [x] `GP` AI 컴포넌트 만들기
+- [x] `SFAI` 기말고사 `6월 13일 목요일 오후 1시` -> `20m`
+- [x] `ICFJS` - Assignment3 `until June 20` -> `53m`
+- [ ] `Algorithm` - 22~75 복습 -> `45m + `
 - [ ] `OS` - Ch5 가상 메모리 관리
+- [ ] 한화 시스템 지원하기
 - [ ] KT AIvle 지원하기
 
 
@@ -120,6 +125,8 @@
 
 
 ## `Saturday June 15` - 3h 0m -> 
+- [ ] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시`
+- [ ] `GP` PPT 만들고 내가 맡은 부분 하기
 - [ ] `BD` Study  `Week 9`
 - [ ] `BD` Study  `Week 10`
 - [ ] `BD` Study  `Week 11`
@@ -139,7 +146,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
-|`Jun_2week`|`6h 44m`||
+|`Jun_2week`|`12h 15m`||
 |Jun_3week|||
 |Jun_4week|||
 
