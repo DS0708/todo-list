@@ -4,6 +4,7 @@
 - [x] `Algorithm` - 1~11 복습 -> `3h 46m`
 - [x] `Algorithm` - 정렬 복습 -> `20m`
 - [x] `Algorithm` - 12~21 복습 -> `4h 6m`
+- [x] `Algorithm` - 22~25 복습 -> `2h 21m`
 - [ ] `Algorithm` - 26~50 복습
 - [ ] `Algorithm` - 51~75 복습
 - [ ] `Algorithm` - 76~96 복습
@@ -16,7 +17,7 @@
 - [x] `OS` - Ch2 프로세스와 스레드 -> `45m`
 - [x] `OS` - Ch3 CPU 스케줄링 -> `20m`
 - [x] `OS` - Ch4 동기화와 교착상태 -> `40m`
-- [ ] `OS` - Ch5 가상 메모리 관리
+- [x] `OS` - Ch5 가상 메모리 관리 -> `36m`
 - [ ] `OS` - Ch6 파일 시스템
 
 - [ ] `네트워크`
@@ -27,8 +28,9 @@
 - [x] 우리에프아이에스 아카데미 지원하기 -> `1h 26m`
 - [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
 - [x] `임대차 거래 신고`
-- [ ] 한화 시스템 지원하기
-- [ ] KT AIvle 지원하기
+- [x] 한화 비욘드 부트캠프 지원하기 -> `45m`
+- [ ] LG Aimers -> `6월 20일 18시`
+- [ ] KT AIvle 지원하기 (AI 트랙) -> `7월 1일까지`
 - [ ] 독서
 
 <br><br>
@@ -106,20 +108,19 @@
 - [x] `OS` - Ch4 동기화와 교착상태 -> `40m`
 
 
-## `Thursday June 13` - 1h -> 
+## `Thursday June 13` - 1h -> 5h 50m
 - [x] `ICFJS` Zoom `Week 15 목요일 오후 11시` -> `55m`
 - [x] `임대차 거래 신고`
 - [x] `GP` AI 컴포넌트 만들기
 - [x] `SFAI` 기말고사 `6월 13일 목요일 오후 1시` -> `20m`
 - [x] `ICFJS` - Assignment3 `until June 20` -> `53m`
-- [ ] `Algorithm` - 22~75 복습 -> `45m + `
-- [ ] `OS` - Ch5 가상 메모리 관리
-- [ ] 한화 시스템 지원하기
-- [ ] KT AIvle 지원하기
+- [x] `Algorithm` - 22~25 복습 -> `2h 21m`
+- [x] 한화 비욘드 부트캠프 지원하기 -> `45m`
+- [x] `OS` - Ch5 가상 메모리 관리 -> `36m`
 
 
 ## `Friday June 14` - 5h 8m -> 
-- [ ] `Algorithm` - 76~96 복습
+- [ ] `Algorithm` - 26~50 복습
 - [ ] `OS` - Ch6 파일 시스템
 - [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 
@@ -146,7 +147,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
-|`Jun_2week`|`12h 15m`||
+|`Jun_2week`|`22h 51m`||
 |Jun_3week|||
 |Jun_4week|||
 
