@@ -5,9 +5,12 @@
 - [x] `Algorithm` - 정렬 복습 -> `20m`
 - [x] `Algorithm` - 12~21 복습 -> `4h 6m`
 - [x] `Algorithm` - 22~25 복습 -> `2h 21m`
-- [ ] `Algorithm` - 26~50 복습
-- [ ] `Algorithm` - 51~75 복습
-- [ ] `Algorithm` - 76~96 복습
+- [x] `Algorithm` - 26~27 복습 -> `1h 50m`
+- [x] `Algorithm` - 29, 32, 36, 37, 39, 41 -> `1h 39m`
+- [ ] `Algorithm` - 42, 43, 46, 50, 54, 56
+- [ ] `Algorithm` - 58, 59, 61, 64, 67, 69
+- [ ] `Algorithm` - 70, 71, 75, 81, 82
+- [ ] `Algorithm` - 28~96 복습
 - [ ] `Algorithm` - P097 ~ 100
 
 <!-- ## `Spring` -> `h m`
@@ -24,12 +27,15 @@
 - [ ] `시스템 프로그래밍`
 
 ## `etc.` -> `h m`
-- [x] Making a plan -> `33m`
+- [x] Making a plan -> `51m`
 - [x] 우리에프아이에스 아카데미 지원하기 -> `1h 26m`
 - [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
 - [x] `임대차 거래 신고`
 - [x] 한화 비욘드 부트캠프 지원하기 -> `45m`
-- [ ] LG Aimers -> `6월 20일 18시`
+- [ ] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시`
+- [ ] 카테캠 코테 `6월 17일 월요일 오후 4시`
+- [ ] 한화 비욘드 면접 `6월 19일 수요일 오후 3시`
+- [ ] LG Aimers -> `6월 20일 18시까지`
 - [ ] KT AIvle 지원하기 (AI 트랙) -> `7월 1일까지`
 - [ ] 독서
 
@@ -55,18 +61,24 @@
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` Face-to-face class `on Monday at 1:00 PM in 새관402`
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
-- [ ] `OOSD` 기말고사 준비 `토`
-- [ ] `OOSD` 기말고사 준비 `일`
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+- [x] `OOSD` Chapter14
+- [x] `OOSD` Chapter15
+- [ ] `OOSD` Chapter16
+- [ ] `OOSD` Chapter17
+- [ ] `OOSD` Chapter18
+- [ ] `OOSD` Chapter19
+- [ ] `OOSD` Chapter20
 
 - [ ] `OOSD` 기말고사 `6월 17일 월요일 오후 1시`
 
 ## `Open Source SW Project` - OSSP
 - [x] `OSSP` 교수님 Meeting `on Tuesday at 9:50 AM in 신공1214`
+- [ ] `OSSP` CNN Model 구현 
 - [ ] `OSSP` 최종 발표 `6월 20일 오전 9시 ~ 오후 1시`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Study  `Week 9`
+- [x] `BD` Study  `Week 9`
 - [ ] `BD` Study  `Week 10`
 - [ ] `BD` Study  `Week 11`
 - [ ] `BD` Online-lecture  `Week 12`
@@ -81,7 +93,7 @@
 
 ## `Intensive Course For Job Search` - ICFJS
 - [x] `ICFJS` Zoom `Week 15 목요일 오후 11시`
-- [ ] `ICFJS` - Assignment3 `until June 20`
+- [x] `ICFJS` - Assignment3 `until June 20`
 
 ---
 ---
@@ -119,27 +131,36 @@
 - [x] `OS` - Ch5 가상 메모리 관리 -> `36m`
 
 
-## `Friday June 14` - 5h 8m -> 
-- [ ] `Algorithm` - 26~50 복습
-- [ ] `OS` - Ch6 파일 시스템
-- [ ] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
+## `Friday June 14` - 5h 8m -> 6h 20m
+- [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402` -> `1h 10m`
+- [x] `Algorithm` - 26~27 복습 -> `1h 50m`
+- [x] Making a plan -> `18m`
+- [x] `OOSD` Chapter14 -> `29m`
+- [x] `OOSD` Chapter15 -> `13m`
+- [x] `Algorithm` - 29, 32, 36, 37, 39, 41 -> `1h 39m`
+- [x] `BD` Study  `Week 9` -> `41m`
 
 
 ## `Saturday June 15` - 3h 0m -> 
-- [ ] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시`
-- [ ] `GP` PPT 만들고 내가 맡은 부분 하기
-- [ ] `BD` Study  `Week 9`
-- [ ] `BD` Study  `Week 10`
+- [x] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시` -> `1h 40m`
+- [x] `BD` Study  `Week 10` -> `38m`
 - [ ] `BD` Study  `Week 11`
-- [ ] `BD` Online-lecture  `Week 12`
-- [ ] `OOSD` 기말고사 준비 `토`
+- [ ] `Algorithm` - 42, 43, 46, 50, 54, 56 -> `43m`
+- [ ] `GP` PPT 만들고 내가 맡은 부분 하기
+- [ ] `OOSD` Chapter16
+- [ ] `OOSD` Chapter17
+- [ ] `OOSD` Chapter18
 
 
 ## `Sunday June 16` - 2h 47m -> 
+- [ ] `Algorithm` - 58, 59, 61, 64, 67, 69
+- [ ] `OOSD` Chapter19
+- [ ] `OOSD` Chapter20
+- [ ] `BD` Online-lecture  `Week 12`
 - [ ] `BD` Online-lecture  `Week 13`
-- [ ] `BD` Online-lecture  `Week 14`
-- [ ] `BD` Online-lecture, Quiz  `Week 15`
-- [ ] `OOSD` 기말고사 준비 `일`
+- [ ] `BD` Quiz  `Week 15`
+- [ ] `OSSP` CNN Model 구현
+- [ ] `OS` - Ch6 파일 시스템
 
 
 
@@ -147,7 +168,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
-|`Jun_2week`|`22h 51m`||
+|`Jun_2week`|`29h 11m`||
 |Jun_3week|||
 |Jun_4week|||
 
