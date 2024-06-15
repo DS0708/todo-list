@@ -144,7 +144,7 @@
 ## `Saturday June 15` - 3h 0m -> 
 - [x] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시` -> `1h 40m`
 - [x] `BD` Study  `Week 10` -> `38m`
-- [ ] `BD` Study  `Week 11`
+- [x] `BD` Study  `Week 11`->`33m`
 - [ ] `Algorithm` - 42, 43, 46, 50, 54, 56 -> `43m`
 - [ ] `GP` PPT 만들고 내가 맡은 부분 하기
 - [ ] `OOSD` Chapter16
