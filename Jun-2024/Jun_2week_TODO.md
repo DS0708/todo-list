@@ -8,7 +8,8 @@
 - [x] `Algorithm` - 26~27 복습 -> `1h 50m`
 - [x] `Algorithm` - 29, 32, 36, 37, 39, 41 -> `1h 39m`
 - [x] `Algorithm` - 42, 43, 46 -> `43m`
-- [ ] `Algorithm` - 50, 54, 56, 58, 59, 61, 64, 67, 69
+- [x] `Algorithm` - 58, 59, 61 -> `2h 48m`
+- [ ] `Algorithm` - 64, 67, 69
 - [ ] `Algorithm` - 70, 71, 75, 81, 82
 - [ ] `Algorithm` - 28~96 복습
 - [ ] `Algorithm` - P097 ~ 100
@@ -157,7 +158,7 @@
 - [x] `OSSP` CNN Model 구현 -> `12m`
 - [x] `Algorithm` - 50, 54, 56 -> `1h 42m`
 - [x] `BD` Study  `Week 12` -> `36m`
-- [ ] `Algorithm` - 58, 59, 61
+- [x] `Algorithm` - 58, 59, 61 -> `2h 48m`
 - [ ] `BD` Study  `Week 13`
 - [ ] `Algorithm` - 64, 67, 69
 - [ ] `OOSD` Chapter16
