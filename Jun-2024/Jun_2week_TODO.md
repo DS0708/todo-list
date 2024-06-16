@@ -1,6 +1,6 @@
 # TO Do List - Jun_2week_TODO
 
-## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
+## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `17h 33m`
 - [x] `Algorithm` - 1~11 복습 -> `3h 46m`
 - [x] `Algorithm` - 정렬 복습 -> `20m`
 - [x] `Algorithm` - 12~21 복습 -> `4h 6m`
@@ -17,7 +17,7 @@
 <!-- ## `Spring` -> `h m`
 - [ ] `자바 웹 개발 워크북` - 4.4 스프링 Web MVC 구현하기 -->
 
-## `기술면접` - `FastCampus 강의수강` ->  `h m`
+## `기술면접` - `FastCampus 강의수강` ->  `2h 21m`
 - [x] `OS` - Ch2 프로세스와 스레드 -> `45m`
 - [x] `OS` - Ch3 CPU 스케줄링 -> `20m`
 - [x] `OS` - Ch4 동기화와 교착상태 -> `40m`
@@ -27,7 +27,7 @@
 - [ ] `네트워크`
 - [ ] `시스템 프로그래밍`
 
-## `etc.` -> `h m`
+## `etc.` -> `5h 42m`
 - [x] Making a plan -> `51m`
 - [x] 우리에프아이에스 아카데미 지원하기 -> `1h 26m`
 - [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
@@ -42,7 +42,7 @@
 
 <br><br>
 
-> `개인공부` : `6h 30m` -> 
+> `개인공부` : `6h 30m` -> `25h 36m`
 
 <br><br>
 
@@ -66,11 +66,10 @@
 - [x] `OOSD` Face-to-face class `on Friday at 11:00 PM in 새관402`
 - [x] `OOSD` Chapter14
 - [x] `OOSD` Chapter15
-- [ ] `OOSD` Chapter16
-- [ ] `OOSD` Chapter17
-- [ ] `OOSD` Chapter18
-- [ ] `OOSD` Chapter19
-- [ ] `OOSD` Chapter20
+- [x] `OOSD` Chapter16
+- [x] `OOSD` Chapter17
+- [x] `OOSD` Chapter19
+- [x] `OOSD` Chapter20
 
 - [ ] `OOSD` 기말고사 `6월 17일 월요일 오후 1시`
 
@@ -84,7 +83,7 @@
 - [x] `BD` Study  `Week 10`
 - [x] `BD` Study  `Week 11`
 - [x] `BD` Quiz  `Week 15`
-- [ ] `BD` Study  `Week 12`
+- [x] `BD` Study  `Week 12`
 - [ ] `BD` Study  `Week 13`
 - [ ] `BD` Study  `Week 14`
 - [ ] `BD` Study  `Week 15`
@@ -152,20 +151,19 @@
 - [x] `Algorithm` - 42, 43, 46 -> `43m`
 
 
-## `Sunday June 16` - 2h 47m -> 
+## `Sunday June 16` - 2h 47m -> 7h 16m
 - [x] `GP` PPT 수정 -> `23m`
 - [x] `BD` Quiz  `Week 15` -> `7m`
 - [x] `OSSP` CNN Model 구현 -> `12m`
 - [x] `Algorithm` - 50, 54, 56 -> `1h 42m`
 - [x] `BD` Study  `Week 12` -> `36m`
 - [x] `Algorithm` - 58, 59, 61 -> `2h 48m`
+- [x] `OOSD` Chapter16 -> `53m`
+- [x] `OOSD` Chapter17 -> `14m`
+- [x] `OOSD` Chapter19 -> `12m`
+- [x] `OOSD` Chapter20 -> `9m`
 - [ ] `BD` Study  `Week 13`
 - [ ] `Algorithm` - 64, 67, 69
-- [ ] `OOSD` Chapter16
-- [ ] `OOSD` Chapter17
-- [ ] `OOSD` Chapter18
-- [ ] `OOSD` Chapter19
-- [ ] `OOSD` Chapter20
 
 
 
@@ -173,7 +171,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
-|`Jun_2week`|`33h 31m`||
+|`Jun_2week`|`40h 47m`|`A+`|
 |Jun_3week|||
 |Jun_4week|||
 
