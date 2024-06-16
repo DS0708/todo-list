@@ -7,8 +7,8 @@
 - [x] `Algorithm` - 22~25 복습 -> `2h 21m`
 - [x] `Algorithm` - 26~27 복습 -> `1h 50m`
 - [x] `Algorithm` - 29, 32, 36, 37, 39, 41 -> `1h 39m`
-- [ ] `Algorithm` - 42, 43, 46, 50, 54, 56
-- [ ] `Algorithm` - 58, 59, 61, 64, 67, 69
+- [x] `Algorithm` - 42, 43, 46 -> `43m`
+- [ ] `Algorithm` - 50, 54, 56, 58, 59, 61, 64, 67, 69
 - [ ] `Algorithm` - 70, 71, 75, 81, 82
 - [ ] `Algorithm` - 28~96 복습
 - [ ] `Algorithm` - P097 ~ 100
@@ -56,7 +56,7 @@
 <!-- - [x] `GP` 대면수업 `화요일` -->
 - [x] `GP` 교수님 Meeting `화요일 오후 3시`
 - [x] `GP` AI 컴포넌트 만들기
-- [ ] `GP` PPT 만들고 내가 맡은 부분 하기
+- [x] `GP` PPT 만들고 내가 맡은 부분 하기
 - [ ] `GP` 최종 발표 `6월 18일 오후 4시`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -79,8 +79,8 @@
 
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Study  `Week 9`
-- [ ] `BD` Study  `Week 10`
-- [ ] `BD` Study  `Week 11`
+- [x] `BD` Study  `Week 10`
+- [x] `BD` Study  `Week 11`
 - [ ] `BD` Online-lecture  `Week 12`
 - [ ] `BD` Online-lecture  `Week 13`
 - [ ] `BD` Online-lecture  `Week 14`
@@ -141,19 +141,19 @@
 - [x] `BD` Study  `Week 9` -> `41m`
 
 
-## `Saturday June 15` - 3h 0m -> 
+## `Saturday June 15` - 3h 0m -> 4h 20m
 - [x] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시` -> `1h 40m`
 - [x] `BD` Study  `Week 10` -> `38m`
 - [x] `BD` Study  `Week 11`->`33m`
-- [ ] `Algorithm` - 42, 43, 46, 50, 54, 56 -> `43m`
-- [ ] `GP` PPT 만들고 내가 맡은 부분 하기
-- [ ] `OOSD` Chapter16
-- [ ] `OOSD` Chapter17
-- [ ] `OOSD` Chapter18
+- [x] `GP` PPT 만들고 내가 맡은 부분 하기 -> `46m`
+- [x] `Algorithm` - 42, 43, 46 -> `43m`
 
 
 ## `Sunday June 16` - 2h 47m -> 
-- [ ] `Algorithm` - 58, 59, 61, 64, 67, 69
+- [ ] `Algorithm` - 50, 54, 56, 58, 59, 61, 64, 67, 69
+- [ ] `OOSD` Chapter16
+- [ ] `OOSD` Chapter17
+- [ ] `OOSD` Chapter18
 - [ ] `OOSD` Chapter19
 - [ ] `OOSD` Chapter20
 - [ ] `BD` Online-lecture  `Week 12`
@@ -168,7 +168,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
-|`Jun_2week`|`29h 11m`||
+|`Jun_2week`|`33h 31m`||
 |Jun_3week|||
 |Jun_4week|||
 
