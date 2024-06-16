@@ -32,7 +32,7 @@
 - [x] 엘리스 코테 `6월 11일 화요일` -> `1h`
 - [x] `임대차 거래 신고`
 - [x] 한화 비욘드 부트캠프 지원하기 -> `45m`
-- [ ] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시`
+- [x] 네이버 부스트 캠프 코테 `6월 15일 토요일 오후 2시` -> `1h 40m`
 - [ ] 카테캠 코테 `6월 17일 월요일 오후 4시`
 - [ ] 한화 비욘드 면접 `6월 19일 수요일 오후 3시`
 - [ ] LG Aimers -> `6월 20일 18시까지`
@@ -57,6 +57,7 @@
 - [x] `GP` 교수님 Meeting `화요일 오후 3시`
 - [x] `GP` AI 컴포넌트 만들기
 - [x] `GP` PPT 만들고 내가 맡은 부분 하기
+- [x] `GP` PPT 수정
 - [ ] `GP` 최종 발표 `6월 18일 오후 4시`
 
 ## `Object-Oriented Software Development` - OOSD
@@ -81,10 +82,11 @@
 - [x] `BD` Study  `Week 9`
 - [x] `BD` Study  `Week 10`
 - [x] `BD` Study  `Week 11`
-- [ ] `BD` Online-lecture  `Week 12`
-- [ ] `BD` Online-lecture  `Week 13`
-- [ ] `BD` Online-lecture  `Week 14`
-- [ ] `BD` Online-lecture, Quiz  `Week 15`
+- [x] `BD` Quiz  `Week 15`
+- [ ] `BD` Study  `Week 12`
+- [ ] `BD` Study  `Week 13`
+- [ ] `BD` Study  `Week 14`
+- [ ] `BD` Study  `Week 15`
 
 - [ ] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분`
 
@@ -150,17 +152,19 @@
 
 
 ## `Sunday June 16` - 2h 47m -> 
-- [ ] `Algorithm` - 50, 54, 56, 58, 59, 61, 64, 67, 69
+- [x] `GP` PPT 수정 -> `23m`
+- [x] `BD` Quiz  `Week 15` -> `7m`
+- [x] `OSSP` CNN Model 구현 -> `12m`
+- [x] `Algorithm` - 50, 54, 56 -> `1h 42m`
+- [x] `BD` Study  `Week 12` -> `36m`
+- [ ] `Algorithm` - 58, 59, 61
+- [ ] `BD` Study  `Week 13`
+- [ ] `Algorithm` - 64, 67, 69
 - [ ] `OOSD` Chapter16
 - [ ] `OOSD` Chapter17
 - [ ] `OOSD` Chapter18
 - [ ] `OOSD` Chapter19
 - [ ] `OOSD` Chapter20
-- [ ] `BD` Online-lecture  `Week 12`
-- [ ] `BD` Online-lecture  `Week 13`
-- [ ] `BD` Quiz  `Week 15`
-- [ ] `OSSP` CNN Model 구현
-- [ ] `OS` - Ch6 파일 시스템
 
 
 
