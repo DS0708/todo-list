@@ -1,8 +1,8 @@
 # TO Do List - Jun_3week_TODO
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
-- [ ] `Algorithm` - 64, 67, 69
-- [ ] `Algorithm` - 70, 71, 75, 81, 82
+- [x] `Algorithm` - 64, 67 -> `34m`
+- [ ] `Algorithm` - 69, 70, 71, 75, 81, 82
 - [ ] `Algorithm` - P097 ~ 100
 - [ ] `Algorithm` - 28~96 복습
 
@@ -17,7 +17,7 @@
 
 ## `etc.` -> `h m`
 - [x] Making a plan -> `12m`
-- [ ] 카테캠 코테 `6월 17일 월요일 오후 4시`
+- [x] 카테캠 코테 `6월 17일 월요일 오후 4시` -> `3h`
 - [ ] 한화 비욘드 면접 `6월 19일 수요일 오후 3시`
 - [ ] LG Aimers -> `6월 20일 18시까지`
 - [ ] KT AIvle 지원하기 (AI 트랙) -> `7월 1일까지`
@@ -60,18 +60,18 @@
 
 ## `Monday Jun 17` - 2h 31m -> 6h 44m -> 
 - [x] Making a plan -> `12m`
-- [ ] `Algorithm` - 64, 67, 69
-- [ ] `Algorithm` - 70, 71, 75, 81, 82
-- [ ] `OOSD` 기말고사 `6월 17일 월요일 오후 1시`
-- [ ] 카테캠 코테 `6월 17일 월요일 오후 4시`
+- [x] `OOSD` 기말고사 `6월 17일 월요일 오후 1시` -> `45m`
+- [x] 카테캠 코테 `6월 17일 월요일 오후 4시` -> `3h`
+- [x] `Algorithm` - 64, 67 -> `34m`
+- [x] 카테캠 코테 문제 정리-> `34m`
 - [ ] `BD` Study  `Week 13`
 - [ ] `BD` Study  `Week 14`
-- [ ] `OSSP` CNN Model 구현
+- [ ] `BD` Study  `Week 15`
 
 ## `Tuesday Jun 18` - 6h 11m -> 5h 31m ->
 - [ ] `GP` 최종 발표 `6월 18일 오후 4시`
-- [ ] `BD` Study  `Week 15`
 - [ ] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분`
+- [ ] `OSSP` CNN Model 구현
 - [ ] `OSSP` 발표 준비 
 
 
@@ -89,7 +89,7 @@
 
 
 ## `Saturday June 22` - 3h 0m -> 4h 20m ->
-
+- [ ] `Algorithm` - 69, 70, 71, 75, 81, 82
 
 
 ## `Sunday June 23` - 2h 47m -> 7h 16m ->
