@@ -49,8 +49,8 @@
 - [ ] `OSSP` 최종 발표 `6월 20일 오전 9시 ~ 오후 1시`
 
 ## `Introduction To Bic-Data Analytics` - BD
-- [ ] `BD` Study  `Week 13`
-- [ ] `BD` Study  `Week 14`
+- [x] `BD` Study  `Week 13`
+- [x] `BD` Study  `Week 14`
 - [ ] `BD` Study  `Week 15`
 - [ ] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분`
 
@@ -58,14 +58,14 @@
 ---
 
 
-## `Monday Jun 17` - 2h 31m -> 6h 44m -> 
+## `Monday Jun 17` - 2h 31m -> 6h 44m -> 6h 21m
 - [x] Making a plan -> `12m`
 - [x] `OOSD` 기말고사 `6월 17일 월요일 오후 1시` -> `45m`
 - [x] 카테캠 코테 `6월 17일 월요일 오후 4시` -> `3h`
 - [x] `Algorithm` - 64, 67 -> `34m`
 - [x] 카테캠 코테 문제 정리-> `34m`
-- [ ] `BD` Study  `Week 13`
-- [ ] `BD` Study  `Week 14`
+- [x] `BD` Study  `Week 13` -> `43m`
+- [x] `BD` Study  `Week 14` -> `33m`
 - [ ] `BD` Study  `Week 15`
 
 ## `Tuesday Jun 18` - 6h 11m -> 5h 31m ->
@@ -102,7 +102,7 @@
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
 |Jun_2week|40h 47m|`A+`|
-|`Jun_3week`|` h m`||
+|`Jun_3week`|`6h 21m`||
 |Jun_4week|||
 
 
