@@ -2,6 +2,7 @@
 
 ## `Algorithm` - `Do it! 알고리즘 코딩테스트 '자바 편'` -> `h m`
 - [x] `Algorithm` - 64, 67 -> `34m`
+- [x] 카테캠 코테 문제 정리-> `34m`
 - [ ] `Algorithm` - 69, 70, 71, 75, 81, 82
 - [ ] `Algorithm` - P097 ~ 100
 - [ ] `Algorithm` - 28~96 복습
@@ -18,6 +19,7 @@
 ## `etc.` -> `h m`
 - [x] Making a plan -> `12m`
 - [x] 카테캠 코테 `6월 17일 월요일 오후 4시` -> `3h`
+- [x] 엘리스 트랙 검사 -> `17m`
 - [ ] 한화 비욘드 면접 `6월 19일 수요일 오후 3시`
 - [ ] LG Aimers -> `6월 20일 18시까지`
 - [ ] KT AIvle 지원하기 (AI 트랙) -> `7월 1일까지`
@@ -51,7 +53,7 @@
 ## `Introduction To Bic-Data Analytics` - BD
 - [x] `BD` Study  `Week 13`
 - [x] `BD` Study  `Week 14`
-- [ ] `BD` Study  `Week 15`
+- [x] `BD` Study  `Week 15`
 - [ ] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분`
 
 ---
@@ -66,9 +68,10 @@
 - [x] 카테캠 코테 문제 정리-> `34m`
 - [x] `BD` Study  `Week 13` -> `43m`
 - [x] `BD` Study  `Week 14` -> `33m`
-- [ ] `BD` Study  `Week 15`
 
 ## `Tuesday Jun 18` - 6h 11m -> 5h 31m ->
+- [x] 엘리스 트랙 검사 -> `17m`
+- [x] `BD` Study  `Week 15` -> `48m`
 - [ ] `GP` 최종 발표 `6월 18일 오후 4시`
 - [ ] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분`
 - [ ] `OSSP` CNN Model 구현
