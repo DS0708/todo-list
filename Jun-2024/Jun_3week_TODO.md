@@ -52,9 +52,9 @@
 - [x] `OOSD` 기말고사 `6월 17일 월요일 오후 1시`
 
 ## `Open Source SW Project` - OSSP
-- [ ] `OSSP` CNN Model 구현
-- [ ] `OSSP` 발표 준비 
-- [ ] `OSSP` Team Meeting `오전 10시`
+- [x] `OSSP` CNN Model 구현
+- [x] `OSSP` 발표 준비 
+- [x] `OSSP` Team Meeting `오전 10시`
 - [ ] `OSSP` 최종 발표 `6월 20일 오전 9시 ~ 오후 1시`
 
 ## `Introduction To Bic-Data Analytics` - BD
@@ -76,18 +76,18 @@
 - [x] `BD` Study  `Week 13` -> `43m`
 - [x] `BD` Study  `Week 14` -> `33m`
 
-## `Tuesday Jun 18` - 6h 11m -> 5h 31m ->
+## `Tuesday Jun 18` - 6h 11m -> 5h 31m -> 8h
 - [x] 엘리스 트랙 검사 -> `17m`
 - [x] `BD` Study  `Week 15` -> `48m`
 - [x] `GP` 최종 발표 `6월 18일 오후 4시` -> `1h 40m`
 - [x] `BD` 기말고사 `6월 18일 화요일 오후 7시 10분` -> `20m`
 - [x] 카테캠 인성 검사 -> `27m`
 - [x] `OSSP` CNN Model 구현 -> `2h 44m`
-- [ ] `OSSP` 발표 준비 
+- [x] `OSSP` 발표 준비 -> `1h 44m`
 
 
 ## `Wednesday June 19` - 8h 31m -> 4h 46m ->
-- [ ] `OSSP` Team Meeting `오전 10시`
+- [x] `OSSP` Team Meeting, 보고서 작성 `오전 10시` -> `1h 30m`
 - [ ] 면접 준비
 - [ ] 한화 비욘드 면접 `6월 19일 수요일 오후 3시`
 - [ ] LG Aimers -> `6월 20일 18시까지`
@@ -117,7 +117,7 @@
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
 |Jun_2week|40h 47m|`A+`|
-|`Jun_3week`|`6h 21m`||
+|`Jun_3week`|`14h 21m`||
 |Jun_4week|||
 
 
