@@ -56,6 +56,7 @@
 ## `Graduation Project` - GP
 - [x] `GP` 최종 발표 `6월 18일 오후 4시`
 - [x] `GP` 최종 발표 참석 `오후 4시`
+- [x] 졸프 최종 보고서, 팀내 평가
 
 ## `Object-Oriented Software Development` - OOSD
 - [x] `OOSD` 기말고사 `6월 17일 월요일 오후 1시`
@@ -117,14 +118,14 @@
 - [x] 면접 준비 -> `3h 16m`
 
 
-## `Saturday June 22` - 3h 0m -> 4h 20m -> 
+## `Saturday June 22` - 3h 0m -> 4h 20m -> 4h 15m
 - [x] 면접 준비 -> `2h 45m`
 - [x] 카테캠 최종 면접 `6월 22일 토요일 오후 4시 10분` -> `1h`
-- [ ] 졸프 최종 보고서, 팀내 평가
+- [x] 졸프 최종 보고서, 팀내 평가 -> `40m`
+
+
+## `Sunday June 23` - 2h 47m -> 7h 16m -> 
 - [ ] `Algorithm` - 69, 70, 71, 75, 81, 82
-
-
-## `Sunday June 23` - 2h 47m -> 7h 16m ->
 - [ ] `네트워크` - Ch2
 - [ ] `네트워크` - Ch3
 - [ ] `네트워크` - Ch4
@@ -139,7 +140,7 @@
 |:---:|:---:|:---:|
 |Jun_1week|30h 08m|`B+`|
 |Jun_2week|40h 47m|`A+`| 
-|`Jun_3week`|`30h 19m`|`B+`|
+|`Jun_3week`|`34h 34m`|`B+`|
 |Jun_4week|||
 
 
