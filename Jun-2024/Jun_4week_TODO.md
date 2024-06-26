@@ -6,7 +6,7 @@
 |Jun_1week|30h 08m|`B+`|
 |Jun_2week|40h 47m|`A+`| 
 |Jun_3week|38h 24m|`A`|
-|`Jun_4week`|`1h 20m`||
+|`Jun_4week`|`2h 20m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -31,7 +31,8 @@
 - [x] 카카오 등록 -> `12m`
 
 
-## `Wednesday June 19` - 8h 31m -> 4h 46m -> 6h 2m
+## `Wednesday June 19` - 8h 31m -> 4h 46m -> 6h 2m -> 1h 0m
+- [x] 패스트캠퍼스 강의 -> `1h`
 
 
 ## `Thursday June 20` - 1h -> 5h 50m -> 6h 40m
@@ -59,6 +60,7 @@
 ## `etc.` -> `h m`
 - [x] 우리 FISA 대면 면접 `6월 24일 월요일 오후 12시 20분까지 우리에프아이에스 아카데미 도착` -> `1h`
 - [x] Making a plan -> `8m`
+- [x] 패스트캠퍼스 강의 -> `1h`
 - [ ] 카카오 등록
 - [ ] 독서
 
