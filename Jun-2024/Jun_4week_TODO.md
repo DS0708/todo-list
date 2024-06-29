@@ -6,7 +6,7 @@
 |Jun_1week|30h 08m|`B+`|
 |Jun_2week|40h 47m|`A+`| 
 |Jun_3week|38h 24m|`A`|
-|`Jun_4week`|`2h 30m`||
+|`Jun_4week`|`4h 30m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -39,7 +39,9 @@
 - [x] 연구실 안전교육 이수 -> `10m`
 
 
-## `Friday June 21` - 5h 8m -> 6h 20m -> 3h 16m
+## `Friday June 21` - 5h 8m -> 6h 20m -> 3h 16m -> 2h
+- [x] 패스트캠퍼스 강의 -> `1h`
+- [x] 알고리즘 -> `1h`
 
 
 ## `Saturday June 22` - 3h 0m -> 4h 20m -> 4h 15m
