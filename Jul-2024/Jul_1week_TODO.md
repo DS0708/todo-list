@@ -3,8 +3,8 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jul_1week`|`8h m`||
-|Jul_2week||| 
+|`Jul_1week`|`16h m`||
+|Jul_2week|||
 |Jul_3week|||
 |Jul_4week|||
 
@@ -28,7 +28,7 @@
 
 
 ## `Tuesday Jul 02` - 
-- [ ] `kakao tech` 화요일
+- [x] `kakao tech` 화요일 -> `8h`
 
 
 ## `Wednesday Jul 02` - 
@@ -59,7 +59,7 @@
 
 ## `kakao tech`
 - [x] `kakao tech` 월요일 -> `8h`
-- [ ] `kakao tech` 화요일
+- [x] `kakao tech` 화요일 -> `8h`
 - [ ] `kakao tech` 수요일
 - [ ] `kakao tech` 목요일
 - [ ] `kakao tech` 금요일
