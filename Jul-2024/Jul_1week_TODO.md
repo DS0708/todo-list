@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|`Jul_1week`|`41h`|`A+`|
+|`Jul_1week`|`43h 30m`|`A+`|
 |Jul_2week|||
 |Jul_3week|||
 |Jul_4week|||
@@ -23,30 +23,31 @@
 ---
 ---
 
-## `Monday Jul 01` - 
+## `Monday Jul 01` - 8h
 - [x] `kakao tech` 월요일 -> `8h`
 
 
-## `Tuesday Jul 02` - 
+## `Tuesday Jul 02` - 8h
 - [x] `kakao tech` 화요일 -> `8h`
 
 
-## `Wednesday Jul 02` - 
+## `Wednesday Jul 03` - 8h 30m
 - [x] `kakao tech` 수요일 -> `8h 30m`
 
 
-## `Thursday Jul 02` - 
+## `Thursday Jul 04` - 8h
 - [x] `kakao tech` 목요일 -> `8h`
 
 
-## `Friday Jul 02` - 
-- [x] `kakao tech` 금요일 -> `8h 30m`
+## `Friday Jul 05` - 9h 30m
+- [x] `kakao tech` 금요일 -> `9h 30m`
 
 
-## `Saturday Jul 02` - 
+## `Saturday Jul 06` - 1h 30m
+- [x] `kakao tech` Coding Test -> `1h 30m`
 
 
-## `Sunday Jul 02` - 
+## `Sunday Jul 07` - 
 
 
 
@@ -60,9 +61,10 @@
 ## `kakao tech`
 - [x] `kakao tech` 월요일 -> `8h`
 - [x] `kakao tech` 화요일 -> `8h`
-- [ ] `kakao tech` 수요일
-- [ ] `kakao tech` 목요일
-- [ ] `kakao tech` 금요일
+- [x] `kakao tech` 수요일 -> `8h 30m`
+- [x] `kakao tech` 목요일 -> `8h`
+- [x] `kakao tech` 금요일 -> `9h 30m`
+- [x] `kakao tech` Coding Test -> `1h 30m`
 
 ## `etc.` -> `h m`
 
