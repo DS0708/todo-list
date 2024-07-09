@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jul_1week|43h 30m|`A+`|
-|`Jul_2week`|`2h 30m`||
+|`Jul_2week`|`1h m`||
 |Jul_3week|||
 |Jul_4week|||
 
@@ -27,9 +27,9 @@
 - [x] `kakao tech` 월요일 -> `2h 30m`
 
 
-## `Tuesday Jul 09` - 8h ->
-- [ ] `kakao tech` 화요일 
-- [ ] `독서` Docker / Kubernetes
+## `Tuesday Jul 09` - 8h -> 8h 30m
+- [x] `kakao tech` 화요일 
+- [x] `독서` Docker / Kubernetes
 
 
 ## `Wednesday Jul 10` - 8h 30m ->
