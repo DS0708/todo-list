@@ -29,10 +29,12 @@
 
 ## `Tuesday Jul 09` - 8h ->
 - [ ] `kakao tech` 화요일 
+- [ ] `독서` Docker / Kubernetes
 
 
 ## `Wednesday Jul 10` - 8h 30m ->
 - [ ] `kakao tech` 수요일 
+- [ ] `kakao tech` 코딩 테스트 강의
 
 
 ## `Thursday Jul 11` - 8h ->
@@ -44,6 +46,7 @@
 
 
 ## `Saturday Jul 13` - 1h 30m ->
+- [ ] `kakao tech` 7월 8일 배운거 정리
 
 
 ## `Sunday Jul 14` - 
