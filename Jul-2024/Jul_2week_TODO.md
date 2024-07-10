@@ -32,8 +32,8 @@
 - [x] `독서` Docker / Kubernetes
 
 
-## `Wednesday Jul 10` - 8h 30m ->
-- [ ] `kakao tech` 수요일 
+## `Wednesday Jul 10` - 8h 30m -> 8h
+- [x] `kakao tech` 수요일 -> `8h`
 - [ ] `kakao tech` 코딩 테스트 강의
 
 
