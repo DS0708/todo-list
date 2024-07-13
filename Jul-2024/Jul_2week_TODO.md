@@ -44,12 +44,11 @@
 - [x] `kakao tech` 금요일 
 
 
-## `Saturday Jul 13` - 1h 30m ->
-- [ ] `kakao tech` 7월 8일 배운거 정리
+## `Saturday Jul 13` - 1h 30m -> 0h
+
+
+## `Sunday Jul 14` - 0h -> 
 - [ ] `kakao tech` 코딩 테스트 강의
-
-
-## `Sunday Jul 14` - 
 
 
 
