@@ -47,7 +47,7 @@
 ## `Saturday Jul 13` - 1h 30m -> 0h
 
 
-## `Sunday Jul 14` - 0h -> 
+## `Sunday Jul 14` - 0h -> 0h
 - [ ] `kakao tech` 코딩 테스트 강의
 
 
@@ -59,7 +59,7 @@
 
 <!-- ## `Spring` -> `h m` -->
 
-## `etc.` -> `h m`
+<!-- ## `etc.` -> `h m` -->
 
 
 <br><br>
