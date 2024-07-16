@@ -28,7 +28,7 @@
 
 
 ## `Tuesday Jul 16` 
-- [ ] `kakao tech` 화요일 
+- [x] `kakao tech` 화요일 -> `8h`
 
 
 ## `Wednesday Jul 17` 
