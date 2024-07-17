@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Jul_1week|43h 30m|`A+`|
 |Jul_2week|35h m|`A`|
-|`Jul_3week`|`8h m`||
+|`Jul_3week`|`16h m`||
 |Jul_4week|||
 
 ## Standard Grade
@@ -32,7 +32,7 @@
 
 
 ## `Wednesday Jul 17` 
-- [ ] `kakao tech` 수요일 
+- [x] `kakao tech` 수요일 -> `8h`
 
 
 ## `Thursday Jul 18` -
