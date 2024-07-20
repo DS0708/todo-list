@@ -47,6 +47,8 @@
 
 
 ## `Sunday Jul 21` 
+- [ ] `kakao tech` 7월 Coding Test 다시 풀기
+- [ ] `kakao tech` 공부 자료 올리기 (토,일)
 
 
 
