@@ -6,7 +6,7 @@
 |Jul_1week|43h 30m|`A+`|
 |Jul_2week|35h m|`A`|
 |Jul_3week|40h m|`A+`|
-|`Jul_4week`|`h m`||
+|`Jul_4week`|`8h m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -24,18 +24,19 @@
 ---
 
 ## `Monday Jul 22`
-- [ ] `kakao tech`
-- [ ] `kakao tech` - 문제 1
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` 모각코 작성
+- [ ] `kakao tech` - 코테 문제 1
 
 
 ## `Tuesday Jul 23` 
 - [ ] `kakao tech`
-- [ ] `kakao tech` - 문제 2
+- [ ] `kakao tech` - 코테 문제 2
 
 
 ## `Wednesday Jul 24` 
 - [ ] `kakao tech`
-- [ ] `kakao tech` - 문제 3
+- [ ] `kakao tech` - 코테 문제 3
 
 
 ## `Thursday Jul 18`
