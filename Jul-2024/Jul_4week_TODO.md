@@ -6,7 +6,7 @@
 |Jul_1week|43h 30m|`A+`|
 |Jul_2week|35h m|`A`|
 |Jul_3week|40h m|`A+`|
-|`Jul_4week`|`8h m`||
+|`Jul_4week`|`8h 30m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -26,7 +26,7 @@
 ## `Monday Jul 22`
 - [x] `kakao tech` -> `8h`
 - [x] `kakao tech` 모각코 작성
-- [ ] `kakao tech` - 코테 문제 1
+- [x] `kakao tech` - 코테 문제 1 -> `30m`
 
 
 ## `Tuesday Jul 23` 
@@ -61,7 +61,7 @@
 ---
 ---
 ## `Algorithm`
-- [ ] `kakao tech` - 문제 1
+- [x] `kakao tech` - 문제 1
 - [ ] `kakao tech` - 문제 2
 - [ ] `kakao tech` - 문제 3
 - [ ] `Do it!` 15
@@ -74,7 +74,7 @@
 4. 자료구조 -> 우선순위 큐 마스터
 5. 문자열 알고리즘 ?? 아니면 투 포인터 정도
 
-> 요구사항 정리하기, 테스트케이스 짜보기 -->
+> 요구사항 정리하기, 테스트케이스 짜보기(소수 테스트케이스가 유리, 11되면 거의 다 됨) -->
 
 
 
