@@ -6,7 +6,7 @@
 |Jul_1week|43h 30m|`A+`|
 |Jul_2week|35h m|`A`|
 |Jul_3week|40h m|`A+`|
-|`Jul_4week`|`25h 0m`||
+|`Jul_4week`|`30h 0m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -40,7 +40,7 @@
 
 
 ## `Thursday Jul 18`
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `5h`
 - [ ] `Do it!` 15
 
 
