@@ -6,7 +6,7 @@
 |Jul_1week|43h 30m|`A+`|
 |Jul_2week|35h m|`A`|
 |Jul_3week|40h m|`A+`|
-|`Jul_4week`|`30h 0m`||
+|`Jul_4week`|`37h 0m`|`A`|
 
 ## Standard Grade
 | Grade | Hour |
@@ -36,24 +36,28 @@
 
 ## `Wednesday Jul 24` 
 - [x] `kakao tech` -> `8h`
-- [ ] `kakao tech` - 코테 문제 3
+
 
 
 ## `Thursday Jul 18`
-- [x] `kakao tech` -> `5h`
-- [ ] `Do it!` 15
+- [x] `kakao tech` -> `6h`
 
 
 ## `Friday Jul 19` 
-- [ ] `kakao tech`
-- [ ] `Do it!` 16
+- [x] `kakao tech` TeamProject - AI Architecture 확인
+- [x] `kakao tech` 수업 실습 2 -> `6h`
 
 
 ## `Saturday Jul 20` 
 
 
-
 ## `Sunday Jul 21` 
+- [ ] `kakao tech` 수업 실습
+- [ ] `kakao tech` 쿠버네티스 공부
+- [ ] `kakao tech` WN,Docker,Kubernetes github setting 
+- [ ] `kakao tech` - 코테 문제 3
+- [ ] `Do it!` 15
+- [ ] `Do it!` 16
 
 
 
