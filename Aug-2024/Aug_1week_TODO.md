@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Aug_1week|||
+|Aug_1week|`8h 0m`||
 |Aug_2week|||
 |Aug_3week|||
 |Aug_4week|||
@@ -25,7 +25,8 @@
 ---
 
 ## `Monday Jul 29`
-- [ ] `kakao tech` 
+- [x] `kakao tech` -> `8h`
+- [ ] `kakao tech` 수업 실습 - EKS, CI, Jenkins
 - [ ] `kakao tech` 수업 실습 - GitFlow
 - [ ] `kakao tech` 쿠버네티스 공부
 - [ ] `kakao tech` WN,Docker,Kubernetes github setting 
