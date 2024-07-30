@@ -27,14 +27,16 @@
 ## `Monday Jul 29`
 - [x] `kakao tech` -> `8h`
 - [x] `kakao tech` 수업 실습 - EKS, CI, Jenkins -> `2h`
+
+
+## `Tuesday Jul 30` 
+- [ ] `kakao tech`
+- [x] `kakao tech` WrintNode 작성
+- [x] `kakao tech` EKS, EC2 리소스 정리 
 - [ ] `kakao tech` 수업 실습 - GitFlow
 - [ ] `kakao tech` 쿠버네티스 공부
 - [ ] `kakao tech` WN,Docker,Kubernetes github setting 
 - [ ] `kakao tech` - 코테 문제 3
-
-
-## `Tuesday Jul 30` 
-- [ ] `kakao tech` 
 
 
 ## `Wednesday Jul 31` 
