@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Aug_1week|`18h 0m`||
+|Aug_1week|`26h 0m`||
 |Aug_2week|||
 |Aug_3week|||
 |Aug_4week|||
@@ -37,9 +37,9 @@
 
 
 ## `Wednesday Jul 31` 
-- [ ] `kakao tech` 
-- [ ] `kakao tech` 쿠버네티스 공부
-- [ ] `kakao tech` WN,Docker,Kubernetes github setting 
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` 쿠버네티스 공부 - kops
+- [x] `kakao tech` WN,Docker,Kubernetes github setting 
 - [ ] `kakao tech` - 코테 문제 3
 - [ ] `Do it!` 15
 
