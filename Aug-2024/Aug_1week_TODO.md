@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Aug_1week|`10h 0m`||
+|Aug_1week|`18h 0m`||
 |Aug_2week|||
 |Aug_3week|||
 |Aug_4week|||
@@ -30,17 +30,17 @@
 
 
 ## `Tuesday Jul 30` 
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
 - [x] `kakao tech` WrintNode 작성
 - [x] `kakao tech` EKS, EC2 리소스 정리 
-- [ ] `kakao tech` 수업 실습 - GitFlow
-- [ ] `kakao tech` 쿠버네티스 공부
-- [ ] `kakao tech` WN,Docker,Kubernetes github setting 
-- [ ] `kakao tech` - 코테 문제 3
+- [x] `kakao tech` 수업 실습 - GitFlow
 
 
 ## `Wednesday Jul 31` 
 - [ ] `kakao tech` 
+- [ ] `kakao tech` 쿠버네티스 공부
+- [ ] `kakao tech` WN,Docker,Kubernetes github setting 
+- [ ] `kakao tech` - 코테 문제 3
 - [ ] `Do it!` 15
 
 
