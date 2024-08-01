@@ -40,12 +40,18 @@
 - [x] `kakao tech` -> `8h`
 - [x] `kakao tech` 쿠버네티스 공부 - kops
 - [x] `kakao tech` WN,Docker,Kubernetes github setting 
-- [ ] `kakao tech` - 코테 문제 3
-- [ ] `Do it!` 15
 
 
 ## `Thursday Aug 01`
-- [ ] `kakao tech` 
+- [x] `kakao tech` -> `7h`
+- [x] 국민 취업 제도 신청하기
+- [x] `kakao tech` 실습
+- [ ] `kakao tech` WN 세팅
+- [ ] `kakao tech` - 코테 문제 3
+- [ ] `kakao tech` FE CI/CD 구성하기
+- [ ] `kakao tech` 쿠버네티스 GKE 세팅
+- [ ] `kakao tech` 도커 데몬
+- [ ] `Do it!` 15
 
 
 ## `Friday Aug 02` 
