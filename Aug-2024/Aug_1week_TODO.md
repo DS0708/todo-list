@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Aug_1week|`26h 0m`||
+|Aug_1week|`36h 0m`|`A`|
 |Aug_2week|||
 |Aug_3week|||
 |Aug_4week|||
@@ -25,8 +25,8 @@
 ---
 
 ## `Monday Jul 29`
-- [x] `kakao tech` -> `8h`
-- [x] `kakao tech` 수업 실습 - EKS, CI, Jenkins -> `2h`
+- [x] `kakao tech` -> `10h`
+- [x] `kakao tech` 수업 실습 - EKS, CI, Jenkins ->
 
 
 ## `Tuesday Jul 30` 
@@ -46,16 +46,18 @@
 - [x] `kakao tech` -> `7h`
 - [x] 국민 취업 제도 신청하기
 - [x] `kakao tech` 실습
-- [ ] `kakao tech` WN 세팅
-- [ ] `kakao tech` - 코테 문제 3
-- [ ] `kakao tech` FE CI/CD 구성하기
-- [ ] `kakao tech` 쿠버네티스 GKE 세팅
-- [ ] `kakao tech` 도커 데몬
-- [ ] `Do it!` 15
+- [x] `kakao tech` IAM 발급해주기
 
 
 ## `Friday Aug 02` 
-- [ ] `kakao tech` 
+- [x] `kakao tech` -> `2h`
+- [x] `kakao tech` WN 세팅
+- [ ] `kakao tech` 쿠버네티스 GKE 세팅
+- [ ] `kakao tech` 도커 데몬
+- [ ] `kakao tech` - 코테 문제 3
+- [ ] `kakao tech` 모각코 글 쓰기
+- [ ] `kakao tech` FE CI/CD 구성하기
+- [ ] `Do it!` 15
 - [ ] `Do it!` 16
 
 
