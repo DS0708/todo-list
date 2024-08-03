@@ -52,16 +52,17 @@
 ## `Friday Aug 02` 
 - [x] `kakao tech` -> `2h`
 - [x] `kakao tech` WN 세팅
-- [ ] `kakao tech` 쿠버네티스 GKE 세팅
-- [ ] `kakao tech` 도커 데몬
-- [ ] `kakao tech` - 코테 문제 3
-- [ ] `kakao tech` 모각코 글 쓰기
-- [ ] `kakao tech` FE CI/CD 구성하기
-- [ ] `Do it!` 15
-- [ ] `Do it!` 16
 
 
 ## `Saturday Aug 03` 
+- [x] `kakao tech` kops 사용해보기
+- [x] `kakao tech` 쿠버네티스 GKE 세팅 -> `2h`
+- [ ] `kakao tech` 도커 데몬
+- [ ] `kakao tech` 모각코 글 쓰기
+- [ ] `kakao tech` - 코테 문제 3
+- [ ] `kakao tech` FE CI/CD 구성하기
+- [ ] `Do it!` 15
+- [ ] `Do it!` 16
 
 
 ## `Sunday Aug 04` 
@@ -76,6 +77,13 @@
 - [ ] `Do it!` 15
 - [ ] `Do it!` 16
 
+## `etc.` -> `h m`
+- [ ] 수강바구니 1차 - `8월 5일`
+- [ ] 수강바구니 2차 - `8월 8일`
+- [ ] 4학년 수강신청 - `8월 14일`
+
+
+
 <!-- ### 알고리즘 유형
 1. 정렬
 2. 그래프 탐색 BFS, DFS
@@ -88,8 +96,6 @@
 
 
 <!-- ## `Spring` -> `h m` -->
-
-<!-- ## `etc.` -> `h m` -->
 
 
 <br><br>
