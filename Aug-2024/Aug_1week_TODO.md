@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Aug_1week|`36h 0m`|`A`|
+|Aug_1week|`38h 0m`|`A`|
 |Aug_2week|||
 |Aug_3week|||
 |Aug_4week|||
@@ -59,10 +59,11 @@
 - [x] `kakao tech` 쿠버네티스 GKE 세팅 -> `2h`
 - [ ] `kakao tech` 도커 데몬
 - [ ] `kakao tech` 모각코 글 쓰기
-- [ ] `kakao tech` - 코테 문제 3
 - [ ] `kakao tech` FE CI/CD 구성하기
-- [ ] `Do it!` 15
-- [ ] `Do it!` 16
+- [ ] `kakao tech` 크롤링 코드 하루에 한 번씩 실행시켜주기
+- [ ] `Do it!` 27
+- [ ] `Do it!` 63
+- [ ] `Do it!` 65
 
 
 ## `Sunday Aug 04` 
@@ -73,9 +74,9 @@
 ---
 ---
 ## `Algorithm`
-- [ ] `kakao tech` - 문제 3
-- [ ] `Do it!` 15
-- [ ] `Do it!` 16
+- [ ] `Do it!` 27
+- [ ] `Do it!` 63
+- [ ] `Do it!` 65
 
 ## `etc.` -> `h m`
 - [ ] 수강바구니 1차 - `8월 5일`
