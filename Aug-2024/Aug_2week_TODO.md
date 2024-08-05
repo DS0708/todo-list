@@ -25,18 +25,22 @@
 ---
 
 ## `Monday Aug 05`
-- [ ] `kakao tech` 
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` 모각코 글 쓰기
+- [x] `kakao tech` FE CI/CD 구성하기 - jenkins 서버 구축
+- [x] `kakao tech` FE CI/CD 구성하기 - Dockerfile 작성
+- [ ] `kakao tech` FE CI/CD 구성하기 - jenkins서버 다시 구축하기 -> 도커에 우분투 깔아서 그 위에 실행하기
+- [ ] `kakao tech` FE CI/CD 구성하기 - jenkins 파이프라인 설정
 - [ ] 수강바구니 1차 - `8월 5일`
-- [ ] `Do it!` 27
-- [ ] `kakao tech` 도커 데몬
-- [ ] `kakao tech` 모각코 글 쓰기
-- [ ] `kakao tech` FE CI/CD 구성하기
 - [ ] `kakao tech` 크롤링 코드 하루에 한 번씩 실행시켜주기
+- [ ] `Do it!` 27
 
 
 ## `Tuesday Aug 06` 
 - [ ] `kakao tech` 
 - [ ] `Do it!` 63
+- [ ] `kakao tech` 도커 데몬
+- [ ] `kakao tech` 쿠버네티스
 
 
 ## `Wednesday Aug 07` 
