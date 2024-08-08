@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Aug_1week|38h 0m|`A`|
-|`Aug_2week`|`16h m`||
+|`Aug_2week`|`26h m`||
 |Aug_3week|||
 |Aug_4week|||
 |Aug_5week|||
@@ -32,38 +32,45 @@
 
 
 ## `Tuesday Aug 06` 
-- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` -> `10h`
 - [x] 수강바구니 1차 - `8월 5일`
 - [x] `kakao tech` PR 확인
 - [x] `kakao tech` 모각코 피드백
-- [ ] `kakao tech` FE CI/CD 구성하기 - jenkins서버 다시 구축하기 -> 도커에 우분투 깔아서 그 위에 실행하기
-- [ ] `kakao tech` FE CI/CD 구성하기 - jenkins 파이프라인 설정
-- [ ] `kakao tech` 크롤링 코드 하루에 한 번씩 실행시켜주기
-- [ ] `Do it!` 27
-- [ ] `Do it!` 63
-- [ ] `kakao tech` 도커 데몬
-- [ ] `kakao tech` 쿠버네티스
+- [x] `kakao tech` 크롤링 코드 하루에 한 번씩 실행시켜주기
+- [x] `kakao tech` 크램폴린IDE 실습
+- [x] `kakao tech` FE CI/CD 구성하기 - jenkins서버 다시 구축하기 -> 도커에 우분투 깔아서 그 위에 실행하기
+- [x] `kakao tech` FE CI/CD 구성하기 - jenkins 파이프라인 설정
 
 
 ## `Wednesday Aug 07` 
-- [ ] `kakao tech` 
-- [ ] `Do it!` 65
+- [x] `kakao tech` -> `7h`
+- [x] `kakao tech` FE CI/CD 구성하기
+- [x] `kakao tech` FE CI/CD 구성하기 - FE_CICD.md 작성
+- [x] `Do it!` 27 -> `1h`
 
 
 ## `Thursday Aug 08`
 - [ ] `kakao tech` 
+- [x] 수강바구니 2차 - `8월 8일`
+- [x] `kakao tech` 스프린트 플래닝
+- [ ] `kakao tech` 코테 3번 문제 풀기
+- [ ] `kakao tech` 쿠버네티스
 
 
 ## `Friday Aug 09` 
-- [ ] `kakao tech` 
+- [ ] `kakao tech`
+- [ ] `kakao tech` kakao dennis 실습 - 2
+- [ ] `kakao tech` kakao dennis 실습 - 3 
+- [ ] `Do it!` 63
+- [ ] `Do it!` 65
 
 
 ## `Saturday Aug 10` 
-- [ ] `kakao tech` 
+- [ ] `kakao tech` 도커 데몬
 
 
 ## `Sunday Aug 11` 
-
+- [ ] 수강신청 시스템 개발
 
 
 
@@ -75,8 +82,8 @@
 - [ ] `Do it!` 65
 
 ## `etc.` -> `h m`
-- [ ] 수강바구니 1차 - `8월 5일`
-- [ ] 수강바구니 2차 - `8월 8일`
+- [x] 수강바구니 1차 - `8월 5일`
+- [x] 수강바구니 2차 - `8월 8일`
 - [ ] 4학년 수강신청 - `8월 14일`
 
 
