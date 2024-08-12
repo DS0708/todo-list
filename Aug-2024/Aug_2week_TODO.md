@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Aug_1week|38h 0m|`A`|
-|`Aug_2week`|`26h m`||
+|`Aug_2week`|`41h m`|`A+`|
 |Aug_3week|||
 |Aug_4week|||
 |Aug_5week|||
@@ -50,22 +50,24 @@
 
 
 ## `Thursday Aug 08`
-- [ ] `kakao tech` 
+- [x] `kakao tech` -> `6h`
 - [x] 수강바구니 2차 - `8월 8일`
 - [x] `kakao tech` 스프린트 플래닝
-- [ ] `kakao tech` 코테 3번 문제 풀기
-- [ ] `kakao tech` 쿠버네티스
+- [x] `kakao tech` 코테 3번 문제 풀기
+- [x] `kakao tech` 쿠버네티스 - Intro_K8s -> `1h`
 
 
 ## `Friday Aug 09` 
-- [ ] `kakao tech`
-- [ ] `kakao tech` kakao dennis 실습 - 2
-- [ ] `kakao tech` kakao dennis 실습 - 3 
-- [ ] `Do it!` 63
-- [ ] `Do it!` 65
+- [x] `kakao tech` -> `8h`
+- [x] `Do it!` 61
+- [x] `kakao tech` 쿠버네티스 - Pod 사용하기
 
 
 ## `Saturday Aug 10` 
+- [ ] `kakao tech` 쿠버네티스 - Pod
+- [ ] `kakao tech` kakao dennis 실습 - 2
+- [ ] `kakao tech` kakao dennis 실습 - 3 
+- [ ] `kakao tech` 요약 모델 배포
 - [ ] `kakao tech` 도커 데몬
 
 
@@ -77,9 +79,12 @@
 ---
 ---
 ## `Algorithm`
-- [ ] `Do it!` 27
-- [ ] `Do it!` 63
-- [ ] `Do it!` 65
+- [x] `Do it!` 27 -> `1h`
+- [x] `kakao tech` 코테 3번 문제 풀기
+- [x] `Do it!` 61
+
+
+
 
 ## `etc.` -> `h m`
 - [x] 수강바구니 1차 - `8월 5일`
@@ -113,6 +118,7 @@
 ## `OPIc`
 ## `토익` 
 -->
+
 
 
 
