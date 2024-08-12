@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Aug_1week|38h 0m|`A`|
 |Aug_2week|41h m|`A+`|
-|`Aug_3week`|`h m`||
+|`Aug_3week`|`13h m`||
 |Aug_4week|||
 |Aug_5week|||
 
@@ -25,30 +25,41 @@
 ---
 
 ## `Monday Aug 12`
-- [ ] `kakao tech`
-- [ ] 수강신청 시스템 개발
-- [ ] `Do it!` 
+- [x] `kakao tech` -> `8h`
+- [x] 수강신청 시스템 개발
+- [x] 공유기로 배포하기 -> `5h`
+- [ ] `Do it!` 15
+- [ ] `Do it!` 16
 - [ ] `kakao tech` 쿠버네티스 - Pod
-
-
-## `Tuesday Aug 13` 
-- [ ] `kakao tech`
-- [ ] `kakao tech` 요약 모델 배포
 - [ ] `kakao tech` kakao dennis 실습 - 2
+- [ ] `kakao tech` 생성형 AI 실습 - 1
+
+
+## `Tuesday Aug 13`
+- [ ] 12~12:30 케잌 가지러 가지 
+- [ ] `kakao tech`
+- [ ] `Do it!` 17
+- [ ] `Do it!` 18
+- [ ] `kakao tech` 요약 모델 배포
+- [ ] `kakao tech` 생성형 AI 실습 - 2
 - [ ] `kakao tech` kakao dennis 실습 - 3 
 
 
 ## `Wednesday Aug 14` 
 - [ ] `kakao tech`
+- [ ] `Do it!` 19
 - [ ] 4학년 수강신청 - `8월 14일`
 
 
 ## `Thursday Aug 15`
 - [ ] `kakao tech`
+- [ ] `Do it!` 20
+- [ ] `Do it!` 21
 
 
 ## `Friday Aug 16` 
 - [ ] `kakao tech`
+- [ ] `Do it!` 22
 
 
 ## `Saturday Aug 17` 
