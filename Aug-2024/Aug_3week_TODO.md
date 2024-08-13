@@ -28,27 +28,33 @@
 - [x] `kakao tech` -> `8h`
 - [x] 수강신청 시스템 개발
 - [x] 공유기로 배포하기 -> `5h`
-- [ ] `Do it!` 15
-- [ ] `Do it!` 16
-- [ ] `kakao tech` 쿠버네티스 - Pod
-- [ ] `kakao tech` kakao dennis 실습 - 2
-- [ ] `kakao tech` 생성형 AI 실습 - 1
 
 
 ## `Tuesday Aug 13`
-- [ ] 12~12:30 케잌 가지러 가지 
 - [ ] `kakao tech`
+- [x] `kakao tech` 피드백 쓰기
+- [x] 학자금 신청
+- [x] `kakao tech` 요약 모델 배포
+- [x] `kakao tech` hugging face API key 추가하기
+- [ ] `Do it!` 15
+- [ ] `Do it!` 16
+- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
+- [ ] `Local Deploy` 정리해서 md파일 작성
+- [ ] `kakao tech` Front-end에 https 적용하기
+- [ ] `kakao tech` 쿠버네티스 - Pod
 - [ ] `Do it!` 17
 - [ ] `Do it!` 18
-- [ ] `kakao tech` 요약 모델 배포
+- [ ] `kakao tech` 생성형 AI 실습 - 1
 - [ ] `kakao tech` 생성형 AI 실습 - 2
+- [ ] `kakao tech` 생성형 AI 실습 - 3
+- [ ] `kakao tech` kakao dennis 실습 - 2
 - [ ] `kakao tech` kakao dennis 실습 - 3 
 
 
 ## `Wednesday Aug 14` 
 - [ ] `kakao tech`
 - [ ] `Do it!` 19
-- [ ] 4학년 수강신청 - `8월 14일`
+- [ ] 4학년 수강신청 - `8월 14일 오전 9시 30분`
 
 
 ## `Thursday Aug 15`
