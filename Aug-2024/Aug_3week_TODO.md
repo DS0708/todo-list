@@ -42,15 +42,16 @@
 
 ## `Wednesday Aug 14` 
 - [ ] `kakao tech`
-- [ ] 4학년 수강신청 - `8월 14일 오전 9시 30분`
-- [ ] `kakao tech` 크롤링 자동화, 임베딩 자동화 시키기
-- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
-- [ ] `Local Deploy` 정리해서 md파일 작성
-- [ ] `kakao tech` Front-end에 https 적용하기
+- [x] 4학년 수강신청 - `8월 14일 오전 9시 30분`
+- [x] 수강신청 항목 확정
+- [x] `kakao tech` 크롤링 자동화, 임베딩 자동화 시키기
 - [ ] `kakao tech` 쿠버네티스 - Pod
 - [ ] `Do it!` 17
 - [ ] `Do it!` 18
 - [ ] `Do it!` 19
+- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
+- [ ] `Local Deploy` 정리해서 md파일 작성
+- [ ] `kakao tech` Front-end에 https 적용하기
 - [ ] `kakao tech` 생성형 AI 실습 - 1
 - [ ] `kakao tech` 생성형 AI 실습 - 2
 - [ ] `kakao tech` 생성형 AI 실습 - 3
@@ -87,7 +88,8 @@
 
 
 ## `etc.` -> `h m`
-- [ ] 4학년 수강신청 - `8월 14일`
+- [x] 4학년 수강신청 - `8월 14일`
+- [ ] 전체학년 수강신청 - `8월 22일`
 
 
 
