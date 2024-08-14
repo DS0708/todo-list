@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Aug_1week|38h 0m|`A`|
 |Aug_2week|41h m|`A+`|
-|`Aug_3week`|`21h m`||
+|`Aug_3week`|`29h m`||
 |Aug_4week|||
 |Aug_5week|||
 
@@ -41,11 +41,11 @@
 
 
 ## `Wednesday Aug 14` 
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
 - [x] 4학년 수강신청 - `8월 14일 오전 9시 30분`
 - [x] 수강신청 항목 확정
-- [x] `kakao tech` 크롤링 자동화, 임베딩 자동화 시키기
-- [ ] `kakao tech` 쿠버네티스 - Pod
+- [x] `kakao tech` 크롤링 자동화, 임베딩 자동화 시키기 -> 4시 30분에 확인, 현재 247개
+- [x] `kakao tech` 쿠버네티스 - Pod
 - [ ] `Do it!` 17
 - [ ] `Do it!` 18
 - [ ] `Do it!` 19
