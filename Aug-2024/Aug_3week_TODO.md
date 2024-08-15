@@ -46,9 +46,19 @@
 - [x] 수강신청 항목 확정
 - [x] `kakao tech` 크롤링 자동화, 임베딩 자동화 시키기 -> 4시 30분에 확인, 현재 247개
 - [x] `kakao tech` 쿠버네티스 - Pod
+
+
+## `Thursday Aug 15`
+
+
+## `Friday Aug 16` 
+- [ ] `kakao tech`
 - [ ] `Do it!` 17
 - [ ] `Do it!` 18
 - [ ] `Do it!` 19
+- [ ] `Do it!` 20
+- [ ] `Do it!` 21
+- [ ] `Do it!` 22
 - [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
 - [ ] `Local Deploy` 정리해서 md파일 작성
 - [ ] `kakao tech` Front-end에 https 적용하기
@@ -57,17 +67,6 @@
 - [ ] `kakao tech` 생성형 AI 실습 - 3
 - [ ] `kakao tech` kakao dennis 실습 - 2
 - [ ] `kakao tech` kakao dennis 실습 - 3 
-
-
-## `Thursday Aug 15`
-- [ ] `kakao tech`
-- [ ] `Do it!` 20
-- [ ] `Do it!` 21
-
-
-## `Friday Aug 16` 
-- [ ] `kakao tech`
-- [ ] `Do it!` 22
 
 
 ## `Saturday Aug 17` 
