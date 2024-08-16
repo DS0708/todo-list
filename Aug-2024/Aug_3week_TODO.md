@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Aug_1week|38h 0m|`A`|
 |Aug_2week|41h m|`A+`|
-|`Aug_3week`|`29h m`||
+|`Aug_3week`|`34h m`|`B+`|
 |Aug_4week|||
 |Aug_5week|||
 
@@ -52,37 +52,43 @@
 
 
 ## `Friday Aug 16` 
-- [ ] `kakao tech`
+- [ ] `kakao tech` -> `5h`
 - [x] `Do it!` 17
+- [x] `kakao tech` 스프린트 프래닝
 - [ ] `Do it!` 18
+- [ ] `Kubernetes` ReplicaSet
 - [ ] `Do it!` 19
+
+
+## `Saturday Aug 17` 
+- [ ] `kakao tech`
+- [ ] `Sprint 추천모델 API 서버 구현`  
 - [ ] `Do it!` 20
 - [ ] `Do it!` 21
 - [ ] `Do it!` 22
 - [ ] `Kubernetes` ReplicaSet
-- [ ] `kakao tech` Front-end에 https 적용하기
-- [ ] `kakao tech` 생성형 AI 실습 - 1
-- [ ] `kakao tech` 생성형 AI 실습 - 2
-- [ ] `kakao tech` 생성형 AI 실습 - 3
-- [ ] `kakao tech` kakao dennis 실습 - 2
-- [ ] `kakao tech` kakao dennis 실습 - 3 
-- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
-- [ ] `Local Deploy` 정리해서 md파일 작성
 
-
-## `Saturday Aug 17` 
-- [ ] `Docker` 도커 데몬
 
 
 ## `Sunday Aug 18` 
-
+- [ ] `Docker` 도커 데몬
+- [ ] `kakao tech` kakao dennis 실습 - 2
+- [ ] `kakao tech` kakao dennis 실습 - 3 
+- [ ] `kakao tech` 생성형 AI 실습 - 1
+- [ ] `kakao tech` 생성형 AI 실습 - 2
+- [ ] `kakao tech` 생성형 AI 실습 - 3
+- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
+- [ ] `Local Deploy` 정리해서 md파일 작성
+- [ ] `Sprint 자동화 서버 구현`  
 
 
 
 ---
 ---
 ## `Algorithm`
-- [ ] `Do it!` 
+- [x] `Do it!` 15
+- [x] `Do it!` 16
+- [x] `Do it!` 17
 
 
 
