@@ -53,24 +53,25 @@
 
 ## `Friday Aug 16` 
 - [ ] `kakao tech`
-- [ ] `Do it!` 17
+- [x] `Do it!` 17
 - [ ] `Do it!` 18
 - [ ] `Do it!` 19
 - [ ] `Do it!` 20
 - [ ] `Do it!` 21
 - [ ] `Do it!` 22
-- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
-- [ ] `Local Deploy` 정리해서 md파일 작성
+- [ ] `Kubernetes` ReplicaSet
 - [ ] `kakao tech` Front-end에 https 적용하기
 - [ ] `kakao tech` 생성형 AI 실습 - 1
 - [ ] `kakao tech` 생성형 AI 실습 - 2
 - [ ] `kakao tech` 생성형 AI 실습 - 3
 - [ ] `kakao tech` kakao dennis 실습 - 2
 - [ ] `kakao tech` kakao dennis 실습 - 3 
+- [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
+- [ ] `Local Deploy` 정리해서 md파일 작성
 
 
 ## `Saturday Aug 17` 
-- [ ] `kakao tech` 도커 데몬
+- [ ] `Docker` 도커 데몬
 
 
 ## `Sunday Aug 18` 
