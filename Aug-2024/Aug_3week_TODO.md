@@ -61,13 +61,6 @@
 - [x] `kakao tech` -> `3h`
 - [x] `kakao tech` MongoDb 오류 해결 
 - [x] `Kubernetes` 실습 환경 세팅
-- [ ] `Sprint 추천모델 API 서버 구현` 
-- [ ] `Do it!` 18
-- [ ] `Do it!` 19
-- [ ] `Do it!` 20
-- [ ] `Do it!` 21
-- [ ] `Do it!` 22
-- [ ] `Kubernetes` ReplicaSet
 
 
 
@@ -78,6 +71,13 @@
 - [ ] `Local Deploy` 내 로컬 서버에 도메인 달아보기
 - [ ] `Local Deploy` 정리해서 md파일 작성
 - [ ] `Sprint 자동화 서버 구현`  
+- [ ] `Sprint 추천모델 API 서버 구현` 
+- [ ] `Do it!` 18
+- [ ] `Do it!` 19
+- [ ] `Do it!` 20
+- [ ] `Do it!` 21
+- [ ] `Do it!` 22
+- [ ] `Kubernetes` ReplicaSet
 
 
 
