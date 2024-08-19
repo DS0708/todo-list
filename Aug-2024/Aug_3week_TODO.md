@@ -52,7 +52,7 @@
 
 
 ## `Friday Aug 16` 
-- [ ] `kakao tech` -> `5h`
+- [x] `kakao tech` -> `5h`
 - [x] `Do it!` 17
 - [x] `kakao tech` 스프린트 프래닝
 
