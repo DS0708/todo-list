@@ -6,7 +6,7 @@
 |Aug_1week|38h 0m|`A`|
 |Aug_2week|41h m|`A+`|
 |Aug_3week|37h m|`A`|
-|`Aug_4week`|`8h m`||
+|`Aug_4week`|`16h m`||
 |Aug_5week|||
 
 ## Standard Grade
@@ -31,19 +31,20 @@
 
 
 ## `Tuesday Aug 20`
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
 - [x] `kakao tech` 크롤링 자동화 코드 GCP VM 서버로 옮기기
 - [x] `kakao tech` 추천모델 모델 배포
 - [x] `kakao tech` todayfin-fe domain달기
 - [x] `Do it!` 20
 - [x] `Do it!` 21
-- [ ] `kakao tech` alphavantage API Server 개발
-- [ ] `Kubernetes` ReplicaSet
+- [x] `kakao tech` alphavantage API Server 개발
 
 
 ## `Wednesday Aug 21` 
 - [ ] `kakao tech`
 - [ ] 수강신청 과목 다시 계획하기
+- [ ] `kakao tech` alphavantage API Server 개발
+- [ ] `Kubernetes` ReplicaSet
 - [ ] `Do it!` 22
 - [ ] `Do it!`
 
