@@ -34,11 +34,11 @@
 - [ ] `kakao tech`
 - [x] `kakao tech` 크롤링 자동화 코드 GCP VM 서버로 옮기기
 - [x] `kakao tech` 추천모델 모델 배포
-- [ ] `kakao tech` todayfin-fe domain달기
+- [x] `kakao tech` todayfin-fe domain달기
+- [x] `Do it!` 20
+- [x] `Do it!` 21
 - [ ] `kakao tech` alphavantage API Server 개발
 - [ ] `Kubernetes` ReplicaSet
-- [ ] `Do it!` 20
-- [ ] `Do it!` 21
 
 
 ## `Wednesday Aug 21` 
