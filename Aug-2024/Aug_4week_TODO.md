@@ -3,10 +3,10 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Aug_1week|38h 0m|`A`|
-|Aug_2week|41h m|`A+`|
-|Aug_3week|37h m|`A`|
-|`Aug_4week`|`16h m`||
+|Aug_1week|38h|`A`|
+|Aug_2week|41h|`A+`|
+|Aug_3week|37h|`A`|
+|`Aug_4week`|`35h`|`A`|
 |Aug_5week|||
 
 ## Standard Grade
@@ -31,7 +31,7 @@
 
 
 ## `Tuesday Aug 20`
-- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` -> `9h`
 - [x] `kakao tech` 크롤링 자동화 코드 GCP VM 서버로 옮기기
 - [x] `kakao tech` 추천모델 모델 배포
 - [x] `kakao tech` todayfin-fe domain달기
@@ -41,23 +41,24 @@
 
 
 ## `Wednesday Aug 21` 
-- [ ] `kakao tech`
-- [ ] 수강신청 과목 다시 계획하기
-- [ ] `kakao tech` alphavantage API Server 개발
-- [ ] `Kubernetes` ReplicaSet
-- [ ] `Do it!` 22
-- [ ] `Do it!`
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` 도메인 다시 달기
+- [x] 수강신청 과목 다시 계획하기
+- [x] `Do it!` 22
+- [x] `kakao tech` alphavantage API Server 개발
 
 
 ## `Thursday Aug 22`
-- [ ] `kakao tech`
-- [ ] 전체학년 수강신청 - `8월 22일`
+- [x] `kakao tech` -> `10h`
+- [x] 전체학년 수강신청 - `8월 22일`
+- [x] `kakao tech` alphavantage API Server 개발 - mongoDB 다 짜기
+- [ ] `kakao tech` alphavantage API Server 개발
+- [ ] `Do it!` BFS 문제
 
 
 ## `Friday Aug 23` 
 - [ ] `kakao tech`
-- [ ] `Do it!`
-- [ ] `Do it!`
+- [ ] `Kubernetes` ReplicaSet
 
 
 ## `Saturday Aug 24` 
