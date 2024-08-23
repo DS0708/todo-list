@@ -6,7 +6,7 @@
 |Aug_1week|38h|`A`|
 |Aug_2week|41h|`A+`|
 |Aug_3week|37h|`A`|
-|`Aug_4week`|`35h`|`A`|
+|`Aug_4week`|`41h`|`A+`|
 |Aug_5week|||
 
 ## Standard Grade
@@ -52,16 +52,15 @@
 - [x] `kakao tech` -> `10h`
 - [x] 전체학년 수강신청 - `8월 22일`
 - [x] `kakao tech` alphavantage API Server 개발 - mongoDB 다 짜기
-- [ ] `kakao tech` alphavantage API Server 개발
-- [ ] `Do it!` BFS 문제
 
 
 ## `Friday Aug 23` 
-- [ ] `kakao tech`
-- [ ] `Kubernetes` ReplicaSet
+- [x] `kakao tech` -> `6h`
 
 
 ## `Saturday Aug 24` 
+- [ ] `kakao tech` alphavantage API Server 개발
+- [ ] `Kubernetes` ReplicaSet
 - [ ] `Docker` 도커 데몬
 - [ ] `kakao tech` kakao dennis 실습 - 2~9 
 - [ ] `kakao tech` 생성형 AI 실습 - 1~3
@@ -74,12 +73,18 @@
 ---
 ---
 ## `Algorithm`
-
+- [x] `Do it!` 19
+- [x] `Do it!` 20
+- [x] `Do it!` 21
+- [x] `Do it!` 22
+- [ ] `kakao tech` 8월 코테 1번
+- [ ] `kakao tech` 8월 코테 2번
+- [ ] `kakao tech` 8월 코테 3번
 
 
 
 ## `etc.` -> `h m`
-- [ ] 전체학년 수강신청 - `8월 22일`
+- [x] 전체학년 수강신청 - `8월 22일`
 
 
 
