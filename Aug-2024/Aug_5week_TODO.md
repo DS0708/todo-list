@@ -7,7 +7,7 @@
 |Aug_2week|41h|`A+`|
 |Aug_3week|37h|`A`|
 |Aug_4week|41h|`A+`|
-|`Aug_5week`|`h m`||
+|`Aug_5week`|`8h m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -25,31 +25,38 @@
 ---
 
 ## `Monday Aug 26`
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` alphavantage API Server 개발
+- [ ] `kakao tech` 8월 코테 1번
+- [ ] `kakao tech` 8월 코테 2번
+- [ ] `Kubernetes` ReplicaSet
 
 
 ## `Tuesday Aug 27`
 - [ ] `kakao tech`
+- [ ] `kakao tech` 8월 코테 3번
+- [ ] `Do it`
 
 
 ## `Wednesday Aug 28` 
 - [ ] `kakao tech`
+- [ ] `Do it`
+- [ ] `Do it`
 
 
 ## `Thursday Aug 29`
 - [ ] `kakao tech`
+- [ ] `Do it`
+- [ ] `Do it`
 
 
 ## `Friday Aug 30` 
 - [ ] `kakao tech`
+- [ ] `Do it`
+- [ ] `Do it`
 
 
 ## `Saturday Aug 31` 
-- [ ] `kakao tech` 8월 코테 1번
-- [ ] `kakao tech` 8월 코테 2번
-- [ ] `kakao tech` 8월 코테 3번
-- [ ] `kakao tech` alphavantage API Server 개발
-- [ ] `Kubernetes` ReplicaSet
 - [ ] `Docker` 도커 데몬
 - [ ] `kakao tech` kakao dennis 실습 - 2~9 
 - [ ] `kakao tech` 생성형 AI 실습 - 1~3
