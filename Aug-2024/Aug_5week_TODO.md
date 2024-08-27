@@ -27,15 +27,17 @@
 ## `Monday Aug 26`
 - [x] `kakao tech` -> `8h`
 - [x] `kakao tech` alphavantage API Server 개발
-- [ ] `kakao tech` 8월 코테 1번
-- [ ] `kakao tech` 8월 코테 2번
-- [ ] `Kubernetes` ReplicaSet
 
 
 ## `Tuesday Aug 27`
 - [ ] `kakao tech`
+- [x] `kakao tech` alphavantage API Server date error 해결
+- [ ] `kakao tech` 8월 코테 1번
+- [ ] `kakao tech` 8월 코테 2번
 - [ ] `kakao tech` 8월 코테 3번
 - [ ] `Do it`
+- [ ] `Kubernetes` ReplicaSet
+- [ ] `kakao tech` https
 
 
 ## `Wednesday Aug 28` 
