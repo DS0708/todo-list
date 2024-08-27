@@ -7,7 +7,7 @@
 |Aug_2week|41h|`A+`|
 |Aug_3week|37h|`A`|
 |Aug_4week|41h|`A+`|
-|`Aug_5week`|`8h m`||
+|`Aug_5week`|`14h m`||
 
 ## Standard Grade
 | Grade | Hour |
@@ -30,9 +30,9 @@
 
 
 ## `Tuesday Aug 27`
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `6h`
 - [x] `kakao tech` alphavantage API Server date error 해결
-- [ ] `kakao tech` 8월 코테 1번
+- [x] `kakao tech` 8월 코테 1번
 - [ ] `kakao tech` 8월 코테 2번
 - [ ] `kakao tech` 8월 코테 3번
 - [ ] `Do it`
@@ -72,7 +72,7 @@
 ---
 ---
 ## `Algorithm`
-
+- [x] `kakao tech` 8월 코테 1번
 
 
 
