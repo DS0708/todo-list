@@ -7,7 +7,7 @@
 |Aug_2week|41h|`A+`|
 |Aug_3week|37h|`A`|
 |Aug_4week|41h|`A+`|
-|`Aug_5week`|`14h m`||
+|`Aug_5week`|`32h`|`B+`|
 
 ## Standard Grade
 | Grade | Hour |
@@ -33,27 +33,27 @@
 - [x] `kakao tech` -> `6h`
 - [x] `kakao tech` alphavantage API Server date error 해결
 - [x] `kakao tech` 8월 코테 1번
-- [ ] `kakao tech` 8월 코테 2번
-- [ ] `kakao tech` 8월 코테 3번
-- [ ] `Do it`
-- [ ] `Kubernetes` ReplicaSet
-- [ ] `kakao tech` https
+
 
 
 ## `Wednesday Aug 28` 
-- [ ] `kakao tech`
-- [ ] `Do it`
-- [ ] `Do it`
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` 8월 코테 2번
+- [x] `kakao tech` 8월 코테 3번
+- [x] `Kubernetes` ReplicaSet
 
 
 ## `Thursday Aug 29`
-- [ ] `kakao tech`
-- [ ] `Do it`
-- [ ] `Do it`
+- [x] `kakao tech` -> `10h`
+- [x] `Kubernetes` ReplicaSet
+- [x] `kakao tech` https
 
 
 ## `Friday Aug 30` 
 - [ ] `kakao tech`
+- [ ] `kakao tech` 추천 모델 배포
+- [ ] `kakao tech` https
+- [ ] `Kubernetes` ReplicaSet
 - [ ] `Do it`
 - [ ] `Do it`
 
@@ -73,10 +73,10 @@
 ---
 ## `Algorithm`
 - [x] `kakao tech` 8월 코테 1번
+- [x] `kakao tech` 8월 코테 2번
 
 
-
-## `etc.` -> `h m`
+## `etc.`
 
 
 
