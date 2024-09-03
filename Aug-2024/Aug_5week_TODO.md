@@ -7,7 +7,7 @@
 |Aug_2week|41h|`A+`|
 |Aug_3week|37h|`A`|
 |Aug_4week|41h|`A+`|
-|`Aug_5week`|`32h`|`B+`|
+|`Aug_5week`|`40h`|`A+`|
 
 ## Standard Grade
 | Grade | Hour |
@@ -50,9 +50,10 @@
 
 
 ## `Friday Aug 30` 
-- [ ] `kakao tech`
-- [ ] `kakao tech` 추천 모델 배포
-- [ ] `kakao tech` https
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` 추천 모델 배포
+- [x] `kakao tech` https
+- [x] `kakao tech` https 문서 작성
 - [ ] `Kubernetes` ReplicaSet
 - [ ] `Do it`
 - [ ] `Do it`

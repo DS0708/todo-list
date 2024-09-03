@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Sep_1week|`h m`||
+|Sep_1week|`8h m`||
 |Sep_2week|||
 |Sep_3week|||
 |Sep_4week|||
@@ -24,16 +24,25 @@
 ---
 
 ## `Monday Sep 02`
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
+- [x] `Kubernetes` ReplicaSet
 
 
 ## `Tuesday Sep 03`
 - [ ] `kakao tech`
+- [x] `kakao tech` 자기 pr 노션 작성
+- [x] `Kubernetes` 윈도우 클러스터 세팅
+- [ ] `kakao tech` 해커톤 research - (LLM을 활용한 AI 기반 서비스 개발 프로젝트)
+- [ ] `CodingTest` Greedy
+- [ ] `Kubernetes` Deployment
+- [ ] `Kubernetes` Service
+- [ ] `졸프` 회의, 디스코드 오후 8시
 
 
 
 ## `Wednesday Sep 04` 
 - [ ] `kakao tech`
+- [ ] `kakao tech` Alpha Vantage API Server 재배포
 
 
 ## `Thursday Sep 05`
@@ -45,11 +54,11 @@
 
 
 ## `Saturday Sep 07` 
-- [ ] `kakao tech`
+- [ ] `KU` SF 토론 작성
+- [ ] `KU` 강의 수강
 
 
 ## `Sunday Sep 08` 
-- [ ] `kakao tech`
 
 
 
