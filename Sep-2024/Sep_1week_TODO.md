@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Sep_1week|`8h m`||
+|Sep_1week|`29h`||
 |Sep_2week|||
 |Sep_3week|||
 |Sep_4week|||
@@ -29,20 +29,22 @@
 
 
 ## `Tuesday Sep 03`
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `13h`
 - [x] `kakao tech` 자기 pr 노션 작성
 - [x] `Kubernetes` 윈도우 클러스터 세팅
-- [ ] `kakao tech` 해커톤 research - (LLM을 활용한 AI 기반 서비스 개발 프로젝트)
-- [ ] `CodingTest` Greedy
-- [ ] `Kubernetes` Deployment
-- [ ] `Kubernetes` Service
-- [ ] `졸프` 회의, 디스코드 오후 8시
+- [x] `CodingTest` Greedy - 1931
+- [x] `졸프` 회의, 디스코드 오후 8시 -> `1h`
+- [x] `Kubernetes` Deployment -> `40m`
+- [x] `Kubernetes` Service -> `1h 20m`
 
 
 
 ## `Wednesday Sep 04` 
-- [ ] `kakao tech`
-- [ ] `kakao tech` Alpha Vantage API Server 재배포
+- [x] `kakao tech` -> `8h`
+- [x] `프로그래머스`  가장 많이 받은 선물
+- [ ] `Kubernetes` Service
+- [ ] `kakao tech` Alpha Vantage API Server 재배포 - 오전 10시 정도
+- [ ] `kakao tech` 해커톤 research - (LLM을 활용한 AI 기반 서비스 개발 프로젝트)
 
 
 ## `Thursday Sep 05`
@@ -54,18 +56,24 @@
 
 
 ## `Saturday Sep 07` 
-- [ ] `KU` SF 토론 작성
-- [ ] `KU` 강의 수강
+- [ ] `kakao tech` 해커톤
 
 
 ## `Sunday Sep 08` 
+- [x] `KU` SF 토론 작성
+- [x] `KU` 강의 수강
+- [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
+- [ ] `KU` 탄소 중립 Reflection paper
+- [ ] `졸프` Jira 세팅
+- [ ] `졸프` AI 서버 등, 아키텍처 설계
 
 
 
 ---
 ---
 ## `Algorithm`
-- [ ] `DO it`
+- [x] `CodingTest` Greedy - 1931
+- [x] `프로그래머스`  가장 많이 받은 선물
 
 
 ## `etc.`
