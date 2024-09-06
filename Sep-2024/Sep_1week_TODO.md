@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Sep_1week|`29h`||
+|Sep_1week|`37h`||
 |Sep_2week|||
 |Sep_3week|||
 |Sep_4week|||
@@ -42,17 +42,16 @@
 ## `Wednesday Sep 04` 
 - [x] `kakao tech` -> `8h`
 - [x] `프로그래머스`  가장 많이 받은 선물
-- [ ] `Kubernetes` Service
-- [ ] `kakao tech` Alpha Vantage API Server 재배포 - 오전 10시 정도
-- [ ] `kakao tech` 해커톤 research - (LLM을 활용한 AI 기반 서비스 개발 프로젝트)
+- [x] `kakao tech` Alpha Vantage API Server 재배포 - 오전 10시 정도
+- [x] `kakao tech` 해커톤 research - (LLM을 활용한 AI 기반 서비스 개발 프로젝트)
 
 
 ## `Thursday Sep 05`
-- [ ] `kakao tech`
+- [x] `kakao tech` 해커톤 -> `8h`
 
 
 ## `Friday Sep 06` 
-- [ ] `kakao tech`
+- [ ] `kakao tech` 해커톤 -> ``
 
 
 ## `Saturday Sep 07` 
@@ -66,6 +65,7 @@
 - [ ] `KU` 탄소 중립 Reflection paper
 - [ ] `졸프` Jira 세팅
 - [ ] `졸프` AI 서버 등, 아키텍처 설계
+- [ ] `Kubernetes` Service
 
 
 
