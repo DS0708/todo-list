@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Sep_1week|`54h`|`A+++`|
+|Sep_1week|`62h`|`A+++++`|
 |Sep_2week|||
 |Sep_3week|||
 |Sep_4week|||
@@ -55,7 +55,7 @@
 
 
 ## `Saturday Sep 07` 
-- [ ] `kakao tech` 해커톤
+- [x] `kakao tech` 해커톤 -> `8h`
 
 
 ## `Sunday Sep 08` 
