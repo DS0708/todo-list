@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
-|`Sep_2week`|`3h`|``|
+|`Sep_2week`|`11h`|``|
 |Sep_3week|||
 |Sep_4week|||
 
@@ -29,17 +29,16 @@
 
 
 ## `Tuesday Sep 10`
-- [ ] `kakao tech`
-- [ ] `kakao tech` news-crawling, recommend 배포하기
-- [ ] `kakao tech` mongodb backup
-- [ ] `Kubernetes` Service
-- [ ] `졸프` Jira 세팅
-
+- [x] `kakao tech` -> `8h`
+- [x] `kakao tech` news-crawling, recommend 배포하기
+- [x] `kakao tech` 발표자료 만들기
+- [x] `kakao tech` mongodb backup
+- [x] `졸프` Jira 세팅
 
 
 ## `Wednesday Sep 11` 
 - [ ] `kakao tech`
-
+- [ ] `Kubernetes` Service
 
 
 ## `Thursday Sep 12`
@@ -57,6 +56,7 @@
 ## `Sunday Sep 15` 
 - [ ] `kakao tech`
 - [ ] `KU` 강의
+- [ ] `KU` 학자금 대출 실행 `9월 19일`
 - [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
 - [ ] `KU` 탄소 중립 Reflection paper
 - [ ] `졸프` AI 서버 등, 아키텍처 설계
