@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
-|`Sep_2week`|`11h`|``|
+|`Sep_2week`|`19h`|``|
 |Sep_3week|||
 |Sep_4week|||
 
@@ -37,12 +37,17 @@
 
 
 ## `Wednesday Sep 11` 
-- [ ] `kakao tech`
-- [ ] `Kubernetes` Service
+- [x] `kakao tech` -> `8h`
+- [x] `Kubernetes` Service - ClusterIP
+- [x] `Algorithm` Heap Example
+- [x] `Kubernetes` Service - NodePort
 
 
 ## `Thursday Sep 12`
 - [ ] `kakao tech`
+- [ ] `Kubernetes` Service - LoadBalancer
+- [ ] `Algorithm` graph 1753
+- [ ] `Algorithm` graph
 
 
 ## `Friday Sep 13` 
@@ -66,7 +71,7 @@
 ---
 ---
 ## `Algorithm`
-
+- [ ] `Algorithm` 
 
 ## `etc.`
 
