@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
-|`Sep_2week`|`19h`|``|
+|`Sep_2week`|`22h`|``|
 |Sep_3week|||
 |Sep_4week|||
 
@@ -44,14 +44,14 @@
 
 
 ## `Thursday Sep 12`
-- [ ] `kakao tech`
-- [ ] `Kubernetes` Service - LoadBalancer
-- [ ] `Algorithm` graph 1753
-- [ ] `Algorithm` graph
+- [x] `kakao tech` -> `3h`
 
 
 ## `Friday Sep 13` 
 - [ ] `kakao tech`
+- [ ] `Kubernetes` Service - LoadBalancer
+- [ ] `Algorithm` graph 1753
+- [ ] `Algorithm` graph
 
 
 ## `Saturday Sep 14` 
