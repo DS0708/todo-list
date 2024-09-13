@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
-|`Sep_2week`|`22h`|``|
+|`Sep_2week`|`31h`|`B+`|
 |Sep_3week|||
 |Sep_4week|||
 
@@ -48,30 +48,62 @@
 
 
 ## `Friday Sep 13` 
-- [ ] `kakao tech`
-- [ ] `Kubernetes` Service - LoadBalancer
-- [ ] `Algorithm` graph 1753
-- [ ] `Algorithm` graph
+- [x] `kakao tech` -> `9h`
+- [x] `ToGetAJob` 성장하는 회사 찾아보기
+- [x] `KU` 탄소 중립 Reflection paper
+- [x] `Kubernetes` Service - LoadBalancer in AWS
+- [x] `Algorithm` graph 1753
+- [x] `Algorithm` graph 1504
+- [x] `Kubernetes` Service - LoadBalancer in on-premises
+- [x] `KU` 강의
+- [x] `KU` 탄소 중립 Reflection paper
 
 
 ## `Saturday Sep 14` 
-- [ ] `kakao tech`
-
+- [ ] `Kubernetes` Service - externalTrafficPolicy
+- [ ] `Kubernetes` Service - ExternalName
+- [ ] `Algorithm` Class02
 
 ## `Sunday Sep 15` 
-- [ ] `kakao tech`
-- [ ] `KU` 강의
-- [ ] `KU` 학자금 대출 실행 `9월 19일`
-- [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
-- [ ] `KU` 탄소 중립 Reflection paper
-- [ ] `졸프` AI 서버 등, 아키텍처 설계
+
 
 
 
 ---
 ---
 ## `Algorithm`
-- [ ] `Algorithm` 
+- [x] `Algorithm` Heap Example
+- [x] `Algorithm` graph 1753
+- [x] `Algorithm` graph 1504
+
+
+
+## `kakao tech`
+- [x] `kakao tech` mongodb backup
+- [x] `kakao tech` 발표자료 만들기 -> `3h`
+- [x] `kakao tech` news-crawling, recommend 배포하기
+
+
+## `Kubernetes`
+- [x] `Kubernetes` Service - ClusterIP
+- [x] `Kubernetes` Service - NodePort
+- [x] `Kubernetes` Service - LoadBalancer in AWS
+- [x] `Kubernetes` Service - LoadBalancer in on-premises
+- [ ] `Kubernetes` Service - externalTrafficPolicy
+- [ ] `Kubernetes` Service - ExternalName
+
+
+## `ToGetAJob`
+- [x] `ToGetAJob` 성장하는 회사 찾아보기
+
+## `KU`
+- [x] `KU` 졸프 : Jira 세팅
+- [x] `KU` 강의
+- [x] `KU` 탄소 중립 Reflection paper
+- [ ] `KU` 졸프 : AI 서버 등, 아키텍처 설계
+- [ ] `KU` 학자금 대출 실행 `9월 19일`
+- [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
+
 
 ## `etc.`
 
