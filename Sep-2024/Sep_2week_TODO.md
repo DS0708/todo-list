@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
-|`Sep_2week`|`31h`|`B+`|
+|`Sep_2week`|`40h`|`A+`|
 |Sep_3week|||
 |Sep_4week|||
 
@@ -60,12 +60,17 @@
 
 
 ## `Saturday Sep 14` 
+- [x] `time` -> `3h 30m`
+- [x] `Algorithm` class 03 g4
+- [x] `Algorithm` class 03 s5
+- [x] `독서` 클라우드 네이티브 스프링 앤 액션
+
+## `Sunday Sep 15` 
+- [x] `time` ->  `5h 30m`
+- [x] `독서` 클라우드 네이티브 스프링 앤 액션
 - [ ] `Kubernetes` Service - externalTrafficPolicy
 - [ ] `Kubernetes` Service - ExternalName
 - [ ] `Algorithm` Class02
-
-## `Sunday Sep 15` 
-
 
 
 
