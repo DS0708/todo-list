@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
 |Sep_2week|40h|`A+`|
-|`Sep_3week`|`6h`||
+|`Sep_3week`|`10h`||
 |Sep_4week|||
 
 ## Standard Grade
@@ -28,15 +28,16 @@
 - [x] `Algorithm` Class03 - 14940
 - [x] `Algorithm` Class03 - 1697
 - [x] `Cloud Native Spring In Action` - 3.3 스프링 MVC를 이용한 RESTful 애플리케이션 구축
-- [x] `Algorithm` Class03
 
 
 ## `Tuesday Sep 17`
-
+- [x] `time` -> `4h`
+- [x] `Algorithm` Class03 - 18870
+- [x] `Cloud Native Spring In Action
 
 
 ## `Wednesday Sep 18` 
-
+- [ ] `Algorithm` Class03 - 2805
 
 
 ## `Thursday Sep 19`
@@ -64,7 +65,7 @@
 ---
 ## `Algorithm`
 - [x] `Algorithm` Class03 - 14940
-
+- [x] `Algorithm` Class03 - 1697
 
 
 ## `kakao tech`
@@ -88,7 +89,7 @@
 - [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
 
 ## `Spring`
-- [ ] `Cloud Native Spring In Action`
+- [x] `Cloud Native Spring In Action` - 3.3 스프링 MVC를 이용한 RESTful 애플리케이션 구축
 
 
 
