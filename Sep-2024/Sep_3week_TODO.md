@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
 |Sep_2week|40h|`A+`|
-|`Sep_3week`|`10h`||
+|`Sep_3week`|`15h`|`C`|
 |Sep_4week|||
 
 ## Standard Grade
@@ -27,29 +27,31 @@
 - [x] `time` ->  `6h`
 - [x] `Algorithm` Class03 - 14940
 - [x] `Algorithm` Class03 - 1697
-- [x] `Cloud Native Spring In Action` - 3.3 스프링 MVC를 이용한 RESTful 애플리케이션 구축
+- [x] `Cloud Native Spring In Action` - 3.2 스프링 MVC를 이용한 RESTful 애플리케이션 구축
 
 
 ## `Tuesday Sep 17`
 - [x] `time` -> `4h`
 - [x] `Algorithm` Class03 - 18870
-- [x] `Cloud Native Spring In Action
+- [x] `Cloud Native Spring In Action` - 3.3 스프링 RESTful API 애플리케이션 테스트
 
 
 ## `Wednesday Sep 18` 
-- [ ] `Algorithm` Class03 - 2805
 
 
 ## `Thursday Sep 19`
-- [ ] `kakao tech`
-- [ ] `KU` 학자금 대출 실행 `9월 19일`
-- [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
-- [ ] `Kubernetes` Service - externalTrafficPolicy
-- [ ] `Kubernetes` Service - ExternalName
+- [x] `kakao tech` -> `5h`
+- [x] `KU` 학자금 대출 실행 `9월 19일`
+- [x] `KU` 학점 삭제 `9월 19일 ~ 20일`
+- [x] `ToGetAJob` - 2. 지원하려는 회사와 목표 정하기
+- [x] `Cloud Native Spring In Action` - 3.4 배포 파이프라인 : 빌드 및 테스트
+- [x] `KU` 강의
 
 
 ## `Friday Sep 20` 
 - [ ] `kakao tech`
+- [ ] `Kubernetes` Service - externalTrafficPolicy
+- [ ] `Kubernetes` Service - ExternalName
 
 
 ## `Saturday Sep 21` 
@@ -66,6 +68,8 @@
 ## `Algorithm`
 - [x] `Algorithm` Class03 - 14940
 - [x] `Algorithm` Class03 - 1697
+- [x] `Algorithm` Class03 - 18870
+- [ ] `Algorithm` Class03 - 2805
 
 
 ## `kakao tech`
@@ -78,18 +82,24 @@
 
 
 ## `ToGetAJob`
-- [ ] `ToGetAJob`
+- [x] `ToGetAJob` - 2. 지원하려는 회사와 목표 정하기
 
 
 ## `KU`
-- [ ] `KU` 강의
+- [x] `KU` 강의
 - [ ] `KU` 탄소 중립 Reflection paper
 - [ ] `KU` 졸프 : AI 서버 등, 아키텍처 설계
-- [ ] `KU` 학자금 대출 실행 `9월 19일`
-- [ ] `KU` 학점 삭제 `9월 19일 ~ 20일`
+- [x] `KU` 학자금 대출 실행 `9월 19일`
+- [x] `KU` 학점 삭제 `9월 19일 ~ 20일`
 
 ## `Spring`
-- [x] `Cloud Native Spring In Action` - 3.3 스프링 MVC를 이용한 RESTful 애플리케이션 구축
+- [x] `Cloud Native Spring In Action` - 3.2 스프링 MVC를 이용한 RESTful 애플리케이션 구축
+- [x] `Cloud Native Spring In Action` - 3.3 스프링 RESTful API 애플리케이션 테스트
+- [x] `Cloud Native Spring In Action` - 3.4 배포 파이프라인 : 빌드 및 테스트
+- [ ] `Cloud Native Spring In Action` - 4.1
+- [ ] `Cloud Native Spring In Action` - 4.2
+- [ ] `Cloud Native Spring In Action` - 4.3
+- [ ] `Cloud Native Spring In Action` - 4.4
 
 
 
