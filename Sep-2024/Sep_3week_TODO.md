@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Sep_1week|62h|`A+++++`|
 |Sep_2week|40h|`A+`|
-|`Sep_3week`|`15h`|`C`|
+|`Sep_3week`|`23h`|`C+`|
 |Sep_4week|||
 
 ## Standard Grade
@@ -49,13 +49,12 @@
 
 
 ## `Friday Sep 20` 
-- [ ] `kakao tech`
-- [ ] `Kubernetes` Service - externalTrafficPolicy
-- [ ] `Kubernetes` Service - ExternalName
+- [x] `kakao tech` -> `8h`
 
 
 ## `Saturday Sep 21` 
-
+- [ ] `Kubernetes` Service - externalTrafficPolicy
+- [ ] `Kubernetes` Service - ExternalName
 
 
 ## `Sunday Sep 22` 
@@ -70,6 +69,9 @@
 - [x] `Algorithm` Class03 - 1697
 - [x] `Algorithm` Class03 - 18870
 - [ ] `Algorithm` Class03 - 2805
+- [ ] `Algorithm` 9월 코테 1번
+- [ ] `Algorithm` 9월 코테 2번
+- [ ] `Algorithm` 9월 코테 3번
 
 
 ## `kakao tech`
