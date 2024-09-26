@@ -6,7 +6,7 @@
 |Sep_1week|62h|`A+++++`|
 |Sep_2week|40h|`A+`|
 |Sep_3week|23h|`C+`|
-|`Sep_4week`|`20h`|`C+`|
+|`Sep_4week`|`26h`|`B`|
 
 ## Standard Grade
 | Grade | Hour |
@@ -49,8 +49,8 @@
 
 
 ## `Thursday Sep 26`
-- [ ] `kakao tech`
-- [ ] `KU` 졸프 회의
+- [x] `kakao tech` -> `5h`
+- [x] `KU` 졸프 회의 -> `1h`
 
 
 ## `Friday Sep 27` 
