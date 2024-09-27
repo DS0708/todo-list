@@ -6,7 +6,7 @@
 |Sep_1week|62h|`A+++++`|
 |Sep_2week|40h|`A+`|
 |Sep_3week|23h|`C+`|
-|`Sep_4week`|`26h`|`B`|
+|`Sep_4week`|`34h`|`B+`|
 
 ## Standard Grade
 | Grade | Hour |
@@ -54,14 +54,15 @@
 
 
 ## `Friday Sep 27` 
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
 
 
 ## `Saturday Sep 28` 
 - [ ] `kakao tech`
+- [ ] `KU` 졸프 : AI 서버 등, 아키텍처 설계
+- [ ] `KU` 졸프 : AI 컴포넌트 설계
 - [ ] `Kubernetes` Service - externalTrafficPolicy
 - [ ] `Kubernetes` Service - ExternalName
-- [ ] `KU` 탄소 중립 Reflection paper - 3주차
 - [ ] `KU` 탄소 중립 Reflection paper - 4주차
 
 
@@ -98,6 +99,7 @@
 - [x] `KU` 탄소 중립 Reflection paper - 3주차
 - [ ] `KU` 탄소 중립 Reflection paper - 4주차
 - [ ] `KU` 졸프 : AI 서버 등, 아키텍처 설계
+- [ ] `KU` 졸프 : AI 컴포넌트 설계
 
 ## `Spring`
 - [x] `Cloud Native Spring In Action` - 4.1 스프링 설정 : 속성과 프로파일
@@ -108,6 +110,10 @@
 - [x] `Cloud Native Spring In Action` - 5.2 스프링 데이터에 대한 데이터 지속성 JDBC
 - [x] `Cloud Native Spring In Action` - 5.3 스프링 및 테스트컨테이너로 데이터 지속성 테스트하기
 - [x] `Cloud Native Spring In Action` - 5.4 플라이웨이를 통한 프로덕션 환경에서의 데이터베이스 관리
+- [ ] `Cloud Native Spring In Action` - 6.1 도커에서 컨테이너 이미지로 작업하기
+- [ ] `Cloud Native Spring In Action` - 6.2
+- [ ] `Cloud Native Spring In Action` - 6.3
+- [ ] `Cloud Native Spring In Action` - 6.4
 
 
 
