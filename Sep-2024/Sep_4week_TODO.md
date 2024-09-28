@@ -6,7 +6,7 @@
 |Sep_1week|62h|`A+++++`|
 |Sep_2week|40h|`A+`|
 |Sep_3week|23h|`C+`|
-|`Sep_4week`|`34h`|`B+`|
+|`Sep_4week`|`36h`|`A`|
 
 ## Standard Grade
 | Grade | Hour |
@@ -58,16 +58,14 @@
 
 
 ## `Saturday Sep 28` 
-- [ ] `kakao tech`
-- [ ] `KU` 졸프 : AI 서버 등, 아키텍처 설계
-- [ ] `KU` 졸프 : AI 컴포넌트 설계
-- [ ] `Kubernetes` Service - externalTrafficPolicy
-- [ ] `Kubernetes` Service - ExternalName
-- [ ] `KU` 탄소 중립 Reflection paper - 4주차
+- [x] `KU` 졸프 : AI 서버 등, 아키텍처 설계 -> `2h`
+- [x] `KU` 졸프 : AI 컴포넌트 설계
 
 
 ## `Sunday Sep 29` 
-
+- [ ] `Kubernetes` Service - externalTrafficPolicy
+- [ ] `Kubernetes` Service - ExternalName
+- [ ] `KU` 탄소 중립 Reflection paper - 4주차
 
 
 
