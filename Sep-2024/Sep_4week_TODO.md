@@ -95,9 +95,9 @@
 ## `KU`
 - [x] `KU` 강의
 - [x] `KU` 탄소 중립 Reflection paper - 3주차
+- [x] `KU` 졸프 : AI 서버 등, 아키텍처 설계
+- [x] `KU` 졸프 : AI 컴포넌트 설계
 - [ ] `KU` 탄소 중립 Reflection paper - 4주차
-- [ ] `KU` 졸프 : AI 서버 등, 아키텍처 설계
-- [ ] `KU` 졸프 : AI 컴포넌트 설계
 
 ## `Spring`
 - [x] `Cloud Native Spring In Action` - 4.1 스프링 설정 : 속성과 프로파일
