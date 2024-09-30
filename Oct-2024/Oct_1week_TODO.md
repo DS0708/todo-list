@@ -3,11 +3,11 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Oct_1week|`h m`||
-|Oct_2week|`h m`||
-|Oct_3week|`h m`||
-|Oct_4week|`h m`||
-|Oct_5week|`h m`||
+|Oct_1week|`10h`||
+|Oct_2week|||
+|Oct_3week|||
+|Oct_4week|||
+|Oct_5week|||
 
 
 ## Standard Grade
@@ -26,8 +26,10 @@
 ---
 
 ## `Monday Sep 30`
-- [ ] `kakao tech`
-- [ ] `KU` 탄소 중립 Reflection paper - 4주차
+- [x] `kakao tech` -> `10h`
+- [x] `Algorithm` Inf02_02 ~ 07
+- [x] `KU` 탄소 중립 Reflection paper - 4주차
+- [x] `KU` 탄소 중립 Reflection paper - 5주차
 
 
 ## `Tuesday Oct 01`
@@ -41,9 +43,7 @@
 ## `Thursday Oct 03`
 
 
-
 ## `Friday Oct 04` 
-
 
 
 ## `Saturday Oct 05` 
@@ -57,6 +57,7 @@
 ---
 ---
 ## `Algorithm`
+- [x] `Algorithm` Inf02_02 ~ 07
 - [ ] `Algorithm` Class03 - 2805
 - [ ] `Algorithm` 9월 코테 1번
 - [ ] `Algorithm` 9월 코테 2번
@@ -76,7 +77,9 @@
 
 
 ## `KU`
-- [ ] `KU` 탄소 중립 Reflection paper - 4주차
+- [x] `KU` 탄소 중립 Reflection paper - 4주차
+- [x] `KU` 탄소 중립 Reflection paper - 5주차
+- [ ] `KU` 강의
 
 ## `Spring`
 - [ ] `Cloud Native Spring In Action` - 6.1 도커에서 컨테이너 이미지로 작업하기
