@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Oct_1week|`10h`||
+|Oct_1week|`11h`||
 |Oct_2week|||
 |Oct_3week|||
 |Oct_4week|||
@@ -33,7 +33,7 @@
 
 
 ## `Tuesday Oct 01`
-
+- [x] `kakao tech` -> `1h`
 
 
 ## `Wednesday Oct 02` 
