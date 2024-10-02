@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Oct_1week|`11h`||
+|Oct_1week|`19h`|`C+`|
 |Oct_2week|||
 |Oct_3week|||
 |Oct_4week|||
@@ -37,7 +37,9 @@
 
 
 ## `Wednesday Oct 02` 
-- [ ] `kakao tech`
+- [x] `kakao tech` -> `8h`
+- [x] `Kubernetes` Ingress - Read
+- [x] `Kubernetes` PV & PVC 9.3.2 - Read
 
 
 ## `Thursday Oct 03`
@@ -68,8 +70,10 @@
 
 
 ## `Kubernetes`
-- [ ] `Kubernetes` Service - externalTrafficPolicy
-- [ ] `Kubernetes` Service - ExternalName
+- [x] `Kubernetes` Ingress - Read
+- [x] `Kubernetes` PV & PVC - Read
+- [ ] `Kubernetes` Service - externalTrafficPolicy - Write
+- [ ] `Kubernetes` Service - ExternalName - Write
 
 
 ## `ToGetAJob`
