@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Oct_1week|`19h`|`C+`|
+|Oct_1week|`22h`|`C+`|
 |Oct_2week|||
 |Oct_3week|||
 |Oct_4week|||
@@ -43,12 +43,16 @@
 
 
 ## `Thursday Oct 03`
+- [x] `Kubernetes` PV & PVC - Read -> `1h`
+- [x] `Kubernetes` ServiceAccount와 RBAC - Read -> `2h`
 
 
 ## `Friday Oct 04` 
+- [x] `Kubernetes` ServiceAccount와 RBAC - Read
 
 
 ## `Saturday Oct 05` 
+- [ ] `Kubernetes` ServiceAccount와 RBAC - Read
 
 
 ## `Sunday Oct 06` 
@@ -72,8 +76,8 @@
 ## `Kubernetes`
 - [x] `Kubernetes` Ingress - Read
 - [x] `Kubernetes` PV & PVC - Read
-- [ ] `Kubernetes` Service - externalTrafficPolicy - Write
-- [ ] `Kubernetes` Service - ExternalName - Write
+- [ ] `Kubernetes` ServiceAccount와 RBAC - Read
+- [ ] `Kubernetes` Service - externalTrafficPolicy, ExternalName - Write
 
 
 ## `ToGetAJob`
