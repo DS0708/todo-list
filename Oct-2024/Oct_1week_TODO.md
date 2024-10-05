@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Oct_1week|`22h`|`C+`|
+|Oct_1week|`23h`|`C+`|
 |Oct_2week|||
 |Oct_3week|||
 |Oct_4week|||
@@ -48,11 +48,11 @@
 
 
 ## `Friday Oct 04` 
-- [x] `Kubernetes` ServiceAccount와 RBAC - Read
+- [x] `Kubernetes` ServiceAccount와 RBAC - Read -> `1h`
 
 
 ## `Saturday Oct 05` 
-- [ ] `Kubernetes` ServiceAccount와 RBAC - Read
+- [x] `Kubernetes` ServiceAccount와 RBAC - Read -> `1h`
 
 
 ## `Sunday Oct 06` 
