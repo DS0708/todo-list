@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`h m`||
+|Oct_2week|`10h m`||
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -25,19 +25,19 @@
 ---
 ---
 
-## `Monday Oct 07` -> `6h`
+## `Monday Oct 07` -> `10h`
 - [x] `KU` 네프 대면 -> `2h`
 - [x] `Cloud Native Spring In Action` - 6.1 도커에서 컨테이너 이미지로 작업하기
 - [x] `Cloud Native Spring In Action` - 6.2 스프링 부트 애플리케이션을 컨테이너 이미지로 패키지
 - [x] `Cloud Native Spring In Action` - 6.3 도커 컴포즈를 통한 스프링 부트 컨테이너의 관리 -> `2h 30m`
 - [x] 지하철 독서 -> `1h 30m`
 - [x] `Cloud Native Spring In Action` - 6.4 배포 파이프라인: 패키지 및 등록
-- [ ] `Cloud Native Spring In Action` - 7.1 도커에서 쿠버네티스로의 이동
-- [ ] `Cloud Native Spring In Action` - 7.2
-- [ ] `Cloud Native Spring In Action` - 7.3
-- [ ] `Cloud Native Spring In Action` - 7.4
-- [ ] `Cloud Native Spring In Action` - 7.5
-- [ ] `Cloud Native Spring In Action` - 7.6
+- [x] `Cloud Native Spring In Action` - 7.1 도커에서 쿠버네티스로의 이동
+- [x] `Cloud Native Spring In Action` - 7.2 스프링 부트를 위한 쿠버네티스 배포
+- [x] `Cloud Native Spring In Action` - 7.3 서비스 검색 및 부하 분산
+- [x] `Cloud Native Spring In Action` - 7.4 확장성과 일회성
+- [x] `Cloud Native Spring In Action` - 7.5 틸트를 사용한 로컬 쿠버네티스 개발
+- [x] `Cloud Native Spring In Action` - 7.6 배포 파이프라인: 쿠버네티스 매니페스트 유효성 검사 -> `4h`
 
 ## `Tuesday Oct 08`
 - [ ] `Cloud Native Spring In Action` - 8.1
@@ -104,7 +104,13 @@
 - [x] `Cloud Native Spring In Action` - 6.2 스프링 부트 애플리케이션을 컨테이너 이미지로 패키지
 - [x] `Cloud Native Spring In Action` - 6.3 도커 컴포즈를 통한 스프링 부트 컨테이너의 관리
 - [x] `Cloud Native Spring In Action` - 6.4 배포 파이프라인: 패키지 및 등록
-- [ ] `Cloud Native Spring In Action` - 7.
+- [x] `Cloud Native Spring In Action` - 6.4 배포 파이프라인: 패키지 및 등록
+- [x] `Cloud Native Spring In Action` - 7.1 도커에서 쿠버네티스로의 이동
+- [x] `Cloud Native Spring In Action` - 7.2 스프링 부트를 위한 쿠버네티스 배포
+- [x] `Cloud Native Spring In Action` - 7.3 서비스 검색 및 부하 분산
+- [x] `Cloud Native Spring In Action` - 7.4 확장성과 일회성
+- [x] `Cloud Native Spring In Action` - 7.5 틸트를 사용한 로컬 쿠버네티스 개발
+- [x] `Cloud Native Spring In Action` - 7.6 배포 파이프라인: 쿠버네티스 매니페스트 유효성 검사
 - [ ] `Cloud Native Spring In Action` - 8.
 - [ ] `Cloud Native Spring In Action` - 9.
 - [ ] `Cloud Native Spring In Action` - 10.
