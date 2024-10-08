@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`10h m`||
+|Oct_2week|`12h 30m`||
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -39,9 +39,13 @@
 - [x] `Cloud Native Spring In Action` - 7.5 틸트를 사용한 로컬 쿠버네티스 개발
 - [x] `Cloud Native Spring In Action` - 7.6 배포 파이프라인: 쿠버네티스 매니페스트 유효성 검사 -> `4h`
 
-## `Tuesday Oct 08`
-- [ ] `Cloud Native Spring In Action` - 8.1
-- [ ] `Cloud Native Spring In Action` - 8.2
+## `Tuesday Oct 08` -> `2h 30m`
+- [x] 지하철 독서 -> `1h`
+- [x] `Cloud Native Spring In Action` - 6,7 복습 -> `30m`
+- [x] `Cloud Native Spring In Action` - 8.1 리액터와 스프링의 asynchronous & non-blocking 아키텍처 -> `1h`
+
+## `Wednesday Oct 02` 
+- [ ] `Cloud Native Spring In Action` - 8.2 Spring WebFlux와 Spring Data R2DBC를 갖는 리액티브 서버
 - [ ] `Cloud Native Spring In Action` - 8.3
 - [ ] `Cloud Native Spring In Action` - 8.4
 - [ ] `Cloud Native Spring In Action` - 8.5
@@ -50,10 +54,17 @@
 - [ ] `Cloud Native Spring In Action` - 9.3
 - [ ] `Cloud Native Spring In Action` - 9.4
 - [ ] `Cloud Native Spring In Action` - 9.5
-
-## `Wednesday Oct 02` 
-- [ ] `Cloud Native Spring In Action` - 10.
-- [ ] `Cloud Native Spring In Action` - 11.
+- [ ] `Cloud Native Spring In Action` - 10.1
+- [ ] `Cloud Native Spring In Action` - 10.2
+- [ ] `Cloud Native Spring In Action` - 10.3
+- [ ] `Cloud Native Spring In Action` - 10.4
+- [ ] `Cloud Native Spring In Action` - 10.5
+- [ ] `Cloud Native Spring In Action` - 11.1
+- [ ] `Cloud Native Spring In Action` - 11.2
+- [ ] `Cloud Native Spring In Action` - 11.3
+- [ ] `Cloud Native Spring In Action` - 11.4
+- [ ] `Cloud Native Spring In Action` - 11.5
+- [ ] `Cloud Native Spring In Action` - 11.6
 
 
 ## `Thursday Oct 03`
