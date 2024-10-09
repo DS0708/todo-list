@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`13h`||
+|Oct_2week|`19h`|`C+`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -44,13 +44,16 @@
 - [x] `Cloud Native Spring In Action` - 6,7 복습 -> `30m`
 - [x] `Cloud Native Spring In Action` - 8.1 리액터와 스프링의 asynchronous & non-blocking 아키텍처 -> `1h 30m`
 
-## `Wednesday Oct 02` -> `4h 30m`
+## `Wednesday Oct 02` -> `6h`
 - [x] `Cloud Native Spring In Action` - 8.2 Spring WebFlux와 Spring Data R2DBC를 갖는 리액티브 서버 -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.3 Spring WebClient를 사용한 Reactive Client -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.4 Reactive Spring을 통한 복원력 높은 Application -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.5 Spring, Reactor, TestContainer를 이용한 Reactive Application의 테스트 -> `1h 30m`
-- [ ] `Cloud Native Spring In Action` - 8 통합 테스트 및 JSON 계층 슬라이스 테스트 작성
-- [ ] `Cloud Native Spring In Action` - 8 쿠버네티스 배포를 위한 파일 작성
+- [x] `Cloud Native Spring In Action` - 8 통합 테스트 및 JSON 계층 슬라이스 테스트 작성
+- [x] `Cloud Native Spring In Action` - 8 쿠버네티스에 배포 -> `1h 30m`
+
+
+## `Thursday Oct 03`
 - [ ] `Cloud Native Spring In Action` - 9.1
 - [ ] `Cloud Native Spring In Action` - 9.2
 - [ ] `Cloud Native Spring In Action` - 9.3
@@ -68,17 +71,14 @@
 - [ ] `Cloud Native Spring In Action` - 11.5
 - [ ] `Cloud Native Spring In Action` - 11.6
 
-
-## `Thursday Oct 03`
+## `Friday Oct 04` 
 - [ ] `Cloud Native Spring In Action` - 12.
 - [ ] `Cloud Native Spring In Action` - 13.
-
-## `Friday Oct 04` 
 - [ ] `Cloud Native Spring In Action` - 14.
-- [ ] `Cloud Native Spring In Action` - 15.
 
 
 ## `Saturday Oct 05` 
+- [ ] `Cloud Native Spring In Action` - 15.
 - [ ] `Cloud Native Spring In Action` - 16.
 
 
@@ -110,7 +110,7 @@
 
 ## `KU`
 - [x] `KU` 네프 대면
-- [ ] `KU` 강의
+- [x] `KU` 강의
 
 ## `Spring`
 - [x] `Cloud Native Spring In Action` - 6.1 도커에서 컨테이너 이미지로 작업하기
@@ -125,6 +125,12 @@
 - [x] `Cloud Native Spring In Action` - 7.5 틸트를 사용한 로컬 쿠버네티스 개발
 - [x] `Cloud Native Spring In Action` - 7.6 배포 파이프라인: 쿠버네티스 매니페스트 유효성 검사
 - [x] `Cloud Native Spring In Action` - 8.1 리액터와 스프링의 asynchronous & non-blocking 아키텍처
+- [x] `Cloud Native Spring In Action` - 8.2 Spring WebFlux와 Spring Data R2DBC를 갖는 리액티브 서버 -> `1h`
+- [x] `Cloud Native Spring In Action` - 8.3 Spring WebClient를 사용한 Reactive Client -> `1h`
+- [x] `Cloud Native Spring In Action` - 8.4 Reactive Spring을 통한 복원력 높은 Application -> `1h`
+- [x] `Cloud Native Spring In Action` - 8.5 Spring, Reactor, TestContainer를 이용한 Reactive Application의 테스트 -> `1h 30m`
+- [x] `Cloud Native Spring In Action` - 8 통합 테스트 및 JSON 계층 슬라이스 테스트 작성
+- [x] `Cloud Native Spring In Action` - 8 쿠버네티스에 배포 -> `1h 30m`
 - [ ] `Cloud Native Spring In Action` - 9.
 - [ ] `Cloud Native Spring In Action` - 10.
 - [ ] `Cloud Native Spring In Action` - 11.
