@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`19h`|`C+`|
+|Oct_2week|`28h`|`B`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -44,20 +44,20 @@
 - [x] `Cloud Native Spring In Action` - 6,7 복습 -> `30m`
 - [x] `Cloud Native Spring In Action` - 8.1 리액터와 스프링의 asynchronous & non-blocking 아키텍처 -> `1h 30m`
 
-## `Wednesday Oct 02` -> `6h`
+## `Wednesday Oct 02` -> `9h`
 - [x] `Cloud Native Spring In Action` - 8.2 Spring WebFlux와 Spring Data R2DBC를 갖는 리액티브 서버 -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.3 Spring WebClient를 사용한 Reactive Client -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.4 Reactive Spring을 통한 복원력 높은 Application -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.5 Spring, Reactor, TestContainer를 이용한 Reactive Application의 테스트 -> `1h 30m`
 - [x] `Cloud Native Spring In Action` - 8 통합 테스트 및 JSON 계층 슬라이스 테스트 작성
 - [x] `Cloud Native Spring In Action` - 8 쿠버네티스에 배포 -> `1h 30m`
+- [x] `Cloud Native Spring In Action` - 9.1 Edge Server와 Spring Cloud Gateay -> `1h 23m`
+- [x] `Cloud Native Spring In Action` - 9.2 Spring Cloud Circuit Breaker와 Resilience4J로 내결함성 개선하기 -> `57m`
+- [x] `Cloud Native Spring In Action` - 9.3 Spring Cloud Gateway와 Redis를 통한 요청 사용률 제한 -> `40m`
 
 
 ## `Thursday Oct 03`
-- [ ] `Cloud Native Spring In Action` - 9.1
-- [ ] `Cloud Native Spring In Action` - 9.2
-- [ ] `Cloud Native Spring In Action` - 9.3
-- [ ] `Cloud Native Spring In Action` - 9.4
+- [ ] `Cloud Native Spring In Action` - 9.4 Redis를 통한 분산 Session 관리
 - [ ] `Cloud Native Spring In Action` - 9.5
 - [ ] `Cloud Native Spring In Action` - 10.1
 - [ ] `Cloud Native Spring In Action` - 10.2
@@ -131,7 +131,9 @@
 - [x] `Cloud Native Spring In Action` - 8.5 Spring, Reactor, TestContainer를 이용한 Reactive Application의 테스트 -> `1h 30m`
 - [x] `Cloud Native Spring In Action` - 8 통합 테스트 및 JSON 계층 슬라이스 테스트 작성
 - [x] `Cloud Native Spring In Action` - 8 쿠버네티스에 배포 -> `1h 30m`
-- [ ] `Cloud Native Spring In Action` - 9.
+- [x] `Cloud Native Spring In Action` - 9.1 Edge Server와 Spring Cloud Gateay -> `1h 23m`
+- [x] `Cloud Native Spring In Action` - 9.2 Spring Cloud Circuit Breaker와 Resilience4J로 내결함성 개선하기 -> `57m`
+- [x] `Cloud Native Spring In Action` - 9.3 Spring Cloud Gateway와 Redis를 통한 요청 사용률 제한 -> `40m`
 - [ ] `Cloud Native Spring In Action` - 10.
 - [ ] `Cloud Native Spring In Action` - 11.
 - [ ] `Cloud Native Spring In Action` - 12.
