@@ -44,7 +44,7 @@
 - [x] `Cloud Native Spring In Action` - 6,7 복습 -> `30m`
 - [x] `Cloud Native Spring In Action` - 8.1 리액터와 스프링의 asynchronous & non-blocking 아키텍처 -> `1h 30m`
 
-## `Wednesday Oct 02` -> `9h`
+## `Wednesday Oct 09` -> `9h`
 - [x] `Cloud Native Spring In Action` - 8.2 Spring WebFlux와 Spring Data R2DBC를 갖는 리액티브 서버 -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.3 Spring WebClient를 사용한 Reactive Client -> `1h`
 - [x] `Cloud Native Spring In Action` - 8.4 Reactive Spring을 통한 복원력 높은 Application -> `1h`
@@ -56,7 +56,7 @@
 - [x] `Cloud Native Spring In Action` - 9.3 Spring Cloud Gateway와 Redis를 통한 요청 사용률 제한 -> `40m`
 
 
-## `Thursday Oct 03`
+## `Thursday Oct 10`
 - [ ] `Cloud Native Spring In Action` - 9.4 Redis를 통한 분산 Session 관리
 - [ ] `Cloud Native Spring In Action` - 9.5
 - [ ] `Cloud Native Spring In Action` - 10.1
@@ -71,18 +71,18 @@
 - [ ] `Cloud Native Spring In Action` - 11.5
 - [ ] `Cloud Native Spring In Action` - 11.6
 
-## `Friday Oct 04` 
+## `Friday Oct 11` 
 - [ ] `Cloud Native Spring In Action` - 12.
 - [ ] `Cloud Native Spring In Action` - 13.
 - [ ] `Cloud Native Spring In Action` - 14.
 
 
-## `Saturday Oct 05` 
+## `Saturday Oct 12` 
 - [ ] `Cloud Native Spring In Action` - 15.
 - [ ] `Cloud Native Spring In Action` - 16.
 
 
-## `Sunday Oct 06` 
+## `Sunday Oct 13` 
 
 
 
