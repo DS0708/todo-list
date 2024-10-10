@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`28h`|`B`|
+|Oct_2week|`36h 43m`|`A`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -56,28 +56,34 @@
 - [x] `Cloud Native Spring In Action` - 9.3 Spring Cloud Gateway와 Redis를 통한 요청 사용률 제한 -> `40m`
 
 
-## `Thursday Oct 10`
-- [ ] `Cloud Native Spring In Action` - 9.4 Redis를 통한 분산 Session 관리
-- [ ] `Cloud Native Spring In Action` - 9.5
-- [ ] `Cloud Native Spring In Action` - 10.1
-- [ ] `Cloud Native Spring In Action` - 10.2
-- [ ] `Cloud Native Spring In Action` - 10.3
-- [ ] `Cloud Native Spring In Action` - 10.4
-- [ ] `Cloud Native Spring In Action` - 10.5
+## `Thursday Oct 10` -> `8h 43m`
+- [x] 지하철 독서 -> `1h`
+- [x] `Cloud Native Spring In Action` - 9.4 Redis를 통한 분산 Session 관리 -> `23m`
+- [x] `Cloud Native Spring In Action` - 9 배포 파일 작성 -> `1h 12m`
+- [x] `Cloud Native Spring In Action` - 9.5 쿠버네티스 인그레스를 통한 외부 액세스 관리 -> `1h 9m`
+- [x] `Cloud Native Spring In Action` - 10.1 Event Driven Architecture (EDA)
+- [x] `Cloud Native Spring In Action` - 10.2 Message Broker & RabbitMQ
+- [x] `Cloud Native Spring In Action` - 10.3 Spring Cloud Function을 통한 함수 -> `1h 28m`
+- [x] `Cloud Native Spring In Action` - 10.4 Spring Cloud Stream을 통한 메시지 처리 -> `1h 54m`
+- [x] `Cloud Native Spring In Action` - 10.5 Spring Cloud Stream을 통한 메시지 생성 및 소비 -> `1h 37m`
+
+## `Friday Oct 11` 
+- [ ] `Cloud Native Spring In Action` - 10 배포 파일 작성
 - [ ] `Cloud Native Spring In Action` - 11.1
 - [ ] `Cloud Native Spring In Action` - 11.2
 - [ ] `Cloud Native Spring In Action` - 11.3
 - [ ] `Cloud Native Spring In Action` - 11.4
 - [ ] `Cloud Native Spring In Action` - 11.5
 - [ ] `Cloud Native Spring In Action` - 11.6
-
-## `Friday Oct 11` 
-- [ ] `Cloud Native Spring In Action` - 12.
-- [ ] `Cloud Native Spring In Action` - 13.
-- [ ] `Cloud Native Spring In Action` - 14.
+- [ ] `Cloud Native Spring In Action` - 12.1
+- [ ] `Cloud Native Spring In Action` - 12.2
+- [ ] `Cloud Native Spring In Action` - 12.3
+- [ ] `Cloud Native Spring In Action` - 12.4
 
 
 ## `Saturday Oct 12` 
+- [ ] `Cloud Native Spring In Action` - 13.
+- [ ] `Cloud Native Spring In Action` - 14.
 - [ ] `Cloud Native Spring In Action` - 15.
 - [ ] `Cloud Native Spring In Action` - 16.
 
@@ -134,7 +140,12 @@
 - [x] `Cloud Native Spring In Action` - 9.1 Edge Server와 Spring Cloud Gateay -> `1h 23m`
 - [x] `Cloud Native Spring In Action` - 9.2 Spring Cloud Circuit Breaker와 Resilience4J로 내결함성 개선하기 -> `57m`
 - [x] `Cloud Native Spring In Action` - 9.3 Spring Cloud Gateway와 Redis를 통한 요청 사용률 제한 -> `40m`
-- [ ] `Cloud Native Spring In Action` - 10.
+- [x] `Cloud Native Spring In Action` - 9.4 Redis를 통한 분산 Session 관리 -> `23m`
+- [x] `Cloud Native Spring In Action` - 9 배포 파일 작성 -> `1h 12m`
+- [x] `Cloud Native Spring In Action` - 9.5 쿠버네티스 인그레스를 통한 외부 액세스 관리 -> `1h 9m`
+- [x] `Cloud Native Spring In Action` - 10.1 Event Driven Architecture (EDA)
+- [x] `Cloud Native Spring In Action` - 10.2 Message Broker & RabbitMQ
+- [x] `Cloud Native Spring In Action` - 10.3 Spring Cloud Function을 통한 함수 -> `1h 28m`
 - [ ] `Cloud Native Spring In Action` - 11.
 - [ ] `Cloud Native Spring In Action` - 12.
 - [ ] `Cloud Native Spring In Action` - 13.
