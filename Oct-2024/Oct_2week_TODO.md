@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`36h 43m`|`A`|
+|Oct_2week|`37h`|`A`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -56,7 +56,7 @@
 - [x] `Cloud Native Spring In Action` - 9.3 Spring Cloud Gateway와 Redis를 통한 요청 사용률 제한 -> `40m`
 
 
-## `Thursday Oct 10` -> `8h 43m`
+## `Thursday Oct 10` -> `9h`
 - [x] 지하철 독서 -> `1h`
 - [x] `Cloud Native Spring In Action` - 9.4 Redis를 통한 분산 Session 관리 -> `23m`
 - [x] `Cloud Native Spring In Action` - 9 배포 파일 작성 -> `1h 12m`
@@ -65,13 +65,14 @@
 - [x] `Cloud Native Spring In Action` - 10.2 Message Broker & RabbitMQ
 - [x] `Cloud Native Spring In Action` - 10.3 Spring Cloud Function을 통한 함수 -> `1h 28m`
 - [x] `Cloud Native Spring In Action` - 10.4 Spring Cloud Stream을 통한 메시지 처리 -> `1h 54m`
-- [x] `Cloud Native Spring In Action` - 10.5 Spring Cloud Stream을 통한 메시지 생성 및 소비 -> `1h 37m`
+- [x] `Cloud Native Spring In Action` - 10.5 Spring Cloud Stream을 통한 메시지 생성 및 소비 -> `1h 54m`
+- [x] `Cloud Native Spring In Action` - 10 배포 파일 작성
 
 ## `Friday Oct 11` 
-- [ ] `Cloud Native Spring In Action` - 10 배포 파일 작성
-- [ ] `Cloud Native Spring In Action` - 11.1
-- [ ] `Cloud Native Spring In Action` - 11.2
-- [ ] `Cloud Native Spring In Action` - 11.3
+- [x] `Cloud Native Spring In Action` - Chapter10 Read -> `1h 30m`
+- [x] `Cloud Native Spring In Action` - 11.1 Spring Security 기초 -> `20m`
+- [x] `Cloud Native Spring In Action` - 11.2 키클록을 통한 사용자 계정 관리 -> `50m`
+- [ ] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증
 - [ ] `Cloud Native Spring In Action` - 11.4
 - [ ] `Cloud Native Spring In Action` - 11.5
 - [ ] `Cloud Native Spring In Action` - 11.6
@@ -82,6 +83,7 @@
 
 
 ## `Saturday Oct 12` 
+- [ ] `KU` 졸프 회의 `오후 4시`
 - [ ] `Cloud Native Spring In Action` - 13.
 - [ ] `Cloud Native Spring In Action` - 14.
 - [ ] `Cloud Native Spring In Action` - 15.
@@ -146,6 +148,10 @@
 - [x] `Cloud Native Spring In Action` - 10.1 Event Driven Architecture (EDA)
 - [x] `Cloud Native Spring In Action` - 10.2 Message Broker & RabbitMQ
 - [x] `Cloud Native Spring In Action` - 10.3 Spring Cloud Function을 통한 함수 -> `1h 28m`
+- [x] `Cloud Native Spring In Action` - 10.4 Spring Cloud Stream을 통한 메시지 처리 -> `1h 54m`
+- [x] `Cloud Native Spring In Action` - 10.5 Spring Cloud Stream을 통한 메시지 생성 및 소비 -> `1h 54m`
+- [x] `Cloud Native Spring In Action` - 10 배포 파일 작성
+- [x] `Cloud Native Spring In Action` - Chapter10 Read -> `1h 30m`
 - [ ] `Cloud Native Spring In Action` - 11.
 - [ ] `Cloud Native Spring In Action` - 12.
 - [ ] `Cloud Native Spring In Action` - 13.
