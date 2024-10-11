@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`37h`|`A`|
+|Oct_2week|`40h 18m`|`A+`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -68,10 +68,15 @@
 - [x] `Cloud Native Spring In Action` - 10.5 Spring Cloud Stream을 통한 메시지 생성 및 소비 -> `1h 54m`
 - [x] `Cloud Native Spring In Action` - 10 배포 파일 작성
 
-## `Friday Oct 11` 
+## `Friday Oct 11` -> `3h 18m`
 - [x] `Cloud Native Spring In Action` - Chapter10 Read -> `1h 30m`
 - [x] `Cloud Native Spring In Action` - 11.1 Spring Security 기초 -> `20m`
 - [x] `Cloud Native Spring In Action` - 11.2 키클록을 통한 사용자 계정 관리 -> `50m`
+- [x] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증 -> `38m`
+
+
+## `Saturday Oct 12` 
+- [ ] `KU` 졸프 회의 `오후 4시`
 - [ ] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증
 - [ ] `Cloud Native Spring In Action` - 11.4
 - [ ] `Cloud Native Spring In Action` - 11.5
@@ -80,14 +85,6 @@
 - [ ] `Cloud Native Spring In Action` - 12.2
 - [ ] `Cloud Native Spring In Action` - 12.3
 - [ ] `Cloud Native Spring In Action` - 12.4
-
-
-## `Saturday Oct 12` 
-- [ ] `KU` 졸프 회의 `오후 4시`
-- [ ] `Cloud Native Spring In Action` - 13.
-- [ ] `Cloud Native Spring In Action` - 14.
-- [ ] `Cloud Native Spring In Action` - 15.
-- [ ] `Cloud Native Spring In Action` - 16.
 
 
 ## `Sunday Oct 13` 
@@ -152,7 +149,8 @@
 - [x] `Cloud Native Spring In Action` - 10.5 Spring Cloud Stream을 통한 메시지 생성 및 소비 -> `1h 54m`
 - [x] `Cloud Native Spring In Action` - 10 배포 파일 작성
 - [x] `Cloud Native Spring In Action` - Chapter10 Read -> `1h 30m`
-- [ ] `Cloud Native Spring In Action` - 11.
+- [x] `Cloud Native Spring In Action` - 11.1 Spring Security 기초 -> `20m`
+- [x] `Cloud Native Spring In Action` - 11.2 키클록을 통한 사용자 계정 관리 -> `50m`
 - [ ] `Cloud Native Spring In Action` - 12.
 - [ ] `Cloud Native Spring In Action` - 13.
 - [ ] `Cloud Native Spring In Action` - 14.
