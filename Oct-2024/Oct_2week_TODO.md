@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`40h 18m`|`A+`|
+|Oct_2week|`41h 48m`|`A+`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -75,9 +75,12 @@
 - [x] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증 -> `38m`
 
 
-## `Saturday Oct 12` 
-- [ ] `KU` 졸프 회의 `오후 4시`
-- [ ] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증
+## `Saturday Oct 12` -> `1h 30m`
+- [x] `KU` 졸프 회의 `오후 4시`
+- [x] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증
+
+
+## `Sunday Oct 13` 
 - [ ] `Cloud Native Spring In Action` - 11.4
 - [ ] `Cloud Native Spring In Action` - 11.5
 - [ ] `Cloud Native Spring In Action` - 11.6
@@ -85,10 +88,6 @@
 - [ ] `Cloud Native Spring In Action` - 12.2
 - [ ] `Cloud Native Spring In Action` - 12.3
 - [ ] `Cloud Native Spring In Action` - 12.4
-
-
-## `Sunday Oct 13` 
-
 
 
 
