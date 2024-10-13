@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
-|Oct_2week|`41h 48m`|`A+`|
+|Oct_2week|`48h 18m`|`A++`|
 |Oct_3week|||
 |Oct_4week|||
 |Oct_5week|||
@@ -80,10 +80,12 @@
 - [x] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증
 
 
-## `Sunday Oct 13` 
-- [ ] `Cloud Native Spring In Action` - 11.4
-- [ ] `Cloud Native Spring In Action` - 11.5
-- [ ] `Cloud Native Spring In Action` - 11.6
+## `Sunday Oct 13` -> `6h 30m`
+- [x] `Cloud Native Spring In Action` - 11.4 스프링 보안 및 오픈 ID 커넥트로 사용자 인증 -> `4h`
+- [x] `Cloud Native Spring In Action` - 11.5 Spring Security와 SPA 통합 -> `2h`
+- [x] `Cloud Native Spring In Action` - 11.6 Spring Security 및 OICD 테스트 -> `30m`
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
+- [ ] `Cloud Native Spring In Action` - chapter11 배포
 - [ ] `Cloud Native Spring In Action` - 12.1
 - [ ] `Cloud Native Spring In Action` - 12.2
 - [ ] `Cloud Native Spring In Action` - 12.3
@@ -150,6 +152,10 @@
 - [x] `Cloud Native Spring In Action` - Chapter10 Read -> `1h 30m`
 - [x] `Cloud Native Spring In Action` - 11.1 Spring Security 기초 -> `20m`
 - [x] `Cloud Native Spring In Action` - 11.2 키클록을 통한 사용자 계정 관리 -> `50m`
+- [x] `Cloud Native Spring In Action` - 11.3 오픈ID 커넥트, JWT 및 키클록을 통한 인증
+- [x] `Cloud Native Spring In Action` - 11.4 스프링 보안 및 오픈 ID 커넥트로 사용자 인증 -> `4h`
+- [x] `Cloud Native Spring In Action` - 11.5 Spring Security와 SPA 통합 -> `2h`
+- [x] `Cloud Native Spring In Action` - 11.6 Spring Security 및 OICD 테스트 -> `30m`
 - [ ] `Cloud Native Spring In Action` - 12.
 - [ ] `Cloud Native Spring In Action` - 13.
 - [ ] `Cloud Native Spring In Action` - 14.
