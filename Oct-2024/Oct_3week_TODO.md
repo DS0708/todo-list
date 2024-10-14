@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
 |Oct_2week|48h 18m|`A++`|
-|Oct_3week|`h m`|``|
+|Oct_3week|`5h m`|``|
 |Oct_4week|||
 |Oct_5week|||
 
@@ -25,11 +25,10 @@
 ---
 ---
 
-## `Monday Oct 14`
+## `Monday Oct 14` -> `5h`
 - [x] `KU` 네프 대면 -> `1h 30m`
-- [x] 시험계획 세우기
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
-- [ ] `Cloud Native Spring In Action` - chapter11 배포
+- [x] 시험계획 세우기 -> `1h 30m`
+- [x] `Cloud Native Spring In Action` - chapter11 오류 해결 -> `2h`
 
 
 ## `Tuesday Oct 15`
@@ -39,8 +38,8 @@
 - [ ] `네트워크 프로그래밍` 1,2 주차
 - [ ] `네트워크 프로그래밍` 3 주차
 - [ ] `네트워크 프로그래밍` 4 주차
-- [ ] `Cloud Native Spring In Action` - 12.1
-- [ ] `Cloud Native Spring In Action` - 12.2
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
+- [ ] `Cloud Native Spring In Action` - chapter11 배포
 - [ ] `KU` 탄소 중립 과제 6주차
 - [ ] `KU` 탄소 중립 과제 7주차
 - [ ] 여행 계획 세우기
@@ -51,34 +50,33 @@
 - [ ] `네트워크 프로그래밍` 6 주차
 - [ ] `네트워크 프로그래밍` 7 주차
 - [ ] `네트워크 프로그래밍` 서버 클라이언트 TCP 소켓 통신 코드 공부
-- [ ] `Cloud Native Spring In Action` - 12.3
-- [ ] `Cloud Native Spring In Action` - 12.4
+- [ ] `Cloud Native Spring In Action` - 12.1
+- [ ] `Cloud Native Spring In Action` - 12.2
 
 
 ## `Thursday Oct 17`
 - [ ] `딥러닝` 1,2 주차
 - [ ] `딥러닝` 3주차
 - [ ] `딥러닝` 4주차
-- [ ] `Cloud Native Spring In Action` - 13.1
-- [ ] `Cloud Native Spring In Action` - 13.2
-- [ ] `Cloud Native Spring In Action` - 13.3
+- [ ] `Cloud Native Spring In Action` - 12.3
+- [ ] `Cloud Native Spring In Action` - 12.4
 
 
 ## `Friday Oct 18`
 - [ ] `딥러닝` 5주차
 - [ ] `딥러닝` 6주차
 - [ ] `딥러닝` 7주차
-- [ ] `Cloud Native Spring In Action` - 13.4
-- [ ] `Cloud Native Spring In Action` - 13.5
+- [ ] `Cloud Native Spring In Action` - 13.1
+- [ ] `Cloud Native Spring In Action` - 13.2
+- [ ] `Cloud Native Spring In Action` - 13.3
 
 
 ## `Saturday Oct 19`
 - [ ] `데이터 분석` 1,2 주차
 - [ ] `데이터 분석` 3주차
 - [ ] `데이터 분석` 4주차
-- [ ] `Cloud Native Spring In Action` - 14.1
-- [ ] `Cloud Native Spring In Action` - 14.2
-- [ ] `Cloud Native Spring In Action` - 14.3
+- [ ] `Cloud Native Spring In Action` - 13.4
+- [ ] `Cloud Native Spring In Action` - 13.5
 
 
 ## `Sunday Oct 20`
@@ -86,6 +84,9 @@
 - [ ] `데이터 분석` 6주차
 - [ ] `데이터 분석` 7주차
 - [ ] `네트워크 프로그래밍` 마지막 정리
+- [ ] `Cloud Native Spring In Action` - 14.1
+- [ ] `Cloud Native Spring In Action` - 14.2
+- [ ] `Cloud Native Spring In Action` - 14.3
 
 
 ---
