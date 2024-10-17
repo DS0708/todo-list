@@ -52,13 +52,13 @@
 - [x] `네트워크 프로그래밍` 7 주차
 
 
-## `Thursday Oct 17`
-- [ ] 기술명세서 작성
+## `Thursday Oct 17` -> `3h`
+- [x] `Kakao Tech` 백앤드 아키텍처 설명 쓰기
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
+- [ ] `Cloud Native Spring In Action` - chapter11 배포
 - [ ] `딥러닝` 1,2 주차
 - [ ] `딥러닝` 3주차
 - [ ] `딥러닝` 4주차
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
-- [ ] `Cloud Native Spring In Action` - chapter11 배포
 - [ ] `Cloud Native Spring In Action` - 12.1
 - [ ] `Cloud Native Spring In Action` - 12.2
 
@@ -193,6 +193,8 @@
 ## `OPIc`
 ## `토익` 
 -->
+
+
 
 
 
