@@ -54,19 +54,21 @@
 
 ## `Thursday Oct 17` -> `3h`
 - [x] `Kakao Tech` 백앤드 아키텍처 설명 쓰기
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
-- [ ] `Cloud Native Spring In Action` - chapter11 배포
-- [ ] `딥러닝` 1,2 주차
-- [ ] `딥러닝` 3주차
-- [ ] `딥러닝` 4주차
-- [ ] `Cloud Native Spring In Action` - 12.1
-- [ ] `Cloud Native Spring In Action` - 12.2
 
 
 ## `Friday Oct 18`
+- [x] chatGPT 청구서 쓰기
+- [x] `딥러닝` 1주차
+- [ ] `딥러닝` 2주차
+- [ ] `딥러닝` 3주차
+- [ ] `딥러닝` 4주차
 - [ ] `딥러닝` 5주차
 - [ ] `딥러닝` 6주차
 - [ ] `딥러닝` 7주차
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
+- [ ] `Cloud Native Spring In Action` - chapter11 배포
+- [ ] `Cloud Native Spring In Action` - 12.1
+- [ ] `Cloud Native Spring In Action` - 12.2
 - [ ] `Cloud Native Spring In Action` - 12.3
 - [ ] `Cloud Native Spring In Action` - 12.4
 
@@ -163,7 +165,7 @@
 ## `kakao tech`
 - [x] 출석문의 건의하기
 - [x] 휴가쓰기
-- [x] 팀원들한테 다음주 시험, 휴가 날짜 말하기
+- [x] 팀원들한테 다음주 시험, 휴가 날짜 말하기'
 
 
 ## `Kubernetes`
