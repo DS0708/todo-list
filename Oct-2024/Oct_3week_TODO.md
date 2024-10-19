@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Oct_1week|23h|`C+`|
 |Oct_2week|48h 18m|`A++`|
-|Oct_3week|`17h 30m`|`C`|
+|Oct_3week|`24h`|`B`|
 |Oct_4week|||
 |Oct_5week|||
 
@@ -56,39 +56,24 @@
 - [x] `Kakao Tech` 백앤드 아키텍처 설명 쓰기
 
 
-## `Friday Oct 18`
+## `Friday Oct 18` -> `4h`
 - [x] chatGPT 청구서 쓰기
 - [x] `딥러닝` 1주차
-- [ ] `딥러닝` 2주차
-- [ ] `딥러닝` 3주차
+
+
+ 
+## `Saturday Oct 19` -> `2h 30m`
+- [x] `딥러닝` 2주차
+- [x] `딥러닝` 3주차
+
+
+## `Sunday Oct 20`
 - [ ] `딥러닝` 4주차
 - [ ] `딥러닝` 5주차
 - [ ] `딥러닝` 6주차
 - [ ] `딥러닝` 7주차
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
-- [ ] `Cloud Native Spring In Action` - chapter11 배포
-- [ ] `Cloud Native Spring In Action` - 12.1
-- [ ] `Cloud Native Spring In Action` - 12.2
-- [ ] `Cloud Native Spring In Action` - 12.3
-- [ ] `Cloud Native Spring In Action` - 12.4
-
-
-## `Saturday Oct 19`
-- [ ] `데이터 분석` 1,2 주차
-- [ ] `데이터 분석` 3주차
-- [ ] `데이터 분석` 4주차
-- [ ] `Cloud Native Spring In Action` - 13.1
-- [ ] `Cloud Native Spring In Action` - 13.2
-- [ ] `Cloud Native Spring In Action` - 13.3
-
-
-## `Sunday Oct 20`
-- [ ] `데이터 분석` 5주차
-- [ ] `데이터 분석` 6주차
-- [ ] `데이터 분석` 7주차
 - [ ] `네트워크 프로그래밍` 마지막 정리
-- [ ] `Cloud Native Spring In Action` - 13.4
-- [ ] `Cloud Native Spring In Action` - 13.5
+
 
 
 ---
@@ -108,21 +93,21 @@
 
 ## `KU`
 - [x] `KU` 네프 대면
-- [ ] `KU` 탄소 중립 과제 6주차
-- [ ] `KU` 탄소 중립 과제 7주차
-- [ ] `KU` 강의
+- [x] `KU` 탄소 중립 과제 6주차
+- [x] `KU` 탄소 중립 과제 7주차
+- [x] `KU` 강의
 
 - [x] `네트워크 프로그래밍` 1,2 주차
 - [x] `네트워크 프로그래밍` 3 주차
 - [x] `네트워크 프로그래밍` 4 주차
 - [x] `네트워크 프로그래밍` 5 주차
 - [x] `네트워크 프로그래밍` 서버 클라이언트 TCP 소켓 통신 코드 공부
-- [ ] `네트워크 프로그래밍` 6 주차
-- [ ] `네트워크 프로그래밍` 7 주차
+- [x] `네트워크 프로그래밍` 6 주차
+- [x] `네트워크 프로그래밍` 7 주차
 - [ ] `네트워크 프로그래밍` 마지막 정리
 
-- [ ] `딥러닝` 1,2 주차
-- [ ] `딥러닝` 3주차
+- [x] `딥러닝` 1,2 주차
+- [x] `딥러닝` 3주차
 - [ ] `딥러닝` 4주차
 - [ ] `딥러닝` 5주차
 - [ ] `딥러닝` 6주차
@@ -160,6 +145,9 @@
 - [ ] `Algorithm` 9월 코테 1번
 - [ ] `Algorithm` 9월 코테 2번
 - [ ] `Algorithm` 9월 코테 3번
+- [ ] `Algorithm` 10월 코테 1번
+- [ ] `Algorithm` 10월 코테 2번
+- [ ] `Algorithm` 10월 코테 3번
 
 
 ## `kakao tech`
