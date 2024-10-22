@@ -33,14 +33,16 @@
 - [x] `KU` 딥러닝 시험 `7:00 pm ~ 8:00 pm`
 
 
-## `Tuesday Oct 22` 
-- [ ] `Kakao Tech`
-- [ ] `데이터 분석` 1,2 주차
+## `Tuesday Oct 22` -> `8h`
+- [x] `Kakao Tech` -> `8h`
+- [x] 지하철 독서
+- [x] `데이터 분석` 1,2 주차
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
+- [ ] 국취제 신청 `10월 23일`
 - [ ] `데이터 분석` 3주차
 
 
 ## `Wednesday Oct 23`
-- [ ] 국취제 신청 `10월 23일`
 - [ ] `데이터 분석` 4주차
 - [ ] `데이터 분석` 5주차
 
@@ -71,7 +73,6 @@
 ---
 ---
 ## `Spring`
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
 - [ ] `Cloud Native Spring In Action` - chapter11 배포
 - [ ] `Cloud Native Spring In Action` - 12.1
 - [ ] `Cloud Native Spring In Action` - 12.2
