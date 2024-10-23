@@ -6,7 +6,7 @@
 |Oct_1week|23h|`C+`|
 |Oct_2week|48h 18m|`A++`|
 |Oct_3week|30h|`B+`|
-|Oct_4week|`6h m`|``|
+|Oct_4week|`20h`|`C+`|
 |Oct_5week|||
 
 
@@ -37,14 +37,14 @@
 - [x] `Kakao Tech` -> `8h`
 - [x] 지하철 독서
 - [x] `데이터 분석` 1,2 주차
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
-- [ ] 국취제 신청 `10월 23일`
-- [ ] `데이터 분석` 3주차
 
 
-## `Wednesday Oct 23`
+## `Wednesday Oct 23` -> `6h`
+- [x] 국취제 신청 `10월 23일`
+- [x] `데이터 분석` 3주차
 - [ ] `데이터 분석` 4주차
 - [ ] `데이터 분석` 5주차
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
 
 
 ## `Thursday Oct 24`
