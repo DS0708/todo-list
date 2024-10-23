@@ -6,7 +6,7 @@
 |Oct_1week|23h|`C+`|
 |Oct_2week|48h 18m|`A++`|
 |Oct_3week|30h|`B+`|
-|Oct_4week|`20h`|`C+`|
+|Oct_4week|`21h`|`C+`|
 |Oct_5week|||
 
 
@@ -39,12 +39,12 @@
 - [x] `데이터 분석` 1,2 주차
 
 
-## `Wednesday Oct 23` -> `6h`
+## `Wednesday Oct 23` -> `7h`
 - [x] 국취제 신청 `10월 23일`
+- [x] `알고리즘문제해결전략` read
 - [x] `데이터 분석` 3주차
-- [ ] `데이터 분석` 4주차
+- [x] `데이터 분석` 4주차
 - [ ] `데이터 분석` 5주차
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
 
 
 ## `Thursday Oct 24`
@@ -52,6 +52,7 @@
 - [ ] `데이터 분석` 7주차
 - [ ] `알프스` ppt자료 md 파일로 글자 옮기고, 학습 시키기
 - [ ] `통문해` pdf자료 md 파일로 글자 옮기고, 학습 시키기
+- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
 - [ ] `KU` 데이터 분석 시험 `8:00 pm ~ 9:00 pm`
 
 
@@ -78,19 +79,14 @@
 - [ ] `Cloud Native Spring In Action` - 12.2
 - [ ] `Cloud Native Spring In Action` - 12.3
 - [ ] `Cloud Native Spring In Action` - 12.4
-- [ ] `Cloud Native Spring In Action` - 13.1
-- [ ] `Cloud Native Spring In Action` - 13.2
-- [ ] `Cloud Native Spring In Action` - 13.3
-- [ ] `Cloud Native Spring In Action` - 13.4
-- [ ] `Cloud Native Spring In Action` - 13.5
 
 ## `KU`
 - [x] `딥러닝` 캡처 사진 글 뽑아주는 프로그램 실행해보기
-- [ ] `딥러닝` 깃 허브 한번 읽기
-- [ ] `데이터 분석` 1,2 주차
-- [ ] `데이터 분석` 3주차
-- [ ] `데이터 분석` 4주차
-- [ ] `데이터 분석` 5주차
+- [x] `딥러닝` 깃 허브 한번 읽기
+- [x] `데이터 분석` 1,2 주차
+- [x] `데이터 분석` 3주차
+- [x] `데이터 분석` 4주차
+- [x] `데이터 분석` 5주차
 - [ ] `데이터 분석` 6주차
 - [ ] `데이터 분석` 7주차
 - [ ] `알프스` ppt자료 md 파일로 글자 옮기고, 학습 시키기
@@ -101,10 +97,11 @@
 
 ## `Algorithm`
 - [ ] `Algorithm` 9,10월 코테 1~3번
+- [ ] `알고리즘문제해결전략` read
 
 
 ## `kakao tech`
-- [ ] 국취제 신청 `10월 23일`
+- [x] 국취제 신청 `10월 23일`
 
 
 ## `Kubernetes`
