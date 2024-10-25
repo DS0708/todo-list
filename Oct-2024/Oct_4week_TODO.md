@@ -6,7 +6,7 @@
 |Oct_1week|23h|`C+`|
 |Oct_2week|48h 18m|`A++`|
 |Oct_3week|30h|`B+`|
-|Oct_4week|`29h`|`B`|
+|Oct_4week|`37h`|`A`|
 |Oct_5week|||
 
 
@@ -54,17 +54,15 @@
 - [x] `KU` 데이터 분석 시험 `8:00 pm ~ 9:00 pm`
 
 
-## `Friday Oct 25` 
-- [ ] `Kakao Tech`
-- [ ] `알프스` ppt자료 md 파일로 글자 옮기고, 학습 시키기
-- [ ] `통문해` pdf자료 md 파일로 글자 옮기고, 학습 시키기
-- [ ] `Cloud Native Spring In Action` - chapter11 오류 해결
-- [ ] `KU` 통문해 시험 `7:00 pm ~ 8:30 pm`
-- [ ] `KU` 알프스 시험 `8:00 pm ~ 10:00 pm`
+## `Friday Oct 25` -> `8h`
+- [x] `알프스` ppt자료 md 파일로 글자 옮기고, 학습 시키기
+- [x] `통문해` pdf자료 md 파일로 글자 옮기고, 학습 시키기
+- [x] `KU` 통문해 시험 `7:00 pm ~ 8:30 pm`
+- [x] `KU` 알프스 시험 `8:00 pm ~ 10:00 pm`
 
  
 ## `Saturday Oct 26` 
-
+- [ ] `졸프` AI, End-point 생성
 
 
 ## `Sunday Oct 27` 
