@@ -62,6 +62,7 @@
 
  
 ## `Saturday Oct 26` 
+- [x] `졸프` 회의 `오전 10시`
 - [ ] `졸프` AI, End-point 생성
 
 
