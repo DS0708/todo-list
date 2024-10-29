@@ -7,7 +7,7 @@
 |Oct_2week|48h 18m|`A++`|
 |Oct_3week|30h|`B+`|
 |Oct_4week|53h|`A+++`|
-|Oct_5week|`8h`|``|
+|Oct_5week|`12h`|``|
 
 
 ## Standard Grade
@@ -26,11 +26,12 @@
 ---
 
 ## `Monday Oct 28` -> `8h`
-- [ ] `졸프` 
+- [x] `졸프` 
 
 
-## `Tuesday Oct 29`
-
+## `Tuesday Oct 29` -> `4h`
+- [x] `kakao tech`
+- [x] `탄소중립` 중간고사 대체과제 `11월 2일까지`
 
 
 ## `Wednesday Oct 30` 
