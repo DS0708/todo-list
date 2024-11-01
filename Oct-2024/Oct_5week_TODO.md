@@ -7,7 +7,7 @@
 |Oct_2week|48h 18m|`A++`|
 |Oct_3week|30h|`B+`|
 |Oct_4week|53h|`A+++`|
-|Oct_5week|`13h`|``|
+|Oct_5week|`16h`|``|
 
 
 ## Standard Grade
@@ -38,12 +38,12 @@
 - [x] `SF` 토론 과제
 
 
-## `Thursday Oct 31`
+## `Thursday Oct 31` -> `1h`
 - [x] `KTB` 멘토링 작성
 
 
-## `Friday Nov 01`
-
+## `Friday Nov 01` -> `2h`
+- [x] `KTB`
 
  
 ## `Saturday Nov 02`
