@@ -7,7 +7,7 @@
 |Oct_2week|48h 18m|`A++`|
 |Oct_3week|30h|`B+`|
 |Oct_4week|53h|`A+++`|
-|Oct_5week|`16h`|``|
+|Oct_5week|`17h`|`C`|
 
 
 ## Standard Grade
@@ -42,8 +42,9 @@
 - [x] `KTB` 멘토링 작성
 
 
-## `Friday Nov 01` -> `2h`
+## `Friday Nov 01` -> `3h`
 - [x] `KTB`
+- [x] `졸프` AI Server 아키텍처 그리기
 
  
 ## `Saturday Nov 02`
