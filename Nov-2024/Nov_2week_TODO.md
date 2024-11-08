@@ -37,10 +37,11 @@
 
 
 ## `Friday Nov 08`
-.
+- [x] 지하철 독서
+- [x] `kakao tech` 멘토링
  
 ## `Saturday Nov 09`
-
+- [ ] 네프 과제
 
 ## `Sunday Nov 10`
 
