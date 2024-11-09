@@ -41,10 +41,10 @@
 - [x] `kakao tech` 멘토링
  
 ## `Saturday Nov 09`
-- [ ] 네프 과제
+
 
 ## `Sunday Nov 10`
-
+- [ ] 네프 과제
 
 
 
