@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Nov_2week|``|``|
+|Nov_2week||`F`|
 |Nov_3week|``|``|
 |Nov_4week|``|``|
 |Nov_5week|``|``|
@@ -44,7 +44,7 @@
 
 
 ## `Sunday Nov 10`
-- [ ] 네프 과제
+- [x] 네프 과제
 
 
 
