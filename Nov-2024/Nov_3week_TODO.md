@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
-|Nov_3week|`4h m`|``|
+|Nov_3week|`5h m`|``|
 |Nov_4week|``|``|
 |Nov_5week|``|``|
 
@@ -24,14 +24,16 @@
 ---
 ---
 
-## `Monday Nov 11` -> `4h`
+## `Monday Nov 11` -> `5h`
 - [x] 네프 대면 -> `2h`
-- [x] `kakao tech` 발표자료 작성
-- [ ] 졸프 회의
+- [x] `kakao tech` 발표자료 작성 -> `2h`
+- [x] 졸프 회의 -> `1h`
 
 ## `Tuesday Nov 12`
-- [ ] GPT 구독료 작성
-- [ ] AWS 구독료 작성
+- [x] GPT 구독료 작성
+- [x] AWS 구독료 작성 - > `1h`
+- [ ] 졸프 AI 기술 사항 정리, 아키텍처 정리
+- [ ] `kakao tech` 회의 `16:00 ~ 18:00`
 
 
 ## `Wednesday Nov 13`
