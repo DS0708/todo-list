@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
-|Nov_3week|`10h m`|``|
+|Nov_3week|`11h m`|``|
 |Nov_4week|``|``|
 |Nov_5week|``|``|
 
@@ -37,7 +37,8 @@
 - [x] `kakao tech` 회의 `16:00 ~ 18:00` -> `2h`
 
 
-## `Wednesday Nov 13`
+## `Wednesday Nov 13` -> `1h`
+- [x] `kakao tech` 발표
 
 
 ## `Thursday Nov 14`
