@@ -42,7 +42,7 @@
 
 
 ## `Thursday Nov 14`
-
+- [x] 졸프 포스터 만들기 -> `2h`
 
 ## `Friday Nov 15`
 
