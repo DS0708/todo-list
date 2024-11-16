@@ -48,7 +48,7 @@
 - [x] 졸프
  
 ## `Saturday Nov 16`
-
+- [x] 토론 과제
 
 ## `Sunday Nov 17`
 
