@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
-|Nov_3week|`11h m`|``|
+|Nov_3week|`12h`|`C`|
 |Nov_4week|``|``|
 |Nov_5week|``|``|
 
@@ -74,8 +74,8 @@
 
 
 ## `kakao tech`
-- [ ] GPT 구독료 작성
-- [ ] AWS 구독료 작성
+- [x] GPT 구독료 작성
+- [x] AWS 구독료 작성
 
 
 ## `Kubernetes`
@@ -103,17 +103,6 @@
 ## `OPIc`
 ## `토익` 
 -->
-
-
-<!-- 
-// 모든 'col-12 col-md-12' 클래스를 가진 요소를 선택
-var elements = document.querySelectorAll('.col-12.col-md-12');
-
-// 첫 번째 요소의 텍스트를 변경 (주문일)
-elements[0].textContent = '주문일 : 2024-10-24 02:21:16';
-
-// 두 번째 요소의 텍스트를 변경 (처리일)
-elements[1].textContent = '처리일 : 2024-10-24 02:21:16'; -->
 
 
 
