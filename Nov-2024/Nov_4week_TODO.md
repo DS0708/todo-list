@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
-|Nov_4week|`4h`|``|
+|Nov_4week|`7h`|``|
 |Nov_5week|``|``|
 
 
@@ -24,22 +24,25 @@
 ---
 ---
 
-## `Monday Nov 18` -> 
+## `Monday Nov 18` -> 7h
 - [x] 네프 대면 -> `2h`
 - [x] 탄소중립 과제
 - [x] `KU` 졸업 문제 해결 -> `1h`
 - [x] `알고리즘문제해결전략` read -> `1h`
-- [ ] `kakao tech` receip-review-service 코딩
+- [x] `kakao tech` 프로젝트 레포 생성
+- [x] `kakao tech` repo별 github issue 작성
+- [x] `kakao tech` repo별 github project 생성 -> `3h`
+
 
 ## `Tuesday Nov 19` ->
-- [ ] `알고리즘문제해결전략` 3단원까지 읽기
 - [ ] 계절학기 수강신청 코드 짜기
-- [ ] `kakao tech` zipbob deployment 파일 작성하기
+- [ ] `kakao tech` receip review service 개발
+- [ ] `kakao tech` zipbob deployment 개발
+- [ ] `알고리즘문제해결전략` 3단원까지 읽기
 
 
 ## `Wednesday Nov 20` -> 
 - [ ] `알고리즘문제해결전략`
-- [ ] `kakao tech` zipbob 쿠버네티스 개발 환경 세팅하기
 - [ ] 계절학기 수강신청 `오전 10시`
 
 
