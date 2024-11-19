@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
-|Nov_4week|`7h`|``|
+|Nov_4week|`14h`|`C`|
 |Nov_5week|``|``|
 
 
@@ -34,16 +34,17 @@
 - [x] `kakao tech` repo별 github project 생성 -> `3h`
 
 
-## `Tuesday Nov 19` ->
+## `Tuesday Nov 19` -> 7h
 - [x] 계절학기 수강신청 코드 짜기
-- [ ] `kakao tech` receip review service 개발
-- [ ] `kakao tech` zipbob deployment 개발
-- [ ] `알고리즘문제해결전략` 3단원까지 읽기
+- [x] `kakao tech` code reading -> `3h`
+- [x] `kakao tech` zipbob deployment - docker 개발 -> `4h`
 
 
 ## `Wednesday Nov 20` -> 
-- [ ] `알고리즘문제해결전략`
 - [ ] 계절학기 수강신청 `오전 10시`
+- [ ] `kakao tech` zipbob deployment - docker 개발 - healthcheck로직부터
+- [ ] `kakao tech` zipbob deployment - k8s 개발
+- [ ] `kakao tech` receip review service 개발
 
 
 ## `Thursday Nov 21`
