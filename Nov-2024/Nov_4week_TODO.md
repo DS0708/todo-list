@@ -35,7 +35,7 @@
 
 
 ## `Tuesday Nov 19` ->
-- [ ] 계절학기 수강신청 코드 짜기
+- [x] 계절학기 수강신청 코드 짜기
 - [ ] `kakao tech` receip review service 개발
 - [ ] `kakao tech` zipbob deployment 개발
 - [ ] `알고리즘문제해결전략` 3단원까지 읽기
