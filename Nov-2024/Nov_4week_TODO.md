@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
-|Nov_4week|`14h`|`C`|
+|Nov_4week|`22h`|`C+`|
 |Nov_5week|``|``|
 
 
@@ -40,14 +40,15 @@
 - [x] `kakao tech` zipbob deployment - docker 개발 -> `4h`
 
 
-## `Wednesday Nov 20` -> 5h 30m
+## `Wednesday Nov 20` -> 8h
 - [x] 계절학기 수강신청 `오전 10시` -> `1h`
 - [x] `kakao tech` zipbob deployment - docker 개발 - healthcheck로직부터 -> `3h 30m`
 - [x] `kakao tech` zipbob deployment - docker 개발 마무리 -> `1h`
-- [ ] `kakao tech` zipbob deployment - k8s 개발
+- [x] `kakao tech` zipbob deployment - k8s 개발
 
 
 ## `Thursday Nov 21`
+- [ ] `kakao tech` zipbob deployment - k8s 개발 - Readiness Probe, Init Containers 부터 하기 !!
 - [ ] `kakao tech` receip review service 개발
 - [ ] `알고리즘문제해결전략`
 
