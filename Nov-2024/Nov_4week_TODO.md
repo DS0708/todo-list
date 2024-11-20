@@ -40,10 +40,10 @@
 - [x] `kakao tech` zipbob deployment - docker 개발 -> `4h`
 
 
-## `Wednesday Nov 20` -> 4h 30m
+## `Wednesday Nov 20` -> 5h 30m
 - [x] 계절학기 수강신청 `오전 10시` -> `1h`
 - [x] `kakao tech` zipbob deployment - docker 개발 - healthcheck로직부터 -> `3h 30m`
-- [ ] `kakao tech` zipbob deployment - docker 개발 마무리
+- [x] `kakao tech` zipbob deployment - docker 개발 마무리 -> `1h`
 - [ ] `kakao tech` zipbob deployment - k8s 개발
 
 
