@@ -40,14 +40,15 @@
 - [x] `kakao tech` zipbob deployment - docker 개발 -> `4h`
 
 
-## `Wednesday Nov 20` -> 
-- [ ] 계절학기 수강신청 `오전 10시`
-- [ ] `kakao tech` zipbob deployment - docker 개발 - healthcheck로직부터
+## `Wednesday Nov 20` -> 4h 30m
+- [x] 계절학기 수강신청 `오전 10시` -> `1h`
+- [x] `kakao tech` zipbob deployment - docker 개발 - healthcheck로직부터 -> `3h 30m`
+- [ ] `kakao tech` zipbob deployment - docker 개발 마무리
 - [ ] `kakao tech` zipbob deployment - k8s 개발
-- [ ] `kakao tech` receip review service 개발
 
 
 ## `Thursday Nov 21`
+- [ ] `kakao tech` receip review service 개발
 - [ ] `알고리즘문제해결전략`
 
 
