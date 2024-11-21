@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
-|Nov_4week|`22h`|`C+`|
+|Nov_4week|`30h 30m`|`B+`|
 |Nov_5week|``|``|
 
 
@@ -47,14 +47,14 @@
 - [x] `kakao tech` zipbob deployment - k8s 개발
 
 
-## `Thursday Nov 21` -> `4h 30m`
+## `Thursday Nov 21` -> `8h 30m`
 - [x] `kakao tech` zipbob deployment - k8s 개발 - Readiness Probe, Init Containers 부터 하기 !! -> `2h`
 - [x] `kakao tech` zipbob deployment - k8s 개발 -> `2h 30m`
-- [ ] `kakao tech` receip review service 개발
+- [x] `kakao tech` receip review service 개발 - config, mongodb 세팅, 연결까지 -> `4h`
 
 
 ## `Friday Nov 22`
-- [ ] `알고리즘문제해결전략`
+- [ ] `kakao tech` receip review service 개발 - 기본 CRUD 구현
 - [ ] 국취제 구직촉진수당 신청
 
  
