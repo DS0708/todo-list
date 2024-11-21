@@ -47,10 +47,10 @@
 - [x] `kakao tech` zipbob deployment - k8s 개발
 
 
-## `Thursday Nov 21`
-- [ ] `kakao tech` zipbob deployment - k8s 개발 - Readiness Probe, Init Containers 부터 하기 !!
+## `Thursday Nov 21` -> `4h 30m`
+- [x] `kakao tech` zipbob deployment - k8s 개발 - Readiness Probe, Init Containers 부터 하기 !! -> `2h`
+- [x] `kakao tech` zipbob deployment - k8s 개발 -> `2h 30m`
 - [ ] `kakao tech` receip review service 개발
-- [ ] `알고리즘문제해결전략`
 
 
 ## `Friday Nov 22`
