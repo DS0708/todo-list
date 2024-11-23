@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
-|Nov_4week|`30h 30m`|`B+`|
+|Nov_4week|`35h 30m`|`A`|
 |Nov_5week|``|``|
 
 
@@ -34,13 +34,13 @@
 - [x] `kakao tech` repo별 github project 생성 -> `3h`
 
 
-## `Tuesday Nov 19` -> 7h
+## `Tuesday Nov 19` -> `7h`
 - [x] 계절학기 수강신청 코드 짜기
 - [x] `kakao tech` code reading -> `3h`
 - [x] `kakao tech` zipbob deployment - docker 개발 -> `4h`
 
 
-## `Wednesday Nov 20` -> 8h
+## `Wednesday Nov 20` -> `8h`
 - [x] 계절학기 수강신청 `오전 10시` -> `1h`
 - [x] `kakao tech` zipbob deployment - docker 개발 - healthcheck로직부터 -> `3h 30m`
 - [x] `kakao tech` zipbob deployment - docker 개발 마무리 -> `1h`
@@ -53,13 +53,14 @@
 - [x] `kakao tech` receip review service 개발 - config, mongodb 세팅, 연결까지 -> `4h`
 
 
-## `Friday Nov 22`
-- [ ] `kakao tech` receip review service 개발 - 기본 CRUD 구현
-- [ ] 국취제 구직촉진수당 신청
+## `Friday Nov 22` -> `5h`
+- [x] `kakao tech` 멘토링 -> `3h`
+- [x] `kakao tech` receip review service 개발 - 기본 CRUD 구현 -> `2h`
+- [x] 국취제 구직촉진수당 신청
 
  
 ## `Saturday Nov 23`
-- [ ] `알고리즘문제해결전략`
+- [ ] `kakao tech` receip review service 개발 - 기본 CRUD 구현
 
 
 ## `Sunday Nov 24`
