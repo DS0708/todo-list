@@ -25,14 +25,14 @@
 ---
 
 ## `Monday Nov 25` ->
-- [ ] 네프 대면 
-- [ ] `zipbob` receip review service 개발 - 기본 CRUD 구현
-- [ ] `zipbob` 책 한 번 읽고 계획 세우기 - 모니터링, CI/CD, config 관리 부분 읽기
-- [ ] `zipbob` vault 도입하여 `zipbob-deployment` 완성
+- [x] 네프 대면  -> `2h`
+- [x] `zipbob` receip review service 개발 - 기본 CRUD 구현
 
 
 ## `Tuesday Nov 26` -> 
-
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
+- [ ] `zipbob` 책 한 번 읽고 계획 세우기 - 모니터링, CI/CD, config 관리 부분 읽기
+- [ ] `zipbob` vault 도입하여 `zipbob-deployment` 완성
 
 
 ## `Wednesday Nov 27` -> 
