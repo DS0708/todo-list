@@ -60,12 +60,13 @@
 
  
 ## `Saturday Nov 23`
-- [ ] `kakao tech` receip review service 개발 - 기본 CRUD 구현
+- [ ] `zipbob` receip review service 개발 - 기본 CRUD 구현
 
 
 ## `Sunday Nov 24`
-- [ ] `알고리즘문제해결전략`
-
+- [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
+- [ ] `zipbob` 책 한 번 읽고 계획 세우기 - 모니터링, CI/CD, config 관리 부분 읽기
+- [ ] `zipbob` vault 도입하여 `zipbob-deployment` 완성
 
 
 
@@ -88,9 +89,7 @@
 
 
 ## `kakao tech`
-- [ ] `kakao tech` receip-review-service 코딩
-- [ ] `kakao tech` zipbob deployment 파일 작성하기
-- [ ] `kakao tech` zipbob 쿠버네티스 개발 환경 세팅하기
+
 
 ## `Kubernetes`
 - [ ] `Kubernetes` 애플리케이션 배포를위한 고급 설정 - Read
@@ -102,7 +101,7 @@
 
 
 ## `etc.`
-- [ ] 국취제 구직촉진수당 신청
+- [x] 국취제 구직촉진수당 신청
 - [ ] 지하철 독서
 
 
