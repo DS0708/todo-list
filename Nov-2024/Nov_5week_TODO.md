@@ -6,7 +6,7 @@
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
 |Nov_4week|35h 30m|`A`|
-|Nov_5week|`8h m`|``|
+|Nov_5week|`19h 30m`|`C`|
 
 
 ## Standard Grade
@@ -33,28 +33,35 @@
 - [x] 지하철 독서 -> `2h`
 
 
-## `Wednesday Nov 27` -> 
+## `Wednesday Nov 27` -> 3h 30m
 - [x] `SF` 중간고사 대체과제 `11월 30일까지`
 - [x] `SF` 학기과제 `11월 30일까지` -> `1h`
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
-- [ ] `zipbob` 책 한 번 읽고 계획 세우기 - 모니터링, CI/CD, config 관리 부분 읽기
-- [ ] `zipbob` vault 도입하여 `zipbob-deployment` 완성
+- [x] `Cloud Native Spring In Action` -> chapter12 읽기 -> `1h`
+- [x] `Cloud Native Spring In Action` -> chapter13-3 읽기 -> `1h 30m`
 
 
-## `Thursday Nov 28` -> 
-- [ ] `알고리즘문제해결전략`
+## `Thursday Nov 28` -> 5h
+- [x] `Cloud Native Spring In Action` -> chapter13 읽기 -> `1h`
+- [x] `Cloud Native Spring In Action` -> chapter14 읽기 -> `1h`
+- [x] `kakao tech` 멘토링 -> `3h`
 
 
-## `Friday Nov 29` -> 
-- [ ] `알고리즘문제해결전략`
+## `Friday Nov 29` -> 3h
+- [x] `졸업프로젝트` 발표회 -> `3h`
 
  
 ## `Saturday Nov 30`
-- [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
+- [ ] `Cloud Native Spring In Action` -> chapter15 읽기
+- [ ] `Kubernetes` 읽기
 
 
 ## `Sunday Dec 01`
-
+- [ ] `zipbob` config 설정
+- [ ] `zipbob` zipbob-deployment 완성하기
+- [ ] `zipbob` 모니터링 구축
+- [ ] `zipbob` CI/CD 구축
+- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC)
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
 
 
 
@@ -72,6 +79,7 @@
 
 
 ## `kakao tech`
+- [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
 
 
 ## `Kubernetes`
