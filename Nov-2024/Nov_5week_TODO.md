@@ -6,7 +6,7 @@
 |Nov_2week||`F`|
 |Nov_3week|12h|`C`|
 |Nov_4week|35h 30m|`A`|
-|Nov_5week|`19h 30m`|`C`|
+|Nov_5week|`20h 30m`|`C+`|
 
 
 ## Standard Grade
@@ -50,13 +50,13 @@
 - [x] `졸업프로젝트` 발표회 -> `3h`
 
  
-## `Saturday Nov 30`
-- [ ] `Cloud Native Spring In Action` -> chapter15 읽기
-- [ ] `Kubernetes` 읽기
+## `Saturday Nov 30` -> 1h
+- [x] `Cloud Native Spring In Action` -> chapter15 읽기 -> `1h`
 
 
 ## `Sunday Dec 01`
-- [ ] `zipbob` config 설정
+- [ ] `Kubernetes` 읽기
+- [ ] `zipbob` config 설정 - vault
 - [ ] `zipbob` zipbob-deployment 완성하기
 - [ ] `zipbob` 모니터링 구축
 - [ ] `zipbob` CI/CD 구축
