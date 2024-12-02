@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Dec_1week||``|
+|Dec_1week|`6h 39m`|``|
 |Dec_2week||``|
 |Dec_3week||``|
 |Dec_4week||``|
@@ -24,38 +24,38 @@
 ---
 ---
 
-## `Monday Dec 02` -> 
+## `Monday Dec 02` -> `6h 39m`
 - [x] Week Planning -> `20m`
 - [x] `네프` 대면 -> `2h`
 - [x] `zipbob` receip review service - 피드백 반영하기 -> `34m`
-- [ ] `zipbob` config 설정 - vault
-- [ ] `zipbob` zipbob-deployment 완성하기
-- [ ] `zipbob` 모니터링 구축
+- [x] `zipbob` config 설정 - vault -> `3h 45m`
 
 
 ## `Tuesday Dec 03` -> 
+- [ ] `zipbob` zipbob-deployment 완성하기
 - [ ] `kakao tech` 회의
-- [ ] `zipbob` CI/CD 구축
-- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
+- [ ] `zipbob` 모니터링 구축
 
 
 ## `Wednesday Dec 04` -> 
 - [ ] `졸프` 대면
 - [ ] 겨울 계절학기 수업료 납부 - `12월 04일` 
+- [ ] `zipbob` CI/CD 구축
 
 
 ## `Thursday Dec 02` -> 
 - [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
+- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
 
 
 ## `Friday Dec 02` -> 
 - [ ] `kakao tech` 멘토링
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
 
  
 ## `Saturday Dec 02` -> 
 - [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
-- [ ] `네프` 과제 2
+- [ ] `네프` 과제 2 - `12월 8일`
 
 ## `Sunday Dec 02` -> 
 
@@ -64,7 +64,8 @@
 ---
 ---
 ## `Project`
-- [ ] `zipbob` config 설정 - vault
+- [x] `zipbob` receip review service - 피드백 반영하기 -> `34m`
+- [x] `zipbob` config 설정 - vault -> `3h 45m`
 - [ ] `zipbob` zipbob-deployment 완성하기
 - [ ] `zipbob` 모니터링 구축
 - [ ] `zipbob` CI/CD 구축
@@ -76,7 +77,7 @@
 
 ## `KU`
 - [x] `네프` 대면
-- [ ] `네프` 과제 2
+- [ ] `네프` 과제 2 - `12월 8일`
 - [ ] `졸프` 대면
 - [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
 - [ ] 겨울 계절학기 수업료 납부 - `12월 04일` 
