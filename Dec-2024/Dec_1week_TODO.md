@@ -25,9 +25,9 @@
 ---
 
 ## `Monday Dec 02` -> 
-- [ ] 네프 대면
-- [ ] 졸프 대면
-- [ ] `zipbob` receip review service - 피드백 반영하기
+- [x] Week Planning -> `20m`
+- [x] `네프` 대면 -> `2h`
+- [x] `zipbob` receip review service - 피드백 반영하기 -> `34m`
 - [ ] `zipbob` config 설정 - vault
 - [ ] `zipbob` zipbob-deployment 완성하기
 - [ ] `zipbob` 모니터링 구축
@@ -36,11 +36,12 @@
 ## `Tuesday Dec 03` -> 
 - [ ] `kakao tech` 회의
 - [ ] `zipbob` CI/CD 구축
-- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC)
+- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
 - [ ] `zipbob` receip review service 개발 - Test Code 완성하기
 
 
 ## `Wednesday Dec 04` -> 
+- [ ] `졸프` 대면
 - [ ] 겨울 계절학기 수업료 납부 - `12월 04일` 
 
 
@@ -54,7 +55,7 @@
  
 ## `Saturday Dec 02` -> 
 - [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
-
+- [ ] `네프` 과제 2
 
 ## `Sunday Dec 02` -> 
 
@@ -74,8 +75,9 @@
 - [ ] `Cloud Native Spring In Action`
 
 ## `KU`
-- [ ] 네프 대면
-- [ ] 졸프 대면
+- [x] `네프` 대면
+- [ ] `네프` 과제 2
+- [ ] `졸프` 대면
 - [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
 - [ ] 겨울 계절학기 수업료 납부 - `12월 04일` 
 
@@ -94,6 +96,7 @@
 
 
 ## `etc.`
+- [x] Week Planning
 - [ ] 지하철 독서
 
 
