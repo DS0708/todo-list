@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Dec_1week|`6h 39m`|``|
+|Dec_1week|`12h 28m`|``|
 |Dec_2week||``|
 |Dec_3week||``|
 |Dec_4week||``|
@@ -31,15 +31,18 @@
 - [x] `zipbob` config 설정 - vault -> `3h 45m`
 
 
-## `Tuesday Dec 03` -> 
-- [ ] `zipbob` zipbob-deployment 완성하기
-- [ ] `kakao tech` 회의
-- [ ] `zipbob` 모니터링 구축
+## `Tuesday Dec 03` -> `5h 49m`
+- [x] `zipbob` config 설정 - vault -> `2h 49`
+- [x] 지하철 독서 -> `1h`
+- [x] `kakao tech` 회의 -> `2h`
+
 
 
 ## `Wednesday Dec 04` -> 
 - [ ] `졸프` 대면
 - [ ] 겨울 계절학기 수업료 납부 - `12월 04일` 
+- [ ] `zipbob` 모니터링 구축
+- [ ] `zipbob` zipbob-deployment 완성하기 
 - [ ] `zipbob` CI/CD 구축
 
 
