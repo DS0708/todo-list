@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Dec_1week|`24h 3m`|``|
+|Dec_1week|`30h 9m`|`B+`|
 |Dec_2week||``|
 |Dec_3week||``|
 |Dec_4week||``|
@@ -51,10 +51,10 @@
 - [x] `zipbob` zipbob-deployment 완성하기 - k8s -> `2h 53m`
 
 
-## `Friday Dec 02` -> 
+## `Friday Dec 02` -> `6h 6m`
 - [x] 지하철 독서 -> `20m`
 - [x] `kakao tech` 멘토링 -> `1h`
-- [ ] `zipbob` zipbob-deployment 완성하기 - k8s -> `3h 20m + `
+- [x] `zipbob` zipbob-deployment 완성하기 - k8s -> `4h 46m`
 
  
 ## `Saturday Dec 02` -> 
@@ -64,6 +64,7 @@
 
 
 ## `Sunday Dec 02` -> 
+- [ ] `zipbob` zipbob-deploymen - vault unsealed 자동화
 - [ ] `zipbob` 모니터링 구축
 - [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
 - [ ] `zipbob` CI/CD 구축
