@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Dec_1week|`13h 28m`|``|
+|Dec_1week|`24h 3m`|``|
 |Dec_2week||``|
 |Dec_3week||``|
 |Dec_4week||``|
@@ -46,16 +46,15 @@
 - [x] `zipbob` zipbob-deployment 완성하기  - ingredients-manage-service -> `1h 18m`
 
 
-## `Thursday Dec 02` -> 
-- [ ] `zipbob` zipbob-deployment 완성하기
-- [ ] `zipbob` 모니터링 구축
+## `Thursday Dec 02` -> `6h 8m`
+- [x] `zipbob` zipbob-deployment 완성하기 - docker -> `3h 15m`
+- [x] `zipbob` zipbob-deployment 완성하기 - k8s -> `2h 53m`
 
 
 ## `Friday Dec 02` -> 
-- [ ] `kakao tech` 멘토링
-- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
-- [ ] `zipbob` CI/CD 구축
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
+- [x] 지하철 독서 -> `20m`
+- [x] `kakao tech` 멘토링 -> `1h`
+- [ ] `zipbob` zipbob-deployment 완성하기 - k8s -> `3h 20m + `
 
  
 ## `Saturday Dec 02` -> 
@@ -63,8 +62,12 @@
 - [ ] `네프` 과제 2 - `12월 8일`
 - [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
 
-## `Sunday Dec 02` -> 
 
+## `Sunday Dec 02` -> 
+- [ ] `zipbob` 모니터링 구축
+- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
+- [ ] `zipbob` CI/CD 구축
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
 
 
 ---
@@ -72,7 +75,7 @@
 ## `Project`
 - [x] `zipbob` receip review service - 피드백 반영하기 -> `34m`
 - [x] `zipbob` config 설정 - vault -> `3h 45m`
-- [ ] `zipbob` zipbob-deployment 완성하기 -> `4h 23m + `
+- [ ] `zipbob` zipbob-deployment 완성하기 -> `10h 31m + `
 - [ ] `zipbob` 모니터링 구축
 - [ ] `zipbob` CI/CD 구축
 - [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC)
@@ -87,7 +90,7 @@
 
 
 ## `kakao tech`
-- [ ] `kakao tech` 회의
+- [x] `kakao tech` 회의
 - [ ] `kakao tech` 멘토링
 - [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
 
