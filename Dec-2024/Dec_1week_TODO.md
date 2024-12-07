@@ -46,25 +46,28 @@
 - [x] `zipbob` zipbob-deployment 완성하기  - ingredients-manage-service -> `1h 18m`
 
 
-## `Thursday Dec 02` -> `6h 8m`
+## `Thursday Dec 05` -> `6h 8m`
 - [x] `zipbob` zipbob-deployment 완성하기 - docker -> `3h 15m`
 - [x] `zipbob` zipbob-deployment 완성하기 - k8s -> `2h 53m`
 
 
-## `Friday Dec 02` -> `6h 6m`
+## `Friday Dec 06` -> `6h 6m`
 - [x] 지하철 독서 -> `20m`
 - [x] `kakao tech` 멘토링 -> `1h`
 - [x] `zipbob` zipbob-deployment 완성하기 - k8s -> `4h 46m`
 
  
-## `Saturday Dec 02` -> 
+## `Saturday Dec 07` -> 
+- [ ] `KU` 과제, 시험 Planning
+- [ ] `zipbob` zipbob-deploymen - vault unsealed 자동화 -> `1h +`
+- [ ] `zipbob` AWS 배포
+- [ ] `zipbob` DKOS 배포
+
+
+## `Sunday Dec 08` -> 
 - [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
 - [ ] `네프` 과제 2 - `12월 8일`
 - [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
-
-
-## `Sunday Dec 02` -> 
-- [ ] `zipbob` zipbob-deploymen - vault unsealed 자동화
 - [ ] `zipbob` 모니터링 구축
 - [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC, STS)
 - [ ] `zipbob` CI/CD 구축
@@ -92,7 +95,7 @@
 
 ## `kakao tech`
 - [x] `kakao tech` 회의
-- [ ] `kakao tech` 멘토링
+- [x] `kakao tech` 멘토링
 - [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
 
 ## `Spring`
@@ -108,7 +111,7 @@
 
 ## `etc.`
 - [x] Week Planning
-- [ ] 지하철 독서
+- [x] 지하철 독서
 
 
 
