@@ -32,7 +32,7 @@
 
 
 ## `Tuesday Dec 03` -> `6h 49m`
-- [x] `zipbob` config 설정 - vault -> `2h 49`
+- [x] `zipbob` config 설정 - vault -> `2h 49m`
 - [x] 지하철 독서 -> `1h`
 - [x] `kakao tech` 회의 -> `2h`
 - [x] `zipbob` zipbob-deployment 완성하기 -> `1h`
@@ -57,14 +57,17 @@
 - [x] `zipbob` zipbob-deployment 완성하기 - k8s -> `4h 46m`
 
  
-## `Saturday Dec 07` -> 
-- [ ] `KU` 과제, 시험 Planning
-- [ ] `zipbob` zipbob-deploymen - vault unsealed 자동화 -> `1h +`
-- [ ] `zipbob` AWS 배포
-- [ ] `zipbob` DKOS 배포
+## `Saturday Dec 07` -> `1h`
+- [x] `zipbob` zipbob-deployment - vault unsealed 자동화 -> `1h +`
 
 
 ## `Sunday Dec 08` -> 
+- [x] `zipbob` zipbob-deployment - vault unsealed 자동화 -> `2h 10m`
+- [ ] `KU` 과제, 시험 Planning
+
+- [ ] `zipbob` zipbob-deployment - rabbitmq management
+- [ ] `zipbob` AWS 배포
+- [ ] `zipbob` DKOS 배포
 - [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
 - [ ] `네프` 과제 2 - `12월 8일`
 - [ ] `kakao tech` 알고리즘 문제들 정리하기 - 문제랑 해설 정리해놓기
@@ -78,8 +81,7 @@
 ---
 ## `Project`
 - [x] `zipbob` receip review service - 피드백 반영하기 -> `34m`
-- [x] `zipbob` config 설정 - vault -> `3h 45m`
-- [ ] `zipbob` zipbob-deployment 완성하기 -> `10h 31m + `
+- [ ] `zipbob` zipbob-deployment 완성하기 -> `25h 1m + `
 - [ ] `zipbob` 모니터링 구축
 - [ ] `zipbob` CI/CD 구축
 - [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC)
