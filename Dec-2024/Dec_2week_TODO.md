@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Dec_1week|37h 41m|`A`|
-|Dec_2week|`h m`|``|
+|Dec_2week|`7h 30m`|``|
 |Dec_3week||``|
 |Dec_4week||``|
 
@@ -24,14 +24,15 @@
 ---
 ---
 
-## `Monday Dec 09` -> `6h 39m` -> 
+## `Monday Dec 09` -> `6h 39m` -> `7h 30m`
 - [x] Week Planning
 - [x] `네프` 대면 -> `1h 30m`
 - [x] `KTB` -> `3h 30m`
-- [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
+- [x] `대규모 트래픽 처리` -> `2h 30m`
 
 
 ## `Tuesday Dec 10` -> `6h 49m` -> 
+- [ ] `문화 예술 심리학` 기말보고서 - `12월 10일`
 - [ ] `KTB`
 
 
