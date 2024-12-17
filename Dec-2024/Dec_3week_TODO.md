@@ -4,8 +4,8 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Dec_1week|37h 41m|`A`|
-|Dec_2week|`66h 53m`|`A++++++`|
-|Dec_3week||``|
+|Dec_2week|66h 53m|`A++++++`|
+|Dec_3week|`8h`|``|
 |Dec_4week||``|
 
 
@@ -24,46 +24,52 @@
 ---
 ---
 
-## `Monday Dec 16` -> `6h 39m` -> `7h 52m` -> `h m`
+## `Monday Dec 16` -> `6h 39m` -> `7h 52m` -> `8h`
 - [x] `네프` 코딩 -> `하나의 서버와 하나의 클라이언트가 구조체로 채팅 주고 받는 프로그램 코딩, select 사용해서 timeout도 구현` -> `2h 25m`
 - [x] `네프` 기말고사 - `12월 16일 월요일, 09:10 ~ 10:10` - 예정 (설계안나옴 스레드까지, 코딩 괄호넣기) -> `1h`
 - [x] `딥러닝` 기말고사 - `12월 16일 월요일, 19:00 ~ 20:00` - 예정 -> `1h`
 - [x] `kakao tech` 멘토링 - 월 -> `1h 20m`
 - [x] Week Planning -> `9m`
-- [ ] `zipbob` Ec2 배포
-- [ ] `zipbob` CI/CD 구축 - dev server
+- [x] `zipbob` m4 pro에 zipbob-deployment 세팅 -> `2h 6m`
 
 
 ## `Tuesday Dec 17` -> `6h 49m` -> `12h 10m` -> 
-- [ ] `zipbob` zipbob-deployment - rabbitmq management
-- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC)
+- [x] `데이터분석` 9주차 -> `25m`
+- [ ] `zipbob` STS, 배포 -> `6h 32m + `
+- [ ] `zipbob` 모니터링
+- [ ] `데이터분석` 10주차
+- [ ] `데이터분석` 11주차
+- [ ] `데이터분석` 12주차
 - [ ] `통문해` 학습
 
-
 ## `Wednesday Dec 18` -> `4h 23m` -> `11h 13m` -> 
-- [ ] `zipbob` 모니터링 구축
-- [ ] `zipbob` CI/CD 구축 - prod server
+- [ ] `zipbob` nGrinder
+- [ ] `zipbob` CI/CD
 - [ ] `알프스` 학습
+- [ ] `데이터분석` 13주차
+- [ ] `데이터분석` 14주차
+- [ ] `데이터분석` 15주차
 
 
 ## `Thursday Dec 19` -> `6h 8m` -> `12h` -> 
+- [ ] `zipbob` 부하테스트
 - [ ] `SF` 학습
 - [ ] `데이터 분석` 실습과제 `12월 20일`
 - [ ] `데이터분석` 기말고사 - `12월 19일 목요일, 19:00 ~ 21:00, 1시간 시험`
 - [ ] `kakao tech` 멘토링 - 목
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
+- [ ] `kakao tech` ChatGPT 5차 지원 - `12월 20일 금요일까지`
 
 
 ## `Friday Dec 20` -> `6h 6m` -> `12h`
-- [ ] `zipbob` AWS에 쿠버네티스로 띄우기
-- [ ] `zipbob` 부하테스트
 - [ ] `통문해` 기말고사 - `12월 20일 금요일, 19:00 ~ 20:30, 1시간 시험` - 예정
 - [ ] `알프스` 기말고사 - `12월 20일 금요일, 20:00 ~ 22:00`
 - [ ] `SF` 기말고사 - `12월 20일 금요일, 21:30 ~ 22:00, 객관식 50문제`
 
  
 ## `Saturday Dec 21` -> `1h` -> `1h 40m` -> 
-
+- [ ] `zipbob` recipe-review-service - PR (deploy -> main)
+- [ ] `zipbob` recipe-review-service - API 명세 작성
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
 
 
 ## `Sunday Dec 22` -> `7h 32m` -> `4h 25m` -> 
@@ -72,15 +78,15 @@
 ---
 ---
 ## `Project`
-- [ ] `zipbob` Ec2 배포
-- [ ] `zipbob` CI/CD 구축 - dev server
-- [ ] `zipbob` zipbob-deployment - rabbitmq management
-- [ ] `zipbob` 데이터베이스 스토리지 분리 (PV, PVC)
-- [ ] `zipbob` 모니터링 구축
-- [ ] `zipbob` CI/CD 구축 - prod server
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
-- [ ] `zipbob` AWS에 쿠버네티스로 띄우기
+- [x] `zipbob` m4 pro에 zipbob-deployment 세팅 -> `2h 6m`
+- [ ] `zipbob` STS
+- [ ] `zipbob` 모니터링
+- [ ] `zipbob` nGrinder
+- [ ] `zipbob` CI/CD
 - [ ] `zipbob` 부하테스트
+- [ ] `zipbob` recipe-review-service - PR (deploy -> main)
+- [ ] `zipbob` recipe-review-service - API 명세 작성
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
 
 ## `KU`
 - [ ] `데이터 분석` 실습과제 `12월 20일`
@@ -95,9 +101,12 @@
 - [ ] `SF` 기말고사 - `12월 20일 금요일, 21:30 ~ 22:00, 객관식 50문제`
 
 ## `KU` - 기말고사 시험공부
-- [ ] `데이터분석` 9,10주차
-- [ ] `데이터분석` 11,12주차
-- [ ] `데이터분석` 13,14주차
+- [x] `데이터분석` 9주차 -> `24m`
+- [ ] `데이터분석` 10주차
+- [ ] `데이터분석` 11주차
+- [ ] `데이터분석` 12주차
+- [ ] `데이터분석` 13주차
+- [ ] `데이터분석` 14주차
 - [ ] `데이터분석` 15주차
 - [ ] `통문해` 학습
 - [ ] `알프스` 학습
