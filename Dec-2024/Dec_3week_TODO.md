@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Dec_1week|37h 41m|`A`|
 |Dec_2week|66h 53m|`A++++++`|
-|Dec_3week|`18h 3m`|`C+`|
+|Dec_3week|`28h 50m`|`B+`|
 |Dec_4week||``|
 
 
@@ -37,15 +37,18 @@
 - [x] `데이터분석` 9주차 -> `25m`
 - [x] `zipbob` STS - mongodb,vault, kops 배포 -> `9h 38m`
 
-## `Wednesday Dec 18` -> `4h 23m` -> `11h 13m` -> 
+## `Wednesday Dec 18` -> `4h 23m` -> `11h 13m` -> `10h 47m`
 - [x] `통문해` 학습
 - [x] `알프스` 학습
 - [x] `데이터분석` 10주차 -> `40m`
 - [x] `zipbob` recipe-review-service - API 명세 작성 -> `30m`
 - [x] `zipbob` STS - mariadb -> `2h 11m`
 - [x] `zipbob` STS - rabbitmq -> `2h 48m`
-- [ ] `zipbob` 모니터링
-- [ ] `zipbob` nGrinder
+- [x] `zipbob` 모니터링 -> `2h 38m`
+- [x] `zipbob` nGrinder -> `2h`
+
+
+## `Thursday Dec 19` -> `6h 8m` -> `12h` -> 
 - [ ] `zipbob` Auto Scaling
 - [ ] `zipbob` CI/CD
 - [ ] `데이터분석` 11주차
@@ -54,9 +57,6 @@
 - [ ] `데이터분석` 14주차
 - [ ] `데이터분석` 15주차
 - [ ] `데이터분석` 시험 세팅
-
-
-## `Thursday Dec 19` -> `6h 8m` -> `12h` -> 
 - [ ] `zipbob` 부하테스트
 - [ ] `SF` 학습
 - [ ] `데이터분석` 기말고사 - `12월 19일 목요일, 19:00 ~ 21:00, 1시간 시험`
@@ -88,8 +88,8 @@
 - [x] `zipbob` recipe-review-service - API 명세 작성 -> `30m`
 - [x] `zipbob` STS - mariadb -> `2h 11m`
 - [x] `zipbob` STS - rabbitmq -> `2h 48m`
-- [ ] `zipbob` 모니터링
-- [ ] `zipbob` nGrinder
+- [x] `zipbob` 모니터링 -> `2h 38m`
+- [x] `zipbob` nGrinder -> `2h`
 - [ ] `zipbob` CI/CD
 - [ ] `zipbob` Auto Scaling
 - [ ] `zipbob` 부하테스트
