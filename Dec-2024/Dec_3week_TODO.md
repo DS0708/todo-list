@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Dec_1week|37h 41m|`A`|
 |Dec_2week|66h 53m|`A++++++`|
-|Dec_3week|`38h 20m`|`A`|
+|Dec_3week|`58h 26m`|`A++++`|
 |Dec_4week||``|
 
 
@@ -55,26 +55,28 @@
 - [x] `kakao tech` 멘토링 - 목 -> `1h`
 
 
-## `Friday Dec 20` -> `6h 6m` -> `12h`
-- [ ] `kakao tech` ChatGPT 5차 지원 - `12월 20일 금요일까지`
-- [ ] `데이터 분석` 실습과제 `12월 20일`
-- [ ] `SF` 학습
-- [ ] `zipbob` Auto Scaling
-- [ ] `zipbob` 부하테스트
-- [ ] `통문해` 기말고사 - `12월 20일 금요일, 19:00 ~ 20:30, 1시간 시험` - 예정
-- [ ] `알프스` 기말고사 - `12월 20일 금요일, 20:00 ~ 22:00`
-- [ ] `SF` 기말고사 - `12월 20일 금요일, 21:30 ~ 22:00, 객관식 50문제`
-- [ ] `국취제 촉진수당 신청`
+## `Friday Dec 20` -> `6h 6m` -> `12h` -> `7h`
+- [x] `kakao tech` ChatGPT 5차 지원 - `12월 20일 금요일까지`
+- [x] `데이터 분석` 실습과제 `12월 20일`
+- [x] `SF` 학습 -> `1h`
+- [x] `zipbob` 부하테스트 -> `4h`
+- [x] `통문해` 기말고사 - `12월 20일 금요일, 19:00 ~ 20:30, 1시간 시험`
+- [x] `알프스` 기말고사 - `12월 20일 금요일, 20:00 ~ 22:00`
+- [x] `SF` 기말고사 - `12월 20일 금요일, 21:30 ~ 22:00, 객관식 50문제` -> `3h`
 
  
-## `Saturday Dec 21` -> `1h` -> `1h 40m` -> 
+## `Saturday Dec 21` -> `1h` -> `1h 40m` -> `8h`
+- [x] `zipbob` nginx-ingress, https
+- [x] `zipbob` 성능테스트 -> `8h`
+
+
+## `Sunday Dec 22` -> `7h 32m` -> `4h 25m` -> `5h 6m`
+- [x] `국취제 촉진수당 신청` 잘 제출되었는지 확인하기
+- [x] Zipbob Planning -> `37m`
+- [x] `zipbob` ELK - EK 설치  ->`4h 29m`
+- [ ] `zipbob` Auto Scaling
 - [ ] `zipbob` CI/CD
-- [ ] `zipbob` recipe-review-service - PR (deploy -> main)
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
-
-
-## `Sunday Dec 22` -> `7h 32m` -> `4h 25m` -> 
-
+- [ ] `zipbob` AI Server 배포
 
 ---
 ---
@@ -86,30 +88,42 @@
 - [x] `zipbob` STS - rabbitmq -> `2h 48m`
 - [x] `zipbob` 모니터링 -> `2h 38m`
 - [x] `zipbob` nGrinder -> `2h`
-- [ ] `zipbob` Auto Scaling -> `3h + `
-- [ ] `zipbob` 부하테스트 -> ``
+- [x] `zipbob` 성능테스트 -> `8h`
+- [x] `zipbob` Auto Scaling -> `3h`
+- [x] `zipbob` 부하테스트 -> `4h`
+- [x] Zipbob Planning -> `37m`
+- [ ] `zipbob` ELK
+- [ ] `zipbob` Auto Scaling
 - [ ] `zipbob` CI/CD
-- [ ] `zipbob` recipe-review-service - PR (deploy -> main)
-- [ ] `zipbob` receip review service 개발 - Test Code 완성하기
+- [ ] `zipbob` AI Server 배포
+- [ ] `zipbob` DB Master-Slave 성능테스트 - 월
+- [ ] `zipbob` 발표자료 - 월
+- [ ] `zipbob` 발표준비 - 월
+- [ ] `zipbob` Namespace - 화
+- [ ] `zipbob` helm, Kustomize - 화
+- [ ] `zipbob` health check, container lifecycle - 화
+- [ ] `zipbob` recipe-review-service - Reids - 이후
+- [ ] `zipbob` recipe-review-service - PR (deploy -> main) - 이후
+- [ ] `zipbob` receip review service 개발 - Test Code 완성하기 - 이후
 
 ## `KU`
-- [ ] `데이터 분석` 실습과제 `12월 20일`
+- [x] `데이터 분석` 실습과제 `12월 20일`
 
 ## `KU` - 기말고사 일정
 - [x] `탄소중립` 기말고사 - `12월 12일 목요일, 18:00 ~ 19:00, 5 6 7주차 제외`
 - [x] `네프` 기말고사 - `12월 16일 월요일, 09:10 ~ 10:10` - 예정 (설계안나옴 스레드까지, 코딩 괄호넣기)
 - [x] `딥러닝` 기말고사 - `12월 16일 월요일, 19:00 ~ 20:00` - 예정
 - [x] `데이터분석` 기말고사 - `12월 19일 목요일, 19:00 ~ 21:00, 1시간 시험`
-- [ ] `통문해` 기말고사 - `12월 20일 금요일, 19:00 ~ 20:30, 1시간 시험` - 예정
-- [ ] `알프스` 기말고사 - `12월 20일 금요일, 20:00 ~ 22:00`
-- [ ] `SF` 기말고사 - `12월 20일 금요일, 21:30 ~ 22:00, 객관식 50문제`
+- [x] `통문해` 기말고사 - `12월 20일 금요일, 19:00 ~ 20:30, 1시간 시험` - 예정
+- [x] `알프스` 기말고사 - `12월 20일 금요일, 20:00 ~ 22:00`
+- [x] `SF` 기말고사 - `12월 20일 금요일, 21:30 ~ 22:00, 객관식 50문제`
 
 ## `KU` - 기말고사 시험공부
 - [x] `데이터분석` 9주차 -> `24m`
 - [x] `데이터분석` 10주차 -> `40m`
 - [x] `통문해` 학습
 - [x] `알프스` 학습
-- [ ] `SF` 학습
+- [x] `SF` 학습
 
 ## `kakao tech`
 - [x] `kakao tech` 멘토링 - 월
@@ -119,19 +133,19 @@
 
 ## `etc.`
 - [x] Week Planning
-- [ ] 지하철 독서
-- [ ] 국취제 촉진수당 신청
+- [x] 국취제 촉진수당 신청
+- [ ] `국취제 촉진수당 신청` 잘 제출되었는지 확인하기
 
 
 
-## `Spring`
+<!-- ## `Spring`
 - [ ] `Cloud Native Spring In Action`
 
 ## `Kubernetes`
 - [ ] `Kubernetes` 애플리케이션 배포를위한 고급 설정 - Read
 
 ## `Algorithm`
-- [ ] `알고리즘문제해결전략` read
+- [ ] `알고리즘문제해결전략` read -->
 
 
 <br><br>
