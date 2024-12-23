@@ -6,7 +6,7 @@
 |Dec_1week|37h 41m|`A`|
 |Dec_2week|66h 53m|`A++++++`|
 |Dec_3week|58h 26m|`A++++`|
-|Dec_4week|h m|``|
+|Dec_4week|`7h 11m`|``|
 
 
 ## Standard Grade
@@ -24,25 +24,21 @@
 ---
 ---
 
-## `Monday Dec 23` -> `6h 39m` -> `7h 52m` -> `8h` ->
+## `Monday Dec 23` -> `6h 39m` -> `7h 52m` -> `8h` -> `7h 11m`
 - [x] Week Planning -> `30m`
 - [x] `현건다` 대면수업 -> `1h 30m`
 - [x] `국취제 촉진수당 신청` 잘 제출되었는지 확인하기
 - [x] `zipbob` AI Server 배포 -> `50m`
 - [x] `한국어인증실습` 퀴즈, 과제, 강의 - 월 -> `14m`
-- [ ] `zipbob` ELK
-- [ ] `zipbob` Auto Scaling
-- [ ] `zipbob` CI/CD
-- [ ] `zipbob` 발표자료 
-- [ ] `zipbob` DB Master-Slave 성능테스트
+- [x] `zipbob` EFK -> `2h 18m`
 
 
 ## `Tuesday Dec 24` -> `6h 49m` -> `12h 10m` -> `10h 3m` ->
 - [ ] `한국어인증실습` 퀴즈, 과제, 강의 - 화
 - [ ] `현건다` 대면수업
-- [ ] `zipbob` Namespace 
-- [ ] `zipbob` helm, Kustomize 
-- [ ] `zipbob` health check, container lifecycle 
+- [ ] `zipbob` Auto Scaling
+- [ ] `zipbob` CI/CD
+- [ ] `zipbob` 발표자료 
 - [ ] `zipbob` 발표준비 
 
 
@@ -62,6 +58,10 @@
  
 
 ## `Saturday Dec 28` -> `1h` -> `1h 40m` -> `8h` ->
+- [ ] `zipbob` Namespace 
+- [ ] `zipbob` helm, Kustomize 
+- [ ] `zipbob` health check, container lifecycle 
+- [ ] `zipbob` DB Master-Slave 성능테스트
 - [ ] `zipbob` recipe-review-service - Reids 
 - [ ] `zipbob` recipe-review-service - PR (deploy -> main) 
 - [ ] `zipbob` receip review service 개발 - Test Code 완성하기 
