@@ -6,7 +6,7 @@
 |Dec_1week|37h 41m|`A`|
 |Dec_2week|66h 53m|`A++++++`|
 |Dec_3week|58h 26m|`A++++`|
-|Dec_4week|`7h 11m`|``|
+|Dec_4week|`18h 38m`|`C+`|
 
 
 ## Standard Grade
@@ -33,13 +33,11 @@
 - [x] `zipbob` EFK -> `2h 18m`
 
 
-## `Tuesday Dec 24` -> `6h 49m` -> `12h 10m` -> `10h 3m` ->
-- [ ] `한국어인증실습` 퀴즈, 과제, 강의 - 화
-- [ ] `현건다` 대면수업
-- [ ] `zipbob` Auto Scaling
-- [ ] `zipbob` CI/CD
-- [ ] `zipbob` 발표자료 
-- [ ] `zipbob` 발표준비 
+## `Tuesday Dec 24` -> `6h 49m` -> `12h 10m` -> `10h 3m` -> `11h 27m`
+- [x] `현건다` 대면수업 -> `2h`
+- [x] `zipbob` EFK -> `1h 22m`
+- [x] `zipbob` 발표자료 -> `2h 45m + 1h 27m + 52m + 1h 18m + 1h 33m`
+- [x] `한국어인증실습` 퀴즈, 과제, 강의 - 화 -> `10m`
 
 
 ## `Wednesday Dec 25` -> `4h 23m` -> `11h 13m` -> `10h 47m` -> 
@@ -47,6 +45,9 @@
 
 
 ## `Thursday Dec 26` -> `6h 8m` -> `12h` -> `9h 30m` ->
+- [ ] `zipbob` 발표준비 
+- [ ] `zipbob` CI/CD
+- [ ] `zipbob` Auto Scaling
 - [ ] `한국어인증실습` 퀴즈, 과제, 강의 - 목
 - [ ] `현건다` 대면수업
 - [ ] `kakao tech` 대면 - 목
