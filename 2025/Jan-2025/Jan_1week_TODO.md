@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Jan_1week|`5h 10m`||
+|Jan_1week|`8h 25m`||
 |Jan_2week|||
 |Jan_3week|||
 |Jan_4week|||
@@ -35,13 +35,13 @@
 - [x] `한인실` 퀴즈, 과제, 강의 - 화 -> `15m`
 
 
-## `Wednesday Jan 01` -> 
-- [ ] `kakao tech` AWS, Chat GPT, 만족도 조사 참여
-
-
-## `Thursday Jan 02` -> 
-- [ ] `현건다` 대면수업
-- [ ] `한인실` 퀴즈, 과제, 강의 - 목
+## `Wednesday Jan 01` -> `1h`
+- [x] 독서 -> `1h`
+ 
+## `Thursday Jan 02` -> `2h 15m`
+- [x] `현건다` 대면수업 -> `2h`
+- [x] `한인실` 퀴즈, 과제, 강의 - 목 -> `15m`
+- [x] `kakao tech` Chat GPT, 만족도 조사 참여
 
 
 ## `Friday Jan 03` -> 
@@ -49,7 +49,7 @@
 - [ ] `한인실` 퀴즈, 과제, 강의 - 금
 
 ## `Saturday Jan 04` -> 
-
+- [ ] `kakao tech` AWS - `1월 8일까지`
 
 
 ## `Sunday Jan 05` -> 
