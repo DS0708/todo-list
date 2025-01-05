@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Jan_1week|`10h 40m`||
+|Jan_1week|`10h 40m`|`F`|
 |Jan_2week|||
 |Jan_3week|||
 |Jan_4week|||
@@ -49,12 +49,11 @@
 - [x] `한인실` 퀴즈, 과제, 강의 - 금
 
 ## `Saturday Jan 04` -> 
-- [ ] `현건다` 과제 3 - `1월 6일까지`
-- [ ] `kakao tech` AWS - `1월 8일까지`
 
 
 ## `Sunday Jan 05` -> 
-
+- [ ] `현건다` 과제 3 - `1월 6일까지`
+- [ ] `kakao tech` AWS - `1월 8일까지`
 
 ---
 ---
