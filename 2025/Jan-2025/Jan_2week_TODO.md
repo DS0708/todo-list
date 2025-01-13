@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jan_1week|10h 40m|`F`|
-|Jan_2week|`10h 0m`||
+|Jan_2week|`12 32m`|`C`|
 |Jan_3week|||
 |Jan_4week|||
 
@@ -46,10 +46,10 @@
 ## `Saturday Jan 11` -> `0h 0m` -> `0h 0m`
 
 
-## `Sunday Jan 12` -> `0h 0m` -> 
+## `Sunday Jan 12` -> `0h 0m` -> `2h 32m`
 - [x] `현건다` 영상시청소감 -> `20m`
+- [x] 취업 계획 -> `2h 12m`
 - [ ] `현건다` 레포트 대체
-- [ ] 취업 계획 -> `20m + `
 
 ---
 ---
