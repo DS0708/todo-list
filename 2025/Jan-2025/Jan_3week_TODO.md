@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Jan_1week|10h 40m|`F`|
 |Jan_2week|12 32m|`C`|
-|Jan_3week|`17h 42m`|`C`|
+|Jan_3week|`26h 22m`|`B`|
 |Jan_4week|||
 
 
@@ -44,17 +44,19 @@
 - [x] `현건다` 기말고사 공부 -> `4h 02m`
 
  
-## `Thursday Jan 16` -> `2h 15m` -> `2h 30m` -> ``
-- [ ] `현건다` 기말고사 공부
-- [ ] `한인실` 기말고사
-- [ ] `현건다` 기말고사
+## `Thursday Jan 16` -> `2h 15m` -> `2h 30m` -> `3h 47m`
+- [x] `현건다` 기말고사 공부 -> `1h 27m`
+- [x] `현건다` 기말고사 -> `1h`
+- [x] `한인실` 기말고사 -> `1h 20m`
 
 
-## `Friday Jan 17` -> `2h 15m` -> `0h 0m` -> ``
+## `Friday Jan 17` -> `2h 15m` -> `0h 0m` -> `3h 53m`
+- [x] 취업 계획 -> `2h 44m`
+- [x] `inflearn-java` String: 1~6 -> `1h 9m`
 
 
 ## `Saturday Jan 18` -> `0h 0m` -> `0h 0m` -> ``
-
+- [ ] `inflearn-java` String: 7~12
 
 ## `Sunday Jan 19` -> `0h 0m` -> `2h 32m` -> ``
 
@@ -63,14 +65,22 @@
 ---
 
 ## `KU` - 겨울계절학기
-- [ ] `한인실` 퀴즈, 과제, 강의
-- [ ] `현건다` 대면수업
+- [x] `한인실` 퀴즈, 과제, 강의
+- [x] `현건다` 대면수업
 - [x] `현건다` 레포트 대체
-- [ ] `현건다` 1월 16일 기말고사 - 10:20 ~
+- [x] `현건다` 1월 16일 기말고사 - 10:20 ~
+
+
+## `Algorithm`
+- [x] `inflearn-java` String: 1~6 -> `1h 9m`
+- [ ] `inflearn-java` String: 7~12
+- [ ] `inflearn-java` Array: 1~6
+- [ ] `inflearn-java` Array: 7~12
 
 
 ## `etc.`
-- [ ] Week Planning
+- [x] Week Planning
+- [ ] 국취제 제출
 - [ ] 취업 계획
 - [ ] 독서 
 
@@ -88,11 +98,7 @@
 
 
 <!-- ## `Spring`
-- [ ] `Cloud Native Spring In Action`
-
-
-## `Algorithm`
-- [ ] `알고리즘문제해결전략` read -->
+- [ ] `Cloud Native Spring In Action` -->
 
 
 <!-- 
