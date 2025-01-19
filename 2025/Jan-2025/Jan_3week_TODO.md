@@ -55,11 +55,12 @@
 - [x] `inflearn-java` String: 1~6 -> `1h 9m`
 
 
-## `Saturday Jan 18` -> `0h 0m` -> `0h 0m` -> ``
-- [ ] `inflearn-java` String: 7~12
+## `Saturday Jan 18` -> `0h 0m` -> `0h 0m` -> `0h 0m`
+
 
 ## `Sunday Jan 19` -> `0h 0m` -> `2h 32m` -> ``
-
+- [x] 국취제 취업특강 -> `1h`
+- [ ] `inflearn-java` String: 7~12
 
 ---
 ---
@@ -80,7 +81,9 @@
 
 ## `etc.`
 - [x] Week Planning
-- [ ] 국취제 제출
+- [x] 국취제 취업특강
+- [ ] 국취제 제출 - `1월 23일`
+- [ ] `Konkuk` 졸업유예 - `2월 1일 ~ 2월 4일`
 - [ ] 취업 계획
 - [ ] 독서 
 
@@ -93,8 +96,6 @@
 - [ ] `zipbob` recipe-review-service - PR (deploy -> main) 
 - [ ] `zipbob` receip review service 개발 - Test Code 완성하기  -->
 
-<!-- - [ ] `Konkuk` 졸업유예 - `작년에는 1월 16일 정도에 함` -->
-
 
 
 <!-- ## `Spring`
@@ -106,7 +107,6 @@
 ## `OPIc`
 ## `토익` 
 -->
-
 
 
 
