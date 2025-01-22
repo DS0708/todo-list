@@ -38,15 +38,14 @@
 
 
 ## `Wednesday Jan 22` -> `1h` -> `2h 30m` -> `6h 15m` ->
-- [ ] `inflearn-java` Array : 8~12
-- [ ] `현대오토에버` - portfolio - zipbob 프로젝트 markdown 파일 작성
-- [ ] `inflearn-java` Two pointers, Sliding window
+- [x] `inflearn-java` Array : 8~12 -> `2h 03m`
+- [ ] `현대오토에버` - portfolio - zipbob 프로젝트 markdown 파일 작성 -> `1h 53m + 35m + 1h 15m`
 
  
 ## `Thursday Jan 23` -> `2h 15m` -> `2h 30m` -> `3h 47m` ->
+- [ ] 국취제 제출 - `1월 23일`
 - [ ] `현대오토에버` - portfolio 
 - [ ] `현대오토에버` - Search - 사전 설명회 - `1월 23일 목 16:00 ~ 19:20`
-- [ ] 국취제 제출 - `1월 23일`
 - [ ] `inflearn-java` Two pointers, Sliding window
 
 
