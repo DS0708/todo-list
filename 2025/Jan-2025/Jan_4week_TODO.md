@@ -6,7 +6,7 @@
 |Jan_1week|10h 40m|`F`|
 |Jan_2week|12 32m|`C`|
 |Jan_3week|26h 22m|`B`|
-|Jan_4week|`8h 35m`||
+|Jan_4week|`15h 43m`|`C`|
 
 
 ## Standard Grade
@@ -37,31 +37,33 @@
 - [x] `inflearn-java` Array : 1~7 -> `48m`
 
 
-## `Wednesday Jan 22` -> `1h` -> `2h 30m` -> `6h 15m` ->
+## `Wednesday Jan 22` -> `1h` -> `2h 30m` -> `6h 15m` -> `7h 8m`
 - [x] `inflearn-java` Array : 8~12 -> `2h 03m`
-- [ ] `현대오토에버` - portfolio - zipbob 프로젝트 markdown 파일 작성 -> `1h 53m + 35m + 1h 15m`
+- [x] `현대오토에버` - portfolio - zipbob -> `5h 5m`
 
  
-## `Thursday Jan 23` -> `2h 15m` -> `2h 30m` -> `3h 47m` ->
-- [ ] 국취제 제출 - `1월 23일`
-- [ ] `현대오토에버` - portfolio 
+## `Thursday Jan 23` -> `2h 15m` -> `2h 30m` -> `3h 47m` -> ``
+- [x] `inflearn-java` Two pointers, Sliding window : 1~4 -> `53m`
+- [x] 국취제 제출 - `1월 23일` -> `1m`
+- [x] `현대오토에버` - portfolio - zipbob 1차 -> `1h 27m`
 - [ ] `현대오토에버` - Search - 사전 설명회 - `1월 23일 목 16:00 ~ 19:20`
-- [ ] `inflearn-java` Two pointers, Sliding window
+- [ ] `현대오토에버` - portfolio - zipbob 2차
 
 
 ## `Friday Jan 24` -> `2h 15m` -> `0h 0m` -> `3h 53m` -> 
 - [ ] `현대오토에버` - 자기소개서 작성
-- [ ] `inflearn-java` HashMap, TreeSet
+- [ ] `inflearn-java` Two pointers, Sliding window : 5~6
+- [ ] `inflearn-java` HashMap, TreeSet : 1~2
 
 
 ## `Saturday Jan 25` -> `0h 0m` -> `0h 0m` -> `0h 0m`
 - [ ] `현대오토에버` - 자기소개서 작성
 - [ ] `현대오토에버` - 멘토님께 지원서 피드백 받아보기
-- [ ] `inflearn-java` HashMap, TreeSet
+- [ ] `inflearn-java` HashMap, TreeSet : 3~5
 
 
 ## `Sunday Jan 26` -> `0h 0m` -> `2h 32m` -> `1h 0m`
-- [ ] `inflearn-java` Stack, Queue
+- [ ] `inflearn-java` Stack, Queue : 1~4
 
 
 ---
@@ -77,7 +79,7 @@
 
 ## `Algorithm`
 - [x] `inflearn-java` String: 7~12
-- [ ] `inflearn-java` Array
+- [x] `inflearn-java` Array
 - [ ] `inflearn-java` Two pointers, Sliding window
 - [ ] `inflearn-java` HashMap, TreeSet
 - [ ] `inflearn-java` Stack, Queue
