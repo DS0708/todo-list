@@ -6,7 +6,7 @@
 |Jan_1week|10h 40m|`F`|
 |Jan_2week|12 32m|`C`|
 |Jan_3week|26h 22m|`B`|
-|Jan_4week|`26h 25m`|`B`|
+|Jan_4week|`29h 17m`|`B`|
 
 
 ## Standard Grade
@@ -56,14 +56,13 @@
 - [x] `현대오토에버` - portfolio - zipbob -> `5h 38m`
 
 
-## `Saturday Jan 25` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> ``
-- [ ] `현대오토에버` - portfolio - zipbob -> `1h + `
-- [x] `inflearn-java` HashMap, TreeSet : 3~5
-- [ ] `inflearn-java` Stack, Queue : 1~4
+## `Saturday Jan 25` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> `2h 52m`
+- [x] `inflearn-java` HashMap, TreeSet : 3~5 -> `1h 16m`
+- [x] `현대오토에버` - portfolio - zipbob -> `1h 36m`
 
 
 ## `Sunday Jan 26` -> `0h 0m` -> `2h 32m` -> `1h 0m`
-
+- [ ] `inflearn-java` Stack, Queue : 1~4
 
 
 ---
