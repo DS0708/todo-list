@@ -56,14 +56,14 @@
 - [x] `현대오토에버` - portfolio - zipbob -> `5h 38m`
 
 
-## `Saturday Jan 25` -> `0h 0m` -> `0h 0m` -> `0h 0m`
-- [ ] `현대오토에버` - portfolio - zipbob
-- [ ] `inflearn-java` HashMap, TreeSet : 3~5
+## `Saturday Jan 25` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> ``
+- [ ] `현대오토에버` - portfolio - zipbob -> `1h + `
+- [x] `inflearn-java` HashMap, TreeSet : 3~5
+- [ ] `inflearn-java` Stack, Queue : 1~4
 
 
 ## `Sunday Jan 26` -> `0h 0m` -> `2h 32m` -> `1h 0m`
-- [ ] `현대오토에버` - portfolio - zipbob
-- [ ] `inflearn-java` Stack, Queue : 1~4
+
 
 
 ---
@@ -88,8 +88,9 @@
 
 ## `etc.`
 - [x] Week Planning
-- [ ] 국취제 제출 - `1월 23일`
-- [ ] 취업 계획
+- [x] 국취제 제출 - `1월 23일`
+- [x] 취업 계획
+- [ ] `하이패스 미납요금내기`
 - [ ] 독서 
 - [ ] `Konkuk` 졸업유예 - `2월 1일 ~ 2월 4일`
 
