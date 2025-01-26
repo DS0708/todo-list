@@ -6,7 +6,7 @@
 |Jan_1week|10h 40m|`F`|
 |Jan_2week|12 32m|`C`|
 |Jan_3week|26h 22m|`B`|
-|Jan_4week|`29h 17m`|`B`|
+|Jan_4week|`35h 05m`|`A`|
 
 
 ## Standard Grade
@@ -61,26 +61,27 @@
 - [x] `현대오토에버` - portfolio - zipbob -> `1h 36m`
 
 
-## `Sunday Jan 26` -> `0h 0m` -> `2h 32m` -> `1h 0m`
-- [ ] `inflearn-java` Stack, Queue : 1~4
+## `Sunday Jan 26` -> `0h 0m` -> `2h 32m` -> `1h 0m` -> `5h 48m`
+- [x] `inflearn-java` Stack, Queue : 1~4 -> `1h 23m`
+- [x] 취업 계획 -> `17m`
+- [x] `현대오토에버` - portfolio - zipbob -> `4h 8m`
 
 
 ---
 ---
-## `Job`
-- [ ] `현대오토에버` - Search - 웹사이트 검색
-- [ ] `현대오토에버` - Search - 사전 설명회 - `1월 23일 목 16:00 ~ 19:20`
+## `Searching Job`
+- [x] `현대오토에버` - Search - 웹사이트 검색
+- [x] `현대오토에버` - Search - 사전 설명회 - `1월 23일 목 16:00 ~ 19:20`
 - [ ] `현대오토에버` - portfolio
 - [ ] `현대오토에버` - 자기소개서 작성
-- [ ] `현대오토에버` - 멘토님께 지원서 피드백 받아보기
 - [ ] `현대오토에버` - github 정리
 
 
 ## `Algorithm`
 - [x] `inflearn-java` String: 7~12
 - [x] `inflearn-java` Array
-- [ ] `inflearn-java` Two pointers, Sliding window
-- [ ] `inflearn-java` HashMap, TreeSet
+- [x] `inflearn-java` Two pointers, Sliding window
+- [x] `inflearn-java` HashMap, TreeSet
 - [ ] `inflearn-java` Stack, Queue
 - [ ] `inflearn-java` Sorting and Searching
 
