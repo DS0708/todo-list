@@ -37,21 +37,27 @@
 - [x] `현대오토에버` - portfolio -> `3h 42m`
 
 
-## `Wednesday Jan 29` -> `1h` -> `2h 30m` -> `6h 15m` -> `7h 8m` ->
-- [ ] `inflearn-java` Sorting and Searching : 5~8
-- [ ] `현대오토에버` - portfolio 마무리
-- [ ] `현대오토에버` - 자기소개서 작성
+## `Wednesday Jan 29` -> `1h` -> `2h 30m` -> `6h 15m` -> `7h 8m` -> `8h 35m`
+- [x] `inflearn-java` Sorting and Searching : 5~8 -> `1h 30m`
+- [x] `현대오토에버` - portfolio - zipbob 2.3 DevOps -> `7h 5m`
 
  
 ## `Thursday Jan 30` -> `2h 15m` -> `2h 30m` -> `3h 47m` -> `5h 4m` ->
 - [ ] `inflearn-java` Sorting and Searching : 9~10
+- [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
 - [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~3
+- [ ] `현대오토에버` - portfolio - zipbob 2.4 Recipe Review Service
+- [ ] `현대오토에버` - portfolio - zipbob 2.1.2 RDB vs NoSQL
+- [ ] `현대오토에버` - portfolio - zipbob 3. Project Retrospective
+- [ ] `현대오토에버` - portfolio - zipbob 4. Reference
+- [ ] `현대오토에버` - portfolio 디자인
 - [ ] `현대오토에버` - 자기소개서 작성
 
 
 ## `Friday Jan 31` -> `2h 15m` -> `0h 0m` -> `3h 53m` -> `6h 38m` ->
 - [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 4~7
 - [ ] `현대오토에버` - 자기소개서 작성
+- [ ] `현대오토에버` - portfolio TODO List 포함한 자기소개나 이력서 작성
 
 
 ## `Saturday Feb 01` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> `2h 52m` ->
@@ -68,9 +74,10 @@
 ---
 ---
 ## `Searching Job`
-- [ ] `현대오토에버` - portfolio
+- [ ] `현대오토에버` - portfolio - zipbob
+- [ ] `현대오토에버` - portfolio 디자인
+- [ ] `현대오토에버` - portfolio TODO List 포함한 자기소개나 이력서 작성
 - [ ] `현대오토에버` - 자기소개서 작성
-- [ ] `현대오토에버` - zipbob deployment 정리
 - [ ] `현대오토에버` - github 정리
 
 
