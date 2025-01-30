@@ -7,7 +7,7 @@
 |Jan_2week|12 32m|`C`|
 |Jan_3week|26h 22m|`B`|
 |Jan_4week|35h 05m|`A`|
-|Jan_4week|`14h 31m`|``|
+|Jan_4week|`30h 53m`|`B+`|
 
 
 ## Standard Grade
@@ -42,39 +42,37 @@
 - [x] `현대오토에버` - portfolio - zipbob 2.3 DevOps -> `7h 5m`
 
  
-## `Thursday Jan 30` -> `2h 15m` -> `2h 30m` -> `3h 47m` -> `5h 4m` ->
-- [ ] `inflearn-java` Sorting and Searching : 9~10
-- [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~3
-- [ ] `현대오토에버` - portfolio - zipbob 2.4 Recipe Review Service
-- [ ] `현대오토에버` - portfolio - zipbob 2.1.2 RDB vs NoSQL
-- [ ] `현대오토에버` - portfolio - zipbob 3. Project Retrospective
-- [ ] `현대오토에버` - portfolio - zipbob 4. Reference
-- [ ] `현대오토에버` - portfolio 디자인
-- [ ] `현대오토에버` - 자기소개서 작성
+## `Thursday Jan 30` -> `2h 15m` -> `2h 30m` -> `3h 47m` -> `5h 4m` -> `7h 47m`
+- [x] `inflearn-java` Sorting and Searching : 9~10 -> `1h 8m`
+- [x] `현대오토에버` - portfolio - zipbob 2.4 Recipe Review Service -> `2h 25m`
+- [x] `현대오토에버` - portfolio - zipbob 2.1.2 RDB vs NoSQL -> `1h 27m`
+- [x] `현대오토에버` - portfolio - zipbob 3. Project Retrospective -> `2h 26m`
+- [x] `현대오토에버` - portfolio - zipbob 4. Reference -> `21m`
 
 
 ## `Friday Jan 31` -> `2h 15m` -> `0h 0m` -> `3h 53m` -> `6h 38m` ->
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 4~7
+- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5
 - [ ] `현대오토에버` - 자기소개서 작성
+- [ ] `현대오토에버` - portfolio 디자인
 - [ ] `현대오토에버` - portfolio TODO List 포함한 자기소개나 이력서 작성
 
 
 ## `Saturday Feb 01` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> `2h 52m` ->
 - [ ] `하이패스 미납요금내기`
 - [ ] `Konkuk` 졸업유예 - `2월 1일 ~ 2월 4일`
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 8~11
+- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
 - [ ] `현대오토에버` - github 정리
 
 
 ## `Sunday Feb 02` -> `0h 0m` -> `2h 32m` -> `1h 0m` -> `5h 48m` ->
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 12~14
+- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14
+- [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
 
 
 ---
 ---
 ## `Searching Job`
-- [ ] `현대오토에버` - portfolio - zipbob
+- [x] `현대오토에버` - portfolio - zipbob
 - [ ] `현대오토에버` - portfolio 디자인
 - [ ] `현대오토에버` - portfolio TODO List 포함한 자기소개나 이력서 작성
 - [ ] `현대오토에버` - 자기소개서 작성
@@ -83,7 +81,7 @@
 
 ## `Algorithm`
 - [x] `inflearn-java` Stack, Queue
-- [ ] `inflearn-java` Sorting and Searching
+- [x] `inflearn-java` Sorting and Searching
 - [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초)
 
 
