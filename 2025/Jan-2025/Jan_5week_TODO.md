@@ -51,7 +51,7 @@
 
 
 ## `Friday Jan 31` -> `2h 15m` -> `0h 0m` -> `3h 53m` -> `6h 38m` ->
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5 -> `46m`
 - [ ] `현대오토에버` - 자기소개서 작성
 - [ ] `현대오토에버` - portfolio 디자인
 - [ ] `현대오토에버` - portfolio TODO List 포함한 자기소개나 이력서 작성
