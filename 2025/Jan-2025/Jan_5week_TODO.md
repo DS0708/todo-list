@@ -7,7 +7,7 @@
 |Jan_2week|12 32m|`C`|
 |Jan_3week|26h 22m|`B`|
 |Jan_4week|35h 05m|`A`|
-|Jan_4week|`51h 19m`|`A+++`|
+|Jan_5week|`51h 19m`|`A+++`|
 
 
 ## Standard Grade
