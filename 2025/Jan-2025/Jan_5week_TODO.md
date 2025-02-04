@@ -7,7 +7,7 @@
 |Jan_2week|12 32m|`C`|
 |Jan_3week|26h 22m|`B`|
 |Jan_4week|35h 05m|`A`|
-|Jan_4week|`32h 16m`|`B+`|
+|Jan_4week|`51h 19m`|`A+++`|
 
 
 ## Standard Grade
@@ -55,17 +55,19 @@
 - [x] `현대오토에버` - portfolio 디자인 -> `37m`
 
 
-## `Saturday Feb 01` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> `2h 52m` ->
-- [x] `현대오토에버` - portfolio zipbob, 이나 지원서류 등 자잘한 부분 추가 -> `2h 51m`
-- [ ] `현대오토에버` - 자기소개서 작성
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
-- [ ] `현대오토에버` - portfolio 디자인 
+## `Saturday Feb 01` -> `0h 0m` -> `0h 0m` -> `0h 0m` -> `2h 52m` -> `10h 33m`
+- [x] `현대오토에버` - portfolio zipbob, 이나 지원서류 등 자잘한 부분 추가 -> `2h 53m`
+- [x] `현대오토에버` - 자기소개서 작성 - 1번 문항 -> `7h 40m`
+
+
+## `Sunday Feb 02` -> `0h 0m` -> `2h 32m` -> `1h 0m` -> `5h 48m` -> `8h 30m`
+- [x] `현대오토에버` - 자기소개서 작성 - 2번 문항 -> `3h 44m + 1h 46m`
+- [x] `현대오토에버` - portfolio 맞춤법 검사 돌리기 -> `44m`
+- [x] `Konkuk` 졸업유예 - `2월 1일 ~ 2월 4일`
+- [ ] `현대오토에버` - portfolio 디자인 -> `2h 16m`
 - [ ] `현대오토에버` - portfolio TODO List 포함한 자기소개나 이력서 작성
 - [ ] `현대오토에버` - github 정리
-
-
-## `Sunday Feb 02` -> `0h 0m` -> `2h 32m` -> `1h 0m` -> `5h 48m` ->
-- [ ] `Konkuk` 졸업유예 - `2월 1일 ~ 2월 4일`
+- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
 - [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14
 - [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
 
