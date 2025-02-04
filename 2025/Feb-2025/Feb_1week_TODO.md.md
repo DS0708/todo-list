@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Jan_1week|`5h m`|``|
+|Jan_1week|`10h 42m`|``|
 |Jan_2week|||
 |Jan_3week|||
 |Jan_4week|||
@@ -29,19 +29,22 @@
 - [x] `현대오토에버` - github 정리 -> `2h`
 
 
-## `Tuesday Feb 03` -> `h m`
+## `Tuesday Feb 03` -> `5h 42m`
 - [x] `현대오토에버` - portfolio 디자인 -> `2h 22m`
 - [x] Week Planning -> `12m`
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5 코딩
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14
-- [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5 코딩 -> `22m`
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10 -> `36m + 38m`
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14 -> `38m`
+- [x] 취업 준비 -> `17m`
+- [x] `inflearn-java` merge sort -> `37m`
 
 
 ## `Wednesday Feb 04` -> 
+- [ ] `inflearn-java` quick sort
 - [ ] `inflearn-java` DFS, BFS 활용 : 1~5
 - [ ] `inflearn-java` DFS, BFS 활용 : 6~10
 - [ ] `inflearn-java` DFS, BFS 활용 : 11~15
+- [ ] `inflearn-java` radix sort
 
  
 ## `Thursday Feb 05` -> 
@@ -69,9 +72,9 @@
 
 
 ## `Algorithm`
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5 코딩
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
-- [ ] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5 코딩
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
+- [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14
 - [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
 - [ ] `inflearn-java` DFS, BFS 활용 : 1~5
 - [ ] `inflearn-java` DFS, BFS 활용 : 6~10
@@ -83,8 +86,10 @@
 
 ## `etc.`
 - [x] Week Planning
-- [ ] 취업 계획
+- [ ] 국취제 교육
+- [ ] 취업 준비
 - [ ] `하이패스 미납요금내기`
+- [ ] 국취제 `2월 20일 목요일 오전 11시 방문`
 - [ ] 독서 
 
 
