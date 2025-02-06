@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Jan_1week|`15h 25m`|`C`|
+|Jan_1week|`22h 34m`|`C+`|
 |Jan_2week|||
 |Jan_3week|||
 |Jan_4week|||
@@ -45,17 +45,17 @@
 - [x] `inflearn-java` DFS, BFS 활용 : 1~6 -> `1h 48m + 26m`
 
  
-## `Thursday Feb 05` -> 
+## `Thursday Feb 05` -> `7h 9m`
 - [x] `개발 관련 동영상 시청` -> `46m`
-- [ ] `inflearn-java` DFS, BFS 활용 : 7~10
-- [ ] `inflearn-java` DFS, BFS 활용 : 11~15
-- [ ] `inflearn-java` Greedy Algorithm : 1~4
-- [ ] `inflearn-java` Greedy Algorithm : 5~8
-- [ ] `inflearn-java` DP : 1~6
+- [x] `inflearn-java` DFS, BFS 활용 : 7~10 -> `1h 14m`
+- [x] `inflearn-java` DFS, BFS 활용 : 11~15 -> `1h 9m + 24m + 19m`
+- [x] `inflearn-java` Greedy Algorithm : 1~4 -> `1h 27m`
+- [x] `inflearn-java` Greedy Algorithm : 5~8 -> `1h 50m`
 
 
 ## `Friday Feb 06` -> 
-- [ ] `inflearn-java` radix sort
+- [ ] `inflearn-java` DP : 1~6
+- [ ] `현대오토에버` 코딩 테스트 준비
 
 
 ## `Saturday Feb 07` -> 
