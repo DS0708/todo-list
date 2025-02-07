@@ -54,8 +54,9 @@
 
 
 ## `Friday Feb 06` -> 
-- [ ] `inflearn-java` DP : 1~6
-- [ ] `현대오토에버` 코딩 테스트 준비
+- [x] `inflearn-java` DP : 1~4 -> `1h 13m`
+- [x] `inflearn-java` DP : 5~6 -> `40m`
+- [x] `현대오토에버` 코딩 테스트 준비 -> `1h + `
 
 
 ## `Saturday Feb 07` -> 
@@ -69,20 +70,20 @@
 ---
 ---
 ## `Searching Job`
-- [ ] `현대오토에버` - portfolio
+- [x] `현대오토에버` - portfolio
 
 
 ## `Algorithm`
 - [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 1~5 코딩
 - [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 6~10
 - [x] `inflearn-java` Recursive, Tree, Graph(DFS, BFS 기초) : 11~14
-- [ ] `inflearn-java` Sorting and Searching : quick sort, merge sort
-- [ ] `inflearn-java` DFS, BFS 활용 : 1~5
-- [ ] `inflearn-java` DFS, BFS 활용 : 6~10
-- [ ] `inflearn-java` DFS, BFS 활용 : 11~15
-- [ ] `inflearn-java` Greedy Algorithm : 1~4
-- [ ] `inflearn-java` Greedy Algorithm : 5~8
-- [ ] `inflearn-java` DP : 1~6
+- [x] `inflearn-java` Sorting and Searching : quick sort, merge sort
+- [x] `inflearn-java` DFS, BFS 활용 : 1~5
+- [x] `inflearn-java` DFS, BFS 활용 : 6~10
+- [x] `inflearn-java` DFS, BFS 활용 : 11~15
+- [x] `inflearn-java` Greedy Algorithm : 1~4
+- [x] `inflearn-java` Greedy Algorithm : 5~8
+- [x] `inflearn-java` DP : 1~6
 
 
 ## `etc.`
