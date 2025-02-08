@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Jan_1week|`22h 34m`|`C+`|
+|Jan_1week|`33h 27m`|`B+`|
 |Jan_2week|||
 |Jan_3week|||
 |Jan_4week|||
@@ -53,14 +53,14 @@
 - [x] `inflearn-java` Greedy Algorithm : 5~8 -> `1h 50m`
 
 
-## `Friday Feb 06` -> 
+## `Friday Feb 06` -> `5h 53m`
 - [x] `inflearn-java` DP : 1~4 -> `1h 13m`
 - [x] `inflearn-java` DP : 5~6 -> `40m`
-- [x] `현대오토에버` 코딩 테스트 준비 -> `1h + `
+- [x] `현대오토에버` 코딩 테스트 준비 -> `4h`
 
 
-## `Saturday Feb 07` -> 
-- [ ] `현대오토에버` 코딩 테스트
+## `Saturday Feb 07` -> `5h`
+- [x] `현대오토에버` 코딩 테스트 & 인성검사 -> `5h`
 
 
 ## `Sunday Feb 08` -> 
