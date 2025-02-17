@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Jan_1week|33h 27m|`B+`|
 |Jan_2week|7h 6m|`F`|
-|Jan_3week|`h m`||
+|Jan_3week|`6h 10m`||
 |Jan_4week|||
 
 
@@ -24,20 +24,18 @@
 ---
 ---
 
-## `Monday Feb 17` -> `5h` -> `0h` -> 
-- [x] `개발 관련 동영상 시청` -> `20m`
+## `Monday Feb 17` -> `5h` -> `0h` -> `6h 10m`
+- [x] `개발 관련 동영상 시청` -> `52m + 32m = 1h 24m`
 - [x] Week Planning -> `19m`
-- [ ] `알고리즘 문제해결전략` - 6. 무식하게 풀기
-- [ ] `Clean Architecture` - 3장
-- [ ] `Clean Architecture` - 4장
-- [ ] `Cloud Native Spring in Action` - Chapter01
-- [ ] `블로그 읽기` - 1. 자바
+- [x] 현대오토에버 코딩테스트 복기 - 2번 -> `38m + 1h 41m = 2h 19m`
+- [x] `Clean Architecture` - 3, 4, 5, 6장 -> `17m + 35m + 22m = 1h 14m`
+- [x] `블로그 읽기` - 1. 자바 -> `54m`
 
 
 ## `Tuesday Feb 18` -> `5h 42m` -> `0h 20m` ->
+- [ ] 현대오토에버 코딩테스트 복기 - 1번
 - [ ] `알고리즘 문제해결전략` - 6. 무식하게 풀기
-- [ ] `Clean Architecture` - 5장
-- [ ] `Clean Architecture` - 6장
+- [ ] `Cloud Native Spring in Action` - Chapter01
 - [ ] `Cloud Native Spring in Action` - Chapter02
 - [ ] `블로그 읽기` - 2. DB
 
