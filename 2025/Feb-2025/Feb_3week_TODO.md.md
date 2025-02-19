@@ -40,8 +40,8 @@
 
 
 ## `Wednesday Feb 19` ->  `4h 43m` -> `0h` ->
-- [ ] `Cloud Native Spring in Action` - Chapter01
-- [ ] `알고리즘 문제해결전략` - 6. 무식하게 풀기
+- [x] `Cloud Native Spring in Action` - Chapter01 -> `47m`
+- [x] `알고리즘 문제해결전략` - 6. 무식하게 풀기 -> `1h 10m + 49m + 47m + 1h 11m = 3h 57m`
 - [ ] 국취제 교육, 학습지 작성
 - [ ] `Cloud Native Spring in Action` - Chapter02
 - [ ] `Cloud Native Spring in Action` - Chapter03
@@ -84,7 +84,7 @@
 ## `Algorithm`
 - [x] 현대오토에버 코딩테스트 복기 - 1번
 - [x] 현대오토에버 코딩테스트 복기 - 2번
-- [ ] `알고리즘 문제해결전략` - 6. 무식하게 풀기
+- [x] `알고리즘 문제해결전략` - 6. 무식하게 풀기 -> `5h 31m`
 - [ ] `알고리즘 문제해결전략` - 7. 분할 정복
 - [ ] `알고리즘 문제해결전략` - 8. 동적 계획법
 - [ ] `알고리즘 문제해결전략` - 9. 동적 계획법 테크닉
@@ -95,10 +95,10 @@
 
 
 ## `Clean Architecture`
-- [ ] `Clean Architecture` - 3장
-- [ ] `Clean Architecture` - 4장
-- [ ] `Clean Architecture` - 5장
-- [ ] `Clean Architecture` - 6장
+- [x] `Clean Architecture` - 3장
+- [x] `Clean Architecture` - 4장
+- [x] `Clean Architecture` - 5장
+- [x] `Clean Architecture` - 6장
 - [ ] `Clean Architecture` - 7장
 - [ ] `Clean Architecture` - 8장
 - [ ] `Clean Architecture` - 9장
@@ -108,7 +108,7 @@
 
 
 ## `Cloud Native Spring in Action`
-- [ ] `Cloud Native Spring in Action` - Chapter01
+- [x] `Cloud Native Spring in Action` - Chapter01
 - [ ] `Cloud Native Spring in Action` - Chapter02
 - [ ] `Cloud Native Spring in Action` - Chapter03
 - [ ] `Cloud Native Spring in Action` - Chapter04
@@ -116,7 +116,7 @@
 
 
 ## `기술 면접 준비`
-- [ ] `블로그 읽기` - 1. 자바
+- [x] `블로그 읽기` - 1. 자바
 - [ ] `블로그 읽기` - 2. DB
 - [ ] `블로그 읽기` - 3. 자료구조
 - [ ] `블로그 읽기` - 4. 알고리즘
@@ -128,7 +128,7 @@
 
 ## `etc.`
 - [x] Week Planning
-- [ ] `개발 관련 동영상 시청`
+- [x] `개발 관련 동영상 시청`
 - [ ] 국취제 교육, 학습지 작성
 - [ ] 국취제 `2월 20일 목요일 오전 11시 방문`
 - [ ] 독서 
