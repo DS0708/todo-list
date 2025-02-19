@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Jan_1week|33h 27m|`B+`|
 |Jan_2week|7h 6m|`F`|
-|Jan_3week|`13h 17m`||
+|Jan_3week|`19h 28m`|`C+`|
 |Jan_4week|||
 
 
@@ -39,21 +39,22 @@
 - [x] `Cloud Native Spring in Action` - Chapter01 -> `44m + 38m + 46m + 27m + 29m = 3h 4m`
 
 
-## `Wednesday Feb 19` ->  `4h 43m` -> `0h` ->
+## `Wednesday Feb 19` ->  `4h 43m` -> `0h` -> `6h 11m`
 - [x] `Cloud Native Spring in Action` - Chapter01 -> `47m`
 - [x] `알고리즘 문제해결전략` - 6. 무식하게 풀기 -> `1h 10m + 49m + 47m + 1h 11m = 3h 57m`
-- [ ] 국취제 교육, 학습지 작성
-- [ ] `Cloud Native Spring in Action` - Chapter02
-- [ ] `Cloud Native Spring in Action` - Chapter03
-- [ ] `블로그 읽기` - 2. DB
-- [ ] `블로그 읽기` - 3. 자료구조
+- [x] 국취제 교육, 학습지 작성 -> `29m`
+- [x] `블로그 읽기` - 2. DB -> `32m`
+- [x] `블로그 읽기` - 3. 자료구조 -> `11m`
+- [x] `Cloud Native Spring in Action` - Chapter02 -> `15m`
 
  
 ## `Thursday Feb 20` -> `7h 9m` -> `0h` ->
 - [ ] 국취제 `2월 20일 목요일 오전 11시 방문`
 - [ ] `알고리즘 문제해결전략` - 7. 분할 정복
-- [ ] `Clean Architecture` - 7, 8, 9, 10 장
+- [ ] `Cloud Native Spring in Action` - Chapter02
+- [ ] `Cloud Native Spring in Action` - Chapter03
 - [ ] `Cloud Native Spring in Action` - Chapter04
+- [ ] `Clean Architecture` - 7, 8, 9, 10 장
 - [ ] `블로그 읽기` - 4. 알고리즘
 
 
@@ -70,6 +71,7 @@
 
 
 ## `Sunday Feb 23` -> `0h` -> `0h` ->
+- [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
 - [ ] `블로그 읽기` - 7. 백엔드
 - [ ] `블로그 읽기` - 8. 프로그래밍 공통/기타
 
@@ -86,6 +88,7 @@
 - [x] 현대오토에버 코딩테스트 복기 - 2번
 - [x] `알고리즘 문제해결전략` - 6. 무식하게 풀기 -> `5h 31m`
 - [ ] `알고리즘 문제해결전략` - 7. 분할 정복
+
 - [ ] `알고리즘 문제해결전략` - 8. 동적 계획법
 - [ ] `알고리즘 문제해결전략` - 9. 동적 계획법 테크닉
 - [ ] `알고리즘 문제해결전략` - 10. 탐욕법
@@ -117,8 +120,8 @@
 
 ## `기술 면접 준비`
 - [x] `블로그 읽기` - 1. 자바
-- [ ] `블로그 읽기` - 2. DB
-- [ ] `블로그 읽기` - 3. 자료구조
+- [x] `블로그 읽기` - 2. DB
+- [x] `블로그 읽기` - 3. 자료구조
 - [ ] `블로그 읽기` - 4. 알고리즘
 - [ ] `블로그 읽기` - 5. 네트워크
 - [ ] `블로그 읽기` - 6. OS
@@ -129,8 +132,9 @@
 ## `etc.`
 - [x] Week Planning
 - [x] `개발 관련 동영상 시청`
-- [ ] 국취제 교육, 학습지 작성
+- [x] 국취제 교육, 학습지 작성
 - [ ] 국취제 `2월 20일 목요일 오전 11시 방문`
+- [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
 - [ ] 독서 
 
 
