@@ -49,9 +49,9 @@
 
  
 ## `Thursday Feb 20` -> `7h 9m` -> `0h` ->
-- [ ] 국취제 `2월 20일 목요일 오전 11시 방문`
+- [x] `Cloud Native Spring in Action` - Chapter02 -> `2h 43m`
+- [x] 국취제 `2월 20일 목요일 오전 11시 방문` -> `20m`
 - [ ] `알고리즘 문제해결전략` - 7. 분할 정복
-- [ ] `Cloud Native Spring in Action` - Chapter02
 - [ ] `Cloud Native Spring in Action` - Chapter03
 - [ ] `Cloud Native Spring in Action` - Chapter04
 - [ ] `Clean Architecture` - 7, 8, 9, 10 장
@@ -84,8 +84,8 @@
 
 
 ## `Algorithm`
-- [x] 현대오토에버 코딩테스트 복기 - 1번
-- [x] 현대오토에버 코딩테스트 복기 - 2번
+- [x] 현대오토에버 코딩테스트 복기 - 1번 -> `3h 1m`
+- [x] 현대오토에버 코딩테스트 복기 - 2번 -> `1h 47m`
 - [x] `알고리즘 문제해결전략` - 6. 무식하게 풀기 -> `5h 31m`
 - [ ] `알고리즘 문제해결전략` - 7. 분할 정복
 
@@ -98,21 +98,14 @@
 
 
 ## `Clean Architecture`
-- [x] `Clean Architecture` - 3장
-- [x] `Clean Architecture` - 4장
-- [x] `Clean Architecture` - 5장
-- [x] `Clean Architecture` - 6장
-- [ ] `Clean Architecture` - 7장
-- [ ] `Clean Architecture` - 8장
-- [ ] `Clean Architecture` - 9장
-- [ ] `Clean Architecture` - 10장
-- [ ] `Clean Architecture` - 11장
-- [ ] `Clean Architecture` - 12장
+- [x] `Clean Architecture` - 3, 4, 5, 6장 -> `1h 14m`
+- [ ] `Clean Architecture` - 7, 8, 9, 10 장
+- [ ] `Clean Architecture` - 11, 12장
 
 
 ## `Cloud Native Spring in Action`
-- [x] `Cloud Native Spring in Action` - Chapter01
-- [ ] `Cloud Native Spring in Action` - Chapter02
+- [x] `Cloud Native Spring in Action` - Chapter01 -> `3h 51m`
+- [x] `Cloud Native Spring in Action` - Chapter02 -> `2h 58m`
 - [ ] `Cloud Native Spring in Action` - Chapter03
 - [ ] `Cloud Native Spring in Action` - Chapter04
 - [ ] `Cloud Native Spring in Action` - Chapter05
@@ -133,7 +126,7 @@
 - [x] Week Planning
 - [x] `개발 관련 동영상 시청`
 - [x] 국취제 교육, 학습지 작성
-- [ ] 국취제 `2월 20일 목요일 오전 11시 방문`
+- [x] 국취제 `2월 20일 목요일 오전 11시 방문`
 - [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
 - [ ] 독서 
 
