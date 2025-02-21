@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|
 |Jan_1week|33h 27m|`B+`|
 |Jan_2week|7h 6m|`F`|
-|Jan_3week|`19h 28m`|`C+`|
+|Jan_3week|`29h 57m`|`B`|
 |Jan_4week|||
 
 
@@ -48,78 +48,66 @@
 - [x] `Cloud Native Spring in Action` - Chapter02 -> `15m`
 
  
-## `Thursday Feb 20` -> `7h 9m` -> `0h` ->
+## `Thursday Feb 20` -> `7h 9m` -> `0h` -> `5h 20m`
 - [x] `Cloud Native Spring in Action` - Chapter02 -> `2h 43m`
 - [x] 국취제 `2월 20일 목요일 오전 11시 방문` -> `20m`
-- [ ] `알고리즘 문제해결전략` - 7. 분할 정복
-- [ ] `Cloud Native Spring in Action` - Chapter03
-- [ ] `Cloud Native Spring in Action` - Chapter04
-- [ ] `Clean Architecture` - 7, 8, 9, 10 장
-- [ ] `블로그 읽기` - 4. 알고리즘
+- [x] `알고리즘 문제해결전략` - 7. 분할 정복 -> `1h 5m + 1h 12 = 2h 17m`
 
 
-## `Friday Feb 21` -> `5h 53m` -> `4h 6m` ->
-- [ ] `알고리즘 문제해결전략` - 7. 분할 정복
-- [ ] `Clean Architecture` - 11장
-- [ ] `Clean Architecture` - 12장
-- [ ] `Cloud Native Spring in Action` - Chapter05
-- [ ] `블로그 읽기` - 5. 네트워크
+## `Friday Feb 21` -> `5h 53m` -> `4h 6m` -> `5h 9m`
+- [x] `알고리즘 문제해결전략` - 6,7 복습 -> `2h 10m`
+- [x] `블로그 읽기` - 4. 알고리즘 -> `23m`
+- [x] `블로그 읽기` - 5. 네트워크 -> `15m`
+- [x] `블로그 읽기` - 6. OS -> `15m`
+- [x] `블로그 읽기` - 7. 백엔드 -> `50m`
+- [x] `블로그 읽기` - 8. 프로그래밍 공통/기타 -> `28m`
+- [x] `Cloud Native Spring in Action` - Chapter03 -> `48m`
 
 
 ## `Saturday Feb 22` -> `5h` -> `2h 40m` ->
-- [ ] `블로그 읽기` - 6. OS
-
+- [ ] `Cloud Native Spring in Action` - Chapter04
+- [ ] `Cloud Native Spring in Action` - Chapter05
 
 ## `Sunday Feb 23` -> `0h` -> `0h` ->
 - [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
-- [ ] `블로그 읽기` - 7. 백엔드
-- [ ] `블로그 읽기` - 8. 프로그래밍 공통/기타
 
 
 
 ---
 ---
-## `Searching Job`
-- [ ] 일자리 검색
-
-
-## `Algorithm`
+## `Algorithm` -> `14h 46m`
 - [x] 현대오토에버 코딩테스트 복기 - 1번 -> `3h 1m`
 - [x] 현대오토에버 코딩테스트 복기 - 2번 -> `1h 47m`
 - [x] `알고리즘 문제해결전략` - 6. 무식하게 풀기 -> `5h 31m`
-- [ ] `알고리즘 문제해결전략` - 7. 분할 정복
+- [x] `알고리즘 문제해결전략` - 7. 분할 정복 -> `2h 17m`
+- [x] `알고리즘 문제해결전략` - 6,7 복습 -> `2h 10m`
 
 - [ ] `알고리즘 문제해결전략` - 8. 동적 계획법
 - [ ] `알고리즘 문제해결전략` - 9. 동적 계획법 테크닉
 - [ ] `알고리즘 문제해결전략` - 10. 탐욕법
-- [ ] `알고리즘 문제해결전략` - 11. 조합 탐색
-- [ ] `알고리즘 문제해결전략` - 12. 최적화 문제 결정 문제로 바꿔 풀기
-- [ ] 현대오토에버 코딩테스트 복기 - 1번, 비트마스크 DP로 풀어보기
 
 
-## `Clean Architecture`
-- [x] `Clean Architecture` - 3, 4, 5, 6장 -> `1h 14m`
-- [ ] `Clean Architecture` - 7, 8, 9, 10 장
-- [ ] `Clean Architecture` - 11, 12장
+## `기술 면접 준비` -> `3h 48m`
+- [x] `블로그 읽기` - 1. 자바 -> `54m`
+- [x] `블로그 읽기` - 2. DB -> `32m`
+- [x] `블로그 읽기` - 3. 자료구조 -> `11m`
+- [x] `블로그 읽기` - 4. 알고리즘 -> `23m`
+- [x] `블로그 읽기` - 5. 네트워크 -> `15m`
+- [x] `블로그 읽기` - 6. OS -> `15m`
+- [x] `블로그 읽기` - 7. 백엔드 -> `50m`
+- [x] `블로그 읽기` - 8. 프로그래밍 공통/기타 -> `28m`
 
 
-## `Cloud Native Spring in Action`
+## `Cloud Native Spring in Action` -> `6h 49m`
 - [x] `Cloud Native Spring in Action` - Chapter01 -> `3h 51m`
 - [x] `Cloud Native Spring in Action` - Chapter02 -> `2h 58m`
-- [ ] `Cloud Native Spring in Action` - Chapter03
+- [ ] `Cloud Native Spring in Action` - Chapter03 -> `48m + `
 - [ ] `Cloud Native Spring in Action` - Chapter04
 - [ ] `Cloud Native Spring in Action` - Chapter05
 
 
-## `기술 면접 준비`
-- [x] `블로그 읽기` - 1. 자바
-- [x] `블로그 읽기` - 2. DB
-- [x] `블로그 읽기` - 3. 자료구조
-- [ ] `블로그 읽기` - 4. 알고리즘
-- [ ] `블로그 읽기` - 5. 네트워크
-- [ ] `블로그 읽기` - 6. OS
-- [ ] `블로그 읽기` - 7. 백엔드
-- [ ] `블로그 읽기` - 8. 프로그래밍 공통/기타
+## `Clean Architecture` -> `1h 14m`
+- [x] `Clean Architecture` - 3, 4, 5, 6장 -> `1h 14m`
 
 
 ## `etc.`
@@ -128,21 +116,6 @@
 - [x] 국취제 교육, 학습지 작성
 - [x] 국취제 `2월 20일 목요일 오전 11시 방문`
 - [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
-- [ ] 독서 
-
-
-
-<!-- ## `Spring`
-- [ ] `Cloud Native Spring In Action` -->
-
-
-<!-- 
-## `Java`
-## `OPIc`
-## `토익` 
--->
-
-
-
+- [ ] 일자리 검색
 
 
