@@ -1,11 +1,11 @@
-# TO Do List - 2025_Feb_2week_TODO
+# TO Do List - 2025_Feb_3week_TODO
 
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Jan_1week|33h 27m|`B+`|
 |Jan_2week|7h 6m|`F`|
-|Jan_3week|`29h 57m`|`B`|
+|Jan_3week|`30h 1m`|`B+`|
 |Jan_4week|||
 
 
@@ -64,12 +64,12 @@
 - [x] `Cloud Native Spring in Action` - Chapter03 -> `48m`
 
 
-## `Saturday Feb 22` -> `5h` -> `2h 40m` ->
+## `Saturday Feb 22` -> `5h` -> `2h 40m` -> `0h`
 - [ ] `Cloud Native Spring in Action` - Chapter04
 - [ ] `Cloud Native Spring in Action` - Chapter05
 
-## `Sunday Feb 23` -> `0h` -> `0h` ->
-- [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
+## `Sunday Feb 23` -> `0h` -> `0h` -> `4m`
+- [x] `국취제` - 2월 23일 제출되었는지 확인하기 -> 4m
 
 
 
@@ -115,7 +115,7 @@
 - [x] `개발 관련 동영상 시청`
 - [x] 국취제 교육, 학습지 작성
 - [x] 국취제 `2월 20일 목요일 오전 11시 방문`
-- [ ] `국취제` - 2월 23일 제출되었는지 확인하기 
+- [x] `국취제` - 2월 23일 제출되었는지 확인하기 
 - [ ] 일자리 검색
 
 
