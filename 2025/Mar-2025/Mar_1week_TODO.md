@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Mar_1week|`h 20m`|``|
+|Mar_1week|`4h 31m`|``|
 |Mar_2week||``|
 |Mar_3week||``|
 |Mar_4week||``|
@@ -32,8 +32,9 @@
 - [x] 일자리 검색 -> `20m`
 
 
-## `Wednesday Mar 05` ->  ``
-- [ ] `알고리즘 문제해결전략` - 8. 동적 계획법
+## `Wednesday Mar 05` ->  `4h 11m`
+- [x] `알고리즘 문제해결전략` - 8. 동적 계획법 -> `3h 53m`
+- [x] `Cloud Native Spring in Action` - Chapter03 -> `18m`
 
 
 ## `Thursday Mar 06` -> 
@@ -55,7 +56,7 @@
 
 ---
 ---
-## `Algorithm` -> `h m`
+## `Algorithm` -> `3h 53m`
 - [ ] `알고리즘 문제해결전략` - 8. 동적 계획법
 
 
