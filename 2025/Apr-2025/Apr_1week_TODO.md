@@ -33,38 +33,33 @@
 - [x] `프로그래머스` - 완전탐색 - 최소직사각형 -> `23m`
 
 
-## `Tuesday Apr 01` -> 
+## `Tuesday Apr 01` -> `3h 49m`
 - [x] Week Planning -> `1h 3m`
-- [ ] `프로그래머스` - 완전탐색
-- [ ] `프로그래머스` - SQL
-- [ ] `Interview - Tech` - Programming - Java
-- [ ] `Interview - Tech` - Programming - Spring
-- [ ] `Interview - Tech` - Programming - Base
-- [ ] `Interview - Project` - Todayfin
-- [ ] `Interview - Company` - Does Interactive
-- [ ] `지원서 작성` - 아모레퍼시픽
+- [x] `프로그래머스` - 완전탐색 - 최소직사각형 -> `1h`
+- [x] `프로그래머스` - SQL -> `44m`
+- [x] `Interview - Project` - Zipbob -> `1h 2m`
 
 
 ## `Wednesday Apr 02` -> 
-- [ ] `더즈인터랙티브` - 면접 - `4월 2일 수 오후 2시`
-- [ ] `지원서 작성` - CJ
+- [x] `Interview - Project` - Zipbob -> `2h 44m`
+- [x] `Interview - Company` - Does Interactive -> `1h`
+- [x] `더즈인터랙티브` - 면접 - `4월 2일 수 오후 2시` -> `1h`
+- [ ] `지원서 작성` - CJ -> `27m + `
 - [ ] `프로그래머스` - DFS/BFS
 - [ ] `프로그래머스` - SQL
-- [ ] `Interview - Tech` - CS - Network
-- [ ] `현대 인적성` 
 
 
 ## `Thursday Apr 03` -> 
 - [ ] `프로그래머스` - Greedy
 - [ ] `프로그래머스` - SQL
-- [ ] `Interview - Tech` - CS - DB
+- [ ] `Interview - Tech` - CS - Network
 - [ ] `현대 인적성` 
 
 
 ## `Friday Apr 04` -> 
 - [ ] `프로그래머스` - Stack/Queue
 - [ ] `프로그래머스` - SQL
-- [ ] `Interview - Tech` - CS - OS
+- [ ] `Interview - Tech` - CS - DB
 - [ ] `현대 인적성` 
 
 
@@ -83,18 +78,18 @@
 - [x] `지원서 검토 후 제출` -> `1h 8m`
 - [x] `지원서 작성` - 코스맥스 -> `1h 37m`
 
-- [ ] `지원서 작성` - 아모레퍼시픽 (4월 2일)
 - [ ] `지원서 작성` - CJ (4월 3일)
 
 - [ ] `지원서 작성` - 한화생명 (4월 14일)
 - [ ] `지원서 작성` - 토스 (4월 20일)
 
 - [ ] `더즈인터랙티브` - 면접 - `4월 2일 수 오후 2시`
+- [ ] `캐스트이즈` - 면접 - `4월 4일 금 오후 2시`
 - [ ] `현대종합금속` - 면접 - `4월 14일 월 오후 1시 ~ 오후 3시`
 
 
 ## `Test` -> 
-- [ ] `프로그래머스` - 완전탐색
+- [ ] `프로그래머스` - 완전탐색 -> `1h + ` = `h m`
 - [ ] `프로그래머스` - DFS/BFS
 - [ ] `프로그래머스` - Greedy
 - [ ] `프로그래머스` - Stack/Queue
@@ -106,8 +101,8 @@
 ## `Interview` -> 
 - [ ] `Interview - Tech` - CS - DB
 - [ ] `Interview - Tech` - CS - OS
-- [ ] `Interview - Tech` - CS - Algo&DS
 - [ ] `Interview - Tech` - CS - Network
+- [ ] `Interview - Tech` - CS - Algo&DS
 - [ ] `Interview - Tech` - Programming - Java
 - [ ] `Interview - Tech` - Programming - Spring
 - [ ] `Interview - Tech` - Programming - Base
@@ -115,7 +110,7 @@
 - [ ] `Interview - Company` - Hyundai Welding
 - [ ] `Interview - Company` - Does Interactive
 
-- [ ] `Interview - Project` - Zipbob
+- [x] `Interview - Project` - Zipbob -> `1h 2m + 2h 44m` = `3h 46m`
 - [ ] `Interview - Project` - AI
 - [ ] `Interview - Project` - Todayfin
 - [ ] `Interview - Project` - Hackaton
