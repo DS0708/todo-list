@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Apr_1week|`4h 57m`|``|
+|Apr_1week|`11h 4m`|``|
 |Apr_2week|||
 |Apr_3week|||
 |Apr_4week|||
@@ -40,16 +40,16 @@
 - [x] `Interview - Project` - Zipbob -> `1h 2m`
 
 
-## `Wednesday Apr 02` -> 
+## `Wednesday Apr 02` -> `6h 7m`
 - [x] `Interview - Project` - Zipbob -> `2h 44m`
 - [x] `Interview - Company` - Does Interactive -> `1h`
 - [x] `더즈인터랙티브` - 면접 - `4월 2일 수 오후 2시` -> `1h`
-- [ ] `지원서 작성` - CJ -> `27m + `
-- [ ] `프로그래머스` - DFS/BFS
-- [ ] `프로그래머스` - SQL
+- [x] `지원서 작성` - CJ -> `1h 23m + `
 
 
 ## `Thursday Apr 03` -> 
+- [x] `지원서 작성` - CJ -> `4h 42m`
+- [ ] `프로그래머스` - DFS/BFS
 - [ ] `프로그래머스` - Greedy
 - [ ] `프로그래머스` - SQL
 - [ ] `Interview - Tech` - CS - Network
@@ -78,12 +78,12 @@
 - [x] `지원서 검토 후 제출` -> `1h 8m`
 - [x] `지원서 작성` - 코스맥스 -> `1h 37m`
 
-- [ ] `지원서 작성` - CJ (4월 3일)
+- [x] `지원서 작성` - CJ -> `1h 23m + 4h 42m` = `6h 5m`
 
 - [ ] `지원서 작성` - 한화생명 (4월 14일)
 - [ ] `지원서 작성` - 토스 (4월 20일)
 
-- [ ] `더즈인터랙티브` - 면접 - `4월 2일 수 오후 2시`
+- [x] `더즈인터랙티브` - 면접 - `4월 2일 수 오후 2시` -> `1h`
 - [ ] `캐스트이즈` - 면접 - `4월 4일 금 오후 2시`
 - [ ] `현대종합금속` - 면접 - `4월 14일 월 오후 1시 ~ 오후 3시`
 
@@ -108,7 +108,7 @@
 - [ ] `Interview - Tech` - Programming - Base
 
 - [ ] `Interview - Company` - Hyundai Welding
-- [ ] `Interview - Company` - Does Interactive
+- [x] `Interview - Company` - Does Interactive -> `1h`
 
 - [x] `Interview - Project` - Zipbob -> `1h 2m + 2h 44m` = `3h 46m`
 - [ ] `Interview - Project` - AI
