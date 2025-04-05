@@ -3,7 +3,7 @@
 ## Progress
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
-|Apr_1week|`19h 35m`|`C+`|
+|Apr_1week|`23h 35m`|`C+`|
 |Apr_2week|||
 |Apr_3week|||
 |Apr_4week|||
@@ -51,12 +51,11 @@
 - [x] `지원서 작성` - CJ -> `4h 42m`
 
 
-## `Friday Apr 04` -> 
+## `Friday Apr 04` -> `4h`
 - [x] 채용공고 확인 -> `24m`
 - [x] `프로그래머스` - DFS/BFS -> `41m`
 - [x] `프로그래머스` - SQL -> `50m`
 - [x] `캐스트이즈` - 면접 - `4월 4일 금 오후 2시` -> `2h 5m`
-- [ ] `Interview - Tech` - CS - DB
 
 
 ## `Saturday Apr 05` -> 
