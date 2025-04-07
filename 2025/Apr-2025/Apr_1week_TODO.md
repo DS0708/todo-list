@@ -67,7 +67,7 @@
 
 ---
 ---
-## `Employment` -> 
+## `Employment` -> `12h 37m`
 - [x] 채용공고 확인 -> `18m + 24m` = `42m`
 - [x] 면접 취소하기
 - [x] `지원서 검토 후 제출` -> `1h 8m`
@@ -83,17 +83,17 @@
 - [ ] `현대종합금속` - 면접 - `4월 14일 월 오후 1시 ~ 오후 3시`
 
 
-## `Test` -> 
+## `Test` -> `4h 13m`
 - [x] `프로그래머스` - 완전탐색 -> `1h`
 - [x] `프로그래머스` - DFS/BFS -> `41m`
 - [x] `프로그래머스` - Greedy -> `56m`
+- [x] `프로그래머스` - SQL -> `44m + 50m + 2m + ` = `1h 36m`
 - [ ] `프로그래머스` - Stack/Queue
-- [ ] `프로그래머스` - SQL -> `44m + 50m + 2m + ` = `h m`
 - [ ] `현대 인적성` 
 - [ ] `알고리즘 문제해결전략`
 
 
-## `Interview` -> 
+## `Interview` -> `4h 46m`
 - [ ] `Interview - Tech` - CS - DB
 - [ ] `Interview - Tech` - CS - OS
 - [ ] `Interview - Tech` - CS - Network
