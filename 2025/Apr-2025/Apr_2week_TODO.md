@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|24h 37m|`B`|
-|Apr_2week|`9h 22m`|``|
+|Apr_2week|`13h 48m`|``|
 |Apr_3week|||
 |Apr_4week|||
 
@@ -39,9 +39,10 @@
 
 
 
-## `Wednesday Apr 09` -> `6h 7m` ->
-- [ ] `Interview - Company` - Hyundai Welding
-- [x] `지원서 작성` - 카카오페이 인턴
+## `Wednesday Apr 09` -> `6h 7m` -> `4h 26m`
+- [x] 채용공고 확인 -> `49m + 37m`
+- [x] `Interview - Company` - Hyundai Welding -> `2h 28m`
+- [x] `지원서 작성` - 카카오페이 인턴 -> `32m + `
 
 
 ## `Thursday Apr 10` -> `4h 42m` ->
@@ -85,7 +86,6 @@
 - [ ] `프로그래머스` - DP
 - [ ] `프로그래머스` - 그래프
 - [ ] `프로그래머스` - 이분탐색
-- [ ] `현대 인적성` 
 - [ ] `알고리즘 문제해결전략`
 
  
@@ -104,7 +104,7 @@
 - [ ] `Interview - Project` - Hackaton
 - [ ] `Interview - Project` - CloudWebService
 
-- [ ] `Interview - Company` - Hyundai Welding -> `2h 10m + 4h 35m` = `h m`
+- [ ] `Interview - Company` - Hyundai Welding -> `2h 10m + 4h 35m + 2h 28m` = `h m`
 
 - [ ] `Interview - Character`
 
