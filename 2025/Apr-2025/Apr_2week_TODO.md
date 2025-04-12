@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|24h 37m|`B`|
-|Apr_2week|`13h 48m`|``|
+|Apr_2week|`23h 45m`|`C+`|
 |Apr_3week|||
 |Apr_4week|||
 
@@ -40,23 +40,23 @@
 
 
 ## `Wednesday Apr 09` -> `6h 7m` -> `4h 26m`
-- [x] 채용공고 확인 -> `49m + 37m`
+- [x] 채용공고 확인 -> `1h 26m`
 - [x] `Interview - Company` - Hyundai Welding -> `2h 28m`
-- [x] `지원서 작성` - 카카오페이 인턴 -> `32m + `
+- [x] `지원서 작성` - 카카오페이 인턴 -> `32m`
 
 
-## `Thursday Apr 10` -> `4h 42m` ->
-- [ ] `Interview - Company` - Hyundai Welding
-
-
-
-## `Friday Apr 11` -> `4h` ->
-- [ ] `Interview - Company` - Hyundai Welding
+## `Thursday Apr 10` -> `4h 42m` -> `3h 30m`
+- [x] `Interview - Company` - Hyundai Welding -> `3h 30m`
 
 
 
-## `Saturday Apr 12` -> `1h 2m` ->
+## `Friday Apr 11` -> `4h` -> `1h 8m`
+- [x] `Interview - Company` - Hyundai Welding -> `1h 8m`
 
+
+
+## `Saturday Apr 12` -> `1h 2m` -> `1h 49m`
+- [x] `Interview - Company` - Hyundai Welding -> `1h 49m`
 
 
 ## `Sunday Apr 13` -> `0h` ->
@@ -65,13 +65,13 @@
 ---
 ---
 ## `Employment` -> `12h 37m` -> 
-- [ ] 채용공고 확인 -> `14m + ` = `h m`
+- [ ] 채용공고 확인 -> `14m + 1h 26m + ` = `h m`
 
-- [ ] `지원서 작성` - 카카오페이 인턴 -> `46m + ` = `h m`
-- [ ] `지원서 작성` - 한화생명 (4월 14일)
-- [ ] `지원서 작성` - 토스 (4월 20일)
+- [x] `지원서 작성` - 카카오페이 인턴 -> `46m`
 
 - [ ] `현대종합금속` - 면접 - `4월 14일 월 16시 20분`
+
+- [ ] 정보처리기사 지원하기 - `4월 14일 ~ 4월 17일 ` 
 
 
 ## `Test` -> `4h 13m` -> 
