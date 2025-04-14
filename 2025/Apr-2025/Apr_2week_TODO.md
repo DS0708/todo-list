@@ -4,7 +4,7 @@
 | Week | Hour | Grade |
 |:---:|:---:|:---:|
 |Apr_1week|24h 37m|`B`|
-|Apr_2week|`23h 45m`|`C+`|
+|Apr_2week|`25h 45m`|`B`|
 |Apr_3week|||
 |Apr_4week|||
 
@@ -59,8 +59,8 @@
 - [x] `Interview - Company` - Hyundai Welding -> `1h 49m`
 
 
-## `Sunday Apr 13` -> `0h` ->
-
+## `Sunday Apr 13` -> `0h` -> `2h`
+- [x] `Interview - Company` - Hyundai Welding -> `2h`
 
 ---
 ---
